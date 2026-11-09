@@ -1,0 +1,331 @@
+{
+  "id": "sem2_ath_2022_5",
+  "semester": 2,
+  "subject_code": "ath",
+  "subject_name": "Applied Thermodynamics",
+  "year": "2022",
+  "exam_code": "102401",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2022 Applied Thermodynamics Time: 03 Hours Code: 102401 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Use of steam table and Mollier diagram is allowed."
+  ],
+  "questions": [
+    {
+      "id": "sem2_ath_2022_5_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ath_2022_5_q1_s1",
+          "subNumber": "a",
+          "text": "Considering the same compression ratio and same conditions of air at the start of compression, the peak pressure generated in the cycle will be maximum for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Otto cycle",
+            "Diesel cycle",
+            "dual cycle",
+            "Cannot be determined"
+          ]
+        },
+        {
+          "id": "sem2_ath_2022_5_q1_s2",
+          "subNumber": "b",
+          "text": "The stoichiometric air-fuel ratio of methane \\( (CH_4) \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "17.23",
+            "14.67",
+            "15.14",
+            "16.34"
+          ]
+        },
+        {
+          "id": "sem2_ath_2022_5_q1_s3",
+          "subNumber": "c",
+          "text": "With an increase in compression ratio, the indicated fuel conversion efficiency of Otto cycle",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "increases",
+            "decreases",
+            "first increases then decreases",
+            "first decreases then increases"
+          ]
+        },
+        {
+          "id": "sem2_ath_2022_5_q1_s4",
+          "subNumber": "d",
+          "text": "In an impulse turbine",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the steam is expanded in nozzles only and there is a pressure drop and heat drop",
+            "the steam is expanded both in fixed and moving blades continuously",
+            "the steam is expanded in moving blades only",
+            "the pressure and temperature of steam remains constant"
+          ]
+        },
+        {
+          "id": "sem2_ath_2022_5_q1_s5",
+          "subNumber": "e",
+          "text": "The reheating of steam in a turbine",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "increases the work done through the turbine",
+            "increases the efficiency of the turbine",
+            "reduces wear on the blades",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_ath_2022_5_q1_s6",
+          "subNumber": "f",
+          "text": "In system A vapours are superheated by 10°C in the evaporator while in system B vapours are superheated by 10°C in a liquid vapour regenerative heat exchanger, other conditions being the same. Then",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "COP of A = COP of B",
+            "COP of both A and B &gt; COP of reversed Carnot cycle",
+            "COP of A &gt; COP of B",
+            "COP of A &lt; COP of B"
+          ]
+        },
+        {
+          "id": "sem2_ath_2022_5_q1_s7",
+          "subNumber": "g",
+          "text": "In an ideal vapour compression refrigeration cycle, the enthalpy of the refrigerant at exit from the condenser, compressor and evaporator is 80 kJ/kg, 200 kJ/kg and 180 kJ/kg respectively. The coefficient of performance of the cycle is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "6",
+            "5",
+            "3.5",
+            "2.5"
+          ]
+        },
+        {
+          "id": "sem2_ath_2022_5_q1_s8",
+          "subNumber": "h",
+          "text": "The actual thermal efficiency of a modern gas turbine ranges from",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "20% to 25%",
+            "25% to 30%",
+            "30% to 35%",
+            "35% to 40%"
+          ]
+        },
+        {
+          "id": "sem2_ath_2022_5_q1_s9",
+          "subNumber": "i",
+          "text": "The regenerator in a gas turbine",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "increases thermal efficiency",
+            "decreases heat lost to exhaust",
+            "permits to use higher compression ratio",
+            "increases fuel consumption"
+          ]
+        },
+        {
+          "id": "sem2_ath_2022_5_q1_s10",
+          "subNumber": "j",
+          "text": "The intercooling in multistage compressors is done",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "to cool the air during compression",
+            "to cool the air at delivery",
+            "to enable compression in two stages",
+            "to minimize the work of compression"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_ath_2022_5_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ath_2022_5_q2_s1",
+          "subNumber": "a",
+          "text": "With the help of neat sketch, explain the Orsat's apparatus for exhaust gas analysis.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ath_2022_5_q2_s2",
+          "subNumber": "b",
+          "text": "A certain coal which has an ultimate analysis (by mass) as 84.36% C, 1.89% \\( H_2 \\), 4.40% \\( O_2 \\), 0.63% \\( N_2 \\), 0.89% S and 7.83% ash (non-combustibles) is burned with theoretical amount of air. Disregarding the ash content, determine the mole fractions of the products and apparent molar mass of the product gases. Also, determine the air-fuel ratio required for this combustion process.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ath_2022_5_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ath_2022_5_q3_s1",
+          "subNumber": "a",
+          "text": "With the help of P-V and T-S diagram, derive the expression for air standard efficiency of a Diesel cycle.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ath_2022_5_q3_s2",
+          "subNumber": "b",
+          "text": "A six-cylinder SI engine working on an Otto cycle has a swept volume of 300 cm³ per cylinder. The compression ratio is 10 and the engine running at 3500 r.p.m. develops 75 kW. Determine- (i) the cycle efficiency; (ii) the heat addition; (iii) the mean effective pressure; (iv) the maximum temperature in the cycle. Assume, inlet pressure and temperature as 1 bar and 25°C, the gas constant of air is \\( R = 0.287 \\text{ kJ/kg-K} \\) and its other properties are \\( c_p = 1.005 \\text{ kJ/kg-K} \\) and \\( c_v = 0.718 \\text{ kJ/kg-K} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ath_2022_5_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ath_2022_5_q4_s1",
+          "subNumber": "a",
+          "text": "Derive an expression for the optimum pressure ratio giving maximum cycle thermal efficiency of gas turbine cycle, if the compressor efficiency is \\( \\eta_c \\) and the turbine efficiency is \\( \\eta_t \\). The maximum cycle temperature is \\( T_3 \\) and the minimum cycle temperature is \\( T_1 \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ath_2022_5_q4_s2",
+          "subNumber": "b",
+          "text": "In a gas turbine plant, the air at 10°C and 1 bar is compressed to 12 bar with compression efficiency of 80%. The air is heated in a regenerator and the combustion chamber till its temperature is raised to 1400°C, and during the process the pressure falls by 0.2 bar. The air is then expanded in the turbine and passes to regenerator which has 75% effectiveness and causes a pressure drop of 0.2 bar. If the isentropic efficiency of the turbine is 85%, determine the thermal efficiency of the plant. Assume, \\( \\gamma \\) for air to be 1.4.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ath_2022_5_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ath_2022_5_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the effect of changes in the following operating conditions on COP of a vapour compression cycle: (i) Superheating the vapour coming out of evaporator, (ii) Increasing evaporator pressure, (iii) Increasing condenser pressure.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ath_2022_5_q5_s2",
+          "subNumber": "b",
+          "text": "Steam is supplied to a turbine equipped with two-stage reheating at pressure 200 bar and temperature 500°C. At pressure 35 bar and temperature 280°C whole of the steam passes through the first reheater and comes out at pressure 34 bar and temperature 480°C to expand in the next stages. Again, at pressure 3 bar and temperature 180°C whole of the steam is taken out and made to pass through the second reheater. The steam comes out from the second reheater at 2.5 bar and temperature 480°C and expands in the LP stage to pressure 0.04 bar and dry saturated. Using Mollier diagram, determine the following: (i) Ideal and actual heat supplied to turbine, (ii) Ideal and actual work done by turbine, (iii) Ideal and actual thermal efficiency of turbine, (iv) Ratio of actual to ideal work of turbine.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ath_2022_5_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ath_2022_5_q6_s1",
+          "subNumber": "a",
+          "text": "Show, by deducing suitable expressions, that the divergent portion of a nozzle is necessary to produce supersonic velocity when flow of steam takes place in a nozzle isentropically and under steady conditions, the initial velocity being negligible.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ath_2022_5_q6_s2",
+          "subNumber": "b",
+          "text": "Calculate the throat and exit diameters of a convergent-divergent nozzle which will discharge 800 kg of steam per hour from a pressure of 8 bar superheated to 220°C into a chamber having a pressure of 1.05 bar. Friction loss in the diverging part of the nozzle may be taken as 0.15 of the total isentropic drop.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ath_2022_5_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ath_2022_5_q7_s1",
+          "subNumber": "a",
+          "text": "Deduce an expression for work done per stage (one ring of fixed and one ring of moving blades) of reaction turbine.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ath_2022_5_q7_s2",
+          "subNumber": "b",
+          "text": "The following particulars refer to one stage of an impulse reaction turbine : Mean diameter = 96 cm, r.p.m. = 3000, Nozzle outlet angle = 20°, Nozzle height = 12 cm, Blade height = 12 cm, Specific volume of steam at nozzle outlet = 4.4 m³/kg, Specific volume of steam at blade outlet = 4.8 m³/kg, Steam velocity at nozzle outlet = 275 m/s, Power developed by blade = 265 kW. Calculate the heat drop in the stage, the degree of reaction, the outlet angle of moving blades and gross stage efficiency. Assume, that the expansion efficiency is 0.94 and that the carry-over coefficient is 0.81. Neglect the effect of nozzles and blade thickness.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ath_2022_5_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ath_2022_5_q8_s1",
+          "subNumber": "a",
+          "text": "Derive the expression for minimum work input to compress the gas in a two-stage reciprocating air compressor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ath_2022_5_q8_s2",
+          "subNumber": "b",
+          "text": "A double-acting air compressor has diameter of cylinder 32 cm, length of stroke of piston 39 cm and clearance 5%. It runs at 200 r.p.m. and takes in air at 0.94 bar and 25°C. The delivery pressure is 4 bar and the index of compression \\( n = 1.25 \\). The free air conditions are 1.013 bar and 20°C. Considering the ratio of specific heats of air to be 1.4, calculate the following: (i) The mass of free air delivered, (ii) The heat transfer, (iii) Enthalpy change, (iv) Power needed to drive.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ath_2022_5_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ath_2022_5_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "id": "sem2_cd_2023_25",
+  "semester": 2,
+  "subject_code": "cd",
+  "subject_name": "Compiler Design",
+  "year": "2023",
+  "exam_code": "105601",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 6th Semester Examination, 2023 Compiler Design Time: 03 Hours Code: 105601 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 9,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Symbols used (if any) have their usual meanings."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cd_2023_25_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven questions of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2023_25_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is the most powerful parser?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "SLR",
+            "LALR",
+            "Canonical LR",
+            "Operator precedence"
+          ]
+        },
+        {
+          "id": "sem2_cd_2023_25_q1_s2",
+          "subNumber": "b",
+          "text": "A top down parser generates",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Rightmost derivation",
+            "Rightmost derivation in reverse",
+            "Left most Derivation",
+            "Left most derivation in reverse"
+          ]
+        },
+        {
+          "id": "sem2_cd_2023_25_q1_s3",
+          "subNumber": "c",
+          "text": "A shift reduce parser carries out the actions specified within braces immediately after reducing with the corresponding rule of grammar: \\( S \\rightarrow xxW \\) {print \"1\"}, \\( S \\rightarrow y \\) {print \"2\"}, \\( S \\rightarrow Sz \\) {print \"3\"}. What is the translation of xxxxyzz using the syntax directed translation scheme described by the above rules?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "23131",
+            "11233",
+            "11231",
+            "33211"
+          ]
+        },
+        {
+          "id": "sem2_cd_2023_25_q1_s4",
+          "subNumber": "d",
+          "text": "Three-address code involves",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Exactly 3 address",
+            "At most 3 addresses",
+            "No unary operator",
+            "None"
+          ]
+        },
+        {
+          "id": "sem2_cd_2023_25_q1_s5",
+          "subNumber": "e",
+          "text": "Handle pruning forms the basis of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Bottom up parsing",
+            "Top down parsing",
+            "Predictive parsing",
+            "Recursive descent parsing"
+          ]
+        },
+        {
+          "id": "sem2_cd_2023_25_q1_s6",
+          "subNumber": "f",
+          "text": "Left factoring guarantees",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Not occurring of backtracking",
+            "Cycle free parse tree",
+            "Error free target code",
+            "Correct LL(1) parsing table"
+          ]
+        },
+        {
+          "id": "sem2_cd_2023_25_q1_s7",
+          "subNumber": "g",
+          "text": "Consider a grammar \\( A \\rightarrow aS_1 | aS_2 \\). The left factored grammar produced from the grammar is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( A' \\rightarrow aA, A \\rightarrow S_1 | S_2 \\)",
+            "\\( A' \\rightarrow aA, A \\rightarrow aS_1 | aS_2 \\)",
+            "\\( A' \\rightarrow S_1 | S_2, A \\rightarrow S_1 | S_2 \\)",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem2_cd_2023_25_q1_s8",
+          "subNumber": "h",
+          "text": "Synthesized attributes are calculated",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "From the values of attributes of the children of the node",
+            "From the values of attributes of the parent of the node",
+            "From the values of attributes of the siblings of the node",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem2_cd_2023_25_q1_s9",
+          "subNumber": "i",
+          "text": "The method which merges the bodies of two loops is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Loop rolling",
+            "Loop Jamming",
+            "Constant folding",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cd_2023_25_q1_s10",
+          "subNumber": "j",
+          "text": "For a grammar G, shift reduce (S-R) conflicts are present in LALR(1) parser, if and only if",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "The LALR (1) parser for G has S-R conflicts",
+            "The LR(0) parser for G has S-R conflicts",
+            "The SLR(1) parser for G has S-R conflicts",
+            "The SLR(0) parser for G has S-R conflicts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2023_25_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2023_25_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the working of each phase of compiler in detail with an example.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cd_2023_25_q2_s2",
+          "subNumber": "b",
+          "text": "What is an activation record? Explain how they are used to access various local and global variables.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2023_25_q3",
+      "number": 3,
+      "title": "Q.3 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2023_25_q3_s1",
+          "subNumber": "a",
+          "text": "What are the advantages of LALR parsing over SLR and CLR methods?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cd_2023_25_q3_s2",
+          "subNumber": "b",
+          "text": "Write the algorithm to compute FIRST and FOLLOW for a given grammar.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_cd_2023_25_q3_s3",
+          "subNumber": "c",
+          "text": "What is shift-reduce conflict?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2023_25_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2023_25_q4_s1",
+          "subNumber": "a",
+          "text": "Given the Syntax-Directed Definition below with the synthesized attribute val. Draw the annotated parse tree for the expression \\( (3+4)*(5+6) \\):<br/> \\( L \\rightarrow E \\) ; \\( L.val = E.val \\)<br/> \\( E \\rightarrow T \\) ; \\( E.val = T.val \\)<br/> \\( E \\rightarrow E_1 + T \\) ; \\( E.val = E_1.val + T.val \\)<br/> \\( T \\rightarrow F \\) ; \\( T.val = F.val \\)<br/> \\( T \\rightarrow T_1 * F \\) ; \\( T.val = T_1.val * F.val \\)<br/> \\( F \\rightarrow (E) \\) ; \\( F.val = E.val \\)<br/> \\( F \\rightarrow digit \\) ; \\( F.val = digit.lexval \\)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cd_2023_25_q4_s2",
+          "subNumber": "b",
+          "text": "Find the FIRST and FOLLOW from the following production:<br/> \\( S \\rightarrow aBDh \\)<br/> \\( B \\rightarrow cC \\)<br/> \\( C \\rightarrow bC | \\epsilon \\)<br/> \\( D \\rightarrow EF \\)<br/> \\( E \\rightarrow g | \\epsilon \\)<br/> \\( F \\rightarrow f | \\epsilon \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2023_25_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2023_25_q5_s1",
+          "subNumber": "a",
+          "text": "Construct the predictive parsing table for the following grammar:<br/> \\( S \\rightarrow A \\)<br/> \\( A \\rightarrow aB | Ad \\)<br/> \\( B \\rightarrow bBC | f \\)<br/> \\( C \\rightarrow cg \\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_cd_2023_25_q5_s2",
+          "subNumber": "b",
+          "text": "Explain how type checking and error reporting are performed in compiler. Draw syntax tree and DAG for the statement: \\( a = (a*b+c)\\wedge(b+c)*b+c \\)",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2023_25_q6",
+      "number": 6,
+      "title": "Q.6 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2023_25_q6_s1",
+          "subNumber": "a",
+          "text": "What is handle? Consider the grammar: \\( E \\rightarrow E+E | E*E | id \\). Find the handles of the right sentential forms of the reduction for the string \\( id_1 + id_2 * id_3 \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2023_25_q6_s2",
+          "subNumber": "b",
+          "text": "When a grammar is called ambiguous? Is there any technique to remove ambiguity? Justify whether the grammar is ambiguous or not: \\( A \\rightarrow AA | (A) | a \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2023_25_q6_s3",
+          "subNumber": "c",
+          "text": "Discuss about operator precedence parser.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2023_25_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2023_25_q7_s1",
+          "subNumber": "a",
+          "text": "Differentiate between S-attribute SDT and L-attribute SDT with suitable examples.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_cd_2023_25_q7_s2",
+          "subNumber": "b",
+          "text": "Consider the following grammar: \\( E \\rightarrow E+T | T \\), \\( T \\rightarrow T*F | F \\), \\( F \\rightarrow id \\). Draw a SLR state transition diagram for the above grammar. Also draw the SLR parse table.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2023_25_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2023_25_q8_s1",
+          "subNumber": "a",
+          "text": "Consider the following grammar: \\( S \\rightarrow CC \\), \\( C \\rightarrow cC | d \\). Find the LR(1) set of items.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_cd_2023_25_q8_s2",
+          "subNumber": "b",
+          "text": "Translate the expression \\( a=(a+b)*(c+d)+(a+b+c) \\) into (i) Quadruple (ii) Triple (iii) Indirect triple.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2023_25_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2023_25_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

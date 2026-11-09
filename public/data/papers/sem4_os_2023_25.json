@@ -1,0 +1,291 @@
+{
+  "id": "sem4_os_2023_25",
+  "semester": 4,
+  "subject_code": "os",
+  "subject_name": "Operating System",
+  "year": "2023",
+  "exam_code": "105403",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2023 Operating Systems Time: 03 Hours Code: 105403 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_os_2023_25_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven question of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2023_25_q1_s1",
+          "subNumber": "a",
+          "text": "A computer system has 9 tape drives, with \\( n \\) processes competing for them. Each process may need 3 tape drives. The maximum value of \\( n \\) for which the system is guaranteed to be deadlock free is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following page replacement algorithms suffers from Belady's anomaly?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q1_s3",
+          "subNumber": "c",
+          "text": "Scheduling a process from ready Queue to CPU is done by",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q1_s4",
+          "subNumber": "d",
+          "text": "The time to move the disk arm to the desired cylinder in hard disk is known as",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q1_s5",
+          "subNumber": "e",
+          "text": "Compaction is used to solve the problem of",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_os_2023_25_q1_s6",
+          "subNumber": "f",
+          "text": "__________ is a technique of improving the priority of process waiting in queue for CPU allocation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q1_s7",
+          "subNumber": "g",
+          "text": "The CPU utilization is low when the system is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q1_s8",
+          "subNumber": "h",
+          "text": "When a process waits indefinitely for some resources which are being used by other processes, it is called",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q1_s9",
+          "subNumber": "i",
+          "text": "Fork is used to",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q1_s10",
+          "subNumber": "j",
+          "text": "Which one of the following is the deadlock avoidance algorithm?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2023_25_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2023_25_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the concept of a process. With the help of a state transition diagram, discuss the various process states.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q2_s2",
+          "subNumber": "b",
+          "text": "Describe the differences among short term, medium-term, and long-term scheduling.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2023_25_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2023_25_q3_s1",
+          "subNumber": "a",
+          "text": "What are the various allocation policies in variable partition multiprogramming? Explain the differences between internal and external fragmentations.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_os_2023_25_q3_s2",
+          "subNumber": "b",
+          "text": "What do you understand by address binding? Explain the various address binding schemes.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2023_25_q4",
+      "number": 4,
+      "title": "Q.4 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2023_25_q4_s1",
+          "subNumber": "a",
+          "text": "What are the differences between user-level threads and kernel-level threads? Under what circumstances is one type better than the other?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q4_s2",
+          "subNumber": "b",
+          "text": "What resources are used when a thread is created? How do they differ from those used when a process is created?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q4_s3",
+          "subNumber": "c",
+          "text": "Describe the actions taken by a kernel to context switch between kernel-level threads.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2023_25_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2023_25_q5_s1",
+          "subNumber": "a",
+          "text": "What do you understand by deadlock? Discuss the methods to avoid deadlock.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_os_2023_25_q5_s2",
+          "subNumber": "b",
+          "text": "State and explain the necessary and sufficient conditions for a deadlock.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2023_25_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2023_25_q6_s1",
+          "subNumber": "a",
+          "text": "Consider the following process with the given table:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2023_25_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2023_25_q7_s1",
+          "subNumber": "a",
+          "text": "What do you mean by critical section problem? Discuss Peterson's solution for critical section problem.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q7_s2",
+          "subNumber": "b",
+          "text": "Consider the following page reference string :<br/>7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2, 1, 2, 0, 1, 7, 0, 1<br/>How many page faults would occur for the following replacement algorithms? Assuming 3 frames are available. Also assume that initially none of pages in main memory.<br/>(i) Optimal replacement<br/>(ii) FIFO replacement",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2023_25_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2023_25_q8_s1",
+          "subNumber": "a",
+          "text": "Suppose a disk drive has 300 cylinders, numbered 0 to 299. The current head position of the disk is at 90. The queue of pending requests, in FIFO order is 36, 79, 15, 120, 199, 270, 89, 170. Calculate the average cylinder movements for Shortest-Seek Time First (SSTF) algorithm. Mention the disadvantages of SSTF.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q8_s2",
+          "subNumber": "b",
+          "text": "Compare and contrast between linked and indexed disk allocation strategies.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2023_25_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2023_25_q9_s1",
+          "subNumber": "a",
+          "text": "I-node",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q9_s2",
+          "subNumber": "b",
+          "text": "Segmentation",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q9_s3",
+          "subNumber": "c",
+          "text": "Thrashing",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2023_25_q9_s4",
+          "subNumber": "d",
+          "text": "Process Control Block",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "id": "sem2_ai_2022_7",
+  "semester": 2,
+  "subject_code": "ai",
+  "subject_name": "Artificial Intelligence",
+  "year": "2022",
+  "exam_code": "105501",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 5th Semester End Examination, 2022 Artificial Intelligence Time: 03 Hours Code: 105501 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_ai_2022_7_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2022_7_q1_s1",
+          "subNumber": "a",
+          "text": "In LISP, the function returns the list that result after the first element is removed (the rest of the list), is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "car",
+            "last",
+            "cons",
+            "cdr"
+          ]
+        },
+        {
+          "id": "sem2_ai_2022_7_q1_s2",
+          "subNumber": "b",
+          "text": "What is artificial intelligence?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Putting your intelligence into computer",
+            "Programming with your own intelligence",
+            "Making a machine intelligent",
+            "Playing a game"
+          ]
+        },
+        {
+          "id": "sem2_ai_2022_7_q1_s3",
+          "subNumber": "c",
+          "text": "Which is the best way to go for game playing problem?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Linear approach",
+            "Heuristic approach (some knowledge is stored)",
+            "Random approach",
+            "An optimal approach"
+          ]
+        },
+        {
+          "id": "sem2_ai_2022_7_q1_s4",
+          "subNumber": "d",
+          "text": "Face Recognition system is based on which type of approach?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Weak AI approach",
+            "Applied AI approach",
+            "Cognitive AI approach",
+            "Strong AI approach"
+          ]
+        },
+        {
+          "id": "sem2_ai_2022_7_q1_s5",
+          "subNumber": "e",
+          "text": "Which is not the commonly used programming language for AI?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Prolog",
+            "Java",
+            "LISP",
+            "Perl"
+          ]
+        },
+        {
+          "id": "sem2_ai_2022_7_q1_s6",
+          "subNumber": "f",
+          "text": "What are not represented by using propositional logic?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Objects",
+            "Relations",
+            "Both objects and relations",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_ai_2022_7_q1_s7",
+          "subNumber": "g",
+          "text": "Inference algorithm is completed only if",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "it can derive any sentence",
+            "it can derive any sentence that is an entailed version",
+            "it is truth preserving",
+            "it can derive any sentence that is an entailed version and it is truth preserving"
+          ]
+        },
+        {
+          "id": "sem2_ai_2022_7_q1_s8",
+          "subNumber": "h",
+          "text": "Which search strategy is also called as blind search?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Uniformed search",
+            "Informed search",
+            "Simple reflex search",
+            "All of the mentioned"
+          ]
+        },
+        {
+          "id": "sem2_ai_2022_7_q1_s9",
+          "subNumber": "i",
+          "text": "Which is used for utility functions in game playing algorithm?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Linear polynomial",
+            "Weighted polynomial",
+            "Polynomial",
+            "Linear weighted polynomial"
+          ]
+        },
+        {
+          "id": "sem2_ai_2022_7_q1_s10",
+          "subNumber": "j",
+          "text": "Graph used to represent semantic network is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "undirected graph",
+            "directed graph",
+            "directed acyclic graph (DAG)",
+            "directed complete graph"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2022_7_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2022_7_q2_s1",
+          "subNumber": "a",
+          "text": "Define Artificial Intelligence (AI). Discuss the applications area of AI.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2022_7_q2_s2",
+          "subNumber": "b",
+          "text": "Explain \\( AO^* \\) algorithm with an example.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2022_7_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2022_7_q3_s1",
+          "subNumber": "a",
+          "text": "Explain with diagram the organization of a natural language understanding system.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_ai_2022_7_q3_s2",
+          "subNumber": "b",
+          "text": "Describe all the levels of language understanding in natural language processing system.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2022_7_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2022_7_q4_s1",
+          "subNumber": "a",
+          "text": "What do you mean by learning? Explain briefly the learning methods. Discuss the advantages and disadvantages of rule-based system.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2022_7_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the human preferences in encoding uncertainty during parsing.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2022_7_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2022_7_q5_s1",
+          "subNumber": "a",
+          "text": "Explain hill climbing algorithm. Explain plateau, ridge, and local maxima.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2022_7_q5_s2",
+          "subNumber": "b",
+          "text": "Explain knowledge acquisition techniques.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2022_7_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2022_7_q6_s1",
+          "subNumber": "a",
+          "text": "What is fuzzy set? What is the difference between fuzzy set and crisp set? Explain different fuzzy set operations using examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2022_7_q6_s2",
+          "subNumber": "b",
+          "text": "Write a Prolog program that verified whether an input list is a palindrome.<br/> Hint: Goal: Palindrome ([r, a, c, e, c, a, r]).<br/> Output: Yes<br/> Goal: Palindrome ([a, b, c])<br/> Output: No",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2022_7_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2022_7_q7_s1",
+          "subNumber": "a",
+          "text": "Consider the Water Jug problem as stated here. \"You are given two jugs, a 4-gallon one and a 3-gallon one. Neither has any measuring marker on it. There is a pump that can be used to fill the jugs with water. How can you get exactly 2 gallons of water into the 4-gallon jug?\" Represent this as a problem in State Space Search and state its Production Rules. Show at least one solution to this problem.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2022_7_q7_s2",
+          "subNumber": "b",
+          "text": "Explain the basic component of an expert system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2022_7_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2022_7_q8_s1",
+          "subNumber": "a",
+          "text": "Why is Natural Language Processing (NLP) used? Is NLP difficult to learn? Explain.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_ai_2022_7_q8_s2",
+          "subNumber": "b",
+          "text": "Write a function in LISP that computes prime number between 1 and 25 (inclusive).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2022_7_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2022_7_q9_s1",
+          "subNumber": "a",
+          "text": "Describe logistic regression with suitable examples.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2022_7_q9_s2",
+          "subNumber": "b",
+          "text": "Define prior probability and conditional probability. State Bayes's theorem. How is it useful for decision making under uncertainty.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

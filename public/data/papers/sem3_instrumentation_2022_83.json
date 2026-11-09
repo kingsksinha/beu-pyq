@@ -1,0 +1,322 @@
+{
+  "id": "sem3_instrumentation_2022_83",
+  "semester": 3,
+  "subject_code": "instrumentation",
+  "subject_name": "Instrumentation & Control",
+  "year": "2022",
+  "exam_code": "102404",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2022 INSTRUMENTATION AND CONTROL Time: 3 hours Code: 102404 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_instrumentation_2022_83_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_instrumentation_2022_83_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following causes a controlled variable to change?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Disturbance",
+            "Change in set point",
+            "Variation in load demand",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q1_s2",
+          "subNumber": "b",
+          "text": "What is the resolution of a DAC with a maximum voltage of 15 volts and five input lines?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.4687",
+            "0.4838",
+            "0.2343",
+            "0.2419"
+          ]
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q1_s3",
+          "subNumber": "c",
+          "text": "The derivative function gives the actuator ___________.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "boost action",
+            "braking action",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q1_s4",
+          "subNumber": "d",
+          "text": "A square wave that is 20 volts at its On state and 0 volt at its Off state will produce an average DC voltage of ___________ when duty cycle is 75%.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "15 V",
+            "10 V",
+            "7.5 V",
+            "5 V"
+          ]
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q1_s5",
+          "subNumber": "e",
+          "text": "The resistance of an RTD is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "directly proportional to the temperature",
+            "inversely proportional to the temperature",
+            "directly proportional to the square of temperature",
+            "inversely proportional to the square of temperature"
+          ]
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following valves has the greatest flow capacity of all control valves?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Single-seated",
+            "Three-way",
+            "Butterfly",
+            "Ball"
+          ]
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q1_s7",
+          "subNumber": "g",
+          "text": "A unity feedback system has open-loop transfer function as \\( G(s) = \\frac{16}{s(s+16)} \\). The natural frequency of the system is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "16",
+            "8",
+            "2",
+            "4"
+          ]
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following represents the application of inductive transducers?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Displacement measurement",
+            "Thickness measurement",
+            "Both displacement and thickness measurements",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following can act as a comparator?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Op-amp with negative feedback",
+            "Op-amp with positive feedback",
+            "Op-amp without feedback",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q1_s10",
+          "subNumber": "j",
+          "text": "Transfer function represents the input-output relationship of a system, with initial conditions as:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "zero",
+            "positive",
+            "negative",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_instrumentation_2022_83_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_instrumentation_2022_83_q2_s1",
+          "subNumber": "a",
+          "text": "Define the following: (i) Transducer (ii) Resolution (iii) Linearity (iv) Accuracy (v) Repeatability (vi) Calibration (vii) Backlash",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss in detail about the classification and elimination of error.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_instrumentation_2022_83_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_instrumentation_2022_83_q3_s1",
+          "subNumber": "a",
+          "text": "Differentiate among piezoelectric, inductive and capacitance-type transducers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q3_s2",
+          "subNumber": "b",
+          "text": "What are pyrometers? Explain with the help of neat sketch.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_instrumentation_2022_83_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_instrumentation_2022_83_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the working of electrical resistance strain gauge. Explain how the resistance change of a strain gauge is measured with the help of Wheatstone bridge. Also, explain the methods of lead wire compensation and temperature compensation in case of strain gauge.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the five basic laws of thermocouple behaviour and how these laws are useful in designing thermocouple for temperature measurement.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_instrumentation_2022_83_q5",
+      "number": 5,
+      "title": "Q.5 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_instrumentation_2022_83_q5_s1",
+          "subNumber": "a",
+          "text": "Consider a system with controller \\( G_c \\), reference input \\( R \\), and disturbance input \\( D \\) acting on the plant \\( \\frac{1}{s(s+2)} \\). If \\( G_c \\) is a proportional controller, \\( G_c = K_p \\), what value of \\( K_p \\) will cause the steady-state error for a unit ramp reference input to be 0.1?",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/108.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_instrumentation_2022_83_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_instrumentation_2022_83_q6_s1",
+          "subNumber": "a",
+          "text": "With the help of a suitable example, explain the difference between open-loop control and closed-loop control.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q6_s2",
+          "subNumber": "b",
+          "text": "For a given mechanical translational system with masses \\( M_1, M_2 \\), springs \\( K_1, K_2 \\), and damper \\( B \\), find out the transfer function \\( \\frac{X(s)}{F(s)} \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/109.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_instrumentation_2022_83_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_instrumentation_2022_83_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the operations of the following: (i) Inverting op-amp (ii) Summing op-amp (iii) Differentiating op-amp (iv) Integrating op-amp.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_instrumentation_2022_83_q7_s2",
+          "subNumber": "b",
+          "text": "What are the important requirements of a signal conditioner and how are they met?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_instrumentation_2022_83_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_instrumentation_2022_83_q8_s1",
+          "subNumber": "a",
+          "text": "For the open-loop transfer function \\( G(s) = \\frac{400(s+1)(s+10)}{s^3(s+100)(s+1000)} \\), sketch the Bode magnitude and phase diagrams. Sketch the diagrams for each term and then also sketch the total diagrams. Show the slopes of each section and of the total diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_instrumentation_2022_83_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_instrumentation_2022_83_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

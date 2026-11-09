@@ -1,0 +1,336 @@
+{
+  "id": "sem3_fluid_2016_52",
+  "semester": 3,
+  "subject_code": "fluid",
+  "subject_name": "Fluid Mechanics",
+  "year": "2016",
+  "exam_code": "011307",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Examination, 2016 Fluid Mechanics Time: 03 Hours Code: 011307 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_fluid_2016_52_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2016_52_q1_s1",
+          "subNumber": "a",
+          "text": "Discharge coefficient of a 'Venturimeter' is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "less than Orifice meter",
+            "approximately equal to 0.65",
+            "greater than Orifice meter",
+            "greater than 1.2"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q1_s2",
+          "subNumber": "b",
+          "text": "Correct unit for Kinematic Viscosity is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( Ns/m^2 \\)",
+            "\\( m^2/s \\)",
+            "\\( m/kg.s \\)",
+            "\\( kg/m^2s \\)"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q1_s3",
+          "subNumber": "c",
+          "text": "For 2-D flow field, the equation of streamline is given as:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( u/dx=dy/v \\)",
+            "\\( dx/u=dy/v \\)",
+            "\\( du/dx+dv/dy=0 \\)",
+            "\\( dy/u=dx/v \\)"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q1_s4",
+          "subNumber": "d",
+          "text": "The stream function for a 2-D flow is given by \\( \\psi=2xy+ \\) constant. The flow between the streamlines (1,1) and (2,2) would be:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "4 units",
+            "6 units",
+            "8 units",
+            "10 units"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q1_s5",
+          "subNumber": "e",
+          "text": "Consider the Chezy's equation for the flow velocity through a channel: \\( V=C\\sqrt{mi} \\) where V is flow velocity in m/s, m is the hydraulic mean depth in meter and i is longitudinal slope of the channel. The dimensions of the Chezy constant C are:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( ML^{-1}T \\)",
+            "\\( L^{1/2}T^{-1} \\)",
+            "\\( M^0L^0T^0 \\)",
+            "\\( L^2T^{-1} \\)"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q1_s6",
+          "subNumber": "f",
+          "text": "Each term of Bernoulli' equation has the unit of:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Newton",
+            "Meter",
+            "Pascal",
+            "\\( N/m^2 \\)"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q1_s7",
+          "subNumber": "g",
+          "text": "The equation of motion for a viscous fluid are known as:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Euler's equation",
+            "Reynolds equation",
+            "Navier-Stokes equation",
+            "Hagen-Poiseuille equation"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q1_s8",
+          "subNumber": "h",
+          "text": "Momentum integral equation for zero pressure gradient is given by:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\tau_0/\\rho=U_0d\\theta/dx \\)",
+            "\\( \\tau_0/\\rho=(U_wd\\theta/dx)^2 \\)",
+            "\\( \\tau_0/\\rho=U_0^2d\\theta/dx \\)",
+            "\\( \\tau_0/\\rho=U_0(d\\theta/dx)^2 \\)"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q1_s9",
+          "subNumber": "i",
+          "text": "The pressure at the bottom of a water Lake is 1.5 times to that at half the depth. If the water barometer reads 10 m, the depth of lake is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10 m",
+            "15 m",
+            "20 m",
+            "25 m"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q1_s10",
+          "subNumber": "j",
+          "text": "The Bernoulli equation refers to the conservation of:",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "mass",
+            "momentum",
+            "force",
+            "energy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2016_52_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2016_52_q2_s1",
+          "subNumber": "a",
+          "text": "State the Newton's law of viscosity and give examples of its application.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_fluid_2016_52_q2_s2",
+          "subNumber": "b",
+          "text": "The velocity distribution for flow over a flat plate is given by \\( u=\\frac{3}{4}y-y^2 \\) in which u is the velocity in meter per second at a distance y metre above the plate. Determine the shear stress at \\( y=0.15m \\). Take dynamic viscosity of fluid as 8.6 poise.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2016_52_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[9+5=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2016_52_q3_s1",
+          "subNumber": "a",
+          "text": "An inclined-tube reservoir manometer is constructed as shown in Fig. 1. Derive a general expression for the liquid deflection, L, in the inclined tube, due to the applied pressure difference, \\( \\Delta p \\). Also obtain an expression for the manometer sensitivity, and discuss the effect on sensitivity of D, d, \\( \\theta \\) and SG.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/119.jpg"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q3_s2",
+          "subNumber": "b",
+          "text": "What is manometer? How are they classified?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2016_52_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2016_52_q4_s1",
+          "subNumber": "a",
+          "text": "Derive an expression for the depth of centre of pressure from free surface of liquid of an inclined plate surface submerged in the liquid.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_fluid_2016_52_q4_s2",
+          "subNumber": "b",
+          "text": "Determine the total pressure on a circular plate of diameter 1.5 m which is placed vertically in water in such a way that the centre of the plate is 3 m below the free surface of water. Find the position of centre of pressure.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2016_52_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2016_52_q5_s1",
+          "subNumber": "a",
+          "text": "Consider a flow with velocity components \\( u=0 \\), \\( v=-y^3-4z \\), and \\( w=3y^2z \\). i. Is this a one-, two-, or three-dimensional flow? ii. Demonstrate whether this is an incompressible or compressible flow. iii. Derive a stream function for this flow.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_fluid_2016_52_q5_s2",
+          "subNumber": "b",
+          "text": "What do you understand by 'local acceleration' and 'convective acceleration'?",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2016_52_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2016_52_q6_s1",
+          "subNumber": "a",
+          "text": "A 300 mm diameter pipe carries water under a head of 20 m with a velocity of \\( 3.5~m/s \\). If the axis of the pipe turns through \\( 45^{\\circ} \\) find the magnitude and direction of the resultant force at the bend.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_fluid_2016_52_q6_s2",
+          "subNumber": "b",
+          "text": "What is venturimeter? Derive an expression for the discharge through a venturimeter.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2016_52_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2016_52_q7_s1",
+          "subNumber": "a",
+          "text": "When tested in water (\\( \\rho=998kg/m^3 \\) and \\( \\mu=0.001~kg/m.s \\)) flowing at \\( 2~m/s \\), an 8 cm diameter sphere has a measured drag of 5 N. What will be the velocity and drag force on a 1.5 m diameter weather balloon moored in sea-level standard air (\\( \\rho=1.2255~kg/m^3 \\) and \\( \\mu=1.78\\times10^{-5}kg/m.s \\))?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_fluid_2016_52_q7_s2",
+          "subNumber": "b",
+          "text": "The drag force, F, on a smooth sphere depends on the relative velocity, V, the sphere diameter, D, the fluid density, \\( \\rho \\), and the fluid viscosity, \\( \\mu \\). Obtain a set of dimensionless groups that can be used to correlate experimental data.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2016_52_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2016_52_q8_s1",
+          "subNumber": "a",
+          "text": "In Fig.2 the flowing fluid is \\( CO_2 \\) at \\( 20^{\\circ}C \\). Neglect losses. If \\( P_1=170~kPa \\) and the manometer fluid is Meriam red oil (SG=0.827), estimate (a) \\( p_2 \\) and (b) the gas flow rate in \\( m^3/h \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/3.jpg"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2016_52_q8_s2",
+          "subNumber": "b",
+          "text": "What do you mean by boundary layer separation? Discuss the methods of preventing the separation of boundary layer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2016_52_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2016_52_q9_s1",
+          "subNumber": "a",
+          "text": "Write short notes on following: (i) Navier-Stokes Equation (ii) Flow Net (iii) Friction Drag and Pressure drag",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

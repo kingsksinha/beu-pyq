@@ -1,0 +1,321 @@
+{
+  "id": "sem2_ai_2020_8",
+  "semester": 2,
+  "subject_code": "ai",
+  "subject_name": "Artificial Intelligence",
+  "year": "2020",
+  "exam_code": "105501",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2020 (New Course) Artificial Intelligence Time: 03 Hours Code: 105501 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_ai_2020_8_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_8_q1_s1",
+          "subNumber": "a",
+          "text": "Parts of speech tagging determines",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "parts of speech for each word dynamically as per meaning of the sentence",
+            "parts of speech for each word dynamically as per sentence structure",
+            "all parts of speech for a specific word given as input",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_ai_2020_8_q1_s2",
+          "subNumber": "b",
+          "text": "Many words have more than one meaning; we have to select the meaning which makes the most sense in context. This can be resolved by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "fuzzy logic",
+            "shallow semantic analysis",
+            "word sense disambiguation",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_ai_2020_8_q1_s3",
+          "subNumber": "c",
+          "text": "Decision support programs are designed to help managers make",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "budget projections",
+            "visual presentations",
+            "business decisions",
+            "vacation schedules"
+          ]
+        },
+        {
+          "id": "sem2_ai_2020_8_q1_s4",
+          "subNumber": "d",
+          "text": "Which is the best way to go for game playing problem?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Linear approach",
+            "Heuristic approach (some knowledges are stored)",
+            "Random approach",
+            "An optimal approach"
+          ]
+        },
+        {
+          "id": "sem2_ai_2020_8_q1_s5",
+          "subNumber": "e",
+          "text": "What are not represented by using propositional logic?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Objects",
+            "Relations",
+            "Both objects and relations",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_ai_2020_8_q1_s6",
+          "subNumber": "f",
+          "text": "A knowledge-based agent can combine general knowledge with current percepts to infer hidden aspects of the current state prior to selecting actions.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "id": "sem2_ai_2020_8_q1_s7",
+          "subNumber": "g",
+          "text": "Inference algorithm is completed only if",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "it can derive any sentence",
+            "it can derive any sentence that is an entailed version",
+            "it is truth preserving",
+            "it can derive any sentence that is an entailed version and it is truth preserving"
+          ]
+        },
+        {
+          "id": "sem2_ai_2020_8_q1_s8",
+          "subNumber": "h",
+          "text": "What are the two basic types of inference?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Reduction to propositional logic, manipulate rules directly",
+            "Reduction to propositional logic, apply modus ponen",
+            "Apply modus ponen, manipulate rules directly",
+            "Convert every rule of horn clause, reduction to propositional logic"
+          ]
+        },
+        {
+          "id": "sem2_ai_2020_8_q1_s9",
+          "subNumber": "i",
+          "text": "What are the main components of the expert systems?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Inference engine",
+            "Knowledge base",
+            "Both inference engine and knowledge base",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_ai_2020_8_q1_s10",
+          "subNumber": "j",
+          "text": "Graph used to represent semantic network is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "undirected graph",
+            "directed graph",
+            "directed acyclic graph (DAG)",
+            "directed complete graph"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_8_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_8_q2_s1",
+          "subNumber": "a",
+          "text": "Explain with diagram the organization of a natural language understanding system.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_ai_2020_8_q2_s2",
+          "subNumber": "b",
+          "text": "Describe all the levels of language understanding in natural language processing system.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_8_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_8_q3_s1",
+          "subNumber": "a",
+          "text": "What are agents in AI? How do agents work to import intelligence to a system? Classify the different types of agents and briefly discuss their properties.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_8_q3_s2",
+          "subNumber": "b",
+          "text": "Draw the semantic network of the following sentence: Kavita gives a book to her friend.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_8_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_8_q4_s1",
+          "subNumber": "a",
+          "text": "What do you mean by learning? Explain briefly the learning methods. Discuss the advantages and disadvantages of rule-based system.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2020_8_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the human preferences in encoding uncertainty during parsing.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_8_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_8_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the procedure of knowledge acquisition with the help of a diagram.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2020_8_q5_s2",
+          "subNumber": "b",
+          "text": "What is First Order Predicate Logic (FOPL)? Represent the following facts in FOPL: \"Anyone passing his AI paper and getting an opportunity to work on live project is Happy. But anyone who studies sincerely or is Lucky can pass all his exams. Ramu did not study but he is Lucky. Anyone who is Lucky gets a live project to work.\"",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_8_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_8_q6_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_8_q7",
+      "number": 7,
+      "title": "Q.7 Describe the following with suitable examples:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_8_q7_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_8_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_8_q8_s1",
+          "subNumber": "a",
+          "text": "Differentiate between forward chaining and backward chaining. On what factors does the decision to choose forward or backward chaining depend?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_8_q8_s2",
+          "subNumber": "b",
+          "text": "Consider the following sentences:<br/> • John likes all kinds of food.<br/> • Apples are food.<br/> • Chicken is food.<br/> • Anything anyone eats and isn't killed by it, is food.<br/> • Sue eats everything Bill eats.<br/><br/> (i) Translate the sentences into formulae in predicate logic. Prove that John likes peanuts using backward chaining.<br/> (ii) Convert the formulae of part (i) into clause form.<br/> (iii) Prove that John likes peanuts using resolution.<br/> (iv) Use resolution to answer the question, \"What food does Sue eat?\"",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_8_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_8_q9_s1",
+          "subNumber": "a",
+          "text": "What is the Turing test? If the machine passes the Turing test, does it mean that the system is intelligent? What are the associated problems with Turing test? What are required improvement/advances to overcome these problems?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_8_q9_s2",
+          "subNumber": "b",
+          "text": "What is the goal of the support vector machine (SVM)? How to compute the margin?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

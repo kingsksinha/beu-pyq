@@ -1,0 +1,331 @@
+{
+  "id": "sem4_survey_2019_76",
+  "semester": 4,
+  "subject_code": "survey",
+  "subject_name": "Surveying and Geomatics",
+  "year": "2019",
+  "exam_code": "101308",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 3rd Semester Exam., 2019 Surveying and Geomatics Time: 03 Hours Code: 101308 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_survey_2019_76_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2019_76_q1_s1",
+          "subNumber": "a",
+          "text": "On a turning point in levelling operation",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "only a backsight is taken",
+            "only a foresight is taken",
+            "Both (i) and (ii)",
+            "an intersight is taken"
+          ]
+        },
+        {
+          "id": "sem4_survey_2019_76_q1_s2",
+          "subNumber": "b",
+          "text": "Method of repetition for angle measurement can be used in measurement of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "vertical angle",
+            "horizontal angle",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_survey_2019_76_q1_s3",
+          "subNumber": "c",
+          "text": "Cross-staff is used to set",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "acute angle",
+            "obtuse angle",
+            "staff reading",
+            "right angle"
+          ]
+        },
+        {
+          "id": "sem4_survey_2019_76_q1_s4",
+          "subNumber": "d",
+          "text": "A negative declination shows that the magnetic meridian is to the",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "West of true meridian",
+            "East of true meridian",
+            "South of true meridian",
+            "North of true meridian"
+          ]
+        },
+        {
+          "id": "sem4_survey_2019_76_q1_s5",
+          "subNumber": "e",
+          "text": "The curvature error and atmospheric refractions are eliminated by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "simple levelling",
+            "differential levelling",
+            "stadia levelling",
+            "reciprocal levelling"
+          ]
+        },
+        {
+          "id": "sem4_survey_2019_76_q1_s6",
+          "subNumber": "f",
+          "text": "To compute area of a figure bounded by straight lines, the figure is generally converted into a network of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "squares",
+            "triangles",
+            "rectangles",
+            "trapezium"
+          ]
+        },
+        {
+          "id": "sem4_survey_2019_76_q1_s7",
+          "subNumber": "g",
+          "text": "Which one of the following factors does not affect the relief displacement of an object in aerial photographs?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Focal length",
+            "Flying height",
+            "Height of the object",
+            "Type of aerial camera"
+          ]
+        },
+        {
+          "id": "sem4_survey_2019_76_q1_s8",
+          "subNumber": "h",
+          "text": "The altitudinal distance of the GPS satellites from the earth is about",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "20200 km",
+            "30000 km",
+            "36000 km",
+            "44000 km"
+          ]
+        },
+        {
+          "id": "sem4_survey_2019_76_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following statements is not correct concerning refraction of the GPS signal in the troposphere?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "L1 and L2 carrier waves are refracted equally.",
+            "When a GPS satellite is near the horizon, its signal is most affected by the atmosphere.",
+            "The density of the troposphere governs the severity of its effect on a GPS signal.",
+            "The wet component of refraction in the troposphere contributes the larger portion of the range error."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2019_76_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2019_76_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss different types of levelling with the help of suitable diagram(s).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2019_76_q2_s2",
+          "subNumber": "b",
+          "text": "A dumpy level is set near to station A and the staff readings at A and at the distant station B are 0.95 m and 2.87 m respectively. When the instrument is set near to station B, the staff readings are 0.46 m at A and 1.01 m at B. If AB is 300 m, then determine the collimation error in degrees. Also by assuming a reasonable value of radius of earth, estimate the curvature error.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2019_76_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2019_76_q3_s1",
+          "subNumber": "a",
+          "text": "What are different types of bearing? Discuss the method of converting a whole circle bearing to reduced bearing.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2019_76_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss the different instruments used in plane table surveying. Also explain the method of intersection in plane table surveying.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2019_76_q4",
+      "number": 4,
+      "title": "Q.4 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2019_76_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the temporary adjustments for angle measurement using Vernier theodolite.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_survey_2019_76_q4_s2",
+          "subNumber": "b",
+          "text": "What do you mean by baseline in triangulation? Explain in detail method to set out the baseline.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2019_76_q4_s3",
+          "subNumber": "c",
+          "text": "Two stations A and B at 90 km apart have elevation of 190 m and 980 m respectively. If the elevation of a peak P at a distance 37 km from A is 280 m, then using Captain McCaw's method find out whether stations A and B are inter-visible or not.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2019_76_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2019_76_q5_s1",
+          "subNumber": "a",
+          "text": "Draw a neat diagram of a simple circular curve. With the help of the diagram, explain the various elements of simple circular curve.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2019_76_q5_s2",
+          "subNumber": "b",
+          "text": "Two tangents intersect at the chainage of 2000 m, the deflection angle being \\( 36^{\\circ} \\). Calculate all the data necessary for setting out a circular curve with radius of 300 m by deflection angle method. The peg interval is 30 m.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2019_76_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2019_76_q6_s1",
+          "subNumber": "a",
+          "text": "Differentiate between Geodimeter and Tellurometer. What are different factors that affect the accuracy of distance measurement using EDM instruments?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2019_76_q6_s2",
+          "subNumber": "b",
+          "text": "Discuss the basic components of a total station. Discuss in detail about the different applications of total station for civil engineering projects.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2019_76_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2019_76_q7_s1",
+          "subNumber": "a",
+          "text": "What is vertical aerial photograph? With respect to a vertical aerial photograph, discuss the following using a suitable diagram: (i) Principal Point (ii) Principal Line (iii) Isocentre (iv) Camera Axis (v) Nadir Point",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_survey_2019_76_q7_s2",
+          "subNumber": "b",
+          "text": "A tower was identified on a vertical photograph and the radial distance between its top and its bottom was measured to be 15 mm. The photo-coordinates of top of the displaced tower are \\( x_a = 45 \\text{ mm} \\) and \\( y_a = 72 \\text{ mm} \\). The focal length used to take this photograph is 305 mm. If the flying height of the aircraft is 1500 m above the mean sea level (MSL) and the base of the building is 400 m above MSL, how tall is the building?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2019_76_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2019_76_q8_s1",
+          "subNumber": "a",
+          "text": "What do you understand by GPS? How is it helpful in mapping of a region?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2019_76_q8_s2",
+          "subNumber": "b",
+          "text": "What are the different methods for GPS surveying? Explain any one of them in detail.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2019_76_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2019_76_q9_s1",
+          "subNumber": "a",
+          "text": "Describe various applications of remote sensing in the field of civil engineering with suitable examples.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_survey_2019_76_q9_s2",
+          "subNumber": "b",
+          "text": "Discuss in brief the digital image processing process. What are the advantages of digital image processing?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

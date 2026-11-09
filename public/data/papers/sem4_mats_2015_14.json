@@ -1,0 +1,365 @@
+{
+  "id": "sem4_mats_2015_14",
+  "semester": 4,
+  "subject_code": "mats",
+  "subject_name": "Material Science and Engineering",
+  "year": "2015",
+  "exam_code": "021305",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech. 3rd Semester Examination, 2015 Material Science Time: 03 Hours Code: 021305 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 30,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mats_2015_14_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2015_14_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following materials is the hardest?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Alumina",
+            "High-carbon steel",
+            "Cast iron",
+            "Diamond"
+          ]
+        },
+        {
+          "id": "sem4_mats_2015_14_q1_s2",
+          "subNumber": "b",
+          "text": "The phase boundary between \\( \\alpha \\) and \\( (\\alpha + \\beta) \\) regions is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "liquidus",
+            "solidus",
+            "solvus",
+            "eutectic"
+          ]
+        },
+        {
+          "id": "sem4_mats_2015_14_q1_s3",
+          "subNumber": "c",
+          "text": "The interstitial solid solution of carbon in \\( \\gamma \\)-iron is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "cementite",
+            "ferrite",
+            "austentite",
+            "pearlite"
+          ]
+        },
+        {
+          "id": "sem4_mats_2015_14_q1_s4",
+          "subNumber": "d",
+          "text": "For a spherical particle of radius r, the volume to surface area ratio is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{r}{3} \\)",
+            "\\( 3r \\)",
+            "\\( \\frac{\\pi r}{3} \\)",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem4_mats_2015_14_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following refers to eutectoid reaction?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( L \\rightarrow \\alpha + \\beta \\)",
+            "\\( \\alpha \\rightarrow \\beta + \\gamma \\)",
+            "\\( \\alpha + L \\rightarrow \\beta \\)",
+            "\\( \\alpha + \\beta \\rightarrow \\gamma \\)"
+          ]
+        },
+        {
+          "id": "sem4_mats_2015_14_q1_s6",
+          "subNumber": "f",
+          "text": "If one solid phase splits into two solid phases on heating, the reaction is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "eutectoid",
+            "peritectoid",
+            "eutectic",
+            "peritectic"
+          ]
+        },
+        {
+          "id": "sem4_mats_2015_14_q1_s7",
+          "subNumber": "g",
+          "text": "Cast iron normally contains",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1 to 1.5% C",
+            "2 to 4% C",
+            "less than 1% C",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_mats_2015_14_q1_s8",
+          "subNumber": "h",
+          "text": "Piezo-electric materials produce electric field when subjected to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "magnetic field",
+            "optical rays",
+            "thermal radiation",
+            "mechanical force"
+          ]
+        },
+        {
+          "id": "sem4_mats_2015_14_q1_s9",
+          "subNumber": "i",
+          "text": "Examples of ferrous metals are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "copper, brass, nickel",
+            "aluminium, titanium, zinc",
+            "cast iron, steel, alloy steel",
+            "alumina, zirconia, silica"
+          ]
+        },
+        {
+          "id": "sem4_mats_2015_14_q1_s10",
+          "subNumber": "j",
+          "text": "In a single-component system, the maximum no. of phases that can co-exist in equilibrium, is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2015_14_q2",
+      "number": 2,
+      "title": "Q.2 Solve these questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2015_14_q2_s1",
+          "subNumber": "a",
+          "text": "State and explain the equation for Gibbs phase rule.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2015_14_q2_s2",
+          "subNumber": "b",
+          "text": "Derive the lever rule for the amount in wt. percent of each phase in two phase regions of a binary phase diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2015_14_q3",
+      "number": 3,
+      "title": "Q.3 Solve these questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2015_14_q3_s1",
+          "subNumber": "a",
+          "text": "What is a hybrid composite?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2015_14_q3_s2",
+          "subNumber": "b",
+          "text": "Write the important advantages of hybrid composites over normal fiber composites.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2015_14_q3_s3",
+          "subNumber": "c",
+          "text": "Find an expression for the modulus of elasticity for a hybrid composite in which all fibers of both types are oriented in the same direction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2015_14_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2015_14_q4_s1",
+          "subNumber": "a",
+          "text": "Explain with reason why glass fiber reinforced composites are utilized extensively.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mats_2015_14_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the limitations of glass fiber reinforced composites.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2015_14_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2015_14_q5_s1",
+          "subNumber": "a",
+          "text": "Compare gray and malleable cast iron with respect to:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2015_14_q6",
+      "number": 6,
+      "title": "Q.6 Solve these questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2015_14_q6_s1",
+          "subNumber": "a",
+          "text": "What is the distinction between cement and concrete?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2015_14_q6_s2",
+          "subNumber": "b",
+          "text": "Write some important limitations that restrict the use of concrete as structural material.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2015_14_q6_s3",
+          "subNumber": "c",
+          "text": "Explain the techniques that are utilized to strengthen concrete by reinforcement.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2015_14_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2015_14_q7_s1",
+          "subNumber": "a",
+          "text": "Classify different types of materials with their properties and application.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mats_2015_14_q7_s2",
+          "subNumber": "b",
+          "text": "Write short notes on the following: (i) Biomaterial (ii) Optical fiber (iii) Nanomaterials",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2015_14_q8",
+      "number": 8,
+      "title": "Q.8 Solve these questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2015_14_q8_s1",
+          "subNumber": "a",
+          "text": "Draw the lead-tin phase diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2015_14_q8_s2",
+          "subNumber": "b",
+          "text": "What are the compositions of phases?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2015_14_q8_s3",
+          "subNumber": "c",
+          "text": "Calculate the relative amount of each phase present in terms of mass fraction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2015_14_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2015_14_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Bainite",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2015_14_q9_s2",
+          "subNumber": "b",
+          "text": "(b) White cast iron",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2015_14_q9_s3",
+          "subNumber": "c",
+          "text": "(c) Martensite",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2015_14_q9_s4",
+          "subNumber": "d",
+          "text": "(d) Hume-Rothery Rules",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

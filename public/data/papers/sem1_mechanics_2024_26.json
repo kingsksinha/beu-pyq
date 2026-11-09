@@ -1,0 +1,324 @@
+{
+  "id": "sem1_mechanics_2024_26",
+  "semester": 1,
+  "subject_code": "mechanics",
+  "subject_name": "Engineering Mechanics",
+  "year": "2024",
+  "exam_code": "100105",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 1st Semester Examination, 2024 Engineering Mechanics Time: 03 Hours Code: 100105 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_mechanics_2024_26_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_26_q1_s1",
+          "subNumber": "a",
+          "text": "In order to determine the effects of a force acting on a body, we must know",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Its magnitude and direction of the line along which it acts.",
+            "Its nature (whether push or pull).",
+            "Point through which it acts on the body.",
+            "All of the above."
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q1_s2",
+          "subNumber": "b",
+          "text": "A rigid body is in equilibrium if sum of all the",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "forces and moments acting on it is zero",
+            "moments acting on it zero",
+            "forces acting on it is zero only",
+            "couple moment acting on it is zero"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q1_s3",
+          "subNumber": "c",
+          "text": "Free-body diagram means",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the diagram of a body with applied forces",
+            "the diagram drawn with free hand",
+            "the diagram of a freely suspended body",
+            "the diagram of a body with applied forces, self-weight and reactions."
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q1_s4",
+          "subNumber": "d",
+          "text": "The unit of power in S.I. units",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Joule",
+            "Watt",
+            "Horsepower",
+            "kg-m"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q1_s5",
+          "subNumber": "e",
+          "text": "The coefficient of friction depends upon",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Area of contact",
+            "Nature of surfaces",
+            "Shape of the surfaces",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q1_s6",
+          "subNumber": "f",
+          "text": "A propped cantilever will have _____ redundant reaction.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q1_s7",
+          "subNumber": "g",
+          "text": "According to Lami's theorem, the three forces",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "must be equal",
+            "must be at 120° to each other",
+            "must be both of the above",
+            "may not be any of the above"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q1_s8",
+          "subNumber": "h",
+          "text": "The term 'virtual work' refers to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "actual work done by virtual forces",
+            "virtual work done by actual forces",
+            "virtual work done by virtual forces",
+            "actual work done by actual forces"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q1_s9",
+          "subNumber": "i",
+          "text": "Theorem of perpendicular axis is used in obtaining the moment of inertia of a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "triangular lamina",
+            "circular lamina",
+            "square lamina",
+            "semicircular lamina (or any plane lamina)"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following statements is false about trusses?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Bent members are never used in a truss",
+            "All members in the truss are two force members",
+            "Internal hinges are used to connect members in a truss",
+            "Wooden members can be used in trusses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_26_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_26_q2_s1",
+          "subNumber": "a",
+          "text": "A machine component 1.5 m long and weight 1000 N is supported by two ropes AB and CD as shown in Fig. 1 given below. Calculate the tensions \\( T_1 and T_2 \\) in the ropes AB and CD.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/24em2a.png"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q2_s2",
+          "subNumber": "b",
+          "text": "Show that the algebraic sum of the resolved part of a number of forces in a given direction, is equal to the resolved part of their resultant in the same direction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_26_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_26_q3_s1",
+          "subNumber": "a",
+          "text": "State the principle of virtual work, and explain how it can be used for solving problems in statics. Two beams AE and BD are supported on rollers at B and C as shown in Figure. Determine the reactions at the rollers B and C, using the method of virtual work.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/24em3.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_26_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_26_q4_s1",
+          "subNumber": "a",
+          "text": "State the laws of motion. Discuss the first law in the light of second law.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q4_s2",
+          "subNumber": "b",
+          "text": "A race car travels around a circular track that has a radius of 300 m. If the car increases its speed at a constant rate of \\( 7 m/s^2 \\) starting from rest, determine the time needed for it to reach an acceleration of \\( 10 m/s^2 \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/24em4b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_26_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_26_q5_s1",
+          "subNumber": "a",
+          "text": "A body consisting of a cone and a hemisphere of radius r fixed on the same base, rests on a table. Find the greatest height h of the cone, so that the combined body may stand upright.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/24em5.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_26_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_26_q6_s1",
+          "subNumber": "a",
+          "text": "What is a frame? Discuss its classification. Distinguish between a perfect frame and an imperfect frame.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q6_s2",
+          "subNumber": "b",
+          "text": "Find the moment of inertia of a hollow sphere with respect to a diameter if the unit weight of the material is \\( gamma \\) and if the outer and inner radii are \\( r_o \\) and \\( r_i \\), respectively.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_26_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_26_q7_s1",
+          "subNumber": "a",
+          "text": "The coefficient of static friction between the block A and the cart B is \\( mu \\). If the assembly is released from rest on the inclined plane, determine the smallest value of \\( mu \\) that will prevent the block from sliding on the cart. Find the answer as a function of \\( heta \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/24em7a.png"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2024_26_q7_s2",
+          "subNumber": "b",
+          "text": "State and explain D'Alembert's principle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_26_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_26_q8_s1",
+          "subNumber": "a",
+          "text": "A uniform disc of radius r is allowed to roll down a rough inclined plane whose angle of inclination with the horizontal is \\( \\theta \\). Prove that the linear acceleration of the disc is given by: \\( a = \\frac{g \\sin \\theta}{\\frac{r^2 + k^2}{r^2}} \\) where k is the radius of gyration.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_26_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_26_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

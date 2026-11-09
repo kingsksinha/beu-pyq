@@ -1,0 +1,337 @@
+{
+  "id": "sem2_discrete_2019_80",
+  "semester": 2,
+  "subject_code": "discrete",
+  "subject_name": "Discrete Mathematics",
+  "year": "2019",
+  "exam_code": "211405",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2019 Discrete Mathematical Structure and Graph Theory Time: 03 Hours Code: 211405 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_discrete_2019_80_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2019_80_q1_s1",
+          "subNumber": "a",
+          "text": "The statement \\( p \\rightarrow q \\) is logically equivalent to",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( p \\vee q \\)",
+            "\\( p \\vee \\sim q \\)",
+            "\\( \\sim p \\vee q \\)",
+            "\\( p \\rightarrow q \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2019_80_q1_s2",
+          "subNumber": "b",
+          "text": "The contrapositive of the conditional statement \\( p \\rightarrow q \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( q \\rightarrow p \\)",
+            "\\( \\sim p \\rightarrow \\sim q \\)",
+            "\\( p \\leftrightarrow q \\)",
+            "\\( \\sim q \\rightarrow \\sim p \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2019_80_q1_s3",
+          "subNumber": "c",
+          "text": "If A and B are two nonempty sets having n elements in common, then \\( A \\times B \\) and \\( B \\times A \\) will have how many elements in common?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( 2^n \\)",
+            "\\( n^2 \\)",
+            "\\( n^4 \\)",
+            "\\( 2n \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2019_80_q1_s4",
+          "subNumber": "d",
+          "text": "If a set A have n elements, then how many relations will be there on set A?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( n^2 \\)",
+            "\\( 2^{n^2} \\)",
+            "\\( 2^n \\)",
+            "\\( 2n \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2019_80_q1_s5",
+          "subNumber": "e",
+          "text": "If \\( P(\\phi) \\) represents the power set of \\( \\phi \\), then \\( n(P(P(P(\\phi)))) \\) equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2019_80_q1_s6",
+          "subNumber": "f",
+          "text": "The number of edges in a bipartite graph with n vertices is at most",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "\\( \\frac{n^2}{2} \\)",
+            "\\( \\frac{n^2}{4} \\)",
+            "\\( n^2 \\)",
+            "\\( 2n \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2019_80_q1_s7",
+          "subNumber": "g",
+          "text": "If \\( (S, *) \\) is a monoid, where \\( S = \\{1, 2, 3, 6\\} \\) is defined by \\( a * b = \\text{lcm}(a, b) \\), and where \\( a, b \\in S \\), then the identity element is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "6"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2019_80_q1_s8",
+          "subNumber": "h",
+          "text": "The total number of subgroups of a group G of prime order is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2019_80_q1_s9",
+          "subNumber": "i",
+          "text": "For the poset \\( \\{3, 5, 9, 15, 24, 45\\} \\); divisor of the glb of \\( \\{3, 5\\} \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "3",
+            "5",
+            "15",
+            "45"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2019_80_q1_s10",
+          "subNumber": "j",
+          "text": "The number of pendant vertices of a full-binary tree is",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "\\( \\frac{n+1}{2} \\)",
+            "\\( \\frac{n-1}{2} \\)",
+            "\\( \\frac{2n+1}{2} \\)",
+            "\\( \\frac{2n-1}{2} \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2019_80_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2019_80_q2_s1",
+          "subNumber": "a",
+          "text": "Using truth table, show that-<br/> (i) \\( ((p \\rightarrow (q \\rightarrow r))) \\rightarrow ((p \\rightarrow q) \\rightarrow (p \\rightarrow r)) \\) is a tautology.<br/> (ii) \\( \\sim(q \\rightarrow r) \\wedge r \\wedge (p \\rightarrow q) \\) is a contradiction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2019_80_q2_s2",
+          "subNumber": "b",
+          "text": "Obtain the principal disjunctive normal form (PDNF) and principal conjunctive normal form (PCNF) of the statement \\( (p \\rightarrow (q \\wedge r)) \\wedge (\\sim p \\rightarrow (\\sim q \\wedge \\sim r)) \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2019_80_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2019_80_q3_s1",
+          "subNumber": "a",
+          "text": "For any sets A and B, prove that<br/> (i) \\( (A \\cup B)' = A' \\cap B' \\);<br/> (ii) \\( (A \\cap B)' = A' \\cup B' \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2019_80_q3_s2",
+          "subNumber": "b",
+          "text": "If two sets A and B have n elements in common, then show that the sets \\( A \\times B \\) and \\( B \\times A \\) will have \\( 2^n \\) elements in common.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2019_80_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2019_80_q4_s1",
+          "subNumber": "a",
+          "text": "If R is the relation on the set of positive integers, such that \\( (a, b) \\in R \\) if and only if \\( a^2 + b \\) is even, prove that R is an equivalence relation.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_discrete_2019_80_q4_s2",
+          "subNumber": "b",
+          "text": "Define partition of a set. If the relation R on the set of integers Z is defined by \\( a R b \\) iff \\( a \\cong b \\pmod 4 \\), find the partition induced by R.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2019_80_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2019_80_q5_s1",
+          "subNumber": "a",
+          "text": "If R and S be relations on \\( A = \\{1, 2, 3\\} \\) represented by the matrices \\( M_R = \\begin{bmatrix} 1 &amp; 0 &amp; 1 \\\\ 0 &amp; 1 &amp; 0 \\\\ 0 &amp; 0 &amp; 0 \\end{bmatrix} \\) and \\( M_S = \\begin{bmatrix} 0 &amp; 1 &amp; 1 \\\\ 1 &amp; 1 &amp; 0 \\\\ 0 &amp; 0 &amp; 1 \\end{bmatrix} \\).<br/> Find the matrices that represent (i) \\( R \\cup S \\), (ii) \\( R \\cap S \\), (iii) \\( R \\circ S \\), (iv) \\( R - S \\), (v) \\( R' \\), (vi) \\( R \\circ R \\) and (vii) \\( R \\oplus S \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2019_80_q5_s2",
+          "subNumber": "b",
+          "text": "Draw the Hasse diagram representing the partial ordering \\( \\{(A,B) : A \\subseteq B\\} \\) on the power set \\( P(S) \\) where \\( S = \\{a,b,c\\} \\). Find the maximal, minimal, greatest and least elements of the poset.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2019_80_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2019_80_q6_s1",
+          "subNumber": "a",
+          "text": "Define characteristic function of a set. If A and B are any two subsets of universal set U, then show that:<br/> \\( f_{A \\cup B}(x) = f_A(x) + f_B(x) - f_{A \\cap B}(x) \\), for all \\( x \\in U \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2019_80_q6_s2",
+          "subNumber": "b",
+          "text": "If functions \\( f, g, h: Z \\rightarrow Z \\) are defined as \\( f(x) = x-1 \\), \\( g(x) = 3x \\) and \\( h(x) = \\begin{cases} 0, &amp; \\text{if x is even} \\\\ 1, &amp; \\text{if x is odd} \\end{cases} \\)<br/> Verify that \\( f \\circ (g \\circ h) = (f \\circ g) \\circ h \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2019_80_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2019_80_q7_s1",
+          "subNumber": "a",
+          "text": "Show that every group of order 3 is cyclic.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2019_80_q7_s2",
+          "subNumber": "b",
+          "text": "Prove that the necessary and sufficient condition for a non-empty set H of a group (G, *) to be a subgroup is \\( a, b \\in H \\Rightarrow a * b^{-1} \\in H \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2019_80_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2019_80_q8_s1",
+          "subNumber": "a",
+          "text": "Show that the order of a subgroup of a finite group is a divisor of the order of the group.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2019_80_q8_s2",
+          "subNumber": "b",
+          "text": "Prove that the set S of all real numbers of the form \\( a + b\\sqrt{2} \\) where a, b are integers is an integral domain with respect to usual addition and multiplication.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2019_80_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2019_80_q9_s1",
+          "subNumber": "a",
+          "text": "Define adjacency matrix and incidence matrix of graph G. Draw the graph represented by the adjacency matrix<br/> \\( \\begin{bmatrix} 0 &amp; 1 &amp; 1 &amp; 1 \\\\ 1 &amp; 0 &amp; 1 &amp; 0 \\\\ 1 &amp; 1 &amp; 0 &amp; 0 \\\\ 1 &amp; 0 &amp; 0 &amp; 0 \\end{bmatrix} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2019_80_q9_s2",
+          "subNumber": "b",
+          "text": "Show that a tree with n vertices has \\( (n-1) \\) edges.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

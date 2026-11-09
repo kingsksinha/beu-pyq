@@ -1,0 +1,316 @@
+{
+  "id": "sem3_env2_2018_42",
+  "semester": 3,
+  "subject_code": "env2",
+  "subject_name": "Environmental Engineering-II",
+  "year": "2018",
+  "exam_code": "011723",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 7th Semester Exam., 2018 Environmental Engineering-II Time: 03 Hours Code: 011723 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_env2_2018_42_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2018_42_q1_s1",
+          "subNumber": "a",
+          "text": "The hydraulic mean depth in a circular sewer of diameter D is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{D}{2} \\)",
+            "\\( \\frac{D}{4} \\)",
+            "\\( \\frac{D}{8} \\)",
+            "\\( \\frac{\\pi D}{4} \\)"
+          ]
+        },
+        {
+          "id": "sem3_env2_2018_42_q1_s2",
+          "subNumber": "b",
+          "text": "The dry weather flow is taken as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "25-30% of quantity of water supplied daily",
+            "45-50% of quantity of water supplied daily",
+            "75-80% of quantity of water supplied daily",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2018_42_q1_s3",
+          "subNumber": "c",
+          "text": "The ratio of maximum daily sewage flow to the average daily sewage flow for sewer mains of 0.5 to 1 m diameter, is generally taken as",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "1.5",
+            "2.0",
+            "3.0",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2018_42_q1_s4",
+          "subNumber": "d",
+          "text": "The percentage of activated sludge mixed with the waste water in activated sludge process of wastewater treatment ranges between",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "10 to 20",
+            "20 to 40",
+            "40 to 60",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2018_42_q1_s5",
+          "subNumber": "e",
+          "text": "Bacteria which brings about the digestion of cow dung slurry in gobar gas plant are",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "anaerobic bacteria",
+            "aerobic bacteria",
+            "facultative bacteria",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2018_42_q1_s6",
+          "subNumber": "f",
+          "text": "A high value of COD/BOD ratio indicates",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "poor biodegradability",
+            "good biodegradability",
+            "non-biodegradability",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2018_42_q1_s7",
+          "subNumber": "g",
+          "text": "A high rate biological wastewater treatment system should have the solid retention time (SRT) and hydraulic retention time (HRT) as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "low SRT and high HRT",
+            "high SRT and low HRT",
+            "high SRT and high HRT",
+            "low SRT and low HRT"
+          ]
+        },
+        {
+          "id": "sem3_env2_2018_42_q1_s8",
+          "subNumber": "h",
+          "text": "For good settling of sludge in settling tanks, the sludge volume index should preferably be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "less than \\( 100~ml/gm \\)",
+            "between \\( 150~ml/gm - 200~ml/gm \\)",
+            "between \\( 200~ml/gm - 300~ml/gm \\)",
+            "more than \\( 300~ml/gm \\)"
+          ]
+        },
+        {
+          "id": "sem3_env2_2018_42_q1_s9",
+          "subNumber": "i",
+          "text": "Which one of the following solid waste disposal methods is ecologically most acceptable?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Sanitary landfill",
+            "Incineration",
+            "Pyrolysis",
+            "Composting"
+          ]
+        },
+        {
+          "id": "sem3_env2_2018_42_q1_s10",
+          "subNumber": "j",
+          "text": "If D is the diameter of upper circular portion, the overall depth of standard egg-shaped sewer is kept as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "equal to D",
+            "1.25 times D",
+            "1.5 times D",
+            "2.0 times D"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2018_42_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2018_42_q2_s1",
+          "subNumber": "a",
+          "text": "Explain various forces acting on sewer when laid below ground level and running full along with mathematical expressions.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_env2_2018_42_q2_s2",
+          "subNumber": "b",
+          "text": "A raw wastewater with the following characteristics is being treated in an activated sludge plant. Given that: \\( BOD_{5} \\) of raw wastewater = \\( 220~gm/l \\); effluent \\( BOD_{5} \\) desired = \\( 20~mg/l \\); inflow rate to aeration tank = \\( 100~m^{3}/d \\); mixed liquor volatile suspended solid concentration = 2000 mg/l; volume of aeration tank = \\( 500~m^{3} \\); water depth in aeration tank = 2.5 m. Determine the (i) food to microorganisms (F/M) ratio, (ii) space loading on aeration tank, (iii) hydraulic loading on aeration tank and (iv) detention period in aeration tank.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2018_42_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2018_42_q3_s1",
+          "subNumber": "a",
+          "text": "Write down the important characteristics of E-coliform group of bacteria. Explain the different phases of microorganism's growth in a substrate limited growth medium.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2018_42_q3_s2",
+          "subNumber": "b",
+          "text": "Calculate the head loss through a clean bar rack inclined at \\( 70^{\\circ} \\) with horizontal, using the following data: Total width of bar = 1.0 m; total clear spacing = 3.0 m; dimension of screen chamber = \\( 9~m \\times 4~m \\); velocity of flow through rack = \\( 0.9~m/sec \\) and bar shape factor = 2.42.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2018_42_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2018_42_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss the standards set for discharge of treated wastewater into water bodies and on to land. What should be the desirable dilution factor if the untreated waste water is discharged into river fully saturated with dissolved oxygen?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2018_42_q4_s2",
+          "subNumber": "b",
+          "text": "The observations made on a 2% dilution of wastewater sample are as follows: Dissolved oxygen of aerated water used for dilution = \\( 4.0~mg/l \\); dissolved oxygen of original wastewater sample = \\( 0.4~mg/l \\); dissolved oxygen of diluted wastewater sample after 5 days incubation at \\( 20^{\\circ}C \\) = \\( 0.8~mg/l \\). Calculate the 5-day BOD and the ultimate BOD of waste water sample. Given that the de-oxygenation constant at \\( 20^{\\circ}C \\) = \\( 0.12~d^{-1} \\) (base 10).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2018_42_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2018_42_q5_s1",
+          "subNumber": "a",
+          "text": "What is activated sludge? Give the causes and control measures for various problems encountered in activated sludge process of wastewater treatment.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2018_42_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the symbiotic relationships between algae and bacteria in waste stabilization ponds. Design an oxidation pond for treating domestic sewage of 10000 persons supplied water @ 200 lpcd. The \\( BOD_{5} \\) of raw wastewater and suspended solids concentration are 180 mg/l and 300 mg/l respectively. Effluent BOD desired = 30 mg/l. Assume other required data as per design criteria.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2018_42_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[4+10=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2018_42_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the principle of oxidation of organic mater in Trickling filter. Using NRC equation, design the diameter of a single-stage trickling filter treating 10000 \\( m^{3}/d \\) wastewater at \\( 20^{\\circ}C \\). Use the given data: \\( BOD_{5} \\) of raw wastewater = \\( 200~mg/l \\); effluent \\( BOD_{5} \\) desired = \\( 20~mg/l \\); depth of filter = 1.8 m, recirculation factor = 1, BOD removal in primary sedimentation tank is 20%.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2018_42_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2018_42_q7_s1",
+          "subNumber": "a",
+          "text": "Compare between separate and combined systems of sewerage. Enumerate the advantages of egg-shaped sewer over circular sewers. Explain the rational formula for estimation of storm run-off along with assumptions. Determine the size of a circular sewer for a discharge of \\( 2.25~m^{3}/sec \\) and the sewer is to be laid at a gradient of 1 in 7500. Manning's rugosity coefficient = 0.015.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2018_42_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2018_42_q8_s1",
+          "subNumber": "a",
+          "text": "Classify the municipal solid wastes generated from a society. Enumerate various properties of solid wastes. Describe the procedure for determination of any one of these properties.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2018_42_q8_s2",
+          "subNumber": "b",
+          "text": "What is digested sludge? Discuss the working along with merits and demerits of an anaerobic high-rate digester with neat sketch.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2018_42_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2018_42_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

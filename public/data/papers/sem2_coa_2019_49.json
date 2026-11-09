@@ -1,0 +1,337 @@
+{
+  "id": "sem2_coa_2019_49",
+  "semester": 2,
+  "subject_code": "coa",
+  "subject_name": "Computer Organization & Architecture",
+  "year": "2019",
+  "exam_code": "051402",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2019 Computer Architecture Time: 3 hours Code: 051402 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_coa_2019_49_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer for any seven of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2019_49_q1_s1",
+          "subNumber": "a",
+          "text": "How many \\( 128 \\times 8 \\) bit RAMs are required to design \\( 32k \\times 32 \\) bit RAM?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "512",
+            "128",
+            "1024",
+            "32"
+          ]
+        },
+        {
+          "id": "sem2_coa_2019_49_q1_s2",
+          "subNumber": "b",
+          "text": "The sequence of events that happen during a typical fetch operation is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "PC \\( \\rightarrow \\) MAR \\( \\rightarrow \\) Memory \\( \\rightarrow \\) MDR \\( \\rightarrow \\) IR",
+            "PC \\( \\rightarrow \\) Memory \\( \\rightarrow \\) MDR \\( \\rightarrow \\) IR",
+            "PC \\( \\rightarrow \\) Memory \\( \\rightarrow \\) IR",
+            "PC \\( \\rightarrow \\) MAR \\( \\rightarrow \\) Memory \\( \\rightarrow \\) IR"
+          ]
+        },
+        {
+          "id": "sem2_coa_2019_49_q1_s3",
+          "subNumber": "c",
+          "text": "in case of pipelining processor, loop buffer is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "very high speed memory maintained by the instruction fetch stage",
+            "very high speed memory maintained by the instruction decode stage",
+            "very high speed memory maintained by the instruction execute stage",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_coa_2019_49_q1_s4",
+          "subNumber": "d",
+          "text": "The intradata transfer techniques are implemented using",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "serial I/O",
+            "parallel I/O",
+            "Both (i) and (ii)",
+            "Neither (i) nor (ii)"
+          ]
+        },
+        {
+          "id": "sem2_coa_2019_49_q1_s5",
+          "subNumber": "e",
+          "text": "The average memory access time for a machine with a cache hit rate of 90% where the cache access time is 10 ns and the memory access time is 100 ns is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "55 ns",
+            "45 ns",
+            "90 ns",
+            "19 ns"
+          ]
+        },
+        {
+          "id": "sem2_coa_2019_49_q1_s6",
+          "subNumber": "f",
+          "text": "The minimum time delay between the initiations of two independent memory operations is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "access time",
+            "cycle time",
+            "transfer rate",
+            "latency time"
+          ]
+        },
+        {
+          "id": "sem2_coa_2019_49_q1_s7",
+          "subNumber": "g",
+          "text": "In case of vectored interrupt, interrupt vector means",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the branch information from the source which interrupts the system",
+            "an address that points to a location in memory where the beginning address of the I/O service routine is stored",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_coa_2019_49_q1_s8",
+          "subNumber": "h",
+          "text": "A microprogrammed control unit",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "is faster than a hardwired control unit",
+            "facilitates easy implementation of new instructions",
+            "is useful when every small program is to be run",
+            "usually refers to the control unit of the microprocessor"
+          ]
+        },
+        {
+          "id": "sem2_coa_2019_49_q1_s9",
+          "subNumber": "i",
+          "text": "Relative addressing mode is used to write position independent code because",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the code in this mode is easy to atomize",
+            "the code in this mode is easy to relocate in the memory",
+            "the code in this mode is easy to make resident",
+            "the code execution faster in this mode"
+          ]
+        },
+        {
+          "id": "sem2_coa_2019_49_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following holds data and processing instructions temporarily until the CPU needs it?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "ROM",
+            "Control unit",
+            "Main memory",
+            "Coprocessor chip"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2019_49_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2019_49_q2_s1",
+          "subNumber": "a",
+          "text": "How do instruction set, compiler technology, CPU implementation and control, and cache and memory hierarchy affect the CPU performance? Justify the effects in terms of program length, clock rate and effective CPI.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2019_49_q2_s2",
+          "subNumber": "b",
+          "text": "How is virtual memory managed using paging and TLB? Explain with suitable example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2019_49_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2019_49_q3_s1",
+          "subNumber": "a",
+          "text": "Explain register reference and memory reference instructions in detail with suitable examples.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_coa_2019_49_q3_s2",
+          "subNumber": "b",
+          "text": "Draw the block diagram of control unit of basic computer. Explain in detail with control timing diagrams.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2019_49_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2019_49_q4_s1",
+          "subNumber": "a",
+          "text": "Explain one, two and three-address instruction with suitable examples.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_coa_2019_49_q4_s2",
+          "subNumber": "b",
+          "text": "Give an integrated diagram, showing the TLB and cache operations for a logical/virtual address generated by a processor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2019_49_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2019_49_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the daisy chaining mechanism for bus arbitration. Analzye the three bus arbitration methods-daisy chaining, polling and independent requesting with respect to communication reliability in the even of hardware failures.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2019_49_q5_s2",
+          "subNumber": "b",
+          "text": "Give the block diagram of microprogram sequencer for a control memory and explain it properly.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2019_49_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2019_49_q6_s1",
+          "subNumber": "a",
+          "text": "What do you understand by hardwired control? Give various methods to design hardwired control unit. Describe any one with suitable example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2019_49_q6_s2",
+          "subNumber": "b",
+          "text": "Describe autoincrement and autodecrement addressing modes with proper examples.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2019_49_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2019_49_q7_s1",
+          "subNumber": "a",
+          "text": "What is direct memory access? Explain. Give block diagram of circuitry required for direct memory access.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2019_49_q7_s2",
+          "subNumber": "b",
+          "text": "A digital computer has a common bus system of 16 registers of 32 bits each. The bus is constructed with multiplexers. (i) How many selection inputs are there in each multiplexer? (ii) What size of multiplexers is needed?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2019_49_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2019_49_q8_s1",
+          "subNumber": "a",
+          "text": "When do you say the floating point number is normalized? Explain how floating point representation of number is done. Represent the number (+46.25) as floating point binary number with 32 bits.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2019_49_q8_s2",
+          "subNumber": "b",
+          "text": "What are hazards in pipeline architecture? Explain its type with suitable example.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2019_49_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2019_49_q9_s1",
+          "subNumber": "a",
+          "text": "What is array processor? Explain SIMD array processor with suitable example.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_coa_2019_49_q9_s2",
+          "subNumber": "b",
+          "text": "A DMA controller transfers 16-bit words to memory using cycle stealing. The words are assembled from a device that transmits characters at the rate of 2400 characters per second. The CPU is fetching and executing instructions at an average rate of 1 million instructions per second. By how much will the CPU be slowed down because of DMA transfer?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

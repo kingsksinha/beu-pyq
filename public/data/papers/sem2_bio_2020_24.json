@@ -1,0 +1,281 @@
+{
+  "id": "sem2_bio_2020_24",
+  "semester": 2,
+  "subject_code": "bio",
+  "subject_name": "Biology",
+  "year": "2020",
+  "exam_code": "BSC-109",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Special Examination, 2020 Biology (Biology for Engineers) Time: 03 Hours Code: BSC-109 (100301) Full Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_bio_2020_24_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct alternative from any seven of the following multiple choice questions:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_24_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following was a major discovery of molecular biology when the adenovirus replication strategy was uncovered?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The function of RT",
+            "Mechanism of replication of DNA",
+            "The importance and frequency of mRNA splicing",
+            "The speed of action of viral DNA dependent DNA polymerase"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_24_q1_s2",
+          "subNumber": "b",
+          "text": "The movement of particles in liquids and gases is observed as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Bruneian motion",
+            "Brownian motion",
+            "Blackian motion",
+            "Randomium motion"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_24_q1_s3",
+          "subNumber": "c",
+          "text": "The continuous motion of tiny particles (atoms) is termed as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "potential model of atoms",
+            "kinetic model of matter",
+            "potential model of matter",
+            "kinetic model of atoms"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_24_q1_s4",
+          "subNumber": "d",
+          "text": "The first experiment regarding evolution of life on earth was proposed by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Watson and Crick",
+            "Oparin and Haldane",
+            "Urey and Miller",
+            "Meselson and Stahl"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_24_q1_s5",
+          "subNumber": "e",
+          "text": "Which blood type would not be possible for children of a type AB mother and a type A father?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "O",
+            "A",
+            "B",
+            "AB"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_24_q1_s6",
+          "subNumber": "f",
+          "text": "A strand of DNA with the sequence AACTTG will have a complementary strand with the sequence",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "CCAGGT",
+            "AACTTG",
+            "TTCAAG",
+            "TTGAAC"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_24_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following crosses will give a 1:2:1 genotypic ratio?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( Aa \\times Aa \\)",
+            "\\( Aa \\times AA \\)",
+            "\\( AA \\times Aa \\)",
+            "\\( AA \\times aa \\)"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_24_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following is a postulate of Mendel?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "During gamete formation, segregating pairs of unit factors assort independently of each other",
+            "During the formation of gametes, the paired unit factors separate or segregate randomly",
+            "Hereditary characteristics are controlled by particulate unit factors that exist in pairs in individual organisms",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_24_q1_s9",
+          "subNumber": "i",
+          "text": "Credit for discovery of cell goes to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Robert Brown",
+            "Robert Hooke",
+            "von Mohl",
+            "Robertson"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_24_q1_s10",
+          "subNumber": "j",
+          "text": "Histones are found in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "nucleus",
+            "vacuole",
+            "lysosome",
+            "spherosome"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_24_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_24_q2_s1",
+          "subNumber": "a",
+          "text": "Give an illustrated account of the fine structure of a plant cell and describe the function of the different cell organelles.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_24_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_24_q3_s1",
+          "subNumber": "a",
+          "text": "Briefly describe the mechanism of protein synthesis in eukaryotic cell.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_24_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_24_q4_s1",
+          "subNumber": "a",
+          "text": "Write the genetic consequences of linkage and crossing.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_24_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_24_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the laws of thermodynamics especially with relation to biological systems.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_24_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_24_q6_s1",
+          "subNumber": "a",
+          "text": "Describe the different theories on the origin of life on earth.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_24_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_24_q7_s1",
+          "subNumber": "a",
+          "text": "If you could not have a microscope, how would you determine whether a cell is prokaryotic or eukaryotic? Suppose that the organism can be easily found in the laboratory.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_24_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_24_q8_s1",
+          "subNumber": "a",
+          "text": "What is genetic code? Write the properties of genetic code.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_24_q9",
+      "number": 9,
+      "title": "Q.9 Write notes on any two of the following:",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_24_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

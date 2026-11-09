@@ -1,0 +1,333 @@
+{
+  "id": "sem3_fluid_2015_53",
+  "semester": 3,
+  "subject_code": "fluid",
+  "subject_name": "Fluid Mechanics",
+  "year": "2015",
+  "exam_code": "011307",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2015 Fluid Mechanics Time: 03 Hours Code: 011307 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_fluid_2015_53_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2015_53_q1_s1",
+          "subNumber": "a",
+          "text": "An ideal fluid",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "has no viscosity",
+            "satisfies the relation PV=RT",
+            "obeys the Newton's law of viscosity",
+            "is both incompressible and non-viscous"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2015_53_q1_s2",
+          "subNumber": "b",
+          "text": "Typical example of a non-Newtonian fluid of pseudoplastic variety is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "air",
+            "blood",
+            "water",
+            "printing ink"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2015_53_q1_s3",
+          "subNumber": "c",
+          "text": "If G is the centre of gravity, B is centre of buoyancy and M is metacentre of a floating body, then for the body to be in unstable equilibrium, when",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "MG=0",
+            "BG=0",
+            "M is below G",
+            "M is above G"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2015_53_q1_s4",
+          "subNumber": "d",
+          "text": "The centre of buoyancy is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "centre of gravity of the body",
+            "centre of displaced fluid volume",
+            "point of intersection of the buoyant force and the centreline of the body",
+            "point of intersection of the buoyant force and the gravitational force"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2015_53_q1_s5",
+          "subNumber": "e",
+          "text": "The continuity equation represents the conservation of",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "mass",
+            "momentum",
+            "energy",
+            "vorticity"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2015_53_q1_s6",
+          "subNumber": "f",
+          "text": "A steady irrotational flow of an incompressible fluid is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "streamline flow",
+            "creeping flow",
+            "shear flow",
+            "potential flow"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2015_53_q1_s7",
+          "subNumber": "g",
+          "text": "Each term of Bernoulli's equation stated in the form \\( \\frac{p}{w}+\\frac{V^2}{2g}+y = \\text{constant} \\), has unit of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "N",
+            "mN/kg",
+            "mN/N",
+            "mN/s"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2015_53_q1_s8",
+          "subNumber": "h",
+          "text": "Euler's dimensionless number relates",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "inertia and gravity force",
+            "viscous and inertia force",
+            "pressure and inertia force",
+            "buoyant and viscous force"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2015_53_q1_s9",
+          "subNumber": "i",
+          "text": "The lift force, per unit length, on a cylinder depends on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "shape of the body",
+            "size of the body",
+            "density of the flowing fluid",
+            "specific gravity of the material of the body"
+          ]
+        },
+        {
+          "id": "sem3_fluid_2015_53_q1_s10",
+          "subNumber": "j",
+          "text": "The equations of motion for a viscous fluid are known as",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Euler equation",
+            "Reynolds equation",
+            "Navier-Stokes equation",
+            "Hagen-Poiseuille equation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2015_53_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2015_53_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the classification of fluids based on Newton's law of viscosity. Give the examples also.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_fluid_2015_53_q2_s2",
+          "subNumber": "b",
+          "text": "The velocity distribution in a pipeline is prescribed by the relation \\( u=2y-y^2 \\), where u denotes the velocity at a distance y from the solid boundary. Calculate- (i) shear stress at the wall; (ii) shear stress at 0.5 cm from the wall; (iii) total resistance for a 2 cm diameter pipe over a length of 100 m. Assume coefficient of viscosity \\( \\mu=0.4 \\) poise.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2015_53_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2015_53_q3_s1",
+          "subNumber": "a",
+          "text": "A rectangular burge of width b and a submerged depth of H has its centre of gravity at the waterline. Find the metacentric height in terms of b/H and hence show that for stable equilibrium of the burge \\( b/H\\ge\\sqrt{6} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_fluid_2015_53_q3_s2",
+          "subNumber": "b",
+          "text": "Define surface tension. Prove that the relationship between surface tension and pressure inside a droplet of liquid in excess of outside pressure is given by \\( P=\\frac{4\\sigma}{d} \\)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2015_53_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2015_53_q4_s1",
+          "subNumber": "a",
+          "text": "Define pressure. Obtain an expression for the pressure intensity at a point in a fluid.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_fluid_2015_53_q4_s2",
+          "subNumber": "b",
+          "text": "The figure shows an inverted differential manometer which is connected to two pipes A and B which convey water. The fluid in manometer is oil of specific gravity 0.8. For the manometer readings shown in the figure, find the pressure difference between A and B.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/120.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2015_53_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2015_53_q5_s1",
+          "subNumber": "a",
+          "text": "Define the equation of continuity. Obtain an expression for continuity equation for a three-dimensional flow.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_fluid_2015_53_q5_s2",
+          "subNumber": "b",
+          "text": "A fluid flow field is given by \\( V=x^2yi+y^2zj-(2xyz+yz^2)k \\). Prove that it is a possible steady incompressible fluid flow. Calculate the velocity and acceleration at the point (2, 1, 3).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2015_53_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2015_53_q6_s1",
+          "subNumber": "a",
+          "text": "In a 100 mm diameter horizontal pipe and a venturimeter of 0.5 contraction ratio has been fixed. The head of water on the meter when there is no flow is 3 m (gauge). Find the rate of flow for which the throat pressure will be 2 meters of water absolute. The coefficient of discharge is 0.97. Take atmospheric pressure head = 10.3 m of water.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_fluid_2015_53_q6_s2",
+          "subNumber": "b",
+          "text": "(i) What are the assumptions made in the derivation of Bernoulli's equation? (ii) Write down Bernoulli's equation and explain the different terms.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2015_53_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2015_53_q7_s1",
+          "subNumber": "a",
+          "text": "State Buckingham's \\( \\pi \\) theorem. Show that the resistance R to the motion of a sphere of diameter D moving with a uniform velocity V through a real fluid having mass density \\( \\rho \\) and viscosity \\( \\mu \\) is given by \\( R=\\rho D^2V^2f\\left(\\frac{\\mu}{\\rho VD}\\right) \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_fluid_2015_53_q7_s2",
+          "subNumber": "b",
+          "text": "Explain the Rayleigh's method for dimensional analysis.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2015_53_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2015_53_q8_s1",
+          "subNumber": "a",
+          "text": "An airfoil of chord length 2 m and of span 15 m has an angle of attack as \\( 16^{\\circ} \\). The airfoil is moving with a velocity of \\( 80~m/sec \\) in air whose density is \\( 1.25~kg/m^3 \\). Find the weight of the airfoil and the power required to drive it. The values of coefficient of drag and lift corresponding to angle of attack are given as 0.03 and 0.5 respectively.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_fluid_2015_53_q8_s2",
+          "subNumber": "b",
+          "text": "Define the following terms: (i) Drag (ii) Lift",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_fluid_2015_53_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_fluid_2015_53_q9_s1",
+          "subNumber": "a",
+          "text": "Write short notes on any three of the following: (a) Boundary layer separation and its control (b) Pitot tube (c) Hydraulic Grade Line (HGL) (d) Circulation and vorticity (e) Different types of fluid motion",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

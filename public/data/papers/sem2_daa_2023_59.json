@@ -1,0 +1,354 @@
+{
+  "id": "sem2_daa_2023_59",
+  "semester": 2,
+  "subject_code": "daa",
+  "subject_name": "Design and Analysis of Algorithms",
+  "year": "2023",
+  "exam_code": "105402",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2023 Design and Analysis of Algorithms Time: 03 Hours Code: 105402 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_daa_2023_59_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2023_59_q1_s1",
+          "subNumber": "a",
+          "text": "The fractional Knapsack problem can be solved by using",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Greedy method",
+            "Divided and conquer method",
+            "Dynamic programming",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem2_daa_2023_59_q1_s2",
+          "subNumber": "b",
+          "text": "BFS on a graph \\( G=(V,E) \\) has running time",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( O(|V|+|E|) \\)",
+            "\\( O(|V|) \\)",
+            "\\( O(|E|) \\)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_daa_2023_59_q1_s3",
+          "subNumber": "c",
+          "text": "The minimum number of colors needed to color a graph having \\( n&gt;3 \\) vertices and 2 edges is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+          ]
+        },
+        {
+          "id": "sem2_daa_2023_59_q1_s4",
+          "subNumber": "d",
+          "text": "Complexity the recurrence relation \\( T(n)=8T(\\frac{n}{2})+n^2 \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( O(n) \\)",
+            "\\( O(n^2) \\)",
+            "\\( O(\\log_2 n) \\)",
+            "\\( O(n^3) \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2023_59_q1_s5",
+          "subNumber": "e",
+          "text": "Travelling salesman problem belongs to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "P class",
+            "NP class",
+            "NP- hard",
+            "NP- complete class"
+          ]
+        },
+        {
+          "id": "sem2_daa_2023_59_q1_s6",
+          "subNumber": "f",
+          "text": "Kruskal's algorithm uses ___ and Prism' algorithm uses ___ in determining the MST",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Edges, vertex",
+            "Vertex, edges",
+            "Edges, edges",
+            "Vertex, vertex"
+          ]
+        },
+        {
+          "id": "sem2_daa_2023_59_q1_s7",
+          "subNumber": "g",
+          "text": "Level order traversal of a rooted tree can be done by starting from root and performing",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Depth first search",
+            "Breadth first search",
+            "Pre-order traversal",
+            "In-order traversal"
+          ]
+        },
+        {
+          "id": "sem2_daa_2023_59_q1_s8",
+          "subNumber": "h",
+          "text": "An algorithm is made up of two independent time complexities \\( f(n) \\) and \\( g(n) \\). Then the complexities of the algorithm is in order of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( f(n) \\times g(n) \\)",
+            "\\( \\max(f(n), g(n)) \\)",
+            "\\( \\min(f(n), g(n)) \\)",
+            "\\( f(n)+g(n) \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2023_59_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following standard algorithms is not a greedy algorithm?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Dijkstra's shortest path algorithm",
+            "Kruskal algorithm",
+            "Bellman ford shortest path algorithm",
+            "Prim's algorithm"
+          ]
+        },
+        {
+          "id": "sem2_daa_2023_59_q1_s10",
+          "subNumber": "j",
+          "text": "The node removal of which makes a graph disconnected is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Pendant vertex",
+            "Bridge",
+            "Articulation point",
+            "Coloured vertex"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2023_59_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2023_59_q2_s1",
+          "subNumber": "a",
+          "text": "Write the algorithm for quick-sort and find its complexity.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2023_59_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss the average, worst, best time complexity of the algorithm. Give suitable examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2023_59_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2023_59_q3_s1",
+          "subNumber": "a",
+          "text": "Construct the Huffman coding tree for the text of characters with given frequencies: T:43, I:38, V:16, K:8, L:56, E:12, O:41, Z:13, P:22, R:6.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_daa_2023_59_q3_s2",
+          "subNumber": "b",
+          "text": "State the general Knapsack problem. Write a greedy algorithm for this problem and derive its time complexity.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2023_59_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2023_59_q4_s1",
+          "subNumber": "a",
+          "text": "State master's theorem and find the time complexity for the following recurrence: \\( T(n) = 2T(n^{1/2}) + \\log n \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2023_59_q4_s2",
+          "subNumber": "b",
+          "text": "What is negative weight-cycle? Write Bellman-Ford algorithm to find single source shortest distance of a directed graph.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2023_59_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2023_59_q5_s1",
+          "subNumber": "a",
+          "text": "Find the minimum number of operations required for the following matrix chain multiplication using dynamic programming: \\( A(10 \\times 20) * B(20 \\times 50) * C(50 \\times 1) * D(1 \\times 100) \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2023_59_q5_s2",
+          "subNumber": "b",
+          "text": "Write Knuth-Morris-Pratt algorithm for string matching problem.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2023_59_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2023_59_q6_s1",
+          "subNumber": "a",
+          "text": "Write an algorithm to find a minimum spanning tree (MST) for an undirected graph. Estimate the time complexity of your algorithm.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2023_59_q6_s2",
+          "subNumber": "b",
+          "text": "Using greedy strategy. Schedule the following jobs within deadline so as to maximize the profit. Deadline and profits are mentioned as follow:<br/> Job i: 1, 2, 3, 4 <br/> Deadline d: 3, 2, 3, 1 <br/> Profit g: 9, 7, 7, 2",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2023_59_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2023_59_q7_s1",
+          "subNumber": "a",
+          "text": "Write an algorithm for n-queen's problem find its time-complexity and explain the algorithm using an example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2023_59_q7_s2",
+          "subNumber": "b",
+          "text": "Solve the single source shortest path problem for the following graph considering '1' as the source vertex using Dijkstra's algorithm.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/209.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2023_59_q8",
+      "number": 8,
+      "title": "Q.8 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2023_59_q8_s1",
+          "subNumber": "a",
+          "text": "Define the classes P and NP.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2023_59_q8_s2",
+          "subNumber": "b",
+          "text": "Discuss what you mean by polynomial reduction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2023_59_q8_s3",
+          "subNumber": "c",
+          "text": "Discuss diagrammatically the relation among P class, NP class, NP hard and NP complete.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2023_59_q8_s4",
+          "subNumber": "d",
+          "text": "Describe Clique Decision Problem (CDP).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2023_59_q8_s5",
+          "subNumber": "e",
+          "text": "Explain the max-flow min-cut theorem with an example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2023_59_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2023_59_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

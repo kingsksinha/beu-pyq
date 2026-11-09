@@ -1,0 +1,304 @@
+{
+  "id": "sem2_cons_2021_53",
+  "semester": 2,
+  "subject_code": "cons",
+  "subject_name": "Analysis and Design of Concrete Structure",
+  "year": "2021",
+  "exam_code": "101501",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2021 Analysis and Design of Concrete Structure Time: 03 Hours Code: 101501 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 21,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Use of IS 456-2000 and other relevant IS codes is permitted.",
+    "Assume the necessary relevant data with justification, if required."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cons_2021_53_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven) :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2021_53_q1_s1",
+          "subNumber": "a",
+          "text": "In the limit state method, balanced design of a reinforced concrete beam gives the",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "smallest concrete section and maximum area of reinforcement",
+            "largest concrete section and maximum area of reinforcement",
+            "smallest concrete section and minimum area of reinforcement",
+            "largest concrete section and minimum area of reinforcement"
+          ]
+        },
+        {
+          "id": "sem2_cons_2021_53_q1_s2",
+          "subNumber": "b",
+          "text": "The bond strength between steel and concrete is due to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "friction",
+            "adhesion",
+            "both friction and adhesion",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cons_2021_53_q1_s3",
+          "subNumber": "c",
+          "text": "The depth of footing for an isolated column is governed by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "maximum bending moment",
+            "shear force",
+            "punching shear",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_cons_2021_53_q1_s4",
+          "subNumber": "d",
+          "text": "To minimise the effect of differential settlement, the area of a footing should be designed for",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "dead load only",
+            "dead load + live load",
+            "dead load + fraction of live load",
+            "live load + fraction of dead load"
+          ]
+        },
+        {
+          "id": "sem2_cons_2021_53_q1_s5",
+          "subNumber": "e",
+          "text": "Maximum percentage of reinforcement in case of slabs is limited to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ]
+        },
+        {
+          "id": "sem2_cons_2021_53_q1_s6",
+          "subNumber": "f",
+          "text": "The main reason for providing number of reinforcing bars at a support in a simply supported beam is to resist",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "compressive stress",
+            "shear stress",
+            "bond stress",
+            "tensile stress"
+          ]
+        },
+        {
+          "id": "sem2_cons_2021_53_q1_s7",
+          "subNumber": "g",
+          "text": "When shear stress exceeds the permissible limit in a slab, then it is reduced by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "increasing the depth",
+            "providing shear reinforcement",
+            "using high strength steel",
+            "using thinner bars but more in number"
+          ]
+        },
+        {
+          "id": "sem2_cons_2021_53_q1_s8",
+          "subNumber": "h",
+          "text": "Minimum pitch of transverse reinforcement in a column is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the least lateral dimension of the member",
+            "sixteen times the smallest diameter of longitudinal reinforcement bar to be tied",
+            "forty-eight times the diameter of transverse reinforcement",
+            "Lesser of the above three values"
+          ]
+        },
+        {
+          "id": "sem2_cons_2021_53_q1_s9",
+          "subNumber": "i",
+          "text": "For a simply supported beam of span 15 m, the minimum effective depth to satisfy the vertical deflection limits should be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "60 cm",
+            "75 cm",
+            "90 cm",
+            "more than 1 m"
+          ]
+        },
+        {
+          "id": "sem2_cons_2021_53_q1_s10",
+          "subNumber": "j",
+          "text": "According to IS: 456, minimum slenderness ratio for a short column is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "less than 12",
+            "less than 18",
+            "between 18 and 24",
+            "more than 24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2021_53_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2021_53_q2_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2021_53_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2021_53_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss the salient features of limit state method. Discuss partial safety factors for loads under limit state of collapse and limit state of serviceability.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2021_53_q3_s2",
+          "subNumber": "b",
+          "text": "What are the different limit states of limit state design philosophy over other design philosophies?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2021_53_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2021_53_q4_s1",
+          "subNumber": "a",
+          "text": "A three-span continuous beam carries a UDL of 35 kN/m under service conditions. The clear span of beam is 4.5 m with support width as 300 mm. Design the beam using M25 grade concrete and Fe500 steel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2021_53_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2021_53_q5_s1",
+          "subNumber": "a",
+          "text": "Design a slab for a room 3.0 m x 4.0 m clear in size, if the superimposed load is \\( 3.0 \\, kN/m^2 \\). Consider for both the cases with and without corners, free to lift and the edges are simply supported. Use M25 mix and Fe500 grade steel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2021_53_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2021_53_q6_s1",
+          "subNumber": "a",
+          "text": "Design the reinforcements of a rectangular beam simply supported over a clear span of 4.3 m by limit state method, if the superimposed load is 75 kN at mid-span and each support width is 450 mm. Neglect the self-weight of beam. Use M25 mix and Fe500 grade steel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2021_53_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2021_53_q7_s1",
+          "subNumber": "a",
+          "text": "Using limit state method, design a reinforced concrete column, 400 mm square, to carry an ultimate load of 1000 kN at an eccentricity of 160 mm. Use M25 mix and Fe415 grade steel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2021_53_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2021_53_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the codal recommendations for the effective span of the stair slabs with different support conditions of the loadings.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2021_53_q8_s2",
+          "subNumber": "b",
+          "text": "Design a dog-legged staircase located in a stair hall measuring 2.75 m x 4.5 m for a public building. The story of floor-to-floor height is 3.3 m. The service live load on stairs is \\( 4.0 \\, kN/m^2 \\) with the weight of finishes of \\( 0.5 \\, kN/m^2 \\). Adopt riser and tread of 150 mm and 250 mm, respectively. The grades of concrete and steel to be used are M25 and Fe500, respectively.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2021_53_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2021_53_q9_s1",
+          "subNumber": "a",
+          "text": "Write the procedure to design an isolated rectangular footing to carry axial loads and moments.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2021_53_q9_s2",
+          "subNumber": "b",
+          "text": "Design a footing for a 350 mm square column reinforced with 8-20 mm Fe415 grade bars. One side of the footing is restricted to 1.5 m. The gross bearing capacity of the soil is \\( 65 \\, kN/m^2 \\). Assume column concrete as M25 and footing concrete as M20.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

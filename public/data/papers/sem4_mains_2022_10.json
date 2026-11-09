@@ -1,0 +1,291 @@
+{
+  "id": "sem4_mains_2022_10",
+  "semester": 4,
+  "subject_code": "mains",
+  "subject_name": "Measurements and Instrumentation",
+  "year": "2022",
+  "exam_code": "110601",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 6th Semester Examination, 2022 (New Course) Measurements and Instrumentation Time: 03 Hours Code: 110601 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mains_2022_10_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2022_10_q1_s1",
+          "subNumber": "a",
+          "text": "Explain the temperature and friction errors of the measuring instruments.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q1_s2",
+          "subNumber": "b",
+          "text": "Discuss any three errors of permanent magnet moving-coil instruments.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q1_s3",
+          "subNumber": "c",
+          "text": "What are the causes of errors in current transformers?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q1_s4",
+          "subNumber": "d",
+          "text": "Write the limitations of a Wheatstone bridge.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mains_2022_10_q1_s5",
+          "subNumber": "e",
+          "text": "Explain general working principle of a potentiometer.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_mains_2022_10_q1_s6",
+          "subNumber": "f",
+          "text": "Explain eddy current and hysteresis losses.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q1_s7",
+          "subNumber": "g",
+          "text": "Explain the transfer characteristics of digital to analog conversion.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q1_s8",
+          "subNumber": "h",
+          "text": "What is a low power factor electro-dynamometer type wattmeter?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q1_s9",
+          "subNumber": "i",
+          "text": "Explain the displacement constant and the constant of inertia for a galvanometer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q1_s10",
+          "subNumber": "j",
+          "text": "Write the advantages and precautions to be considered for a Wheatstone bridge.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2022_10_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2022_10_q2_s1",
+          "subNumber": "a",
+          "text": "Describe the methods used for measurement of low pressures using (i) thermocouple vacuum gauge; (ii) pirani gauge; (iii) ionization-type vacuum gauge.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss the working of strain gauge-type of torque transducers. Explain its advantages and disadvantages.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2022_10_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2022_10_q3_s1",
+          "subNumber": "a",
+          "text": "Write the working principle of attraction-type moving-iron instruments using schematic diagrams.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q3_s2",
+          "subNumber": "b",
+          "text": "Describe the construction and working principle of (i) infrared pyrometers and (ii) disappearing filament optical pyrometers. Explain their applications, temperature range, advantages and disadvantages.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2022_10_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2022_10_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss standardization, applications and precautions for a slide wire d.c. potentiometer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q4_s2",
+          "subNumber": "b",
+          "text": "A galvanometer has the inertia constant 1.8, damping constant 6.5, deflection constant \\( 8500 \\text{ N-m/ampere} \\). Determine the value of the restoring constant that would give critical damping. Under these conditions what will be the transient deflection when a current of 1.2 milliamperes is being measured? What will be the deflection at the end of 3 seconds?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q4_s3",
+          "subNumber": "c",
+          "text": "Discuss vibration galvanometer using sufficient schematic diagrams and give its general features.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2022_10_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2022_10_q5_s1",
+          "subNumber": "a",
+          "text": "Describe the method of measurement of differential pressure using an inductive transducer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q5_s2",
+          "subNumber": "b",
+          "text": "A barium titanate piezoelectric pickup has dimensions of \\( 5 \\text{ mm} \\times 5 \\text{ mm} \\times 1.5 \\text{ mm} \\) and a voltage sensitivity of \\( 0.015 \\text{ V m/N} \\). Relative permittivity of the barium titanate is 1200 and modulus of elasticity is \\( 10 \\times 10^{10} \\text{ N/m}^2 \\). Determine (i) output voltage, (ii) charge sensitivity, (iii) charge generated and the capacitance of the pickup. The force applied to the pickup is 12 N.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q5_s3",
+          "subNumber": "c",
+          "text": "Explain the theory of radiation pyrometers. Describe the different radiation receiving elements.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2022_10_q6",
+      "number": 6,
+      "title": "Q.6 Solve all three questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2022_10_q6_s1",
+          "subNumber": "a",
+          "text": "Draw the circuit of a Kelvin's double bridge used for measurement of low resistances. Derive the condition for balance.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q6_s2",
+          "subNumber": "b",
+          "text": "What are the different factors which affect the precision measurement of medium resistances with Wheatstone bridge? Explain how their effects are minimized/eliminated.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2022_10_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2022_10_q7_s1",
+          "subNumber": "a",
+          "text": "Write the working principle of megger along with a suitable block diagram.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_mains_2022_10_q7_s2",
+          "subNumber": "b",
+          "text": "A capacitive transducer is used in pressure measuring instrument which has a spacing of 3.8 mm between its diaphragms. A pressure of \\( 500 \\text{ kN/m}^2 \\) produces average deflection of 0.25 mm of diaphragm of transducer. A transducer which has a capacitance of 280 pF before application of pressure is connected to oscillator circuit having a frequency 100 kHz. Find the change in frequency of oscillator after the application of pressure to the transducer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2022_10_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2022_10_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the working principle of a digital storage oscilloscope using suitable block diagram. Write the advantages of digital storage oscilloscope.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q8_s2",
+          "subNumber": "b",
+          "text": "Write the working principle of digital multimeter along with a suitable block diagram.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2022_10_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2022_10_q9_s1",
+          "subNumber": "a",
+          "text": "Give the instrumentation diagram of an ECG monitoring system and explain in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2022_10_q9_s2",
+          "subNumber": "b",
+          "text": "What is EEG and what are the different types of leads used in EEG? Write the differences between time domain EEG curve and EEG histogram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

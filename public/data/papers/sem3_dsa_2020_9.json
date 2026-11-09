@@ -1,0 +1,312 @@
+{
+  "id": "sem3_dsa_2020_9",
+  "semester": 3,
+  "subject_code": "dsa",
+  "subject_name": "Data Structure and Algorithms",
+  "year": "2020",
+  "exam_code": "PCC-IT-302",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Special Exam., 2020 Data Structures and Algorithms Time: 03 Hours Code: PCC-IT-302 (100304) Full\n                    Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_dsa_2020_9_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_9_q1_s1",
+          "subNumber": "a",
+          "text": "If the number of records to be sorted is small, then ______ sorting can be efficient.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "merge",
+            "heap",
+            "selection",
+            "bubble"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_9_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is not a limitation of binary search algorithm?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Must be a sorted array",
+            "Requirement of sorted array is expensive when a lot of insertions and deletions are needed",
+            "There must be a mechanism to access middle element directly",
+            "Binary search algorithm is not efficient when the data elements are more than 1500"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_9_q1_s3",
+          "subNumber": "c",
+          "text": "The complexity of the merge sort is",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "\\( O(n) \\)",
+            "\\( O(\\log n) \\)",
+            "\\( O(n^2) \\)",
+            "\\( O(n\\log n) \\)"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_9_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following is a hash function?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A function has allocated memory to keys",
+            "A function that computes the location of the key in the array",
+            "A function that creates an array",
+            "A function that computes the location of the values in the array"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_9_q1_s5",
+          "subNumber": "e",
+          "text": "In simple hashing, what is the search complexity?",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "\\( O(n) \\)",
+            "\\( O(\\log n) \\)",
+            "\\( O(n\\log n) \\)",
+            "\\( O(1) \\)"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_9_q1_s6",
+          "subNumber": "f",
+          "text": "In simple chaining, what data structure is appropriate?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Singly linked list",
+            "Doubly linked list",
+            "Circular linked list",
+            "Binary tree"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_9_q1_s7",
+          "subNumber": "g",
+          "text": "Which is not true about insertion sort?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Exhibits the worst case performance when the initial array is sorted in reverse order",
+            "Worst case and average case performance is \\( O(n^2) \\)",
+            "Can be compared to the way a card player arranges his card from a card deck",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_9_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the below mentioned sorting algorithms is not stable?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Selection sort",
+            "Bubble sort",
+            "Merge sort",
+            "Insertion sort"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_9_q1_s9",
+          "subNumber": "i",
+          "text": "A pivot element to partition unsorted list is used in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "merge sort",
+            "bubble sort",
+            "selection sort",
+            "insertion sort"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_9_q1_s10",
+          "subNumber": "j",
+          "text": "Which one of the following is divide and conquer approach?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Insertion sort",
+            "Merge sort",
+            "Shell sort",
+            "Heapsort"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_9_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_9_q2_s1",
+          "subNumber": "a",
+          "text": "Write down breadth-first traversal and depth-first traversal of given graph taking 1 as source vertex.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/187.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_9_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_9_q3_s1",
+          "subNumber": "a",
+          "text": "Construct a B-tree with minimum degree t as 3 and a sequence of integers 10, 20, 30, 40, 50, 60, 70, 80 and 90 in an initially empty B-tree. Show each step.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_9_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_9_q4_s1",
+          "subNumber": "a",
+          "text": "Write a function to perform merge sort on array of element mentioned. Also write recurrence relation for time complexity of algorithm.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_9_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_9_q5_s1",
+          "subNumber": "a",
+          "text": "What is AVL tree? Describe deletion operation in AVL tree with example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_9_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_9_q6_s1",
+          "subNumber": "a",
+          "text": "Apply bubble sort on given array of integers: 26, 45, 13, 23, 12, 7, 38, 42. Show the content of array after every pass.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_9_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_9_q7_s1",
+          "subNumber": "a",
+          "text": "Write the algorithm to count leaf node in binary tree and check whether the tree is balanced or not.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_9_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_9_q8_s1",
+          "subNumber": "a",
+          "text": "What is hash table? How can we use this structure to find all anagrams in a dictionary?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_dsa_2020_9_q8_s2",
+          "subNumber": "b",
+          "text": "Write a function that inserts a given element in a binary search tree. If the element is already present, throw an exception 'duplicate value'.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_9_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_9_q9_s1",
+          "subNumber": "a",
+          "text": "Linear and non-linear data structures",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2020_9_q9_s2",
+          "subNumber": "b",
+          "text": "How to implement stack using queue",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2020_9_q9_s3",
+          "subNumber": "c",
+          "text": "Heapsort",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2020_9_q9_s4",
+          "subNumber": "d",
+          "text": "C++ STL",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

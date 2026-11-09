@@ -1,0 +1,309 @@
+{
+  "id": "sem2_cn_2019_41",
+  "semester": 2,
+  "subject_code": "cn",
+  "subject_name": "Computer Networks",
+  "year": "2019",
+  "exam_code": "051513",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Exam., 2019 Computer Network Time: 3 hours Code: 051513 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "All questions carry equal marks.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cn_2019_41_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer from any seven of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2019_41_q1_s1",
+          "subNumber": "a",
+          "text": "This layer is an addition to OSI model when compared with TCP IP model:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Application layer",
+            "Presentation layer",
+            "Session layer",
+            "Both session layer and presentation layer"
+          ]
+        },
+        {
+          "id": "sem2_cn_2019_41_q1_s2",
+          "subNumber": "b",
+          "text": "Application layer is implemented on:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "end systems",
+            "NIC",
+            "ethernet",
+            "route"
+          ]
+        },
+        {
+          "id": "sem2_cn_2019_41_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is not applicable for IP?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Error reporting",
+            "Handle addressing conventions",
+            "Datagram format",
+            "Packet handling conventions"
+          ]
+        },
+        {
+          "id": "sem2_cn_2019_41_q1_s4",
+          "subNumber": "d",
+          "text": "Which one of the following is not a function of network layer?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Routing",
+            "Inter-networking",
+            "Congestion control",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2019_41_q1_s5",
+          "subNumber": "e",
+          "text": "For a 10 Mbps Ethernet link, if the length of the packet is 32 bits, the transmission delay is (in milliseconds):",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "3.2",
+            "32",
+            "0.32",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2019_41_q1_s6",
+          "subNumber": "f",
+          "text": "Transmission delay does not depend on:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "packet length",
+            "distance between the routers",
+            "transmission rate",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2019_41_q1_s7",
+          "subNumber": "g",
+          "text": "In TCP, sending and receiving data is done as:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "stream of bytes",
+            "sequence of characters",
+            "lines of data",
+            "packets"
+          ]
+        },
+        {
+          "id": "sem2_cn_2019_41_q1_s8",
+          "subNumber": "h",
+          "text": "Suppose a TCP connection is transferring a file of 1000 bytes. The first byte is numbered 10001. What is the sequence number of the segment if all data is sent in only one segment?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10000",
+            "10001",
+            "12001",
+            "11001"
+          ]
+        },
+        {
+          "id": "sem2_cn_2019_41_q1_s9",
+          "subNumber": "i",
+          "text": "The protocol on which DNS application run is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Telnet",
+            "UDP",
+            "HTTP",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2019_41_q1_s10",
+          "subNumber": "j",
+          "text": "____ allows you to connect and login to a remote computer.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Telnet",
+            "FTP",
+            "HTTP",
+            "None of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2019_41_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2019_41_q2_s1",
+          "subNumber": "a",
+          "text": "Draw a neat diagram of TCP/IP protocol stack with the protocols and functionality implemented on each layer. Also explain, why there is a need for having a layered architecture (like OSI and TCP/IP) in networks.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2019_41_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2019_41_q3_s1",
+          "subNumber": "a",
+          "text": "We know that there are 2 types of address schemes (i.e. IP address and MAC address) in computer networks. Explain what the need of having two types of addresses. What will happen if we use only IP address in computer networks?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2019_41_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2019_41_q4_s1",
+          "subNumber": "a",
+          "text": "What do you mean by Random Access Protocols? Explain the limitations of using ALOHA as random access protocol.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2019_41_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2019_41_q5_s1",
+          "subNumber": "a",
+          "text": "In the context of Transmission Control Protocol (TCP), explain the statement, \"TCP help us to establish a reliable connection over an unreliable network\".",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2019_41_q5_s2",
+          "subNumber": "b",
+          "text": "Outline the difference between TCP and UDP.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2019_41_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2019_41_q6_s1",
+          "subNumber": "a",
+          "text": "Why there is a need of doing error control at transport layer despite of the fact that we are doing the same thing at the data link layer? Why we are doing this error correction multiple times?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2019_41_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2019_41_q7_s1",
+          "subNumber": "a",
+          "text": "Explain type of delays in computer networks. Suppose a node A wants to send data of 200 mb to node B. The bandwidth of the channel is 1 Gbps. There are three routers in between node A to node B. Assume other delays equal to 0. Calculate the total delay involved.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2019_41_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2019_41_q8_s1",
+          "subNumber": "a",
+          "text": "With the help of neat figures, explain sliding window mechanism.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2019_41_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2019_41_q9_s1",
+          "subNumber": "a",
+          "text": "(a) ARP vs RARP",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cn_2019_41_q9_s2",
+          "subNumber": "b",
+          "text": "(b) Unicast vs Multicast",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2019_41_q9_s3",
+          "subNumber": "c",
+          "text": "(c) Flooding vs Broadcasting",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cn_2019_41_q9_s4",
+          "subNumber": "d",
+          "text": "(d) Amplifiers vs Repeaters",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    }
+  ]
+}

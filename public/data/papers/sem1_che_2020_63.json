@@ -1,0 +1,312 @@
+{
+  "id": "sem1_che_2020_63",
+  "semester": 1,
+  "subject_code": "che",
+  "subject_name": "Engineering Chemistry",
+  "year": "2020",
+  "exam_code": "100103/100203",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Special Exam., 2020 Chemistry Time: 3 hours Code: 100103/100203 Full Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 31,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. I is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_che_2020_63_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven questions in brief:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2020_63_q1_s1",
+          "subNumber": "a",
+          "text": "Arrange the following in increasing order of stability:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q1_s2",
+          "subNumber": "b",
+          "text": "Transition metal ions like \\( \\text{Cu}^+ \\) and \\( \\text{Ag}^+ \\) are colourless. Why?",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q1_s3",
+          "subNumber": "c",
+          "text": "Which of \\( \\text{Cr}^+ \\) or \\( \\text{Cu}^+ \\) is expected to be coloured?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q1_s4",
+          "subNumber": "d",
+          "text": "\\( ^{13}\\text{C} \\) is NMR active, but \\( ^{12}\\text{C} \\) is not. Why?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q1_s5",
+          "subNumber": "e",
+          "text": "What is the direction of a reaction when \\( \\Delta G = 0 \\)?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q1_s6",
+          "subNumber": "f",
+          "text": "Why is work not a state function?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q1_s7",
+          "subNumber": "g",
+          "text": "Write the relationship between parts per million [ppm] and Clarke's degree [°C].",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q1_s8",
+          "subNumber": "h",
+          "text": "What is critical temperature of a gas?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q1_s9",
+          "subNumber": "i",
+          "text": "Arrange the following ligands in order of increasing field strength:",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q1_s10",
+          "subNumber": "j",
+          "text": "Arrange the following in order of their increasing reactivity in nucleophilic substitution reaction:",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2020_63_q2",
+      "number": 2,
+      "title": "Q.2 Solve all parts :",
+      "marks": "[4+4+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2020_63_q2_s1",
+          "subNumber": "a",
+          "text": "At what temperature will water boil when the applied pressure is 528 mm of Hg? (Latent heat of vaporisation of water = 545.5 cal/g)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q2_s2",
+          "subNumber": "b",
+          "text": "At NTP, 2.8 L of \\( \\text{O}_2 \\) were mixed with 19.6 L of \\( \\text{H}_2 \\). Calculate the increase in entropy (assume ideal gas behaviour).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q2_s3",
+          "subNumber": "c",
+          "text": "The equilibrium constants for the reaction \\( \\text{H}_2[g] + \\text{S(s)} \\rightarrow \\text{H}_2\\text{S[g]} \\) are 18.5 at 925 K and 9.25 at 1000 K. Calculate standard enthalpy of the reaction. Also calculate \\( \\Delta G^\\circ \\) and \\( \\Delta S^\\circ \\) at 925 K.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2020_63_q3",
+      "number": 3,
+      "title": "Q.3 Solve all parts :",
+      "marks": "[4+5+5=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2020_63_q3_s1",
+          "subNumber": "a",
+          "text": "The uncertainties in the position and velocity of a particle are \\( 9.5 \\times 10^{-10} \\, \\text{m} \\) and \\( 5.5 \\times 10^{-20} \\, \\text{ms}^{-1} \\), respectively. Calculate the mass of the particle. \\( (h = 6.626 \\times 10^{-34} \\, \\text{J·s}) \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q3_s2",
+          "subNumber": "b",
+          "text": "Calculate the kinetic energy of a moving electron which has a wavelength of 48 pm. [Mass of electron = \\( 9.11 \\times 10^{-31} \\, \\text{kg} \\)]",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q3_s3",
+          "subNumber": "c",
+          "text": "Discuss the failures of classical mechanics to explain properties of particles at atomic and sub-atomic levels.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2020_63_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2020_63_q4_s1",
+          "subNumber": "a",
+          "text": "Draw the MO energy-level diagram for \\( \\text{O}_2 \\) and based on the diagram, and explain the magnetic property observed in \\( \\text{O}_2 \\), \\( \\text{O}_2^+ \\) and \\( \\text{O}_2^- \\).",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q4_s2",
+          "subNumber": "b",
+          "text": "Explain geometrical isomerism and optical isomerism for transition metal complex with an example for each.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2020_63_q5",
+      "number": 5,
+      "title": "Q.5 Solve all parts :",
+      "marks": "[4+4+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2020_63_q5_s1",
+          "subNumber": "a",
+          "text": "The internuclear distance of NaCl is \\( 2.36 \\times 10^{-10} \\, \\text{m} \\). Calculate the reduced mass and moment of inertia of NaCl. (Atomic mass of Cl = \\( 35 \\times 10^{-3} \\, \\text{kg mol}^{-1} \\) and Na = \\( 23 \\times 10^{-3} \\, \\text{kg mol}^{-1} \\))",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q5_s2",
+          "subNumber": "b",
+          "text": "Calculate the force constant for CO, if it absorbs at \\( 2.143 \\times 10^{5} \\, \\text{m}^{-1} \\). (Atomic mass of C = \\( 12 \\times 10^{-3} \\, \\text{kg mol}^{-1} \\) and O = \\( 16 \\times 10^{-3} \\, \\text{kg mol}^{-1} \\))",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q5_s3",
+          "subNumber": "c",
+          "text": "How many \\( ^{1}\\text{H} \\) NMR signals are there in—",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2020_63_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[5+9=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2020_63_q6_s1",
+          "subNumber": "a",
+          "text": "2 mole of \\( \\text{NH}_3 \\) at 300 K occupy a volume of \\( 5 \\times 10^{-3} \\, \\text{m}^3 \\). Calculate the pressure using van der Waals equation \\( (a = 0.417 \\, \\text{N m}^4 \\, \\text{mol}^{-2} \\) and \\( b = 0.037 \\times 10^{-3} \\, \\text{m}^3 \\, \\text{mol}^{-1}) \\). Compare the above result with the pressure calculated using ideal gas equation.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q6_s2",
+          "subNumber": "b",
+          "text": "Write short notes on the following:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2020_63_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2020_63_q7_s1",
+          "subNumber": "a",
+          "text": "Consider the following half-cell reactions:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q7_s2",
+          "subNumber": "b",
+          "text": "A water sample had the following constituents per litre:",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2020_63_q8",
+      "number": 8,
+      "title": "Q.8 Solve all parts :",
+      "marks": "[4+5+5=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2020_63_q8_s1",
+          "subNumber": "a",
+          "text": "Describe two methods used for resolving racemic mixtures into optically active compounds.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q8_s2",
+          "subNumber": "b",
+          "text": "Write the possible optical isomers of tartaric acid and indicate the point of symmetry or plane of symmetry (if any) in the isomers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2020_63_q8_s3",
+          "subNumber": "c",
+          "text": "Differentiate between (i) enantiomers and diastereomers and (ii) racemic mixture and meso compounds.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2020_63_q9",
+      "number": 9,
+      "title": "Q.9 Solve all parts :",
+      "marks": "[4+4+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2020_63_q9_s1",
+          "subNumber": "a",
+          "text": "How do you decide whether the reaction \\( \\text{CH}_3\\text{Br} + \\text{OH}^- \\rightleftharpoons \\text{CH}_3\\text{OH} + \\text{Br}^- \\) proceeds by \\( S_N1 \\) or \\( S_N2 \\) reaction? Give justification in favour of your answer.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q9_s2",
+          "subNumber": "b",
+          "text": "Draw the energy profile diagram for the following reaction:",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2020_63_q9_s3",
+          "subNumber": "c",
+          "text": "Write short notes on the following:",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    }
+  ]
+}

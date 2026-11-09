@@ -1,0 +1,316 @@
+{
+  "id": "sem3_geology_2018_60",
+  "semester": 3,
+  "subject_code": "geology",
+  "subject_name": "Engineering Geology",
+  "year": "2018",
+  "exam_code": "011305",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 3rd Semester Exam., 2018 ENGINEERING GEOLOGY Time: 03 Hours Code: 011305 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_geology_2018_60_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option from the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2018_60_q1_s1",
+          "subNumber": "a",
+          "text": "S-wave does not pass through",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "sedimentary rocks",
+            "ore bodies",
+            "liquids",
+            "solidified igneous masses"
+          ]
+        },
+        {
+          "id": "sem3_geology_2018_60_q1_s2",
+          "subNumber": "b",
+          "text": "The record of propagation of seismic waves as recorded at the specific purpose station is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "seismograph",
+            "seismogram",
+            "S-P travel-time curve",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geology_2018_60_q1_s3",
+          "subNumber": "c",
+          "text": "An aquifer is a rock formation which is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "porous and not necessarily permeable",
+            "porous and essentially permeable",
+            "highly porous and impermeable",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geology_2018_60_q1_s4",
+          "subNumber": "d",
+          "text": "Kankar is a variety of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "sandstone",
+            "limestone",
+            "shale",
+            "coal"
+          ]
+        },
+        {
+          "id": "sem3_geology_2018_60_q1_s5",
+          "subNumber": "e",
+          "text": "Rocks are __________ so far as their elastic constants are considered.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "isotropic",
+            "anisotropic",
+            "partly isotropic",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geology_2018_60_q1_s6",
+          "subNumber": "f",
+          "text": "The capacity of a stone to withstand scratching action is defined as",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "strength",
+            "hardness",
+            "durability",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geology_2018_60_q1_s7",
+          "subNumber": "g",
+          "text": "In a natural soil profile, the rock zone will be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "at the surface",
+            "somewhere in middle",
+            "at the base",
+            "absent"
+          ]
+        },
+        {
+          "id": "sem3_geology_2018_60_q1_s8",
+          "subNumber": "h",
+          "text": "Loss angles test is used for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "toughness test",
+            "abrasion test",
+            "attrition test",
+            "density test"
+          ]
+        },
+        {
+          "id": "sem3_geology_2018_60_q1_s9",
+          "subNumber": "i",
+          "text": "A good quality stone must absorb water less than",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2-5%",
+            "5%",
+            "10%",
+            "20%"
+          ]
+        },
+        {
+          "id": "sem3_geology_2018_60_q1_s10",
+          "subNumber": "j",
+          "text": "Stone generally used for railway ballast is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "sandstone",
+            "limestone",
+            "marble",
+            "basalt or trap basalt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2018_60_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2018_60_q2_s1",
+          "subNumber": "a",
+          "text": "Define engineering geology. Add a note on its importance in civil engineering.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2018_60_q2_s2",
+          "subNumber": "b",
+          "text": "What is meant by weathering of rocks? Describe in detail the type of rock weathering.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2018_60_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2018_60_q3_s1",
+          "subNumber": "a",
+          "text": "What are sedimentary rocks? How are they formed? Describe in detail the classification of sedimentary rocks. Add a note on the engineering and economic significance of sedimentary rocks.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2018_60_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2018_60_q4_s1",
+          "subNumber": "a",
+          "text": "Describe the geology around Bhakra-Nangal project. Discuss how geological problems were controlled during the dam construction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2018_60_q4_s2",
+          "subNumber": "b",
+          "text": "Describe the few examples to explain the purpose of underground installations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2018_60_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2018_60_q5_s1",
+          "subNumber": "a",
+          "text": "Define earthquake. Give a detailed account of origin of tectonic earthquake and their distribution on globe.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2018_60_q5_s2",
+          "subNumber": "b",
+          "text": "Write an essay on internal and external cause of slides as they are commonly understood.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2018_60_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2018_60_q6_s1",
+          "subNumber": "a",
+          "text": "Give a note about remote sensing and briefly explain the different types of remote sensing.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2018_60_q6_s2",
+          "subNumber": "b",
+          "text": "Give an account of different methods used for exploration of groundwater reserves.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2018_60_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2018_60_q7_s1",
+          "subNumber": "a",
+          "text": "With the aid of diagrams, describe the procedures in determining rock strength using the following tests:<br/> (a) Point-load index test<br/> (b) Triaxial compressive test<br/> (c) Tensile strength by Brazilian test<br/> (d) Abrasive resistance by Dory's abrasion testing machine",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2018_60_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2018_60_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss the objects and general methods of geological investigation for major engineering projects.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2018_60_q8_s2",
+          "subNumber": "b",
+          "text": "Write an essay on 'soil erosion-causes and control'.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2018_60_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2018_60_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

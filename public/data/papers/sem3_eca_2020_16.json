@@ -1,0 +1,363 @@
+{
+  "id": "sem3_eca_2020_16",
+  "semester": 3,
+  "subject_code": "eca",
+  "subject_name": "Electrical Circuit Analysis",
+  "year": "2020",
+  "exam_code": "100306",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Special Exam., 2020 Electrical Circuit Analysis Time: 03 Hours Code: 100306 (PCC-EEE-01) Full\n                    Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 31,
+  "max_freq": 7,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_eca_2020_16_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven questions of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2020_16_q1_s1",
+          "subNumber": "a",
+          "text": "Find the current I in the circuit of Fig. 1 by using the superposition theorem. [DIAGRAM INSTRUCTION: A circuit with a 1A upward current source, a parallel 4 ohm resistor, followed by a T-network (1 ohm, 2 ohm, 3 ohm) and a 1V DC source.]",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/172.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q1_s2",
+          "subNumber": "b",
+          "text": "In Fig. 2, find the value of \\( R_{Th} \\) and \\( I_{SC} \\).",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/169.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q1_s3",
+          "subNumber": "c",
+          "text": "Find the value of \\( R_{L} \\) of Fig. 3 so that the maximum power can be transferred. [DIAGRAM INSTRUCTION: A circuit with two DC sources and an independent 1A current source, mixed with 10 ohm resistors, ending in load resistor RL.]",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/168.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q1_s4",
+          "subNumber": "d",
+          "text": "Find the Z-parameters of the two-port network shown in Fig. 4.",
+          "freq": 7,
+          "stars": "★★★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/167.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q1_s5",
+          "subNumber": "e",
+          "text": "Two coupled coils have self-inductances \\( L_{1}=50 \\text{ mH} \\) and \\( L_{2}=200 \\text{ mH} \\) and a coefficient of coupling \\( k=0.5 \\). If coil 2 has 1000 turns, and \\( i_{1}=5.0\\sin(400t)\\text{A} \\), find the voltage at coil 2.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2020_16_q1_s6",
+          "subNumber": "f",
+          "text": "four 2-mark questions are missing",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2020_16_q2",
+      "number": 2,
+      "title": "Q.2 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2020_16_q2_s1",
+          "subNumber": "a",
+          "text": "Use the superposition theorem in the circuit shown in Fig. 7 to find current I. [DIAGRAM INSTRUCTION: A 10V DC source connected to a 5 ohm resistor, a dependent voltage source \\( 2V_{x} \\), a shunt 2 ohm resistor (with voltage \\( V_{x} \\)), and a 2A independent current source.]",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/171.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q2_s2",
+          "subNumber": "b",
+          "text": "Draw the Thévenin's equivalent circuit of Fig. 8 and hence find the current through \\( R=2\\Omega \\). (All the resistances shown in the figure are in ohm).",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/170.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q2_s3",
+          "subNumber": "c",
+          "text": "State compensation theorem.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2020_16_q3",
+      "number": 3,
+      "title": "Q.3 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2020_16_q3_s1",
+          "subNumber": "a",
+          "text": "Find the current \\( I_{0} \\) of Fig. 9 using the superposition theorem.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/166.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q3_s2",
+          "subNumber": "b",
+          "text": "In the circuit of Fig. 10, find the effective value of the resistance seen by the source \\( V_{s} \\).",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/165.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q3_s3",
+          "subNumber": "c",
+          "text": "Define incidence matrix. Find the complete incidence matrix of the graph shown in Fig. 11.",
+          "freq": 7,
+          "stars": "★★★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/164.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2020_16_q4",
+      "number": 4,
+      "title": "Q.4 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2020_16_q4_s1",
+          "subNumber": "a",
+          "text": "Define the g-parameters of an electrical circuit.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_eca_2020_16_q4_s2",
+          "subNumber": "b",
+          "text": "Find the g-parameters in the circuit shown in Fig. 12.",
+          "freq": 7,
+          "stars": "★★★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/180.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q4_s3",
+          "subNumber": "c",
+          "text": "Find the Z-parameters and Y-parameters of the circuit shown in Fig. 13.",
+          "freq": 7,
+          "stars": "★★★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/179.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2020_16_q5",
+      "number": 5,
+      "title": "Q.5 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2020_16_q5_s1",
+          "subNumber": "a",
+          "text": "Find the Laplace transform of \\( f(t)=e^{-\\alpha t}\\cos(\\omega t) \\), \\( \\alpha&gt;0 \\).",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem3_eca_2020_16_q5_s2",
+          "subNumber": "b",
+          "text": "Calculate the inverse Laplace transform of \\( F(s)=\\frac{1}{s(s^{2}-a^{2})} \\).",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem3_eca_2020_16_q5_s3",
+          "subNumber": "c",
+          "text": "In the series R-C circuit, the capacitor has an initial charge 2.5 mC. At \\( t=0 \\), the switch is closed and a constant-voltage source \\( V=100\\text{ V} \\) is applied. Use the Laplace transform method to find the current in the circuit after closing the switch.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2020_16_q6",
+      "number": 6,
+      "title": "Q.6 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2020_16_q6_s1",
+          "subNumber": "a",
+          "text": "Draw the graph for the given incidence matrix: <br/> \\( [A] = \\begin{bmatrix} -1 &amp; 0 &amp; 0 &amp; 1 &amp; 0 &amp; 1 &amp; 0 \\\\ 0 &amp; -1 &amp; 0 &amp; 0 &amp; 0 &amp; -1 &amp; 1 \\\\ 0 &amp; 0 &amp; -1 &amp; 0 &amp; -1 &amp; 0 &amp; -1 \\\\ 0 &amp; 0 &amp; 0 &amp; 0 &amp; -1 &amp; 0 &amp; 0 \\\\ 1 &amp; 1 &amp; 1 &amp; 1 &amp; 0 &amp; 0 &amp; 0 \\end{bmatrix} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2020_16_q6_s2",
+          "subNumber": "b",
+          "text": "Find the cut-set matrix from the graph as shown in Fig. 14.",
+          "freq": 7,
+          "stars": "★★★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/175.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q6_s3",
+          "subNumber": "c",
+          "text": "Consider the network shown in Fig. 15, draw the graph and determine (i) number of links, (ii) rank of the graph and (iii) total number of trees.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/178.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2020_16_q7",
+      "number": 7,
+      "title": "Q.7 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2020_16_q7_s1",
+          "subNumber": "a",
+          "text": "State the characteristics of an ideal transformer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2020_16_q7_s2",
+          "subNumber": "b",
+          "text": "Define r.m.s. value, form factor, peak factor, complex power and half power frequency.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2020_16_q7_s3",
+          "subNumber": "c",
+          "text": "Calculate the resonant frequency of a series R-L-C circuit.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2020_16_q7_s4",
+          "subNumber": "d",
+          "text": "Obtain the current in each branch of the network shown in Fig. 16, using the mesh current method.",
+          "freq": 7,
+          "stars": "★★★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/177.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2020_16_q8",
+      "number": 8,
+      "title": "Q.8 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2020_16_q8_s1",
+          "subNumber": "a",
+          "text": "Obtain the total power supplied by the 60 V source and the power absorbed in each resistor in the network of Fig. 17.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/174.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q8_s2",
+          "subNumber": "b",
+          "text": "Compute the mesh currents of Fig. 18.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/173.jpg"
+          ]
+        },
+        {
+          "id": "sem3_eca_2020_16_q8_s3",
+          "subNumber": "c",
+          "text": "Define supermesh and supernode.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2020_16_q9",
+      "number": 9,
+      "title": "Q.9 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2020_16_q9_s1",
+          "subNumber": "a",
+          "text": "Derive step response of a series R-C circuit.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_eca_2020_16_q9_s2",
+          "subNumber": "b",
+          "text": "Define forced response and natural response.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2020_16_q9_s3",
+          "subNumber": "c",
+          "text": "For the circuit shown in Fig. 19, the switch K is moved from position 1 to position 2 at \\( t=0 \\text{ s} \\). Find the current \\( i(t) \\) assuming \\( i(0_{-})=2\\text{ A} \\) and \\( V_{c}(0_{+})=2\\text{ V} \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/176.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}

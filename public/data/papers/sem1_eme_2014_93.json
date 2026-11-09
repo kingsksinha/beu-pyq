@@ -1,0 +1,325 @@
+{
+  "id": "sem1_eme_2014_93",
+  "semester": 1,
+  "subject_code": "eme",
+  "subject_name": "Elements of Mechanical Engineering",
+  "year": "2014",
+  "exam_code": "021201",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2014 ELEMENTS OF MECHANICAL ENGINEERING Time: 3 hours Code: 021201 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 7,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eme_2014_93_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following/Choose the correct option (any seven):",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2014_93_q1_s1",
+          "subNumber": "a",
+          "text": "Give two examples of primary sources of energy.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_eme_2014_93_q1_s2",
+          "subNumber": "b",
+          "text": "Zeroth law of thermodynamics forms the basis of ______ measurement.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "pressure",
+            "temperature",
+            "volume",
+            "work"
+          ]
+        },
+        {
+          "id": "sem1_eme_2014_93_q1_s3",
+          "subNumber": "c",
+          "text": "Difference between the pressure of a fluid and the pressure of atmosphere is called as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Absolute pressure",
+            "Barometric pressure",
+            "Gauge pressure",
+            "Vacuum pressure"
+          ]
+        },
+        {
+          "id": "sem1_eme_2014_93_q1_s4",
+          "subNumber": "d",
+          "text": "Heat supplied to a system equals the work done in case of a non-flow process carried out",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "isochorically",
+            "isobarically",
+            "adiabatically",
+            "Isothermally"
+          ]
+        },
+        {
+          "id": "sem1_eme_2014_93_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following fittings is a boiler mounting?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Superheater",
+            "Feed check valve",
+            "Economiser",
+            "Air preheater"
+          ]
+        },
+        {
+          "id": "sem1_eme_2014_93_q1_s6",
+          "subNumber": "f",
+          "text": "The number of valves in a single-cylinder two-stroke petrol engine is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "one",
+            "two",
+            "four",
+            "zero"
+          ]
+        },
+        {
+          "id": "sem1_eme_2014_93_q1_s7",
+          "subNumber": "g",
+          "text": "How many degrees a crankshaft rotates in completing the cycle of two-stroke engine?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_eme_2014_93_q1_s8",
+          "subNumber": "h",
+          "text": "The condenser in which there is direct contact between the steam and the cooling fluid should be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "surface condenser",
+            "jet condenser",
+            "evaporative condenser",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem1_eme_2014_93_q1_s9",
+          "subNumber": "i",
+          "text": "1 ton of refrigeration effect is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "3.5 kJ/s",
+            "55 kJ/s",
+            "200 kJ/s",
+            "210 kJ/s"
+          ]
+        },
+        {
+          "id": "sem1_eme_2014_93_q1_s10",
+          "subNumber": "j",
+          "text": "The ability of a material to resist wear is called",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "strength",
+            "toughness",
+            "hardness",
+            "brittleness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2014_93_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2014_93_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the merits and demerits of renewable and non-renewable sources of energy.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_eme_2014_93_q2_s2",
+          "subNumber": "b",
+          "text": "What is the origin of biomass energy? Give the main advantages and disadvantages of biomass energy.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2014_93_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2014_93_q3_s1",
+          "subNumber": "a",
+          "text": "Differentiate between the following:<br/>(i) Intensive and Extensive property<br/>(ii) Point and Path function",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2014_93_q3_s2",
+          "subNumber": "b",
+          "text": "A mass of gas is compressed in a quasi-static process from 80 kPa, 0.1 m\\(^3\\) to 0.4 MPa, 0.03 m\\(^3\\). Assuming that the pressure and volume are related by \\(pv^n = \\) constant, find the work done by the gas system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2014_93_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2014_93_q4_s1",
+          "subNumber": "a",
+          "text": "Classify the different types of boilers. Differentiate between fire-tube and water-tube boilers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2014_93_q4_s2",
+          "subNumber": "b",
+          "text": "Classify mountings into safety fittings and control fittings. Explain with neat sketch any one of each.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2014_93_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2014_93_q5_s1",
+          "subNumber": "a",
+          "text": "Derive an expression for air standard efficiency of Otto cycle.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_eme_2014_93_q5_s2",
+          "subNumber": "b",
+          "text": "Differentiate between two-stroke and four-stroke engines.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2014_93_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2014_93_q6_s1",
+          "subNumber": "a",
+          "text": "With neat sketch, explain briefly the working principle of an impulse turbine.",
+          "freq": 7,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_eme_2014_93_q6_s2",
+          "subNumber": "b",
+          "text": "Write the application of gas turbine. What are the advantages and disadvantages of gas turbine over IC engine?",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2014_93_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2014_93_q7_s1",
+          "subNumber": "a",
+          "text": "Why is steam condenser used in thermal power plant?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2014_93_q7_s2",
+          "subNumber": "b",
+          "text": "Describe with neat sketch the construction and working of a nuclear power plant.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2014_93_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2014_93_q8_s1",
+          "subNumber": "a",
+          "text": "Explain Bell-Coleman air refrigeration cycle.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2014_93_q8_s2",
+          "subNumber": "b",
+          "text": "Explain with neat sketch, the working of vapour compression refrigeration system.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2014_93_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2014_93_q9_s1",
+          "subNumber": "a",
+          "text": "What is plain carbon steel? Give classification of plain carbon steels with their important properties.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_eme_2014_93_q9_s2",
+          "subNumber": "b",
+          "text": "What are the objectives of heat treatment? Explain the heat treatment process by tempering.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

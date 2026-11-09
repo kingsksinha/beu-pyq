@@ -1,0 +1,316 @@
+{
+  "id": "sem1_mechanics_2022_77",
+  "semester": 1,
+  "subject_code": "mechanics",
+  "subject_name": "Engineering Mechanics",
+  "year": "2022",
+  "exam_code": "101101",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam-2022 Physics (Mechanics) Time: 03 Hours Code: 101101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Symbols used (if any) have their usual meanings."
+  ],
+  "questions": [
+    {
+      "id": "sem1_mechanics_2022_77_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2022_77_q1_s1",
+          "subNumber": "a",
+          "text": "The angular velocity of rotating body is expressed in terms of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "revolution per minute",
+            "radians per second",
+            "metre per second",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following statements is wrong?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The matter contained in a body is called mass",
+            "The force with which a body is attracted towards the centre of the earth is called weight",
+            "The total motion possessed by a moving body is called impulsive force",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q1_s3",
+          "subNumber": "c",
+          "text": "Which type of vibration is also known as transient vibrations?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Undamped vibration",
+            "Damped vibration",
+            "Torsional vibration",
+            "Transverse vibration"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q1_s4",
+          "subNumber": "d",
+          "text": "Transmissibility is the ratio of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "force transmitted to the supporting structure and force impressed upon the system",
+            "displacement amplitude of mass and displacement amplitude of supporting structure",
+            "Both (i) and (ii)"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q1_s5",
+          "subNumber": "e",
+          "text": "A non-inertial reference frame is a frame of reference that is undergoing ______ with respect to an inertial frame.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "velocity",
+            "acceleration",
+            "Both (i) and (ii)",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q1_s6",
+          "subNumber": "f",
+          "text": "A turning car with constant speed is the example of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "inertial reference frame",
+            "non-inertial reference frame",
+            "Both (i) and (ii)",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q1_s7",
+          "subNumber": "g",
+          "text": "When a particle moves with a uniform velocity along a circular path, then the particle has",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "tangential acceleration only",
+            "centripetal acceleration only",
+            "both tangential and centripetal acceleration",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q1_s8",
+          "subNumber": "h",
+          "text": "Gradient of scalar field is ______ to the equipotential surface.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "parallel",
+            "perpendicular",
+            "inclined",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q1_s9",
+          "subNumber": "i",
+          "text": "Example of non-conservative force is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "gravity",
+            "ideal spring (Hooke's law)",
+            "electrostatic force",
+            "human pushes and pulls"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q1_s10",
+          "subNumber": "j",
+          "text": "Pooja spins a ball of mass \\( m \\) attached to a string of length \\( r \\) around her head with a velocity \\( v_i \\). If the ball splits in half, losing exactly one-half of its mass instantaneously, what is its new velocity, \\( v_f \\)?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( v_i \\)",
+            "\\( v_i/4 \\)",
+            "\\( 2v_i \\)",
+            "\\( 4v_i \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2022_77_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2022_77_q2_s1",
+          "subNumber": "a",
+          "text": "A particle moves in a circle of radius \\( b \\) with angular velocity \\( \\theta = \\alpha t \\), where \\( \\alpha \\) (rad / sec²) is a constant. Describe the particle's velocity in polar coordinates.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q2_s2",
+          "subNumber": "b",
+          "text": "Three freight cars of mass \\( M \\) are pulled with force \\( F \\) by a locomotive. Friction is negligible. Find the forces on each car.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2022_77_q3",
+      "number": 3,
+      "title": "Q.3 Write short notes on the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2022_77_q3_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2022_77_q4",
+      "number": 4,
+      "title": "Q.4 Solve all parts :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2022_77_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss three-dimensional rigid body motion describing angular velocity and moment of inertia tensor.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q4_s2",
+          "subNumber": "b",
+          "text": "The position of a particle of mass \\( m \\) under the influence of a free particle is given by \\( \\vec{r} = A \\sin( \\omega t) \\hat i + B \\cos( \\omega t) \\hat j \\). Find the expression for its force.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q4_s3",
+          "subNumber": "c",
+          "text": "Express \\( \\vec{s} \\) of cylindrical coordinate system into unit vectors of Cartesian coordinate system.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2022_77_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2022_77_q5_s1",
+          "subNumber": "a",
+          "text": "Explain Euler's law of motion and derive an expression for the Euler's equation of motion for rigid body.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q5_s2",
+          "subNumber": "b",
+          "text": "Prove that curl of a conservative force is equal to zero.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2022_77_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2022_77_q6_s1",
+          "subNumber": "a",
+          "text": "Write and solve equation of motion of a mass executing simple harmonic oscillation in the presence of a damping force. Also discuss the cases of over damping, critical damping and undamping oscillations.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2022_77_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2022_77_q7_s1",
+          "subNumber": "a",
+          "text": "Show that if the total linear momentum of a system of particles is zero, the angular momentum of the system is the same around all origins.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2022_77_q7_s2",
+          "subNumber": "b",
+          "text": "A particle with a mass of \\( 4kg \\) has a position vector in metre given by \\( r = 3t^2 \\hat i - 2t \\hat j - 3t \\hat k \\), where \\( t \\) is the time in seconds. For \\( t = 3 \\) seconds, determine the magnitude of the angular momentum of the particle and the magnitude of the moment of all forces on the particle, both about the origin of coordinates.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2022_77_q8",
+      "number": 8,
+      "title": "Q.8 Write short notes on the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2022_77_q8_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2022_77_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2022_77_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

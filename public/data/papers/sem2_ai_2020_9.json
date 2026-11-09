@@ -1,0 +1,277 @@
+{
+  "id": "sem2_ai_2020_9",
+  "semester": 2,
+  "subject_code": "ai",
+  "subject_name": "Artificial Intelligence",
+  "year": "2020",
+  "exam_code": "051717",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 7th Semester Special Exam., 2020 Artificial Intelligence Time: 03 Hours Code: 051717 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_ai_2020_9_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_9_q1_s1",
+          "subNumber": "a",
+          "text": "What are the goals of artificial intelligence (AI)?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2020_9_q1_s2",
+          "subNumber": "b",
+          "text": "What is Turing test?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_ai_2020_9_q1_s3",
+          "subNumber": "c",
+          "text": "Define uniformed search.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q1_s4",
+          "subNumber": "d",
+          "text": "Write a short note on MYCIN.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2020_9_q1_s5",
+          "subNumber": "e",
+          "text": "List various schemes of knowledge representation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q1_s6",
+          "subNumber": "f",
+          "text": "What do you mean by agent program?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q1_s7",
+          "subNumber": "g",
+          "text": "Define Skolem constant.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q1_s8",
+          "subNumber": "h",
+          "text": "What are the types of neural networks?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2020_9_q1_s9",
+          "subNumber": "i",
+          "text": "Write a short note on horizon effect.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2020_9_q1_s10",
+          "subNumber": "j",
+          "text": "What are the factors that a rational agent should depend on at any given time?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_9_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_9_q2_s1",
+          "subNumber": "a",
+          "text": "Prove that breadth-first search and depth-first search are special cases of best-first search.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the \\( AO^* \\) algorithm with a suitable example. State the limitations in the algorithm.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_9_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_9_q3_s1",
+          "subNumber": "a",
+          "text": "Explain alpha-beta cutoffs during minimax search.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q3_s2",
+          "subNumber": "b",
+          "text": "Show that the following sentences are inconsistent using propositional logic:<br/> (i) If Jack misses many classes through illness, then he fails high school.<br/> (ii) If Jack fails high school, then he is uneducated.<br/> (iii) If Jack reads a lot of books, then he is not uneducated.<br/> (iv) Jack misses many classes through illness and reads a lot of books.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_9_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_9_q4_s1",
+          "subNumber": "a",
+          "text": "Solve the following crypt-arithmetic problem:<br/> SEND<br/> +MORE<br/> MONEY",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q4_s2",
+          "subNumber": "b",
+          "text": "What is sentence level processing? Explain with example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_9_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_9_q5_s1",
+          "subNumber": "a",
+          "text": "Define Hidden Markov Model (HMM). Illustrate how HMMs are used for speech recognition.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q5_s2",
+          "subNumber": "b",
+          "text": "Prove that the following sentence is valid:<br/> \"If prices fall, then sell increases. If sell increases, then John makes the whole money. But John doesn't make the whole money. Therefore, prices do not fall.\"",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_9_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_9_q6_s1",
+          "subNumber": "a",
+          "text": "Explain Bayesian network by taking an example. How is the Bayesian network powerful representation for uncertainty knowledge?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q6_s2",
+          "subNumber": "b",
+          "text": "Write short notes on (i) discrete model/maximum-likelihood parameter learning and (ii) continuous model.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_9_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_9_q7_s1",
+          "subNumber": "a",
+          "text": "Differentiate between forward and backward chaining of inference with the help of an example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q7_s2",
+          "subNumber": "b",
+          "text": "What do you mean by structured representation of the knowledge? Discuss different types of structured representations of knowledge.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_9_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_9_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss STRIPS robot problem solving system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2020_9_q8_s2",
+          "subNumber": "b",
+          "text": "Write a function in LISP that computes prime number between 1 and 25 (inclusive).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2020_9_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2020_9_q9_s1",
+          "subNumber": "a",
+          "text": "Why is Natural Language Processing (NLP) used? Is NLP difficult to learn? Explain.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_ai_2020_9_q9_s2",
+          "subNumber": "b",
+          "text": "Discuss five application areas of medicine in which artificial intelligence is applied.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

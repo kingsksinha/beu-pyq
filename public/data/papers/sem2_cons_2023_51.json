@@ -1,0 +1,293 @@
+{
+  "id": "sem2_cons_2023_51",
+  "semester": 2,
+  "subject_code": "cons",
+  "subject_name": "Analysis and Design of Concrete Structure",
+  "year": "2023",
+  "exam_code": "101501",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 5th Semester Examination, 2023 Analysis and Design of Concrete Structure Time: 03 Hours Code: 101501 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Assume suitable missing data.",
+    "IS 456:2000 is allowed."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cons_2023_51_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/ answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2023_51_q1_s1",
+          "subNumber": "a",
+          "text": "The maximum area of tension reinforcement in beams shall not exceed-",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2%",
+            "4%",
+            "0.15%",
+            "0.12%"
+          ]
+        },
+        {
+          "id": "sem2_cons_2023_51_q1_s2",
+          "subNumber": "b",
+          "text": "Longitudinal bars diameter in column design should never be less than-",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "6 mm",
+            "8 mm",
+            "12 mm",
+            "10 mm"
+          ]
+        },
+        {
+          "id": "sem2_cons_2023_51_q1_s3",
+          "subNumber": "c",
+          "text": "RCC columns is treated as long if its slenderness ratio is greater than-",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "30",
+            "40",
+            "35",
+            "50"
+          ]
+        },
+        {
+          "id": "sem2_cons_2023_51_q1_s4",
+          "subNumber": "d",
+          "text": "An RCC beam not given shear reinforcement may lead to development of crack in its bottom inclined roughly to the horizontal at-",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 25^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 55^{\\circ} \\)"
+          ]
+        },
+        {
+          "id": "sem2_cons_2023_51_q1_s5",
+          "subNumber": "e",
+          "text": "The recommended imposed load on staircase in residential building as per IS 875 is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 5 \\, kN/m^2 \\)",
+            "\\( 3 \\, kN/m^2 \\)",
+            "\\( 1.5 \\, kN/m^2 \\)",
+            "\\( 1.2 \\, kN/m^2 \\)"
+          ]
+        },
+        {
+          "id": "sem2_cons_2023_51_q1_s6",
+          "subNumber": "f",
+          "text": "The modular ratio for M20 grade of concrete is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "13.33",
+            "15.54",
+            "12.89",
+            "11.56"
+          ]
+        },
+        {
+          "id": "sem2_cons_2023_51_q1_s7",
+          "subNumber": "g",
+          "text": "The minimum clear cover for RCC column shall be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "greater of 25 mm or diameter",
+            "greater of 40 mm or diameter",
+            "smaller of 40 mm or diameter",
+            "smaller of 25 mm or diameter"
+          ]
+        },
+        {
+          "id": "sem2_cons_2023_51_q1_s8",
+          "subNumber": "h",
+          "text": "Define partial safety factor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2023_51_q1_s9",
+          "subNumber": "i",
+          "text": "What is SP-16?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2023_51_q1_s10",
+          "subNumber": "j",
+          "text": "What are Imposed loads on building?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2023_51_q2",
+      "number": 2,
+      "title": "Q.2 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2023_51_q2_s1",
+          "subNumber": "a",
+          "text": "Distinguish between working stress and limit state method of design of RCC structure.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2023_51_q2_s2",
+          "subNumber": "b",
+          "text": "Describe briefly about under-reinforced, balanced and over reinforced sections.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cons_2023_51_q2_s3",
+          "subNumber": "c",
+          "text": "Explain how the shear reinforcement improves the strength of beam?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2023_51_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2023_51_q3_s1",
+          "subNumber": "a",
+          "text": "Find the moment of resistance of a singly reinforced concrete beam of 200 mm width and 400 mm effective depth, reinforced with 4 bars of 16 mm diameter of Fe415 steel. Take M20 concrete. Use IS code method.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cons_2023_51_q3_s2",
+          "subNumber": "b",
+          "text": "Explain how neutral axis is located in T-beam sections (at the ultimate limit state) given that it lies outside the flange.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2023_51_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2023_51_q4_s1",
+          "subNumber": "a",
+          "text": "A rectangular reinforced concrete beam located inside a building in coastal town, is simply supported on two 230 mm thick and 6 m apart masonry walls. The beam has to carry, in addition to its own weight a distributed live load of 10 kN/m and a dead load of \\( 5 \\, kN/m \\). Design the beam section for maximum moment at midspan. Assume Fe415 steel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2023_51_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2023_51_q5_s1",
+          "subNumber": "a",
+          "text": "Design a one way slab, with a clear span of 4 m, simply supported on 230 mm thick masonry walls, and subjected to a live load of \\( 4 \\, kN/m^2 \\) and surface finish of \\( 1 \\, kN/m^2 \\). Assume Fe 415 steel. Assume that the slab is subjected to moderate exposure condition.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2023_51_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2023_51_q6_s1",
+          "subNumber": "a",
+          "text": "Design the reinforcement in a column of size 450 mm X 600 mm, subject to an axial load of 2000 kN under the service dead and live loads. The column has an unsupported length of 3 m and is braced against sideway in both the direction. Use M20 concrete and Fe 415 steel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2023_51_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2023_51_q7_s1",
+          "subNumber": "a",
+          "text": "Design a reinforced concrete footing to support a rectangular column of dimensions 300mm x 600mm and subjected to an axial service load 1200 kN at the ground level. The allowable bearing capacity of the underlying soil is \\( 180 \\, kN/m^2 \\) and the footing is at 1.75m below the ground level. Also show full details of dimensions and reinforcement of the footing.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2023_51_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2023_51_q8_s1",
+          "subNumber": "a",
+          "text": "Design and detail a dog-legged stair for an office building for the following data: Clear height between floors = 3.2m, Rise = 160mm, Tread = 270mm width of flight = 1.25m, Landing width = 1.25m Live load = \\( 5 \\, kN/m^2 \\), Load of finish = \\( 1 \\, kN/m^2 \\). Assume the stair to be supported on 230mm thick masonry wall at the outer edges of landing, parallel to the risers. Assume M20 concrete, Fe415 steel and Mild exposure condition. Perform all necessary checks.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2023_51_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the procedure for flexural crack width estimation of reinforced concrete member as per IS 456.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2023_51_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2023_51_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

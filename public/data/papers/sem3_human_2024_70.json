@@ -1,0 +1,316 @@
+{
+  "id": "sem3_human_2024_70",
+  "semester": 3,
+  "subject_code": "human",
+  "subject_name": "Human Resource Development and Organizational Behaviour",
+  "year": "2024",
+  "exam_code": "100407",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 4th Semester Examination, 2024 Human Resource Development and Organizational Behavior Time: 03 Hours Code: 100407 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_human_2024_70_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2024_70_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is NOT a function of Human Resource Management?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Recruitment",
+            "Performance Management",
+            "Staffing",
+            "Selling"
+          ]
+        },
+        {
+          "id": "sem3_human_2024_70_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is NOT a common method of performance appraisal?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Behaviourally Anchored Rating Scale",
+            "360-degree feedback",
+            "Management by Objectives",
+            "Job Enrichment"
+          ]
+        },
+        {
+          "id": "sem3_human_2024_70_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is an example of intrinsic motivation?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Working overtime for extra pay",
+            "Getting good environment",
+            "Feeling a sense of accomplishment from completing a challenging task",
+            "Getting a promotion"
+          ]
+        },
+        {
+          "id": "sem3_human_2024_70_q1_s4",
+          "subNumber": "d",
+          "text": "Aligning the goals and culture of an organization with the personal goals of employees is called:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Work-life balance",
+            "Recruitment",
+            "Job Rotation",
+            "Employee Engagement"
+          ]
+        },
+        {
+          "id": "sem3_human_2024_70_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following leadership styles focuses on rewarding employees for goals achievement?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Autocratic Leadership",
+            "Coercive Leadership",
+            "Laissez-faire Leadership",
+            "Transactional Leadership"
+          ]
+        },
+        {
+          "id": "sem3_human_2024_70_q1_s6",
+          "subNumber": "f",
+          "text": "The theory of motivation that focuses on the idea of employees comparing their inputs and outputs relative to others is called?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Expectancy Theory",
+            "Herzberg's Two-Factor Theory",
+            "Equity Theory",
+            "Maslow's Hierarchy of Needs"
+          ]
+        },
+        {
+          "id": "sem3_human_2024_70_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following is NOT a part of HR planning?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Training and development",
+            "Investment planning",
+            "Learning and development",
+            "Selection"
+          ]
+        },
+        {
+          "id": "sem3_human_2024_70_q1_s8",
+          "subNumber": "h",
+          "text": "Which method is used in job evaluation?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Point Rating Method",
+            "PESTLE Analysis",
+            "SWOT Analysis",
+            "McGregor's Theory X and Y"
+          ]
+        },
+        {
+          "id": "sem3_human_2024_70_q1_s9",
+          "subNumber": "i",
+          "text": "What is the primary goal of job analysis?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "To determine job roles and responsibilities",
+            "To determine job roles and responsibilities",
+            "To improve company branding",
+            "To identify market trends"
+          ]
+        },
+        {
+          "id": "sem3_human_2024_70_q1_s10",
+          "subNumber": "j",
+          "text": "The process of handling disagreements in an organization is referred to as:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Goal Setting",
+            "Motivation",
+            "Conflict Resolution",
+            "Team Building"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2024_70_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2024_70_q2_s1",
+          "subNumber": "a",
+          "text": "What do you understand by Recruitment? Explain external and internal recruitment.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_human_2024_70_q2_s2",
+          "subNumber": "b",
+          "text": "What are the various stages of Recruitment and Selection process?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2024_70_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2024_70_q3_s1",
+          "subNumber": "a",
+          "text": "What is organisation culture? Describe with few examples?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_human_2024_70_q3_s2",
+          "subNumber": "b",
+          "text": "Define Organizational Behaviour. Discuss its relevance to managers and organizations.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2024_70_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2024_70_q4_s1",
+          "subNumber": "a",
+          "text": "What is the primary goal of job analysis? How it helps to improve the performance of employees.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_human_2024_70_q4_s2",
+          "subNumber": "b",
+          "text": "Explain staffing and its relevance in the organisation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2024_70_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2024_70_q5_s1",
+          "subNumber": "a",
+          "text": "Define Human Resource Management (HRM) and explain its significance in modern organizations.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_human_2024_70_q5_s2",
+          "subNumber": "b",
+          "text": "Discuss the concept of leadership. Compare and contrast different leadership styles.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2024_70_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2024_70_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the Maslow's Hierarchy of Needs Theory and its workplace.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_human_2024_70_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the concept of conflict in organizations. How can it be managed effectively?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2024_70_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2024_70_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the concept of Performance Appraisal. What are the different methods of performance appraisal? Describe in detail with few examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2024_70_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2024_70_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the most common type of employee training. Describe in detail with few examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2024_70_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2024_70_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "id": "sem4_trans_2020_89",
+  "semester": 4,
+  "subject_code": "trans",
+  "subject_name": "Transportation Engineering",
+  "year": "2020",
+  "exam_code": "101507",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Examination, 2020 Transportation Engineering Time: 03 Hours Code: 101507 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_trans_2020_89_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option from the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2020_89_q1_s1",
+          "subNumber": "a",
+          "text": "Minimum of 8 m width and 2 m wide shoulders on the following roads are recommended",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following statements is correct? According to the principle of road alignment",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q1_s3",
+          "subNumber": "c",
+          "text": "In the final survey, the centreline stakes are driven at ___ interval in hilly terrain.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q1_s4",
+          "subNumber": "d",
+          "text": "The portion of the roadway between outer edges of carriageway and drains in case of cuttings is known as",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q1_s5",
+          "subNumber": "e",
+          "text": "Maximum camber recommended by IRC is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q1_s6",
+          "subNumber": "f",
+          "text": "For highways, width of the formation in plain area is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q1_s7",
+          "subNumber": "g",
+          "text": "In steep terrain, ruling gradient is limited to",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q1_s8",
+          "subNumber": "h",
+          "text": "For finding stopping distance of a vehicle, the height of line of sight of driver and height of line of obstacle on road are taken as ___ respectively.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q1_s9",
+          "subNumber": "i",
+          "text": "When a vehicle traces a horizontal curve, it is subjected to centrifugal force in ___ direction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q1_s10",
+          "subNumber": "j",
+          "text": "For designing highways, IRC recommends the coefficient of friction as",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2020_89_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2020_89_q2_s1",
+          "subNumber": "a",
+          "text": "Outline and discuss the scope of the highway engineering study.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q2_s2",
+          "subNumber": "b",
+          "text": "Briefly discuss the historical development of road construction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2020_89_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2020_89_q3_s1",
+          "subNumber": "a",
+          "text": "There are five alternative proposals of road plans for a backward district. The details are given below. Justify with reasons, which proposal is the best, assuming utility unit of 0.5, 1.0, 2, 4 and 8 for the five population ranges and 1.0 and 5 per 1000 t of agricultural and industrial products served:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2020_89_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2020_89_q4_s1",
+          "subNumber": "a",
+          "text": "What are the various requirements of an ideal highway alignment? Explain briefly.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q4_s2",
+          "subNumber": "b",
+          "text": "Discuss the general principles in the re-alignment of a highway and explain how the work is carried out.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2020_89_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2020_89_q5_s1",
+          "subNumber": "a",
+          "text": "A national highway passing through a rolling terrain in heavy rainfall area has a horizontal curve of radius 500 m. Design the length of transition curve, assuming suitable data.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2020_89_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2020_89_q6_s1",
+          "subNumber": "a",
+          "text": "State the factor on which the overtaking sight depends. Explain briefly.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q6_s2",
+          "subNumber": "b",
+          "text": "State the objects of widening pavements on horizontal curve. What are the factors on which the design of widening depends? Explain.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2020_89_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2020_89_q7_s1",
+          "subNumber": "a",
+          "text": "The 15-minute traffic counts on crossroads 1 and 2 during peak hour are observed as 178 and 142 vehicles per lane respectively, approaching the intersection in the direction of heavier traffic flow. If the amber time required are 3 and 2 seconds respectively for load based approach speed, design the signal timings by trial cycle method. Assume an average time headway of 2.5 seconds during green phase.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2020_89_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2020_89_q8_s1",
+          "subNumber": "a",
+          "text": "Explain briefly the modified Hubbard Field method of bituminous mix design.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the desirable properties of aggregate to be used in different types of pavement construction.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2020_89_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2020_89_q9_s1",
+          "subNumber": "a",
+          "text": "Write down the construction steps for water bound macadam road.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2020_89_q9_s2",
+          "subNumber": "b",
+          "text": "With the aid of neat sketches, show the different types of joint and their positions.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

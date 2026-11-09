@@ -1,0 +1,252 @@
+{
+  "id": "sem2_dom_2020_84",
+  "semester": 2,
+  "subject_code": "dom",
+  "subject_name": "Dynamics of Machinery",
+  "year": "2020",
+  "exam_code": "021513",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Special Exam., 2020 Dynamics of Machinery Time: 03 Hours Code: 021513 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_dom_2020_84_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2020_84_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following statements is correct about the balancing of mechanical system?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q1_s2",
+          "subNumber": "b",
+          "text": "Secondary forces in reciprocating mass on engine frame are",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q1_s3",
+          "subNumber": "c",
+          "text": "Which motion of follower is best for high speed cams?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q1_s4",
+          "subNumber": "d",
+          "text": "What is meant by jump phenomenon in cam and follower system?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q1_s5",
+          "subNumber": "e",
+          "text": "With usual notations for different parameters involved, the maximum fluctuations of energy for a flywheel is given by",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q1_s6",
+          "subNumber": "f",
+          "text": "What is meant by pitching of ship?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q1_s7",
+          "subNumber": "g",
+          "text": "What is the effect of reactive gyroscopic couple when an aeroplane takes a right turn and propeller rotates in anticlockwise direction?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q1_s8",
+          "subNumber": "h",
+          "text": "What is meant by critical damping coefficient?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q1_s9",
+          "subNumber": "i",
+          "text": "The factor which affects the critical speed of a shaft is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q1_s10",
+          "subNumber": "j",
+          "text": "The ratio of the maximum displacement of the forced vibration to the deflection due to the static force, is known as",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2020_84_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2020_84_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss the balancing of a single rotating mass when the plane of the disturbing mass lies in between the planes of the two balancing masses.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_dom_2020_84_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss the balancing of a single rotating mass when the plane of the disturbing mass lies on one end of the planes of the balancing masses.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2020_84_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2020_84_q3_s1",
+          "subNumber": "a",
+          "text": "Draw the cam profile for following conditions: Follower type = roller follower, offset to the right of cam axis by 18 mm; lift = 35 mm; base circle radius = 50 mm; roller radius = 14 mm; outstroke with SHM in 0.05 sec; dwell for 0.0125 sec; return stroke with UARM, during 0.125 sec; dwell for the remaining period. During return stroke, acceleration is \\( 3/5 \\) times the retardation. Determine maximum velocity and acceleration during outstroke and return stroke if the cam rotates at 240 r.p.m.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2020_84_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2020_84_q4_s1",
+          "subNumber": "a",
+          "text": "Draw the displacement, velocity and acceleration diagrams for a follower when it moves with uniform acceleration and retardation. Derive the expression for velocity and acceleration during outstroke and return stroke of the follower.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2020_84_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2020_84_q5_s1",
+          "subNumber": "a",
+          "text": "During forward stroke of the piston of the double acting steam engine, the turning moment has the maximum value of 2000 N-m when the crank makes an angle of \\( 80^{\\circ} \\) with the inner dead centre. During the backward stroke, the maximum turning moment is 1500 N-m when the crank makes an angle of \\( 80^{\\circ} \\) with the outer dead centre. The turning moment diagram for the engine may be assumed for simplicity to be represented by two triangles. If the crank makes 100 r.p.m. and the radius of gyration of the flywheel is 1.75 m, find the coefficient of fluctuation of energy and the mass of the flywheel to keep the speed within \\( \\pm 0.75\\% \\) of the mean speed. Also determine the crank angle at which the speed has its minimum and maximum values.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2020_84_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2020_84_q6_s1",
+          "subNumber": "a",
+          "text": "A turbine rotor of a ship has a mass of 3500 kg and rotates at a speed of 2000 r.p.m. The rotor has a radius of gyration of 0.5 m and rotates in clockwise direction when viewed from the stern (rear) end. Determine the magnitude of gyroscopic couple and its direction for the following conditions: <br/> (a) When the ship runs at a speed of 12 knots and steers to the left in a curve of 70 m radius. <br/> (b) When the ship pitches \\( 6^{\\circ} \\) above and \\( 6^{\\circ} \\) below the horizontal position and the bow (front) end is lowered. The pitching motion is simple harmonic with periodic time 30 sec. <br/> (c) When the ship rolls and at a certain instant, it has an angular velocity of 0.05 rad/s clockwise when viewed from the stern. Also find the maximum angular acceleration during pitching.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2020_84_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2020_84_q7_s1",
+          "subNumber": "a",
+          "text": "It is said that to balance a single revolving mass, two masses revolving in different planes are necessary. Explain why.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q7_s2",
+          "subNumber": "b",
+          "text": "A two cylinder locomotive has the following specifications: Reciprocating mass per cylinder = 306 kg, Crank radius = 300 mm, Angle between cranks = \\( 90^{\\circ} \\), Driving wheels diameter = 1800 mm, Distance between cylinder centres = 650 mm, Distance between driving wheel planes = 1550 mm. Determine (i) the fraction of reciprocating masses to be balanced, if the hammer blow is not to exceed 46 kN at 96.5 km/hr and (ii) the variation in tractive force.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2020_84_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2020_84_q8_s1",
+          "subNumber": "a",
+          "text": "Define logarithmic decrement. Derive an expression for logarithmic decrement.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2020_84_q8_s2",
+          "subNumber": "b",
+          "text": "A machine mounted on springs and fitted with a dashpot has a mass of 60 kg. There are three springs, each of stiffness 12 N/mm. The amplitude of vibrations reduced from 45 mm to 8 mm in two complete oscillations. Assuming that the damping force varies as the velocity, determine (i) the damping coefficient, (ii) the ratio of frequencies of damped and undamped vibrations and (iii) the periodic time of damped vibrations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2020_84_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2020_84_q9_s1",
+          "subNumber": "a",
+          "text": "Find the natural frequency of vibration of the system shown in the figure below. [The system consists of a mass m attached to a light rod of length L pivoted at point O. A spring of stiffness K is attached horizontally at a distance 'a' from the pivot O.]",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/199.jpg"
+          ]
+        },
+        {
+          "id": "sem2_dom_2020_84_q9_s2",
+          "subNumber": "b",
+          "text": "Define the terms vibration isolation and transmissibility. Explain with the help of transmissibility vs. frequency curves at various damping ratios.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

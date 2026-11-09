@@ -1,0 +1,284 @@
+{
+  "id": "sem2_digc_2023_76",
+  "semester": 2,
+  "subject_code": "digc",
+  "subject_name": "Digital Circuits",
+  "year": "2023",
+  "exam_code": "104403",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2023 Digital Circuits Time: 03 Hours Code: 104403 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_digc_2023_76_q1",
+      "number": 1,
+      "title": "Q.1 Write the short answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digc_2023_76_q1_s1",
+          "subNumber": "a",
+          "text": "Find the hexadecimal equivalent of the decimal number 256.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q1_s2",
+          "subNumber": "b",
+          "text": "What is meant by weighted and non-weighted coding?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q1_s3",
+          "subNumber": "c",
+          "text": "State Demorgan's theorem.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q1_s4",
+          "subNumber": "d",
+          "text": "What do you mean by carry propagation delay?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_digc_2023_76_q1_s5",
+          "subNumber": "e",
+          "text": "What do you mean by Encoder?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_digc_2023_76_q1_s6",
+          "subNumber": "f",
+          "text": "What are the primary disadvantages of an asynchronous counter?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_digc_2023_76_q1_s7",
+          "subNumber": "g",
+          "text": "What are races and cycles?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q1_s8",
+          "subNumber": "h",
+          "text": "Why is MUX called as data selector?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q1_s9",
+          "subNumber": "i",
+          "text": "When can RTL be used to represent digital system?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q1_s10",
+          "subNumber": "j",
+          "text": "Draw the DTL based NAND gate.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digc_2023_76_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_digc_2023_76_q2_s1",
+          "subNumber": "a",
+          "text": "Describe the procedure to design of asynchronous sequential circuit in detail with an example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q2_s2",
+          "subNumber": "b",
+          "text": "What are the disadvantages of asynchronous sequential circuit?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_digc_2023_76_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_digc_2023_76_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the characteristics and about TTL parameters. Discuss implementation of the following digital logic families : (a) CMOS (b) TTL",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss about TTL parameters.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digc_2023_76_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digc_2023_76_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the realization of JK flipflop from T flipflop.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q4_s2",
+          "subNumber": "b",
+          "text": "Design a 4-bit BCD ripple counters.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digc_2023_76_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digc_2023_76_q5_s1",
+          "subNumber": "a",
+          "text": "What is meant by magnitude comparator? Discuss in detail about two bit magnitude comparator.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q5_s2",
+          "subNumber": "b",
+          "text": "Design a full adder using NOR gates.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digc_2023_76_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digc_2023_76_q6_s1",
+          "subNumber": "a",
+          "text": "Explain briefly about SOP and POS forms with example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q6_s2",
+          "subNumber": "b",
+          "text": "Plot the logical expression \\( ABCD+A\\overline{B}\\overline{C}\\overline{D}+A\\overline{B}C+AB \\) on a 4 variable K-map. Obtain the simplified expression from the map.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digc_2023_76_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digc_2023_76_q7_s1",
+          "subNumber": "a",
+          "text": "How does don't care condition in K-map help for circuit simplification?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q7_s2",
+          "subNumber": "b",
+          "text": "Write the POS form of the SOP expression \\( f(x,y,z)=\\overline{X}YZ+XY\\overline{Z}+X\\overline{Y}Z \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digc_2023_76_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digc_2023_76_q8_s1",
+          "subNumber": "a",
+          "text": "Implement the following function using suitable multiplexer. \\( F(a,b,c)=\\Sigma m(3,4,5,7) \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q8_s2",
+          "subNumber": "b",
+          "text": "Implement JK flipflop using SR flipflop.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digc_2023_76_q9",
+      "number": 9,
+      "title": "Q.9 Write Short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digc_2023_76_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Analog to Digital Converter",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q9_s2",
+          "subNumber": "b",
+          "text": "(b) Multivibrator",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digc_2023_76_q9_s3",
+          "subNumber": "c",
+          "text": "(c) Monostable and Astable timer",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

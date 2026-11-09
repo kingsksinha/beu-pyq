@@ -1,0 +1,340 @@
+{
+  "id": "sem4_pe_2020_30",
+  "semester": 4,
+  "subject_code": "pe",
+  "subject_name": "Power Electronics",
+  "year": "2020",
+  "exam_code": "100506",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2020 (New Course) POWER ELECTRONICS Time: 03 Hours Code: 100506 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_pe_2020_30_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2020_30_q1_s1",
+          "subNumber": "a",
+          "text": "It is preferable to use a train of pulse of high frequency for gate triggering of SCR in order to reduce",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( dv/dt \\) problem",
+            "\\( di/dt \\) problem",
+            "the size of the pulse transformer",
+            "the complexity of the firing circuit"
+          ]
+        },
+        {
+          "id": "sem4_pe_2020_30_q1_s2",
+          "subNumber": "b",
+          "text": "Reverse recovery current in a diode depends upon",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "forward field current",
+            "storage charge",
+            "temperature",
+            "PIV"
+          ]
+        },
+        {
+          "id": "sem4_pe_2020_30_q1_s3",
+          "subNumber": "c",
+          "text": "In a 3-phase full-wave a.c. to d.c. converter, the ratio of output-ripple frequency to the supply-voltage frequency is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2",
+            "3",
+            "6",
+            "12"
+          ]
+        },
+        {
+          "id": "sem4_pe_2020_30_q1_s4",
+          "subNumber": "d",
+          "text": "A fully controlled natural commutated 3-phase bridge rectifier is operating with a firing angle \\( \\alpha = 30^{\\circ} \\). The peak to peak voltage ripple expressed as a ratio of the peak output d.c. voltage to the output of the converter bridge is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.5",
+            "\\( 1 - (\\sqrt{3}/2) \\)",
+            "\\( \\sqrt{3} - 1 \\)",
+            "\\( \\sqrt{3}/2 \\)"
+          ]
+        },
+        {
+          "id": "sem4_pe_2020_30_q1_s5",
+          "subNumber": "e",
+          "text": "Natural commutation of a thyristor takes place when",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "anode current becomes zero",
+            "gate current becomes zero",
+            "voltage across the device becomes zero",
+            "voltage across the device becomes negative"
+          ]
+        },
+        {
+          "id": "sem4_pe_2020_30_q1_s6",
+          "subNumber": "f",
+          "text": "A four-quadrant chopper cannot be operated as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "one-quadrant chopper",
+            "cycloconverter",
+            "inverter",
+            "bi-directional rectifier"
+          ]
+        },
+        {
+          "id": "sem4_pe_2020_30_q1_s7",
+          "subNumber": "g",
+          "text": "A boost regulator has an input voltage of 5 V and the average output voltage of 15 V. The duty cycle is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 3/2 \\)",
+            "\\( 2/3 \\)",
+            "\\( 5/2 \\)",
+            "\\( 15/2 \\)"
+          ]
+        },
+        {
+          "id": "sem4_pe_2020_30_q1_s8",
+          "subNumber": "h",
+          "text": "PWM switching is preferred in voltage source inverter for the purpose of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "controlling output voltage",
+            "output harmonics",
+            "reducing filter size",
+            "controlling output voltage, output harmonics and reducing filter size"
+          ]
+        },
+        {
+          "id": "sem4_pe_2020_30_q1_s9",
+          "subNumber": "i",
+          "text": "Compared to a single-phase half-bridge inverter, the output power of a single-phase full-bridge inverter is higher by a factor of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "12",
+            "8",
+            "4",
+            "2"
+          ]
+        },
+        {
+          "id": "sem4_pe_2020_30_q1_s10",
+          "subNumber": "j",
+          "text": "How many switches are used to construct a 3-phase to 3-phase cycloconverter?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "3",
+            "6",
+            "12",
+            "18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2020_30_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2020_30_q2_s1",
+          "subNumber": "a",
+          "text": "A single-phase bridge-type cycloconverter feeds a load R. For an output frequency equal to one-third of the input frequency, sketch output voltage waveform for a firing angle of about \\( 30^{\\circ} \\). Also derive an expression for the r.m.s. output voltage.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2020_30_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the processes of \\( dv/dt \\) triggering and temperature triggering.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2020_30_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2020_30_q3_s1",
+          "subNumber": "a",
+          "text": "A 3-phase bridge inverter delivers power to a resistive load from a 450 V d.c. source. For a star-connected load \\( 10~\\Omega \\) per phase, determine the following for \\( 120^{\\circ} \\) mode of operation:<br/> (i) r.m.s. value of output phase and line voltages<br/> (ii) r.m.s. value of transistor current<br/> (iii) r.m.s. value of load current<br/> (iv) Load power",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2020_30_q3_s2",
+          "subNumber": "b",
+          "text": "Describe the structural features of power diodes. How do these differ from signal diodes?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2020_30_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[5+9=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2020_30_q4_s1",
+          "subNumber": "a",
+          "text": "A single-phase full-converter delivers a constant load current \\( I_0 \\). Express its source current in Fourier series.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2020_30_q4_s2",
+          "subNumber": "b",
+          "text": "Derive the expressions for the following performance parameters with the help of waveforms and Fourier series expression in Question No. 4(a): Input displacement factor, Current distortion factor, Power factor, Total harmonic distortion, Voltage ripple factor, Active and Reactive power inputs.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2020_30_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2020_30_q5_s1",
+          "subNumber": "a",
+          "text": "A battery is charged through a resistor R. If \\( v_s = 220\\sqrt{2} \\sin \\omega t \\), \\( E = 100 \\text{ V} \\) (d.c.) and \\( R = 20~\\Omega \\), calculate the battery charging current and power supplied to the battery.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/68.jpg"
+          ]
+        },
+        {
+          "id": "sem4_pe_2020_30_q5_s2",
+          "subNumber": "b",
+          "text": "Write down any four applications of cycloconverters.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2020_30_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2020_30_q6_s1",
+          "subNumber": "a",
+          "text": "Discuss with relevant waveforms, class-B (resonant-pulse commutation) type of commutation employed for thyristor circuits.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2020_30_q6_s2",
+          "subNumber": "b",
+          "text": "What are forward blocking losses and gate power loss in a thyristor?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2020_30_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2020_30_q7_s1",
+          "subNumber": "a",
+          "text": "For step-down chopper circuit, source voltage \\( V_s = 220 \\text{ V} \\), chopping period \\( T = 2000~\\mu s \\), on period \\( = 600~\\mu s \\), load circuit parameters \\( R = 1~\\Omega \\), \\( L = 5 \\text{ mH} \\) and \\( E = 24 \\text{ V} \\).<br/> (i) Find whether load current is continuous or not.<br/> (ii) Calculate the value of average output current.<br/> (iii) Compute the maximum and minimum values of steady state output currents.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2020_30_q7_s2",
+          "subNumber": "b",
+          "text": "Draw the circuit diagram of step-down chopper, also draw the waveforms of source voltage \\( V_s \\) and output voltage \\( V_0 \\) for duty ratio \\( \\alpha = 0.4 \\) and time period \\( T = 10~\\mu s \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2020_30_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2020_30_q8_s1",
+          "subNumber": "a",
+          "text": "Describe unipolar-voltage switching in a single-phase full-bridge inverter by suitable waveforms for carrier wave, reference wave and output voltage. Show the turn-on and turn-off of various switches in waveforms.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2020_30_q8_s2",
+          "subNumber": "b",
+          "text": "Justify why it is called unipolar-voltage switching inverter or three-level PWM inverter.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2020_30_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2020_30_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the operation of boost converter with voltage and current waveforms across the boost inductor. Assume continuous conduction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2020_30_q9_s2",
+          "subNumber": "b",
+          "text": "Derive its output voltage equation in terms of duty cycle and input voltage.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

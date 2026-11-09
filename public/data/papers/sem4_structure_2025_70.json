@@ -1,0 +1,363 @@
+{
+  "id": "sem4_structure_2025_70",
+  "semester": 4,
+  "subject_code": "structure",
+  "subject_name": "Structural Analysis",
+  "year": "2025",
+  "exam_code": "101408",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. Examination 2025 Structural Analysis (Code: 101408) Time: 03 Hours Code: 101408 Full Marks: 70",
+  "question_count": 10,
+  "total_subquestions": 27,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right‑hand margin.",
+    "There are VIVE questions in this paper.",
+    "It may FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_structure_2025_70_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option / write the answer of the following (Any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_structure_2025_70_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is carried by truss members?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "flexural load",
+            "axial load",
+            "bending load",
+            "shear load"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q1_s2",
+          "subNumber": "b",
+          "text": "When a structural member of the uniform section is subjected to a moment at one end only, then the moment required so as to rotate that end to produce a unit slope, is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Stiffness of member",
+            "Capacity of member",
+            "Potential of member",
+            "Resistance of member"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q1_s3",
+          "subNumber": "c",
+          "text": "Carry over Moment at end B due to moment M applied at end A for the given beam is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "-M",
+            "-M2",
+            "+M",
+            "0"
+          ],
+          "images": [
+            "img/beu/diagram/2nd3rd/5.jpg"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following methods of structural analysis is a force method?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "three moment equation",
+            "slope deflection method",
+            "column analogy method",
+            "moment distribution method"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q1_s5",
+          "subNumber": "e",
+          "text": "Force-displacement requirement of statically indeterminate structures depend upon which factor?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "supports",
+            "material's response"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q1_s6",
+          "subNumber": "f",
+          "text": "In influence line diagrams (ILD)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Points remain fixed, position of load changes",
+            "Points change, position of loads remain fixed",
+            "Both of them changes",
+            "Neither of them changes"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q1_s7",
+          "subNumber": "g",
+          "text": "Maxwell's reciprocal theorem is applicable for only prismatic members.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Prismatic",
+            "Non prismatic"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q1_s8",
+          "subNumber": "h",
+          "text": "If a structure has total 10 joints, then what should be the minimum no. of joints in which equilibrium equations should be concurrently satisfied for stability?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "9",
+            "10"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q1_s9",
+          "subNumber": "i",
+          "text": "Betti's Theorem is based on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Balancing of external and internal forces",
+            "Balancing of work done produced by external and internal loadings",
+            "Balancing of external and internal moments",
+            "Balancing of strain energy produced by external and internal loadings"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q1_s10",
+          "subNumber": "j",
+          "text": "Flexibility matrix is always:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "symmetric",
+            "non‑symmetric",
+            "anti‑symmetric",
+            "depends upon loads applied"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_structure_2025_70_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_structure_2025_70_q2_s1",
+          "subNumber": "a",
+          "text": "Write the Comparison between Force Method and Displacement method. [7]",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_structure_2025_70_q2_s2",
+          "subNumber": "b",
+          "text": "A two‑hinged parabolic arch hinged at the springs at the same level has a horizontal span of \\(20 \\mathrm{m}\\) and a central rise of \\(2 \\mathrm{m}\\). Draw influence line diagrams for (i) Horizontal thrust at support (ii) B.M. at a section \\(5 \\mathrm{m}\\) from the left support. Hence or otherwise find the maximum positive and negative bending moments at the above section due to the passage of a point load of \\(100 \\mathrm{kN}\\) over the span. Assume that the moment of inertia of the arch section varies as the secant of the slope. [7]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_structure_2025_70_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_structure_2025_70_q3_s1",
+          "subNumber": "a",
+          "text": "A continuous beam ABC is hinged at A and C and simply supported at B. It consists of two spans AB = 8 metres and BC = 4 metres. Draw influence lines for the reactants at the supports.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/6.jpg"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q3_s2",
+          "subNumber": "b",
+          "text": "Develop the flexibility matrix for the simply supported beam AB with reference to the coordinates shown in fig.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/7.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_structure_2025_70_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_structure_2025_70_q4_s1",
+          "subNumber": "a",
+          "text": "State Muller Breslau's principle. [7]",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_structure_2025_70_q4_s2",
+          "subNumber": "b",
+          "text": "What is meant by shape factor and also mention the shape factor for (i) circular and (ii) triangular sections. [7]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_structure_2025_70_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_structure_2025_70_q5_s1",
+          "subNumber": "a",
+          "text": "Find out the collapse load for the continuous beam of uniform section and loaded as given below figure in terms of its plastic moment \\(M_P\\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/8.jpg"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q5_s2",
+          "subNumber": "b",
+          "text": "Discuss the detailed design steps for the design of column with axial load and bi axial bending. [7]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_structure_2025_70_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_structure_2025_70_q6_s1",
+          "subNumber": "a",
+          "text": "A continuous beam ABC consists of spans AB and BC of \\(5 \\mathrm{m}\\) length in each. Both the ends of the beam are fixed. The span AB carries a point load of \\(15 \\mathrm{kN}\\) at its middle point. The span BC carries a point load of \\(25 \\mathrm{kN}\\) at its middle point. Find the moments and reactions at the supports. Assume the beam is of uniform section. Use Slope deflection method. [7]",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_structure_2025_70_q6_s2",
+          "subNumber": "b",
+          "text": "State the difference between strain energy method and unit load method in the determination of deflection of structures. [7]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_structure_2025_70_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_structure_2025_70_q7_s1",
+          "subNumber": "a",
+          "text": "Draw the bending moment diagram and shear force diagram for the continuous beam shown in figure below using moment distribution method.",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/9.jpg"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q7_s2",
+          "subNumber": "b",
+          "text": "Explain the steps involved in the analysis of the frame by cantilever method [7]",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_structure_2025_70_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_structure_2025_70_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the principle of virtual work and its significance in structural analysis. [7]",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_structure_2025_70_q8_s2",
+          "subNumber": "b",
+          "text": "Compare the behaviour of a three hinged arch and a fixed arch under loading conditions. [7]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_structure_2025_70_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": []
+    },
+    {
+      "id": "sem4_structure_2025_70_q10",
+      "number": 10,
+      "title": "Q.9 Answer any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_structure_2025_70_q10_s1",
+          "subNumber": "a",
+          "text": "Explain the steps involved in the determination of deflection of pin jointed plane frames and rigid plane frames.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_structure_2025_70_q10_s2",
+          "subNumber": "b",
+          "text": "Analyse the truss shown in figure by stiffness method.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/10.jpg"
+          ]
+        },
+        {
+          "id": "sem4_structure_2025_70_q10_s3",
+          "subNumber": "c",
+          "text": "Explain the castigliano's second theorem and apply it to simply supported beam under a concentrated load.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

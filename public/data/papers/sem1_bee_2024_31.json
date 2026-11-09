@@ -1,0 +1,329 @@
+{
+  "id": "sem1_bee_2024_31",
+  "semester": 1,
+  "subject_code": "bee",
+  "subject_name": "Basic Electrical Engineering",
+  "year": "2024",
+  "exam_code": "100101",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 (Old) Basic Electrical Engineering Time: 03 Hours Code: 100101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 6,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_bee_2024_31_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_31_q1_s1",
+          "subNumber": "a",
+          "text": "Ohms law is applicable to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Semiconductors",
+            "Vacuum tubes",
+            "Carbon resistors",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_31_q1_s2",
+          "subNumber": "b",
+          "text": "The condition for maximum power transfer from a voltage source to load is",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "the source impedance is half of the load impedance",
+            "the source impedance is equal to the load impedance",
+            "the source impedance is twice that of the load impedance",
+            "the source impedance and load impedance both must be zero"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_31_q1_s3",
+          "subNumber": "c",
+          "text": "The time constant of RL circuit is?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "1/RL",
+            "R/L",
+            "RL",
+            "L/R"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_31_q1_s4",
+          "subNumber": "d",
+          "text": "The superposition theorem is used when the circuit contains.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A single voltage source",
+            "Passive elements only",
+            "A number of voltage sources",
+            "All the above"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_31_q1_s5",
+          "subNumber": "e",
+          "text": "The power factor in an AC circuit is defined as the ratio of:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Active power to reactive power",
+            "Apparent power to active power",
+            "Active power to apparent power",
+            "Apparent power to reactive power"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_31_q1_s6",
+          "subNumber": "f",
+          "text": "If 20, 30, and 50 ohms are connected in delta connection, then what are its equivalent values (in ohms) in star connection?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "6, 10, 10",
+            "6, 10, 15",
+            "15, 15, 10",
+            "6, 15, 15"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_31_q1_s7",
+          "subNumber": "g",
+          "text": "In a balanced three-phase system, the phase difference between any two phases is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 180^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 120^{\\circ} \\)"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_31_q1_s8",
+          "subNumber": "h",
+          "text": "The main function of the commutator in a DC machine is to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Reduce losses",
+            "Convert AC to DC",
+            "Reverse current direction in armature winding",
+            "Provide insulation"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_31_q1_s9",
+          "subNumber": "i",
+          "text": "In a series RLC circuit, resonance occurs when:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( X_{L}=X_{C} \\)",
+            "\\( X_{L}&gt;X_{C} \\)",
+            "\\( X_{L}=R \\)",
+            "\\( R=X_{C} \\)"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_31_q1_s10",
+          "subNumber": "j",
+          "text": "Which tool is commonly used for desoldering?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Multimeter",
+            "Breadboard",
+            "Soldering iron",
+            "Solder sucker"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_31_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_31_q2_s1",
+          "subNumber": "a",
+          "text": "State and prove Maximum Power Transfer Theorem for a DC network. Calculate the maximum power for a given network.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2024_31_q2_s2",
+          "subNumber": "b",
+          "text": "[Question text missing from original document, likely related to circuit analysis]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_31_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_31_q3_s1",
+          "subNumber": "a",
+          "text": "State Norton's Theorem and draw the Norton's equivalent circuit.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2024_31_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss the difference between ideal and practical voltage and current source. Differentiate among real, reactive and apparent power.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_31_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_31_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss the analogy between the electrical and magnetic circuit.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2024_31_q4_s2",
+          "subNumber": "b",
+          "text": "A resistor R ohms and capacitor 5\\(\\mu\\)F are connected in series across a 200V dc supply. Calculate the value of R such that the voltage across the capacitor becomes 100V in 5 secs after the circuit is switched on.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_31_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_31_q5_s1",
+          "subNumber": "a",
+          "text": "A coil has resistance of 7ohm and inductance of 3.18mH connected to 230V, 50Hz supply. Calculate: (i) phase angle (ii) power factor (iii) power consumed (iv) voltage drop across R and L.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2024_31_q5_s2",
+          "subNumber": "b",
+          "text": "Describe the idea behind phasors. How do phasors depict voltages and currents that fluctuate sinusoidally?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_31_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_31_q6_s1",
+          "subNumber": "a",
+          "text": "What is power factor? Discuss its importance in electrical systems, causes of low power factor, and methods of improvement.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2024_31_q6_s2",
+          "subNumber": "b",
+          "text": "Describe the difference between star and delta connections.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_31_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_31_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the single-phase transformer's design and operation. Determine the EMF formula.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2024_31_q7_s2",
+          "subNumber": "b",
+          "text": "Describe the construction and working principle of a DC generator. Derive the EMF equation.",
+          "freq": 6,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_31_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_31_q8_s1",
+          "subNumber": "a",
+          "text": "What are the general rules and guidelines for electrical installation in residential wiring? Include any relevant safety standards.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_31_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_31_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Application of KCL &amp; KVL in DC Circuit",
+            "Hysteresis and Eddy Current Loss",
+            "Resonance",
+            "Working of DC Motor"
+          ]
+        }
+      ]
+    }
+  ]
+}

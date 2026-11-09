@@ -1,0 +1,316 @@
+{
+  "id": "sem2_impact_2023_33",
+  "semester": 2,
+  "subject_code": "impact",
+  "subject_name": "Civil Engineering - Societal & Global Impact",
+  "year": "2023",
+  "exam_code": "101401",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam-2023 Civil Engineering Societal and Global Impact Time: 03 Hours Code: 101401 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_impact_2023_33_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven questions only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2023_33_q1_s1",
+          "subNumber": "a",
+          "text": "The first Human Development report was published by the United Nations Development Programme (UNDP) in the year..",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1905",
+            "1945",
+            "1990",
+            "1975"
+          ]
+        },
+        {
+          "id": "sem2_impact_2023_33_q1_s2",
+          "subNumber": "b",
+          "text": "The process of producing energy by utilizing heat trapped inside the earth surface is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Hydrothermal energy",
+            "Geo-thermal energy",
+            "Solar energy",
+            "Wave energy"
+          ]
+        },
+        {
+          "id": "sem2_impact_2023_33_q1_s3",
+          "subNumber": "c",
+          "text": "LEED means",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Leadership in Energy and Efficiency Design",
+            "Leadership in Energy and Efficiency Document",
+            "Leadership in Energy and Environmental Design",
+            "Leadership in Energy and Environmental Document"
+          ]
+        },
+        {
+          "id": "sem2_impact_2023_33_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following is not a Green house gas?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Methane",
+            "Hydrogen",
+            "Nitrous Oxide",
+            "Ozone"
+          ]
+        },
+        {
+          "id": "sem2_impact_2023_33_q1_s5",
+          "subNumber": "e",
+          "text": "The type of coiling in DNA is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Zig-Zag",
+            "Left-handed",
+            "Opposite",
+            "Right-handed"
+          ]
+        },
+        {
+          "id": "sem2_impact_2023_33_q1_s6",
+          "subNumber": "f",
+          "text": "Totipotency refers to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Development of fruits from flowers in a culture",
+            "Development of an organ from a cell in a culture medium",
+            "Flowering in a culture medium",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_impact_2023_33_q1_s7",
+          "subNumber": "g",
+          "text": "In biostatics, group of individuals taken for study is called as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "block",
+            "population",
+            "group",
+            "flock"
+          ]
+        },
+        {
+          "id": "sem2_impact_2023_33_q1_s8",
+          "subNumber": "h",
+          "text": "With reference to 'Hyperloop', which of the following statement is/are correct? (I) Hyperloop is a futuristic transportation concept that intends to transport people to their destinations at super speeds. (II) Frictional losses and high maintenance costs are the main impediments in implementing hyperloop technology.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_impact_2023_33_q1_s9",
+          "subNumber": "i",
+          "text": "Floods can be prevented by",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "afforestation",
+            "cutting the forest",
+            "tilling the land",
+            "removing the top soil"
+          ]
+        },
+        {
+          "id": "sem2_impact_2023_33_q1_s10",
+          "subNumber": "j",
+          "text": "Which ISO 14000 series standard refers to the guidelines on Environmental Performance Evaluation?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "ISO 14001",
+            "ISO 14004",
+            "ISO 14010",
+            "ISO 14031"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2023_33_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2023_33_q2_s1",
+          "subNumber": "a",
+          "text": "What do you mean by tissue culture? Write difference between animal and plant tissue culture. Discuss in detail the use of tissue culture in agriculture and pharmaceutical industry.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2023_33_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2023_33_q3_s1",
+          "subNumber": "a",
+          "text": "(a) Write a note on India's ecological footprint.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_impact_2023_33_q3_s2",
+          "subNumber": "b",
+          "text": "(b) What are the salient features of Environmental protection Act, 1986.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2023_33_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2023_33_q4_s1",
+          "subNumber": "a",
+          "text": "(a) What were socio-economic effects of the Industrial Revolution? Explain in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_impact_2023_33_q4_s2",
+          "subNumber": "b",
+          "text": "(b) What are the techniques adopted for reduction of green house emission in civil engineering projects.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2023_33_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2023_33_q5_s1",
+          "subNumber": "a",
+          "text": "(a) What are the methods to ensure sustainability.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_impact_2023_33_q5_s2",
+          "subNumber": "b",
+          "text": "(b) Discuss the role of civil Engineering in shaping the world.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2023_33_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2023_33_q6_s1",
+          "subNumber": "a",
+          "text": "(a) Enlist the modern engineering marvels of India. Describe any one in details.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_impact_2023_33_q6_s2",
+          "subNumber": "b",
+          "text": "(b) Write short notes on: (a) Agricultural Revolution (b) Water Provisioning",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2023_33_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2023_33_q7_s1",
+          "subNumber": "a",
+          "text": "(a) What are the modes of transportation in India. Explain any on futuristic infrastructure project for transportation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_impact_2023_33_q7_s2",
+          "subNumber": "b",
+          "text": "(b) List seven measures to be taken as a civil Engineering for improving the quality of stakeholders.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2023_33_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2023_33_q8_s1",
+          "subNumber": "a",
+          "text": "List various non conventional sources of energy. Explain any four in detail emphasising two potential and limitations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2023_33_q9",
+      "number": 9,
+      "title": "Q.9 Write a note on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2023_33_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

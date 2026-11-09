@@ -1,0 +1,264 @@
+{
+  "id": "sem1_phy_2022_46",
+  "semester": 1,
+  "subject_code": "phy",
+  "subject_name": "Engineering Physics",
+  "year": "2022",
+  "exam_code": "102101",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam-2022 Physics (Electromagnetism) Time: 03 Hours Code: 102101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Symbols used (if any) have their usual meanings."
+  ],
+  "questions": [
+    {
+      "id": "sem1_phy_2022_46_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_46_q1_s1",
+          "subNumber": "a",
+          "text": "Define electric polarization.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q1_s2",
+          "subNumber": "b",
+          "text": "Write down Laplace’s equation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q1_s3",
+          "subNumber": "c",
+          "text": "Define displacement current.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q1_s4",
+          "subNumber": "d",
+          "text": "What is the physical interpretation of bound charges?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q1_s5",
+          "subNumber": "e",
+          "text": "Define diamagnetism. Give two examples of diamagnetic materials.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q1_s6",
+          "subNumber": "f",
+          "text": "With necessary expression, explain standing wave ratio.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q1_s7",
+          "subNumber": "g",
+          "text": "What do you mean by skin effect?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_phy_2022_46_q1_s8",
+          "subNumber": "h",
+          "text": "Explain the terms motional e.m.f. and transformer e.m.f.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q1_s9",
+          "subNumber": "i",
+          "text": "Differentiate between conduction and convection current.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q1_s10",
+          "subNumber": "j",
+          "text": "What is meant by retarded potential?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_46_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_46_q2_s1",
+          "subNumber": "a",
+          "text": "Find the electric field at a distance \\( z \\) above the centre of a circular loop (radius R) carrying uniform linear charge \\( \\lambda \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q2_s2",
+          "subNumber": "b",
+          "text": "Write down the expression for electric field due to surface charge distribution of volume charge density \\( \\rho \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_46_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_46_q3_s1",
+          "subNumber": "a",
+          "text": "Derive the expression for Transmission coefficient of electromagnetic waves from a non-conducting medium–vacuum interface for normal incidence.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_46_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_46_q4_s1",
+          "subNumber": "a",
+          "text": "A point charge \\( q \\) is situated at a distance a from the centre of a grounded conduction sphere of radius R. Using the method of images, find the potential outside the sphere.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q4_s2",
+          "subNumber": "b",
+          "text": "Explain Faraday cage? What is the electrical force inside a Faraday cage when it is struck by lightning?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_46_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_46_q5_s1",
+          "subNumber": "a",
+          "text": "Derive continuity equation for current densities.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q5_s2",
+          "subNumber": "b",
+          "text": "State and derive Poynting theorem.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_46_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_46_q6_s1",
+          "subNumber": "a",
+          "text": "Derive the boundary conditions for electrostatic field intensity and electric flux density at (i) the interface between two dielectrics and (ii) the interface between a perfect conductor and a dielectric.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q6_s2",
+          "subNumber": "b",
+          "text": "A long spherical cloud of radius \\( r \\) has a uniform volume charge distribution of \\( \\rho_v \\). Calculate the potential distribution and the electric field at any point in space using Poisson’s and Laplace’s equations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_46_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_46_q7_s1",
+          "subNumber": "a",
+          "text": "A solenoid of radius 4 mm and length 2 cm has 150 turns/m and carries current 500 mA. Find- (i) \\( |H| \\) at the centre (ii) \\( |H| \\) at the ends of the solenoid.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q7_s2",
+          "subNumber": "b",
+          "text": "Determine whether the following potential equations satisfy Laplace's equation or not: (i) \\( V = 2x^2 - 4y^2 + z^2 \\) (ii) \\( V = r^2 \\cos \\phi + \\theta \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_46_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_46_q8_s1",
+          "subNumber": "a",
+          "text": "State Ampere's circuit law. Write its application.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_46_q8_s2",
+          "subNumber": "b",
+          "text": "A hollow conducting cylinder has inner radius a and outer radius b and carries current I along the positive z-direction. Find H everywhere.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_46_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_46_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

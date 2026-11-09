@@ -1,0 +1,250 @@
+{
+  "id": "sem3_geology_2016_62",
+  "semester": 3,
+  "subject_code": "geology",
+  "subject_name": "Engineering Geology",
+  "year": "2016",
+  "exam_code": "011305",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 3rd Semester Examination, 2016 Engineering Geology Time: 03 Hours Code: 011305 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 5,
+  "has_mcq": false,
+  "instructions": [
+    "There are Nine Questions in this Paper.",
+    "Attempt Five questions in all.",
+    "Question No. 1 is Compulsory.",
+    "The marks are indicated in the right hand margin.",
+    "Make the diagram essentially wherever it is required."
+  ],
+  "questions": [
+    {
+      "id": "sem3_geology_2016_62_q1",
+      "number": 1,
+      "title": "Q.1 Write in short limiting to five sentences:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2016_62_q1_s1",
+          "subNumber": "a",
+          "text": "Diagnostic physical properties of Fluorite",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_geology_2016_62_q1_s2",
+          "subNumber": "b",
+          "text": "Characteristics of sand dunes.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_geology_2016_62_q1_s3",
+          "subNumber": "c",
+          "text": "Recumbent Fold.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2016_62_q1_s4",
+          "subNumber": "d",
+          "text": "Over thrust.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2016_62_q1_s5",
+          "subNumber": "e",
+          "text": "Unconfined Aqifer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2016_62_q1_s6",
+          "subNumber": "f",
+          "text": "L-wave characteristics.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_geology_2016_62_q1_s7",
+          "subNumber": "g",
+          "text": "Megascopic properties of any non-clastic sedimentary rock",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2016_62_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2016_62_q2_s1",
+          "subNumber": "a",
+          "text": "Describe the landforms developed by glaciers during young and mature stage.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_geology_2016_62_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the texture observed in Granite rock.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2016_62_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2016_62_q3_s1",
+          "subNumber": "a",
+          "text": "Describe the components of Fault and classification of Fault.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem3_geology_2016_62_q3_s2",
+          "subNumber": "b",
+          "text": "Explain the difference between the plunging and Non-Plunging Fold.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2016_62_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2016_62_q4_s1",
+          "subNumber": "a",
+          "text": "Describe the causes of earthquakes and its classification.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem3_geology_2016_62_q4_s2",
+          "subNumber": "b",
+          "text": "Surface and sub-surface investigation for selection of Tunnelling site.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2016_62_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2016_62_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the stratigraphy of Gondwana basin.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2016_62_q5_s2",
+          "subNumber": "b",
+          "text": "Concept of Dip and strike and its application.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2016_62_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2016_62_q6_s1",
+          "subNumber": "a",
+          "text": "Describe the classification of Metamorphic rocks.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem3_geology_2016_62_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the principle and application of seismic method.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2016_62_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2016_62_q7_s1",
+          "subNumber": "a",
+          "text": "Concept of GPS and its application in different geological investigations.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_geology_2016_62_q7_s2",
+          "subNumber": "b",
+          "text": "Describe the different layers of Atmosphere and their characteristics.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2016_62_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2016_62_q8_s1",
+          "subNumber": "a",
+          "text": "Write down the different textures of igneous rocks.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_geology_2016_62_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the crystal system and their axis of symmetry.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2016_62_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2016_62_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

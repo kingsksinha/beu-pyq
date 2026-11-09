@@ -1,0 +1,1418 @@
+[
+  {
+    "code": "adcom",
+    "name": "Analog & Digital Communication System",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2020",
+      "2021"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 52,
+    "maxFreq": 3
+  },
+  {
+    "code": "analog",
+    "name": "Analog Circuits",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2020",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 126,
+    "maxFreq": 4
+  },
+  {
+    "code": "anacom",
+    "name": "Analog Communication",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 46,
+    "maxFreq": 1
+  },
+  {
+    "code": "cons",
+    "name": "Analysis and Design of Concrete Structure",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 91,
+    "maxFreq": 2
+  },
+  {
+    "code": "ath",
+    "name": "Applied Thermodynamics",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2022"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 25,
+    "maxFreq": 1
+  },
+  {
+    "code": "ai",
+    "name": "Artificial Intelligence",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2019",
+      "2020",
+      "2022"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 102,
+    "maxFreq": 3
+  },
+  {
+    "code": "automan",
+    "name": "Automation in Manufacturing",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2022"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 18,
+    "maxFreq": 1
+  },
+  {
+    "code": "bee",
+    "name": "Basic Electrical Engineering",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paperCount": 9,
+    "totalSubquestions": 242,
+    "maxFreq": 7
+  },
+  {
+    "code": "electronics",
+    "name": "Basic Electronics",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2020",
+      "2024",
+      "2025"
+    ],
+    "paperCount": 6,
+    "totalSubquestions": 157,
+    "maxFreq": 10
+  },
+  {
+    "code": "be",
+    "name": "Basic Electronics",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2020",
+      "2021"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 130,
+    "maxFreq": 6
+  },
+  {
+    "code": "bio",
+    "name": "Biology",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2024"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 97,
+    "maxFreq": 4
+  },
+  {
+    "code": "impact",
+    "name": "Civil Engineering - Societal & Global Impact",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 64,
+    "maxFreq": 3
+  },
+  {
+    "code": "eng",
+    "name": "Communicative English",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paperCount": 9,
+    "totalSubquestions": 179,
+    "maxFreq": 8
+  },
+  {
+    "code": "cd",
+    "name": "Compiler Design",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2017",
+      "2018",
+      "2019",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 128,
+    "maxFreq": 9
+  },
+  {
+    "code": "cn",
+    "name": "Computer Networks",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2023"
+    ],
+    "paperCount": 6,
+    "totalSubquestions": 150,
+    "maxFreq": 4
+  },
+  {
+    "code": "cns",
+    "name": "Computer Networks and Security",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2020"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 18,
+    "maxFreq": 1
+  },
+  {
+    "code": "coa",
+    "name": "Computer Organization & Architecture",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2017",
+      "2019",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 113,
+    "maxFreq": 3
+  },
+  {
+    "code": "cem",
+    "name": "Construction Engineering & Management",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 42,
+    "maxFreq": 1
+  },
+  {
+    "code": "cs",
+    "name": "Control Systems",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2012",
+      "2020"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 45,
+    "maxFreq": 3
+  },
+  {
+    "code": "dsa",
+    "name": "Data Structure and Algorithms",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2019",
+      "2020",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 120,
+    "maxFreq": 3
+  },
+  {
+    "code": "dbms",
+    "name": "Database Management Systems",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2017",
+      "2019",
+      "2020",
+      "2022"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 92,
+    "maxFreq": 2
+  },
+  {
+    "code": "daa",
+    "name": "Design and Analysis of Algorithms",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2018",
+      "2019",
+      "2020",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 110,
+    "maxFreq": 4
+  },
+  {
+    "code": "dome",
+    "name": "Design of Machine Elements",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2014",
+      "2018",
+      "2019",
+      "2022",
+      "2024"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 103,
+    "maxFreq": 2
+  },
+  {
+    "code": "doss",
+    "name": "Design of Steel Structure",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2018",
+      "2019",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 112,
+    "maxFreq": 3
+  },
+  {
+    "code": "digc",
+    "name": "Digital Circuits",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2023"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 27,
+    "maxFreq": 2
+  },
+  {
+    "code": "digicom",
+    "name": "Digital Communication",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2022",
+      "2024"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 52,
+    "maxFreq": 2
+  },
+  {
+    "code": "de",
+    "name": "Digital Electronics",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2020",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 91,
+    "maxFreq": 3
+  },
+  {
+    "code": "dsp",
+    "name": "Digital Signal Processing",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2024"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 26,
+    "maxFreq": 2
+  },
+  {
+    "code": "disaster",
+    "name": "Disaster Preparedness & Planning",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 43,
+    "maxFreq": 5
+  },
+  {
+    "code": "discrete",
+    "name": "Discrete Mathematics",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2015",
+      "2016",
+      "2018",
+      "2019",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 7,
+    "totalSubquestions": 172,
+    "maxFreq": 4
+  },
+  {
+    "code": "dom",
+    "name": "Dynamics of Machinery",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2016",
+      "2017",
+      "2018",
+      "2020"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 84,
+    "maxFreq": 3
+  },
+  {
+    "code": "eca",
+    "name": "Electrical Circuit Analysis",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2020",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 103,
+    "maxFreq": 7
+  },
+  {
+    "code": "emachines1",
+    "name": "Electrical Machine-I",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2020"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 55,
+    "maxFreq": 2
+  },
+  {
+    "code": "emachines2",
+    "name": "Electrical Machines - II",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2017",
+      "2018",
+      "2019",
+      "2022",
+      "2024"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 119,
+    "maxFreq": 5
+  },
+  {
+    "code": "emft",
+    "name": "Electromagnetic Field Theory",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2013",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 107,
+    "maxFreq": 3
+  },
+  {
+    "code": "emth",
+    "name": "Electromagnetic Theory",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 49,
+    "maxFreq": 3
+  },
+  {
+    "code": "eim",
+    "name": "Electronics Instruments And Measurement",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2024"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 26,
+    "maxFreq": 2
+  },
+  {
+    "code": "eme",
+    "name": "Elements of Mechanical Engineering",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2014",
+      "2015",
+      "2016",
+      "2025"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 135,
+    "maxFreq": 7
+  },
+  {
+    "code": "che",
+    "name": "Engineering Chemistry",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2024",
+      "2025"
+    ],
+    "paperCount": 9,
+    "totalSubquestions": 253,
+    "maxFreq": 4
+  },
+  {
+    "code": "geology",
+    "name": "Engineering Geology",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 105,
+    "maxFreq": 5
+  },
+  {
+    "code": "egd",
+    "name": "Engineering Graphics & Design",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2024",
+      "2025"
+    ],
+    "paperCount": 9,
+    "totalSubquestions": 175,
+    "maxFreq": 5
+  },
+  {
+    "code": "math3",
+    "name": "Engineering Mathematics - III",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2018",
+      "2020",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 6,
+    "totalSubquestions": 154,
+    "maxFreq": 6
+  },
+  {
+    "code": "math1",
+    "name": "Engineering Mathematics-1",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 7,
+    "totalSubquestions": 180,
+    "maxFreq": 13
+  },
+  {
+    "code": "math2",
+    "name": "Engineering Mathematics-2",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2019",
+      "2021",
+      "2025"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 100,
+    "maxFreq": 9
+  },
+  {
+    "code": "mechanics",
+    "name": "Engineering Mechanics",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 6,
+    "totalSubquestions": 145,
+    "maxFreq": 4
+  },
+  {
+    "code": "em",
+    "name": "Engineering Mechanics",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2023"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 122,
+    "maxFreq": 2
+  },
+  {
+    "code": "phy",
+    "name": "Engineering Physics",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paperCount": 8,
+    "totalSubquestions": 196,
+    "maxFreq": 5
+  },
+  {
+    "code": "env1",
+    "name": "Environmental Engineering -I",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 74,
+    "maxFreq": 3
+  },
+  {
+    "code": "env2",
+    "name": "Environmental Engineering-II",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2018",
+      "2019",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 121,
+    "maxFreq": 3
+  },
+  {
+    "code": "flmach",
+    "name": "Fluid Machinery",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2018",
+      "2019",
+      "2020",
+      "2022"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 135,
+    "maxFreq": 4
+  },
+  {
+    "code": "fluid",
+    "name": "Fluid Mechanics",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 7,
+    "totalSubquestions": 184,
+    "maxFreq": 3
+  },
+  {
+    "code": "formal",
+    "name": "Formal Language & Automata Theory",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 119,
+    "maxFreq": 4
+  },
+  {
+    "code": "geotech1",
+    "name": "Geotechnical Engineering -I",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 75,
+    "maxFreq": 2
+  },
+  {
+    "code": "geotech2",
+    "name": "Geotechnical Engineering-II",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2022",
+      "2024"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 49,
+    "maxFreq": 2
+  },
+  {
+    "code": "heat",
+    "name": "Heat Transfer",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2020"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 31,
+    "maxFreq": 2
+  },
+  {
+    "code": "human",
+    "name": "Human Resource Development and Organizational Behaviour",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 62,
+    "maxFreq": 4
+  },
+  {
+    "code": "hydraulic",
+    "name": "Hydraulic Engineering",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 95,
+    "maxFreq": 2
+  },
+  {
+    "code": "hydro",
+    "name": "Hydrology & Water Resources Engineering",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 115,
+    "maxFreq": 2
+  },
+  {
+    "code": "instrumentation",
+    "name": "Instrumentation & Control",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2022"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 23,
+    "maxFreq": 1
+  },
+  {
+    "code": "iwd",
+    "name": "Introduction to Web Design",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2025"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 26,
+    "maxFreq": 2
+  },
+  {
+    "code": "itw",
+    "name": "IT Workshop",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2024"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 25,
+    "maxFreq": 2
+  },
+  {
+    "code": "kom",
+    "name": "Kinematics of Machinery",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2013",
+      "2018"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 45,
+    "maxFreq": 1
+  },
+  {
+    "code": "lint",
+    "name": "Linear Integrated Circuits and Applications",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2020"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 24,
+    "maxFreq": 3
+  },
+  {
+    "code": "ml",
+    "name": "Machine Learning",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2023"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 25,
+    "maxFreq": 2
+  },
+  {
+    "code": "mantech",
+    "name": "Manufacturing Technology",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2019",
+      "2022",
+      "2024"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 73,
+    "maxFreq": 5
+  },
+  {
+    "code": "mats",
+    "name": "Material Science and Engineering",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2013",
+      "2015",
+      "2017"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 85,
+    "maxFreq": 2
+  },
+  {
+    "code": "mte",
+    "name": "Materials, Testing & Evaluation",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 75,
+    "maxFreq": 3
+  },
+  {
+    "code": "mains",
+    "name": "Measurements and Instrumentation",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2022",
+      "2024"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 53,
+    "maxFreq": 4
+  },
+  {
+    "code": "mech",
+    "name": "Mechanical Engineering",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 50,
+    "maxFreq": 2
+  },
+  {
+    "code": "mom",
+    "name": "Mechanics of Materials",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 81,
+    "maxFreq": 2
+  },
+  {
+    "code": "micro",
+    "name": "Microprocessors",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2017",
+      "2019",
+      "2022"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 81,
+    "maxFreq": 9
+  },
+  {
+    "code": "mam",
+    "name": "Microprocessors and Microcontrollers",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2020"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 18,
+    "maxFreq": 1
+  },
+  {
+    "code": "network",
+    "name": "Network Theory",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 52,
+    "maxFreq": 2
+  },
+  {
+    "code": "cpp",
+    "name": "Object Oriented Programming using C++",
+    "semesters": [
+      2
+    ],
+    "years": [
+      "2013",
+      "2020",
+      "2022"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 102,
+    "maxFreq": 4
+  },
+  {
+    "code": "java",
+    "name": "OOPs (JAVA) / Java Programming Language",
+    "semesters": [
+      3
+    ],
+    "years": [
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 72,
+    "maxFreq": 3
+  },
+  {
+    "code": "os",
+    "name": "Operating System",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2013",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 99,
+    "maxFreq": 3
+  },
+  {
+    "code": "pe",
+    "name": "Power Electronics",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2015",
+      "2016",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 122,
+    "maxFreq": 3
+  },
+  {
+    "code": "power1",
+    "name": "Power Systems - I",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2014",
+      "2015",
+      "2016",
+      "2018",
+      "2019"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 109,
+    "maxFreq": 2
+  },
+  {
+    "code": "power2",
+    "name": "Power Systems – II",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 139,
+    "maxFreq": 5
+  },
+  {
+    "code": "psd",
+    "name": "Professional Skill Development",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2020",
+      "2022",
+      "2024"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 62,
+    "maxFreq": 3
+  },
+  {
+    "code": "pps",
+    "name": "Programming For Problem Solving",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2018",
+      "2019",
+      "2022",
+      "2024",
+      "2025"
+    ],
+    "paperCount": 8,
+    "totalSubquestions": 197,
+    "maxFreq": 13
+  },
+  {
+    "code": "pp",
+    "name": "Python Programming",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2025"
+    ],
+    "paperCount": 1,
+    "totalSubquestions": 26,
+    "maxFreq": 1
+  },
+  {
+    "code": "semi",
+    "name": "Semiconductor Physics and Devices",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "paperCount": 2,
+    "totalSubquestions": 45,
+    "maxFreq": 2
+  },
+  {
+    "code": "signals",
+    "name": "Signals and Systems",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2019",
+      "2020",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 144,
+    "maxFreq": 16
+  },
+  {
+    "code": "se",
+    "name": "Software Engineering",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 113,
+    "maxFreq": 4
+  },
+  {
+    "code": "solid",
+    "name": "Solid Mechanics",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2017",
+      "2018",
+      "2019",
+      "2022",
+      "2023"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 114,
+    "maxFreq": 3
+  },
+  {
+    "code": "som",
+    "name": "Strength of Materials",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2022"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 121,
+    "maxFreq": 2
+  },
+  {
+    "code": "structure",
+    "name": "Structural Analysis",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2018",
+      "2019",
+      "2022",
+      "2025"
+    ],
+    "paperCount": 4,
+    "totalSubquestions": 92,
+    "maxFreq": 2
+  },
+  {
+    "code": "survey",
+    "name": "Surveying and Geomatics",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2019",
+      "2020",
+      "2023"
+    ],
+    "paperCount": 3,
+    "totalSubquestions": 78,
+    "maxFreq": 3
+  },
+  {
+    "code": "thermo",
+    "name": "Thermodynamics",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 135,
+    "maxFreq": 4
+  },
+  {
+    "code": "trans",
+    "name": "Transportation Engineering",
+    "semesters": [
+      4
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paperCount": 5,
+    "totalSubquestions": 134,
+    "maxFreq": 3
+  },
+  {
+    "code": "wp",
+    "name": "Workshop + Workshop Practices",
+    "semesters": [
+      1
+    ],
+    "years": [
+      "2019",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paperCount": 10,
+    "totalSubquestions": 247,
+    "maxFreq": 14
+  }
+]

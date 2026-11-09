@@ -1,0 +1,270 @@
+{
+  "id": "sem1_pps_2024_48",
+  "semester": 1,
+  "subject_code": "pps",
+  "subject_name": "Programming For Problem Solving",
+  "year": "2024",
+  "exam_code": "100111",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 Programming for Problem Solving Time: 03 Hours Code: 100111 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 13,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are <strong>NINE questions</strong> in this paper.",
+    "Attempt <strong>FIVE questions</strong> in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_pps_2024_48_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_48_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is a valid variable name in C?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_pps_2024_48_q1_s2",
+          "subNumber": "b",
+          "text": "Which of these is not a valid data type in C?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_48_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is the correct syntax for if statement?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_pps_2024_48_q1_s4",
+          "subNumber": "d",
+          "text": "What is the output of printf(\"%d\", 5 + 3 * 2)?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_48_q1_s5",
+          "subNumber": "e",
+          "text": "Which header file is required to use printf()?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_48_q1_s6",
+          "subNumber": "f",
+          "text": "Which keyword is used to define a constant in C?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_48_q1_s7",
+          "subNumber": "g",
+          "text": "What is the index of the first element in an array?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_48_q1_s8",
+          "subNumber": "h",
+          "text": "Which one is the logical AND operator in C?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_48_q1_s9",
+          "subNumber": "i",
+          "text": "Which format specifier is used for printing float values?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_48_q1_s10",
+          "subNumber": "j",
+          "text": "Which of these is not a loop in C?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_48_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_48_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the structure of a C program with an example.",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2024_48_q2_s2",
+          "subNumber": "b",
+          "text": "Describe basic data types in C with memory size.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_48_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_48_q3_s1",
+          "subNumber": "a",
+          "text": "What is an algorithm. Write an algorithm to perform the addition of two numbers in C and draw a flowchart to represent the addition of two numbers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_48_q3_s2",
+          "subNumber": "b",
+          "text": "Write a program to check whether a number is even or odd using if-else.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_48_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_48_q4_s1",
+          "subNumber": "a",
+          "text": "Explain Arithmetic and Logical operators in C with example programs.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_pps_2024_48_q4_s2",
+          "subNumber": "b",
+          "text": "Explain Relational and Bitwise operators with example programs.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_48_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_48_q5_s1",
+          "subNumber": "a",
+          "text": "Explain call by value and call by reference with examples.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2024_48_q5_s2",
+          "subNumber": "b",
+          "text": "What is the difference between library functions and user-defined functions?",
+          "freq": 13,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_48_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_48_q6_s1",
+          "subNumber": "a",
+          "text": "What is an array in C programming? Write advantages of using arrays. Explain a one-dimensional array with a suitable example program.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_48_q6_s2",
+          "subNumber": "b",
+          "text": "Describe the difference between character array and string.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_48_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_48_q7_s1",
+          "subNumber": "a",
+          "text": "Write the difference Between Array and Structure in C programming.",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2024_48_q7_s2",
+          "subNumber": "b",
+          "text": "Write the difference Between Structure and Union in C programming.",
+          "freq": 13,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_48_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_48_q8_s1",
+          "subNumber": "a",
+          "text": "What is a pointer? Explain pointer declaration and initialization with sample program.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_pps_2024_48_q8_s2",
+          "subNumber": "b",
+          "text": "What is file? Explain text file and binary file in details.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_48_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_48_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

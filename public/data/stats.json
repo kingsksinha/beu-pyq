@@ -1,0 +1,206 @@
+{
+  "totalPapers": 363,
+  "totalSubjects": 92,
+  "totalSemesters": 4,
+  "totalSubQuestions": 8828,
+  "totalQuestions": 3263,
+  "semesterDistribution": {
+    "1": 93,
+    "2": 92,
+    "3": 89,
+    "4": 89
+  },
+  "yearDistribution": {
+    "2012": 1,
+    "2013": 5,
+    "2014": 5,
+    "2015": 9,
+    "2016": 11,
+    "2017": 14,
+    "2018": 26,
+    "2019": 34,
+    "2020": 58,
+    "2021": 26,
+    "2022": 60,
+    "2023": 45,
+    "2024": 46,
+    "2025": 23
+  },
+  "topSubjects": [
+    {
+      "code": "wp",
+      "name": "Workshop + Workshop Practices",
+      "semesters": [
+        1
+      ],
+      "years": [
+        "2019",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "paperCount": 10,
+      "totalSubquestions": 247,
+      "maxFreq": 14
+    },
+    {
+      "code": "bee",
+      "name": "Basic Electrical Engineering",
+      "semesters": [
+        1
+      ],
+      "years": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "paperCount": 9,
+      "totalSubquestions": 242,
+      "maxFreq": 7
+    },
+    {
+      "code": "eng",
+      "name": "Communicative English",
+      "semesters": [
+        1
+      ],
+      "years": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "paperCount": 9,
+      "totalSubquestions": 179,
+      "maxFreq": 8
+    },
+    {
+      "code": "che",
+      "name": "Engineering Chemistry",
+      "semesters": [
+        1
+      ],
+      "years": [
+        "2020",
+        "2021",
+        "2022",
+        "2024",
+        "2025"
+      ],
+      "paperCount": 9,
+      "totalSubquestions": 253,
+      "maxFreq": 4
+    },
+    {
+      "code": "egd",
+      "name": "Engineering Graphics & Design",
+      "semesters": [
+        1
+      ],
+      "years": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2024",
+        "2025"
+      ],
+      "paperCount": 9,
+      "totalSubquestions": 175,
+      "maxFreq": 5
+    },
+    {
+      "code": "phy",
+      "name": "Engineering Physics",
+      "semesters": [
+        1
+      ],
+      "years": [
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "paperCount": 8,
+      "totalSubquestions": 196,
+      "maxFreq": 5
+    },
+    {
+      "code": "pps",
+      "name": "Programming For Problem Solving",
+      "semesters": [
+        1
+      ],
+      "years": [
+        "2018",
+        "2019",
+        "2022",
+        "2024",
+        "2025"
+      ],
+      "paperCount": 8,
+      "totalSubquestions": 197,
+      "maxFreq": 13
+    },
+    {
+      "code": "discrete",
+      "name": "Discrete Mathematics",
+      "semesters": [
+        2
+      ],
+      "years": [
+        "2015",
+        "2016",
+        "2018",
+        "2019",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "paperCount": 7,
+      "totalSubquestions": 172,
+      "maxFreq": 4
+    },
+    {
+      "code": "math1",
+      "name": "Engineering Mathematics-1",
+      "semesters": [
+        1
+      ],
+      "years": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "paperCount": 7,
+      "totalSubquestions": 180,
+      "maxFreq": 13
+    },
+    {
+      "code": "fluid",
+      "name": "Fluid Mechanics",
+      "semesters": [
+        3
+      ],
+      "years": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "paperCount": 7,
+      "totalSubquestions": 184,
+      "maxFreq": 3
+    }
+  ]
+}

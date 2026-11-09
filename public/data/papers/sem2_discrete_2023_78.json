@@ -1,0 +1,305 @@
+{
+  "id": "sem2_discrete_2023_78",
+  "semester": 2,
+  "subject_code": "discrete",
+  "subject_name": "Discrete Mathematics",
+  "year": "2023",
+  "exam_code": "100404",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2023 Discrete Mathematics Time: 03 Hours Code: 100404 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 21,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_discrete_2023_78_q1",
+      "number": 1,
+      "title": "Q.1 Write the answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2023_78_q1_s1",
+          "subNumber": "a",
+          "text": "Let A be the set odd positive integers less than 10. Then cardinality of A, |A| is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "5",
+            "9",
+            "6",
+            "4"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2023_78_q1_s2",
+          "subNumber": "b",
+          "text": "If m is the number of objects (pigeons) and n is the number of boxes (pigeonholes), then the function is both one-to-one and onto if",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( m &lt; n \\)",
+            "\\( m = n \\)",
+            "\\( m &gt; n \\)",
+            "none of these"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2023_78_q1_s3",
+          "subNumber": "c",
+          "text": "If \\( A \\times B = B \\times A \\), (Where A and B are general matrices) then",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( A = \\phi \\)",
+            "\\( A = B' \\)",
+            "\\( B = A \\)",
+            "\\( A' = B \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2023_78_q1_s4",
+          "subNumber": "d",
+          "text": "A partial ordered relation is transitive, reflexive and",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Anti symmetric",
+            "bi symmetric",
+            "anti reflexive",
+            "asymmetric"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2023_78_q1_s5",
+          "subNumber": "e",
+          "text": "If B is a Boolean Algebra, then which of the following is true",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "B is a finite but complemented lattice",
+            "B is a finite, complemented and distributive lattice",
+            "B is a finite, Distributive but not complemented lattice",
+            "B is not distributive lattice"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2023_78_q1_s6",
+          "subNumber": "f",
+          "text": "\\( P \\rightarrow q \\) is logically equivalent to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( -q \\rightarrow p \\)",
+            "\\( -P \\rightarrow q \\)",
+            "\\( -P \\wedge q \\)",
+            "\\( -p \\vee q \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2023_78_q1_s7",
+          "subNumber": "g",
+          "text": "If \\( f(x) = \\cos x \\) and \\( g(x) = x^3 \\) then \\( (f \\circ g)(x) \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( (\\cos x)^3 \\)",
+            "\\( \\cos 3x \\)",
+            "\\( x^{(\\cos x)^3} \\)",
+            "\\( \\cos(x^3) \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2023_78_q1_s8",
+          "subNumber": "h",
+          "text": "The number of distinguishable permutations of the letters in the word BANANA are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "60",
+            "36",
+            "20",
+            "10"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2023_78_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following pair is not congruent modulo 7?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10, 24",
+            "25, 56",
+            "-31, -15",
+            "-64, -15"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2023_78_q1_s10",
+          "subNumber": "j",
+          "text": "Let \\( N=\\{1,2,3,........\\} \\) be ordered by divisibility, which of the following subset is totally ordered",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(2, 6, 24)",
+            "(3, 5, 15)",
+            "(2, 9, 16)",
+            "(4, 15, 30)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2023_78_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2023_78_q2_s1",
+          "subNumber": "a",
+          "text": "Let \\( A = B = \\{x | -1 \\le x \\le 1\\} \\) for each of the following functions state where it is injective, surjective or bijective: i) \\( g(x) = \\sin \\pi x \\) ii) \\( b(x) = \\frac{2x}{3} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2023_78_q2_s2",
+          "subNumber": "b",
+          "text": "Let \\( f(x) = x+2 \\), \\( g(x) = x-2 \\), \\( h(x) = 3x \\) find (i) \\( f \\circ g \\) (ii) \\( f \\circ g \\circ h \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2023_78_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2023_78_q3_s1",
+          "subNumber": "a",
+          "text": "Find the power set of each of these sets: i) \\( \\{a,b\\} \\) ii) \\( \\{\\phi, \\{\\phi\\}\\} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2023_78_q3_s2",
+          "subNumber": "b",
+          "text": "Use Cantor's diagonal argument to prove that set F of all functions \\( f: (0,1) \\rightarrow R \\) has larger Cardinality than |R|.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2023_78_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2023_78_q4_s1",
+          "subNumber": "a",
+          "text": "Determine if the sets are countable or uncountable: a.) the set A of all function \\( g: Z_{+} \\rightarrow Z_{+} \\) b.) The set B of all functions \\( f: Z_{+} \\rightarrow \\{0,1\\} \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2023_78_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2023_78_q5_s1",
+          "subNumber": "a",
+          "text": "Prove the following by using the principle of mathematical induction for all \\( n \\in N \\): \\( 1^3 + 2^3 + 3^3 + \\dots + n^3 = \\left(\\frac{n(n+1)}{2}\\right)^2 \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2023_78_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2023_78_q6_s1",
+          "subNumber": "a",
+          "text": "State and prove Division algorithm theorem well-ordering principle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2023_78_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2023_78_q7_s1",
+          "subNumber": "a",
+          "text": "Check the validity of the following argument all integers are rational numbers. Some integers are powers of 5. Therefore, some rational numbers are powers of 5.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2023_78_q7_s2",
+          "subNumber": "b",
+          "text": "A grocery store employee is stocking apples. Each apple is a different color. There are 10 apples left in the box and the employee pulls out 2 of them at random. What is the probability that the employee pulls out one pink apple and yellow apple?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2023_78_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2023_78_q8_s1",
+          "subNumber": "a",
+          "text": "Let \\( \\Psi: G \\rightarrow H \\) be a homomorphism of groups. Show that if \\( a \\in G \\) has order n, then \\( \\Psi(a) \\in H \\) has order dividing n.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2023_78_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2023_78_q9_s1",
+          "subNumber": "a",
+          "text": "Consider the given graph. (a) Does a Hamiltonian path exist? If so describe it. If not say why not.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/260.png"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "id": "sem1_eng_2024_24",
+  "semester": 1,
+  "subject_code": "eng",
+  "subject_name": "Communicative English",
+  "year": "2024",
+  "exam_code": "100103",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 Communicative English Time: 03 Hours Code: 100103 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eng_2024_24_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_24_q1_s1",
+          "subNumber": "a",
+          "text": "The team of researchers, along with their supervisor, _____ scheduled to announce the results tomorrow for the conference.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Is",
+            "Are",
+            "Have",
+            "Were"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_24_q1_s2",
+          "subNumber": "b",
+          "text": "Neither the students nor the teacher _____ aware of the sudden change in the timetable.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Are",
+            "Is",
+            "Were",
+            "Have been"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_24_q1_s3",
+          "subNumber": "c",
+          "text": "If anyone calls, tell _____ that I will return their call in the afternoon.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Him",
+            "Them",
+            "It",
+            "Her"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_24_q1_s4",
+          "subNumber": "d",
+          "text": "Neither Raj nor his brothers brought _____ ID cards to the examination hall.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "His",
+            "Their",
+            "Its",
+            "Hers"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_24_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following sentences contains a redundancy?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "He made a final conclusion after the meeting.",
+            "They took a short break before the next session.",
+            "She edited the report thoroughly.",
+            "The CEO delivered a concise presentation."
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_24_q1_s6",
+          "subNumber": "f",
+          "text": "Identify the redundant expression in the sentence: \"We should all gather together at 6 PM for the farewell party.\"",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "All",
+            "Farewell",
+            "Together",
+            "Gather"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_24_q1_s7",
+          "subNumber": "g",
+          "text": "Choose the sentence that is free of redundancy:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The ATM machine is out of service.",
+            "He made a brief summary of the report.",
+            "We should plan for the trip.",
+            "They collaborated jointly on the assignment."
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_24_q1_s8",
+          "subNumber": "h",
+          "text": "By the time the movie started, we _____ for more than half an hour.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "were waiting",
+            "had been waiting",
+            "waited",
+            "have waited"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_24_q1_s9",
+          "subNumber": "i",
+          "text": "If she _____ earlier, she wouldn't have missed the train.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "left",
+            "was leaving",
+            "had left",
+            "Has left"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_24_q1_s10",
+          "subNumber": "j",
+          "text": "They _____ the new system by the end of this month.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "implement",
+            "have implemented",
+            "will implement",
+            "will have implemented"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_24_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_24_q2_s1",
+          "subNumber": "a",
+          "text": "You are Rohan Mehta, a final-year B. Tech student in Computer Science at Rajiv Gandhi Institute of Technology, Bengaluru. Your college recently conducted an industrial visit to Infosys Campus in Mysuru. The visit included seminars on cloud computing, AI demonstrations, and interaction with senior software engineers. You found the experience extremely enriching and believe it will benefit future batches as well. You wish to formally express your appreciation for the hospitality and knowledge shared during the visit. Additionally, you would like to request that Infosys consider offering internship opportunities to students from your college.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_24_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_24_q3_s1",
+          "subNumber": "a",
+          "text": "You are Priya Nair, a final-year B. Tech student in Electronics and Communication Engineering at Sardar Patel Institute of Technology, Mumbai. You are currently preparing to apply for a summer internship at a Bengaluru-based AI startup, Mind Byte Technologies.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_24_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_24_q4_s1",
+          "subNumber": "a",
+          "text": "Write an essay in 200 words on \"Importance of Time for Engineering Students\".",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2024_24_q4_s2",
+          "subNumber": "b",
+          "text": "Write an essay in 200 words on \"Renewable Energy: The Future of Sustainable Development\".",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_24_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_24_q5_s1",
+          "subNumber": "a",
+          "text": "You are Amit Sharma, a Junior IT Officer working for the Municipal Corporation of Jaipur. Your department recently implemented a new digital system to manage public complaints regarding waste management services. The system allows residents to file complaints online, track the status of their complaints, and receive updates on resolution.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_24_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_24_q6_s1",
+          "subNumber": "a",
+          "text": "What are the 7 C's of professional writing? Explain in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_24_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_24_q7_s1",
+          "subNumber": "a",
+          "text": "How does Bacon categorize the purposes of studying, and what practical advice does he give about the appropriate use of books in \"Of Studies\"?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2024_24_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss Bacon's view on the relationship between studies and human character. How does he believe studies can help correct personal defects?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_24_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_24_q8_s1",
+          "subNumber": "a",
+          "text": "In what ways does Donne personify the sun, and how does this enhance the central theme of love in the poem \"The Sun Rising\"?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2024_24_q8_s2",
+          "subNumber": "b",
+          "text": "How does O. Henry develop the theme of hope and sacrifice through the character of Behrman in \"The Last Leaf\"?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_24_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_24_q9_s1",
+          "subNumber": "a",
+          "text": "Minutes of a meeting.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2024_24_q9_s2",
+          "subNumber": "b",
+          "text": "Email writing etiquettes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2024_24_q9_s3",
+          "subNumber": "c",
+          "text": "Difference between Coherence &amp; Cohesion with appropriate examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2024_24_q9_s4",
+          "subNumber": "d",
+          "text": "Types of Reports with appropriate examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

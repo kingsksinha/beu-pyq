@@ -1,0 +1,281 @@
+{
+  "id": "sem2_impact_2022_34",
+  "semester": 2,
+  "subject_code": "impact",
+  "subject_name": "Civil Engineering - Societal & Global Impact",
+  "year": "2022",
+  "exam_code": "101401",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2022 Civil Engineering-Societal and Global Impact Time: 03 Hours Code: 101401 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_impact_2022_34_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2022_34_q1_s1",
+          "subNumber": "a",
+          "text": "In hydroelectric power, what is necessary for the production of power throughout the year?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Dams filled with water",
+            "High amount of air",
+            "High intense sunlight",
+            "Nuclear power"
+          ]
+        },
+        {
+          "id": "sem2_impact_2022_34_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following does not affect the site-selection of an airport site?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Adequate access",
+            "Air traffic potential",
+            "Sufficient airspace",
+            "Number of ground staff"
+          ]
+        },
+        {
+          "id": "sem2_impact_2022_34_q1_s3",
+          "subNumber": "c",
+          "text": "Under which rule of Government, guidelines for solid waste management are followed today?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Municipal Solid Waste Rules, 2000",
+            "Municipal Solid Waste Rules, 2016",
+            "Solid Waste Rules, 2000",
+            "Solid Waste Rules, 2016"
+          ]
+        },
+        {
+          "id": "sem2_impact_2022_34_q1_s4",
+          "subNumber": "d",
+          "text": "Global warming also refers to as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "climate change",
+            "ecological change",
+            "atmosphere change",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_impact_2022_34_q1_s5",
+          "subNumber": "e",
+          "text": "Which one of the following is not the cause of water scarcity?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Rapid growth of population",
+            "Uneven distribution of water resources",
+            "Construction of dams and reserves",
+            "Increase in demand"
+          ]
+        },
+        {
+          "id": "sem2_impact_2022_34_q1_s6",
+          "subNumber": "f",
+          "text": "Sustainable development can be thought of in terms of three spheres i.e.,",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Environment, Economy and Society",
+            "Environment, Economy and Equity",
+            "Environment, Ecology and Society",
+            "Environment, Economy and Ecology"
+          ]
+        },
+        {
+          "id": "sem2_impact_2022_34_q1_s7",
+          "subNumber": "g",
+          "text": "By how much has atmospheric carbon dioxide concentration increased ever since the Industrial Revolution?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "20%",
+            "10%",
+            "40%",
+            "60%"
+          ]
+        },
+        {
+          "id": "sem2_impact_2022_34_q1_s8",
+          "subNumber": "h",
+          "text": "Do we need greenhouse gases on Earth?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Yes-they keep the earth warm",
+            "Yes they keep all the gases on our planet",
+            "No-they only cause terrible climate change",
+            "No-they only block some of the Sun's ray"
+          ]
+        },
+        {
+          "id": "sem2_impact_2022_34_q1_s9",
+          "subNumber": "i",
+          "text": "Floods can be prevented by",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "afforestation",
+            "cutting the forest",
+            "tilling the land",
+            "removing the top soil"
+          ]
+        },
+        {
+          "id": "sem2_impact_2022_34_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following is a man-made disaster?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Terrorism",
+            "Major fire",
+            "Pollution",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2022_34_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2022_34_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss the role of civil engineering in present status of development in India.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2022_34_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2022_34_q3_s1",
+          "subNumber": "a",
+          "text": "What do you understand by sustainable development? Explain various goals of sustainable development in detail.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2022_34_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2022_34_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss the necessity of different conventional as well as futuristic infrastructural projects.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2022_34_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2022_34_q5_s1",
+          "subNumber": "a",
+          "text": "As a civil engineer, what various measures you will suggest for improving quality of life of the occupants?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2022_34_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2022_34_q6_s1",
+          "subNumber": "a",
+          "text": "Evaluate the potential of civil engineering for employment creation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2022_34_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2022_34_q7_s1",
+          "subNumber": "a",
+          "text": "Explain and differentiate the following revolutions: (a) Pre-industrial revolution days (b) Agricultural revolution (c) First and second industrial revolutions (d) IT revolution.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2022_34_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2022_34_q8_s1",
+          "subNumber": "a",
+          "text": "What are some ancient and modern Marvels and Wonders in the field of Civil Engineering? Discuss in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2022_34_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2022_34_q9_s1",
+          "subNumber": "a",
+          "text": "What are some clean energy sources? Explain working and potential of any four clean energy sources.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

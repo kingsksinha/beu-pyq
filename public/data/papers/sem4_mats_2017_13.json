@@ -1,0 +1,326 @@
+{
+  "id": "sem4_mats_2017_13",
+  "semester": 4,
+  "subject_code": "mats",
+  "subject_name": "Material Science and Engineering",
+  "year": "2017",
+  "exam_code": "021305",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech. 3rd Semester Examination, 2017 Material Science Time: 03 Hours Code: 021305 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mats_2017_13_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2017_13_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is strong and ductile materials?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Polymers",
+            "Ceramics",
+            "Metals",
+            "Semiconductors"
+          ]
+        },
+        {
+          "id": "sem4_mats_2017_13_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following statements is false?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Line defects are thermodynamically stable",
+            "Dislocation can end inside a crystal without forming loop",
+            "ABC ABC ABC is stacking sequence for HCP crystal",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_mats_2017_13_q1_s3",
+          "subNumber": "c",
+          "text": "Time-dependent permanent deformation is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "plastic deformation",
+            "elastic deformation",
+            "creep",
+            "Anelastic deformation"
+          ]
+        },
+        {
+          "id": "sem4_mats_2017_13_q1_s4",
+          "subNumber": "d",
+          "text": "The most factor influencing diffusivity is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "diffusing species",
+            "temperature",
+            "lattice structure",
+            "presence of defects"
+          ]
+        },
+        {
+          "id": "sem4_mats_2017_13_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following is not a Hume-Ruthery condition?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Crystal structure of each element of solid solution must be the same",
+            "Size of atoms of each two elements must not differ by more than 15%",
+            "Elements should form compounds with each other",
+            "Elements should have the same valence"
+          ]
+        },
+        {
+          "id": "sem4_mats_2017_13_q1_s6",
+          "subNumber": "f",
+          "text": "Phase formed of diffusionless reaction is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "pearlite",
+            "lower bainite",
+            "upper bainite",
+            "martensite"
+          ]
+        },
+        {
+          "id": "sem4_mats_2017_13_q1_s7",
+          "subNumber": "g",
+          "text": "Eutectoid product in Fe-C system is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "pearlite",
+            "bainite",
+            "ledeburite",
+            "spheroidite"
+          ]
+        },
+        {
+          "id": "sem4_mats_2017_13_q1_s8",
+          "subNumber": "h",
+          "text": "Failure due to excessive deformation is controlled by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "material properties",
+            "design and dimensions",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_mats_2017_13_q1_s9",
+          "subNumber": "i",
+          "text": "Most often machine components are failed by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "buckling",
+            "creep",
+            "fatigue",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_mats_2017_13_q1_s10",
+          "subNumber": "j",
+          "text": "Last constituent to fail in fiber reinforced composites is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "matrix",
+            "fiber",
+            "Both fails at same time",
+            "Can't define"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2017_13_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2017_13_q2_s1",
+          "subNumber": "a",
+          "text": "The accompanying figure shows the atomic packing schemes for several different crystallographic directions for a hypothetical metal. For each direction, the circles represent only the atoms contained within a unit cell, the circles are reduced from their actual size. Draw the unit cell and identify the crystal structure.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/99.jpg"
+          ]
+        },
+        {
+          "id": "sem4_mats_2017_13_q2_s2",
+          "subNumber": "b",
+          "text": "Show that a line of dislocation contains edge, screw or mixed dislocations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2017_13_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2017_13_q3_s1",
+          "subNumber": "a",
+          "text": "For aluminium (atomic radius 0.1431 nm), compute the inter-planer spacing for (110) set of planes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2017_13_q3_s2",
+          "subNumber": "b",
+          "text": "Calculate the atomic packing fraction for diamond cubic crystal and find its density (atomic radius \\( r = 0.77 \\text{ \\AA} \\)).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2017_13_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2017_13_q4_s1",
+          "subNumber": "a",
+          "text": "Construct and label different regions of Ag-Cu phase diagram using the following data: Melting point of \\( \\text{Ag} = 960^\\circ\\text{C} \\), Melting point of \\( \\text{Cu} = 1085^\\circ\\text{C} \\), At eutectic point \\( = 780^\\circ\\text{C} \\), eutectic composition = 28 wt% Cu, maximum solubility of Ag in \\( \\text{Cu} = 8 \\text{ wt%} \\), maximum solubility of Cu in \\( \\text{Ag} = 6 \\text{ wt%} \\). At room temperature, maximum solubility of Ag in \\( \\text{Cu} = 3 \\text{ wt%} \\) and maximum solubility of Cu in \\( \\text{Ag} = 2 \\text{ wt%} \\). Assume the liquids, solidus and solvus line are straight. Calculate the amount of proeutectic phase in 60 wt% Cu alloy at \\( 779^\\circ\\text{C} \\) and draw the change in micro-structures when cooled slowly from liquid state to room temperature.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2017_13_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2017_13_q5_s1",
+          "subNumber": "a",
+          "text": "Construct isothermal transformation diagram for eutectoid steel, determine and draw the final microstructure of a small specimen that has been subjected to the following time-temperature treatment. In each case, assume that the specimen begins at \\( 800^\\circ\\text{C} \\), and that it has been held at this temperature long enough to have achieved a complete and homogeneous austenite structure: <br/>(a) Rapidly cool to \\( 250^\\circ\\text{C} \\), hold for \\( 10^5\\text{ s} \\), then quench to room temperature <br/>(b) Rapidly cool to \\( 400^\\circ\\text{C} \\), hold for 10 s, then quench to room temperature <br/>(c) Rapidly cool to \\( 700^\\circ\\text{C} \\), hold for \\( 10^5\\text{ s} \\) then quench to room temperature <br/>(d) Rapidly cool to \\( 650^\\circ\\text{C} \\) hold at this temperature for 6 s, rapidly cool to \\( 400^\\circ\\text{C} \\), hold for 10 s, then quench to room temperature",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2017_13_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2017_13_q6_s1",
+          "subNumber": "a",
+          "text": "For a polymer-matrix fiber-reinforced composite-",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2017_13_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2017_13_q7_s1",
+          "subNumber": "a",
+          "text": "A continuous and aligned glass fiber-reinforced composite consists of 30 vol% of glass fibers having a modulus of elasticity of 69 GPa and 70 vol% of a polyester resin that, when hardened, displays a modulus of 3.4 GPa.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2017_13_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2017_13_q8_s1",
+          "subNumber": "a",
+          "text": "What is cast iron? How does it differ from pig iron?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2017_13_q8_s2",
+          "subNumber": "b",
+          "text": "Compare ductile (nodular) cast iron with other cast iron on the basis of mechanical properties, composition and microstructure.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2017_13_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2017_13_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Composite and alloys",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mats_2017_13_q9_s2",
+          "subNumber": "b",
+          "text": "(b) Annealing and normalizing",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2017_13_q9_s3",
+          "subNumber": "c",
+          "text": "(c) Cross-slip and jog",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2017_13_q9_s4",
+          "subNumber": "d",
+          "text": "(d) Frank-Read source",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

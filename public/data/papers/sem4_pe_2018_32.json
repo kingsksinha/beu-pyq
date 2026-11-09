@@ -1,0 +1,316 @@
+{
+  "id": "sem4_pe_2018_32",
+  "semester": 4,
+  "subject_code": "pe",
+  "subject_name": "Power Electronics",
+  "year": "2018",
+  "exam_code": "031609",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam., 2018 POWER ELECTRONICS Time: 03 Hours Code: 031609 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_pe_2018_32_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2018_32_q1_s1",
+          "subNumber": "a",
+          "text": "The number of p-n junctions in a thyristor is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "sem4_pe_2018_32_q1_s2",
+          "subNumber": "b",
+          "text": "When a thyristor gets turned on, the gate drive",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "should not be removed as it will turn-off the SCR",
+            "may or may not be removed",
+            "should be removed",
+            "should be removed to avoid increased losses and higher junction temperature"
+          ]
+        },
+        {
+          "id": "sem4_pe_2018_32_q1_s3",
+          "subNumber": "c",
+          "text": "Once SCR starts conducting a forward current, its gate loses control over",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "anode circuit voltage only",
+            "anode circuit current only",
+            "anode circuit voltage and current",
+            "anode circuit voltage, current and time"
+          ]
+        },
+        {
+          "id": "sem4_pe_2018_32_q1_s4",
+          "subNumber": "d",
+          "text": "In a single-phase full converter, for continuous conduction, each pair of SCRs conduct for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\pi - \\alpha \\)",
+            "\\( \\alpha \\)",
+            "\\( \\pi \\)",
+            "\\( \\pi + \\alpha \\)"
+          ]
+        },
+        {
+          "id": "sem4_pe_2018_32_q1_s5",
+          "subNumber": "e",
+          "text": "Commutation overlap in the phase-controlled a.c. to d.c. converters is due to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "load inductance",
+            "harmonic content of the load",
+            "switching operation in the converter",
+            "source inductance"
+          ]
+        },
+        {
+          "id": "sem4_pe_2018_32_q1_s6",
+          "subNumber": "f",
+          "text": "A converter which can operate in both 3-pulse and 6-pulse modes is a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1-phase full converter",
+            "3-phase half-wave converter",
+            "3-phase semi-converter",
+            "3-phase full converter"
+          ]
+        },
+        {
+          "id": "sem4_pe_2018_32_q1_s7",
+          "subNumber": "g",
+          "text": "In a 3-phase semi-converter, the three SCRs are triggered at an interval of",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( 60^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 120^{\\circ} \\)",
+            "\\( 180^{\\circ} \\)"
+          ]
+        },
+        {
+          "id": "sem4_pe_2018_32_q1_s8",
+          "subNumber": "h",
+          "text": "In single-pulse modulation of PWM inverters, third harmonic can be eliminated if pulse width is equal to",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( 30^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 120^{\\circ} \\)",
+            "\\( 150^{\\circ} \\)"
+          ]
+        },
+        {
+          "id": "sem4_pe_2018_32_q1_s9",
+          "subNumber": "i",
+          "text": "In d.c. choppers, the waveforms for input and output voltages are",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "respectively discontinuous, continuous",
+            "both continuous",
+            "both discontinuous",
+            "respectively continuous, discontinuous"
+          ]
+        },
+        {
+          "id": "sem4_pe_2018_32_q1_s10",
+          "subNumber": "j",
+          "text": "In a 1-phase to 1-phase step-down cycloconverter",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "all SCRs must carry currents for equal duration",
+            "the duration of currents in all SCRs cannot be equal",
+            "the duration of currents in all the SCRs may or may not be equal",
+            "all SCRs must carry currents for equal duration for dependable operation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2018_32_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2018_32_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the two-transistor model of a thyristor.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_pe_2018_32_q2_s2",
+          "subNumber": "b",
+          "text": "Sketch switching (or dynamic) characteristics of a thyristor during its turn-on and turn-off processes. Show the variation of voltage across the thyristor and current through it during these two dynamic processes.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2018_32_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2018_32_q3_s1",
+          "subNumber": "a",
+          "text": "Describe a 1-phase full-wave diode-bridge rectifier with a circuit diagram and relevant waveforms for load R. Hence, derive expressions for average and r.m.s. values of output voltage and obtain therefrom voltage ripple factor (VRF), form factor (FF) and rectifier efficiency.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2018_32_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2018_32_q4_s1",
+          "subNumber": "a",
+          "text": "Enumerate the various techniques by which thyristors can be triggered into conduction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2018_32_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the working principle of snubber circuit used for protection of thyristor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2018_32_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2018_32_q5_s1",
+          "subNumber": "a",
+          "text": "Discuss the principle of working of a three-phase inverter with an appropriate circuit diagram. Draw phase and line voltage waveforms on the assumption that each thyristor conducts for \\( 120^{\\circ} \\) and the resistive load is star-connected.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2018_32_q5_s2",
+          "subNumber": "b",
+          "text": "A three-phase bridge inverter delivers power to a resistive load from a 450 V d.c. source. For a star-connected load of \\( 10~\\Omega \\) per phase with \\( 120^{\\circ} \\) mode of operation, calculate the following: (i) r.m.s. value of load current (ii) r.m.s. value of thyristor current (iii) Load power.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2018_32_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2018_32_q6_s1",
+          "subNumber": "a",
+          "text": "What is meant by step-up chopper? Explain its operation. Sketch the input voltage, input current, output voltage and output current waveforms. State the various assumptions made.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2018_32_q6_s2",
+          "subNumber": "b",
+          "text": "A d.c. chopper is fed from 100 V d.c. Its load voltage consists of rectangular pulses of duration 1 msec in an overall cycle time of 3 msec. Find the average output voltage and ripple factor for this chopper.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2018_32_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2018_32_q7_s1",
+          "subNumber": "a",
+          "text": "What is an a.c. voltage controller? List some of its industrial applications. Enumerate its merits and demerits.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_pe_2018_32_q7_s2",
+          "subNumber": "b",
+          "text": "A 3-phase half-wave controlled converter is fed from 3-phase, 400 V, 50 Hz source and is connected to load taking a constant current of 36 A. Thyristors have a voltage drop of 1.4 V. Find out the average value of load voltage for firing angle of \\( 30^{\\circ} \\) and \\( 60^{\\circ} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2018_32_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2018_32_q8_s1",
+          "subNumber": "a",
+          "text": "Describe the modified McMurray-Bedford half-bridge single-phase inverter with relevant voltage and current waveforms. The working of this inverter may be explained in certain well-defined modes. Enumerate the simplifying assumptions made.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2018_32_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2018_32_q9_s1",
+          "subNumber": "a",
+          "text": "A single-phase bridge-type cycloconverter has input voltage of 230 V, 50 Hz and load of \\( R=10~\\Omega \\). Output frequency is one-third of input frequency. For a firing angle delay of \\( 30^{\\circ} \\), calculate (a) r.m.s. value of output voltage, (b) r.m.s. current of each converter, (c) r.m.s. current of each thyristor and (d) input power factor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

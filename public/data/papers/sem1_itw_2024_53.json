@@ -1,0 +1,330 @@
+{
+  "id": "sem1_itw_2024_53",
+  "semester": 1,
+  "subject_code": "itw",
+  "subject_name": "IT Workshop",
+  "year": "2024",
+  "exam_code": "100113",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 IT Workshop Time: 03 Hours Code: 100113 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_itw_2024_53_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven questions only):",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_itw_2024_53_q1_s1",
+          "subNumber": "a",
+          "text": "What does RAM stand for?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Read All Memory",
+            "Random Access Memory",
+            "Run Access Memory",
+            "Read And Modify"
+          ]
+        },
+        {
+          "id": "sem1_itw_2024_53_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is NOT an operating system?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Windows",
+            "Android",
+            "Linux",
+            "MS Word"
+          ]
+        },
+        {
+          "id": "sem1_itw_2024_53_q1_s3",
+          "subNumber": "c",
+          "text": "What is the shortcut key to copy selected text in MS Word?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Ctrl + V",
+            "Ctrl + X",
+            "Ctrl + C",
+            "Ctrl + P"
+          ]
+        },
+        {
+          "id": "sem1_itw_2024_53_q1_s4",
+          "subNumber": "d",
+          "text": "Which view is used to run a PowerPoint presentation?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Slide Sorter",
+            "Normal View",
+            "Slide Show",
+            "Outline View"
+          ]
+        },
+        {
+          "id": "sem1_itw_2024_53_q1_s5",
+          "subNumber": "e",
+          "text": "Which function is used to calculate the average in Excel?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "=TOTAL()",
+            "=AVG()",
+            "=SUM()",
+            "=AVERAGE()"
+          ]
+        },
+        {
+          "id": "sem1_itw_2024_53_q1_s6",
+          "subNumber": "f",
+          "text": "What is the full form of URL?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Uniform Read Line",
+            "User Resource Locator",
+            "Uniform Resource Locator",
+            "Uniform Retrieve Line"
+          ]
+        },
+        {
+          "id": "sem1_itw_2024_53_q1_s7",
+          "subNumber": "g",
+          "text": "Which of these file types is associated with PowerPoint?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            ".doc",
+            ".pptx",
+            ".txt",
+            ".xlsx"
+          ]
+        },
+        {
+          "id": "sem1_itw_2024_53_q1_s8",
+          "subNumber": "h",
+          "text": "What type of memory is RAM?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Permanent",
+            "Notional",
+            "Read-only",
+            "Non-volatile"
+          ]
+        },
+        {
+          "id": "sem1_itw_2024_53_q1_s9",
+          "subNumber": "i",
+          "text": "What is a spreadsheet made up of?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Pages",
+            "Rows and Columns",
+            "Slides",
+            "Charts"
+          ]
+        },
+        {
+          "id": "sem1_itw_2024_53_q1_s10",
+          "subNumber": "j",
+          "text": "What is the intersection of a row and column called?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Box",
+            "Field",
+            "Cell",
+            "Section"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_itw_2024_53_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_itw_2024_53_q2_s1",
+          "subNumber": "a",
+          "text": "What are input and output peripherals of a computer? Identify any four input and four output devices with examples?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_itw_2024_53_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the functions of motherboard?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_itw_2024_53_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_itw_2024_53_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the fundamental components of computer system?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_itw_2024_53_q3_s2",
+          "subNumber": "b",
+          "text": "Write the function of the following Linux commands: ls, pwd, cd, mkdir, rm, cp, and mv.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_itw_2024_53_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_itw_2024_53_q4_s1",
+          "subNumber": "a",
+          "text": "What is meant by \"surfing the web\"? Explain any four types of web surfing and working of surfing in details.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_itw_2024_53_q4_s2",
+          "subNumber": "b",
+          "text": "What is antivirus software? Name and describe the types of antivirus programs available for protecting a computer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_itw_2024_53_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_itw_2024_53_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the features of MS Word in details?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_itw_2024_53_q5_s2",
+          "subNumber": "b",
+          "text": "Write down the steps to insert image and table in MS Word in details?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_itw_2024_53_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_itw_2024_53_q6_s1",
+          "subNumber": "a",
+          "text": "Create a project certificate using Microsoft Word?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_itw_2024_53_q6_s2",
+          "subNumber": "b",
+          "text": "How can MS Word be used to create Newsletter and Resume?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_itw_2024_53_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_itw_2024_53_q7_s1",
+          "subNumber": "a",
+          "text": "What is a Formula in Excel? Give a simple example of an Excel formula that performs a calculation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_itw_2024_53_q7_s2",
+          "subNumber": "b",
+          "text": "Write the steps to create column chart and pie chart with example?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_itw_2024_53_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_itw_2024_53_q8_s1",
+          "subNumber": "a",
+          "text": "Describe two simple ways you can insert images into a PowerPoint slide.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_itw_2024_53_q8_s2",
+          "subNumber": "b",
+          "text": "Write the steps to add Table and Photograph in Ms Power Point?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_itw_2024_53_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[7×2=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_itw_2024_53_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

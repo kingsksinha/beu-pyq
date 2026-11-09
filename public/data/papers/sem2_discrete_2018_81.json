@@ -1,0 +1,330 @@
+{
+  "id": "sem2_discrete_2018_81",
+  "semester": 2,
+  "subject_code": "discrete",
+  "subject_name": "Discrete Mathematics",
+  "year": "2018",
+  "exam_code": "211405",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2018 Discrete Mathematical Structure and Graph Theory Time: 03 Hours Code: 211405 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_discrete_2018_81_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2018_81_q1_s1",
+          "subNumber": "a",
+          "text": "For any three sets A, B and C, which of the following statements is wrong?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( A \\cup (B \\cup C) = (A \\cup B) \\cap C \\)",
+            "\\( A \\cup (B \\cup C) = A \\cup (B \\cup C) \\)",
+            "\\( A \\cap (B \\cup C) = (A \\cap B) \\cup (A \\cap C) \\)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2018_81_q1_s2",
+          "subNumber": "b",
+          "text": "Let A and B be two non-empty sets. Then the set of all ordered pairs (a, b), where \\( a \\in A \\) and \\( b \\in B \\) is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "product set",
+            "poset",
+            "binary set",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2018_81_q1_s3",
+          "subNumber": "c",
+          "text": "If \\( (a,a) \\in R \\) or equivalently \\( a R a \\), \\( \\forall a \\in A \\), then a relation R on a set A is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "equivalent",
+            "reflexive",
+            "symmetric",
+            "anti-symmetric"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2018_81_q1_s4",
+          "subNumber": "d",
+          "text": "Let A and B be finite sets with \\( |A| = n \\) and \\( |B| = m \\). How many functions are possible from A to B with A as the domain?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "n",
+            "\\( m^m \\)",
+            "m",
+            "\\( m^n \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2018_81_q1_s5",
+          "subNumber": "e",
+          "text": "For the functions f and g defined by \\( f(x) = x^3 \\) and \\( g(x) = x^2 + 1 \\; \\forall x \\in R \\), the value of \\( (g \\circ f)(x) \\) is",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "\\( x^2 + 1 \\)",
+            "\\( x^3 + 1 \\)",
+            "\\( x^6 + 1 \\)",
+            "\\( x^5 + 1 \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2018_81_q1_s6",
+          "subNumber": "f",
+          "text": "A group G is said to be Abelian (or commutative) if for every",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( a, b \\in G \\)",
+            "\\( a \\cdot b = b \\cdot a \\)",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2018_81_q1_s7",
+          "subNumber": "g",
+          "text": "If \\( f : G \\rightarrow G' \\) is a homomorphism, then which of the following it true?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( f(e) = e \\)",
+            "\\( f(e) = e' \\)",
+            "\\( f(e) &gt;= \\Phi \\)",
+            "\\( f(e) = 1 \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2018_81_q1_s8",
+          "subNumber": "h",
+          "text": "For which of the following does there exist a tree satisfying the specified constraints?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A full binary tree with 31 leaves, each leaf of height 5",
+            "A rooted tree of height 3 where every vertex has atmost 3 children and there are 41 total vertices",
+            "A full binary tree with 11 vertices and height 6",
+            "A binary tree with 2 leaves and height 100"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2018_81_q1_s9",
+          "subNumber": "i",
+          "text": "For which of the following does there exist a graph \\( G(V, E) \\) satisfying the specified conditions?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A tree with 9 vertices and the sum of the degrees of all the vertices is 18",
+            "A graph with 5 components, 12 vertices and 7 edges",
+            "A graph with 5 components, 30 vertices and 24 edges",
+            "A graph with 9 vertices, 9 edges and no cycles"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2018_81_q1_s10",
+          "subNumber": "j",
+          "text": "The number of simple digraphs with \\( |V| = 3 \\) is",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "\\( 2^9 \\)",
+            "\\( 2^8 \\)",
+            "\\( 2^7 \\)",
+            "\\( 2^6 \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2018_81_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2018_81_q2_s1",
+          "subNumber": "a",
+          "text": "Let \\( f(x) = ax^2 + b \\) and \\( g(x) = cx^2 + d \\), where a, b, c and d are constants. Determine for which constants a, b, c and d the following equation holds: \\( f \\circ g = g \\circ f \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2018_81_q2_s2",
+          "subNumber": "b",
+          "text": "Show that the relation \\( (x, y) R (a, b) \\) such that \\( x^2 + y^2 = a^2 + b^2 \\) is an equivalence relation on the plane and describe the equivalence classes.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2018_81_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2018_81_q3_s1",
+          "subNumber": "a",
+          "text": "Let \\( (G, \\cdot) \\) be a group, where \\( \\cdot \\) is usual multiplication operation on G. Then show that for any \\( x, y \\in G \\) following equations hold:<br/> (i) \\( (x^{-1})^{-1} = x \\)<br/> (ii) \\( (xy)^{-1} = y^{-1}x^{-1} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2018_81_q3_s2",
+          "subNumber": "b",
+          "text": "Construct the truth table for \\( [(p \\vee q) \\wedge (p \\rightarrow r) \\wedge (q \\rightarrow r)] \\rightarrow r \\). Also show that above statement is a tautology by developing a series of logical equivalences.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2018_81_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2018_81_q4_s1",
+          "subNumber": "a",
+          "text": "If \\( A = \\{1, 2, 4\\} \\), \\( B = \\{2, 5, 7\\} \\) and \\( C = \\{1, 3, 7\\} \\), find \\( (A \\times B) \\cup (A \\times C) \\).",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_discrete_2018_81_q4_s2",
+          "subNumber": "b",
+          "text": "List the ordered pairs in the relation R from \\( A = \\{1, 2, 3, 4\\} \\) to \\( B = \\{2, 3, 4, 5\\} \\), where \\( (a, b) \\in R \\) if and only if-<br/> (i) \\( a = b \\)<br/> (ii) \\( a + b = 5 \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2018_81_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2018_81_q5_s1",
+          "subNumber": "a",
+          "text": "Show that the set of integers with the composition \\( \\circ \\) and * defined by \\( a \\circ b = a + b + 1 \\) and \\( a * b = ab + a + b \\) is a ring.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2018_81_q5_s2",
+          "subNumber": "b",
+          "text": "State and prove Lagrange's theorem.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2018_81_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2018_81_q6_s1",
+          "subNumber": "a",
+          "text": "Define a relation R on the set Z of all integers as follows: \\( m R n \\Leftrightarrow m+n \\) is even for all \\( m, n \\in Z \\). Is R a partial order relation? Prove or give a counter example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2018_81_q6_s2",
+          "subNumber": "b",
+          "text": "Show that the group<br/> (i) \\( \\{1, 2, 3, 4\\}, X_5 \\)<br/> (ii) \\( \\{1, 2, 3, 4, 5, 6\\}, X_7 \\)<br/> is cyclic.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2018_81_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2018_81_q7_s1",
+          "subNumber": "a",
+          "text": "Let \\( A = \\{0, 1, 2, 3\\} \\), \\( R = \\{(x, y) : x+y=3\\} \\), \\( S = \\{(x, y) : 3|(x+y)\\} \\), \\( T = \\{(x, y) : \\max(x,y)=3\\} \\). Compute (i) \\( R \\circ T \\), (ii) \\( T \\circ R \\) and (iii) \\( S \\circ S \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2018_81_q7_s2",
+          "subNumber": "b",
+          "text": "In a group of 70 cars tested by a garage in Delhi, 15 had faulty tyres, 20 had faulty breaks and 18 exceeded the allowable emission limits. Also, 5 cars had faulty tyres and brakes, 6 failed on tyres and emission, 10 failed on brakes and emissions, and 4 cars were unsatisfactory in all three respects. How many cars had no faults in these three checks? Draw an appropriate Venn diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2018_81_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2018_81_q8_s1",
+          "subNumber": "a",
+          "text": "Define the vertex connectivity and edge connectivity of a graph. Prove that for a graph G with n vertices and e edges, vertex connectivity \\( \\le \\) edge connectivity \\( \\le 2e/n \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2018_81_q8_s2",
+          "subNumber": "b",
+          "text": "Define the adjacency matrix of a graph. Find the rank of the regular graph with n vertices and with degree \\( p (&lt; n) \\) of every vertex.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2018_81_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any three of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2018_81_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

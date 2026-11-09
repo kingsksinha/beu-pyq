@@ -1,0 +1,359 @@
+{
+  "id": "sem4_power2_2017_43",
+  "semester": 4,
+  "subject_code": "power2",
+  "subject_name": "Power Systems – II",
+  "year": "2017",
+  "exam_code": "031508",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2017 POWER SYSTEM-II Time: 03 Hours Code: 031508 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 5,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Assume appropriately where data is missing."
+  ],
+  "questions": [
+    {
+      "id": "sem4_power2_2017_43_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2017_43_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following power stations is mainly used to cover peak load on the system?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Coal-based thermal plant",
+            "Nuclear plant",
+            "Gas-based thermal plant",
+            "Pumped storage hydropower plant"
+          ]
+        },
+        {
+          "id": "sem4_power2_2017_43_q1_s2",
+          "subNumber": "b",
+          "text": "For the hydroelectric power plants",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "operating cost is high and initial cost is high",
+            "operating cost is low and initial cost is high",
+            "operating cost is low and initial cost is low",
+            "operating cost is high and initial cost is low"
+          ]
+        },
+        {
+          "id": "sem4_power2_2017_43_q1_s3",
+          "subNumber": "c",
+          "text": "On what factor, the fixed charge is dependent in a two-part tariff?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Energy consumed",
+            "Peak load demand",
+            "Maximum demand",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_power2_2017_43_q1_s4",
+          "subNumber": "d",
+          "text": "Fault calculations using computer are usually done by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( Y_{bus} \\) method",
+            "\\( Z_{bus} \\) method",
+            "All of the above",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_power2_2017_43_q1_s5",
+          "subNumber": "e",
+          "text": "What is the value of zero sequence current?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Three times the current in neutral wire",
+            "\\( 1/3 \\) time the current in neutral wire",
+            "\\( \\sqrt{3} \\) times the current in neutral wire",
+            "Equal to the current in neutral wire"
+          ]
+        },
+        {
+          "id": "sem4_power2_2017_43_q1_s6",
+          "subNumber": "f",
+          "text": "The following sequence currents were recorded in a power system under a fault condition: \\( I_{\\text{positive}} = j1.753 \\text{ p.u.} \\), \\( I_{\\text{negative}} = -j0.6 \\text{ p.u.} \\), \\( I_{\\text{zero}} = -j1.153 \\text{ p.u.} \\) The fault is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "line to ground",
+            "three-phase",
+            "line to line to ground",
+            "line to line"
+          ]
+        },
+        {
+          "id": "sem4_power2_2017_43_q1_s7",
+          "subNumber": "g",
+          "text": "If all the sequence voltages at the fault point in a power system are equal, then the fault is a",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "line to line to ground fault",
+            "three-phase fault",
+            "double-line fault",
+            "single-line to ground fault"
+          ]
+        },
+        {
+          "id": "sem4_power2_2017_43_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following networks gets affected by the method of neutral grounding?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Zero sequence network",
+            "Positive sequence network",
+            "Negative sequence network",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_power2_2017_43_q1_s9",
+          "subNumber": "i",
+          "text": "For 800 MJ stored energy in the rotor at synchronous speed, what is the inertia constant (H) for a 50-Hz, 4-pole turbo-generator rated 100 MVA, 11 kV?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2 MJ/MVA",
+            "4 MJ/MVA",
+            "6 MJ/MVA",
+            "8 MJ/MVA"
+          ]
+        },
+        {
+          "id": "sem4_power2_2017_43_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following cannot be determined from equal area criterion?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Critical clearing angle",
+            "Critical clearing time",
+            "Transient stability limit",
+            "Both (i) and (ii)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2017_43_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2017_43_q2_s1",
+          "subNumber": "a",
+          "text": "What are the factors to be considered for selection of site for a thermal power station?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power2_2017_43_q2_s2",
+          "subNumber": "b",
+          "text": "Draw the schematic layout of a typical coal fired power station.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2017_43_q2_s3",
+          "subNumber": "c",
+          "text": "Explain the role of economizer and superheater in a thermal power plant.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2017_43_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2017_43_q3_s1",
+          "subNumber": "a",
+          "text": "Define load factor and diversity factor. What is the impact of diversity factor?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2017_43_q3_s2",
+          "subNumber": "b",
+          "text": "An electric supply undertaking has to cater to a demand of two consumers A and B, each having a maximum demand of 5 kW. Variation of loads for these consumers are given below : <br/> Consumer A: midnight to 7 AM: 200W; 6 PM to 7 PM: 1500W; 7 PM to 9 PM: 5000W; 9 PM to midnight: 800W. <br/> Consumer B: midnight to 6 AM: 400W; 6 AM to 12 Noon: 1600W; 12 Noon to 2 PM: 5000W; 2 PM to 7 PM: 600W; 7 PM to 11 PM: 3600W; 11 PM to midnight: 600W.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2017_43_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2017_43_q4_s1",
+          "subNumber": "a",
+          "text": "What are different types of reactance of an unloaded synchronous machine under short-circuit condition? Discuss them briefly using approximate circuit model.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2017_43_q4_s2",
+          "subNumber": "b",
+          "text": "A rated generator synchronous 500 kVA, 440 V, 0.1 p.u. subtransient reactance is supplying a passive load of 400 kW at 0.8 lagging power factor. Calculate the initial symmetrical r.m.s. current for a three-phase fault at generator terminal.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2017_43_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2017_43_q5_s1",
+          "subNumber": "a",
+          "text": "Define positive, negative and zero-sequence components.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_power2_2017_43_q5_s2",
+          "subNumber": "b",
+          "text": "Write the equation to transform phase voltage into sequence voltage.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2017_43_q5_s3",
+          "subNumber": "c",
+          "text": "The voltages across a three-phase unbalanced load are \\( V_a = 200 V \\), \\( V_b = 200\\angle -90^{\\circ} V \\), \\( V_c = 600\\angle 140^{\\circ} V \\) respectively. Determine the sequence component of voltages. Phase sequence is abc.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2017_43_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2017_43_q6_s1",
+          "subNumber": "a",
+          "text": "Calculate the sequence component of three-phase star-connected balanced supply voltages.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2017_43_q6_s2",
+          "subNumber": "b",
+          "text": "Derive the sequence component of a transmission line having \\( X_s \\) (self-reactance of each line) and \\( X_m \\) (mutual reactance of any line pair). The series resistance of the line may be ignored.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2017_43_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2017_43_q7_s1",
+          "subNumber": "a",
+          "text": "For a three-phase unloaded alternator with neutral grounded through impedance \\( Z_n \\) and fault impedance \\( Z_f \\), draw the phase and sequence network for an L-L fault. Also derive the expression for the sequence component of the current in a three-phase unloaded alternator for L-L fault.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2017_43_q7_s2",
+          "subNumber": "b",
+          "text": "A 20 MVA, 33 kV, three-phase alternator is subjected to different types of short-circuit tests. The fault currents were: three-phase fault current - 300 A; line to line fault current - 400 A; single-line to ground fault current - 600 A. The alternator is solidly grounded. Find the per unit value of three-sequence reactance of the alternator. Neglect resistance.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2017_43_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2017_43_q8_s1",
+          "subNumber": "a",
+          "text": "Derive an expression for the maximum power transfer between two nodes. Show that this power is maximum when \\( X = \\sqrt{3}R \\), where X and R are reactance and resistance of the system respectively.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2017_43_q8_s2",
+          "subNumber": "b",
+          "text": "A motor is receiving 30% of the power that it is capable of receiving from an infinite bus. If the load on the motor is doubled, calculate the maximum value of \\( \\delta \\) during the swing of the rotor around the equilibrium position.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2017_43_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2017_43_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Transient stability",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2017_43_q9_s2",
+          "subNumber": "b",
+          "text": "(b) Equal area criterion",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_power2_2017_43_q9_s3",
+          "subNumber": "c",
+          "text": "(c) Hydrothermal scheduling",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

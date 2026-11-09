@@ -1,0 +1,267 @@
+{
+  "id": "sem1_eng_2022_68",
+  "semester": 1,
+  "subject_code": "eng",
+  "subject_name": "Communicative English",
+  "year": "2022",
+  "exam_code": "100106",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam, 2022 English Time: 03 Hours Code: 100106 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 8,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eng_2022_68_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_68_q1_s1",
+          "subNumber": "a",
+          "text": "Give one word for the following:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "One who is out to destroy government.",
+            "A man living in the same age with another.",
+            "That which is fit to be eaten.",
+            "Spread of disease in a particular area in one time."
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_68_q1_s2",
+          "subNumber": "b",
+          "text": "Write synonyms of given words.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Wash",
+            "Conceal",
+            "Busy",
+            "Curious"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_68_q1_s3",
+          "subNumber": "c",
+          "text": "Form a new word by adding prefix to it.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Cultural",
+            "Space",
+            "Work",
+            "Market"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_68_q1_s4",
+          "subNumber": "d",
+          "text": "Form a new word by adding suffix to it.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Child",
+            "Care",
+            "Back",
+            "Accident"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_68_q1_s5",
+          "subNumber": "e",
+          "text": "Fill in the blanks with suitable prepositions:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "She is famous _____ her watercolour paintings.",
+            "The car went _____ the tunnel.",
+            "I attended a quick meeting _____ leaving for the day.",
+            "The sun is _____ the clouds."
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_68_q1_s6",
+          "subNumber": "f",
+          "text": "Write the meanings of the foreign expressions:",
+          "freq": 8,
+          "stars": "★★★★★",
+          "options": [
+            "Ad verbatim",
+            "In camera"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_68_q1_s7",
+          "subNumber": "g",
+          "text": "Write the meanings of the following:",
+          "freq": 8,
+          "stars": "★★★★★",
+          "options": [
+            "Hold good",
+            "At home"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_68_q1_s8",
+          "subNumber": "h",
+          "text": "Frame sentences with the following idioms:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Add insult to injury",
+            "All ears"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_68_q1_s9",
+          "subNumber": "i",
+          "text": "Frame sentences with the following homophones to bring out the difference in their meanings:",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Stalk, Stalk",
+            "Compliment, Complement"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_68_q1_s10",
+          "subNumber": "j",
+          "text": "Write four sentences on soft skills.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_68_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_68_q2_s1",
+          "subNumber": "a",
+          "text": "Write in detail the essentials of report writing.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_68_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_68_q3_s1",
+          "subNumber": "a",
+          "text": "Assuming other details, write your resume for a job application by giving suitable examples for your eligibility.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_68_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_68_q4_s1",
+          "subNumber": "a",
+          "text": "What are some of the common workplace barriers in communication?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_68_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_68_q5_s1",
+          "subNumber": "a",
+          "text": "What is Group Discussion? Write the characteristics of successful Group Discussion.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_68_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_68_q6_s1",
+          "subNumber": "a",
+          "text": "Describe any four personality traits evaluated in Debate.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_68_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_68_q7_s1",
+          "subNumber": "a",
+          "text": "In not more than 150 words, write about \"Blended Learning\".",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_68_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_68_q8_s1",
+          "subNumber": "a",
+          "text": "What is the difference between effective and ineffective feedback?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_68_q9",
+      "number": 9,
+      "title": "Q.9 Write an essay in about 250 words on any one of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_68_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

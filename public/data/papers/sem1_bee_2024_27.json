@@ -1,0 +1,309 @@
+{
+  "id": "sem1_bee_2024_27",
+  "semester": 1,
+  "subject_code": "bee",
+  "subject_name": "Basic Electrical Engineering",
+  "year": "2024",
+  "exam_code": "100106",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 Basic Electrical Engineering Time: 03 Hours Code: 100106 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 6,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_bee_2024_27_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_27_q1_s1",
+          "subNumber": "a",
+          "text": "In source transformation, a voltage source in series with a resistor can be converted into:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A current source in parallel with a capacitor",
+            "A current source in parallel with a resistor",
+            "A voltage source in parallel with a resistor",
+            "A current source in series with a resistor"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_27_q1_s2",
+          "subNumber": "b",
+          "text": "According to Kirchhoff's Voltage Law (KVL), the sum of voltages around a closed loop is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Equal to the largest voltage in the loop",
+            "Zero",
+            "Equal to the source voltage",
+            "Always negative"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_27_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is a bilateral element?",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Diode",
+            "Transistor",
+            "Resistor",
+            "Battery"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_27_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following quantities in a magnetic circuit is analogous to current in an electric circuit?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Magnetic reluctance",
+            "Magnetic flux",
+            "Magnetomotive force (MMF)",
+            "Permeability"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_27_q1_s5",
+          "subNumber": "e",
+          "text": "The power factor in an AC circuit is defined as the ratio of:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Active power to reactive power",
+            "Apparent power to active power",
+            "Active power to apparent power",
+            "Apparent power to reactive power"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_27_q1_s6",
+          "subNumber": "f",
+          "text": "Which connection type has a neutral point?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Delta connection",
+            "Star connection",
+            "Both star and delta",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_27_q1_s7",
+          "subNumber": "g",
+          "text": "In a DC generator, the EMF is generated due to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Stationary magnetic field",
+            "Stationary armature",
+            "Relative motion between magnetic field and conductor",
+            "High resistance in the circuit"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_27_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following losses occurs in a transformer?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Copper loss",
+            "Friction loss",
+            "Windage loss",
+            "Commutation loss"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_27_q1_s9",
+          "subNumber": "i",
+          "text": "In a series RLC circuit, resonance occurs when:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( X_L = X_C \\)",
+            "\\( X_L &gt; X_C \\)",
+            "\\( X_L = R \\)",
+            "\\( R = X_C \\)"
+          ]
+        },
+        {
+          "id": "sem1_bee_2024_27_q1_s10",
+          "subNumber": "j",
+          "text": "The main function of a distribution board is to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Measure electrical power",
+            "Connect transformers",
+            "Distribute electrical power to circuits",
+            "Store electrical energy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_27_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_27_q2_s1",
+          "subNumber": "a",
+          "text": "Explain Thevenin's and Norton's Theorems. How can one be derived from the other? Support your answer with a circuit diagram and step-by-step solution.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_27_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_27_q3_s1",
+          "subNumber": "a",
+          "text": "State and explain Kirchhoff's Current Law (KCL) and Kirchhoff's Voltage Law (KVL) with an illustrative circuit and solve a simple numerical example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2024_27_q3_s2",
+          "subNumber": "b",
+          "text": "Describe the process of source transformation and provide an example where a voltage source is transformed into a current source and vice versa.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_27_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_27_q4_s1",
+          "subNumber": "a",
+          "text": "Describe the concept of magnetic reluctance and derive the formula for reluctance in terms of length, area, and permeability.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2024_27_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the analogy between electric and magnetic circuits. Draw a table comparing the corresponding quantities.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_27_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_27_q5_s1",
+          "subNumber": "a",
+          "text": "Define and compare average value, RMS value, form factor, and peak factor for sinusoidal waveforms. Give appropriate expressions and examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2024_27_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the concept of phasors. How are sinusoidally varying voltages and currents represented using phasors?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_27_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_27_q6_s1",
+          "subNumber": "a",
+          "text": "Describe the difference between star and delta connections. Provide diagrams and explain voltage and current relations for both.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_27_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_27_q7_s1",
+          "subNumber": "a",
+          "text": "Describe the construction and working of a single-phase transformer. Derive the EMF equation.",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_bee_2024_27_q7_s2",
+          "subNumber": "b",
+          "text": "Explain the types of DC machines and differentiate between a DC motor and a DC generator.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_27_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_27_q8_s1",
+          "subNumber": "a",
+          "text": "Describe the different types of residential and commercial wiring systems with diagrams.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2024_27_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2024_27_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

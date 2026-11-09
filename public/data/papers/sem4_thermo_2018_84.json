@@ -1,0 +1,344 @@
+{
+  "id": "sem4_thermo_2018_84",
+  "semester": 4,
+  "subject_code": "thermo",
+  "subject_name": "Thermodynamics",
+  "year": "2018",
+  "exam_code": "021307",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Examination, 2018 Thermodynamics Time: 03 Hours Code: 021307 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_thermo_2018_84_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2018_84_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following are intensive properties?<br/> 1. Kinetic energy<br/> 2. Specific enthalpy<br/> 3. Pressure<br/> 4. Entropy<br/> Select the correct option using the code given below:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1 and 3",
+            "2 and 3",
+            "1, 3 and 4",
+            "2 and 4"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2018_84_q1_s2",
+          "subNumber": "b",
+          "text": "Ice kept in a well-insulated thermo-flask is an example of which system?",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "Closed system",
+            "Isolated system",
+            "Open system",
+            "Non-flow adiabatic system"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2018_84_q1_s3",
+          "subNumber": "c",
+          "text": "A gas contained in a cylinder is compressed, the work required for compression being 5000 kJ. During the process, heat interaction of 2000 kJ causes the surroundings to be heated. The change in internal energy of the gas during the process is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "-7000 kJ",
+            "-3000 kJ",
+            "+3000 kJ",
+            "+7000 kJ"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2018_84_q1_s4",
+          "subNumber": "d",
+          "text": "A reversible heat engine operating between hot and cold reservoirs delivers a work output of 54 kJ while it rejects a heat of 66 kJ. The efficiency of this engine is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.45",
+            "0.66",
+            "0.75",
+            "0.82"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2018_84_q1_s5",
+          "subNumber": "e",
+          "text": "A reversible engine operates between temperatures 900 K and \\( T_2 \\) (\\( T_2 &lt; 900 \\text{ K} \\)), and another reversible engine between \\( T_2 \\) and 400 K (\\( T_2&gt; 400 \\text{ K} \\)) in series. What is the value of \\( T_2 \\) if work outputs of both the engines are equal?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "600 K",
+            "625 K",
+            "650 K",
+            "675 K"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2018_84_q1_s6",
+          "subNumber": "f",
+          "text": "In a cyclic heat engine operating between a source temperature of \\( 600^\\circ\\text{C} \\) and a sink temperature of \\( 20^\\circ\\text{C} \\), the least rate of heat rejection per kW net output of the engine is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.460 kW",
+            "0.505 kW",
+            "0.588 kW",
+            "0.650 kW"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2018_84_q1_s7",
+          "subNumber": "g",
+          "text": "If a closed system is undergoing an irreversible process, the entropy of the system",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "must increase",
+            "always remains constant",
+            "must decrease",
+            "can increase, decrease or remain constant"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2018_84_q1_s8",
+          "subNumber": "h",
+          "text": "A Carnot engine operates between \\( 327^\\circ\\text{C} \\) and \\( 27^\\circ\\text{C} \\). If the engine produces 300 kJ of work, what is the entropy change during heat addition?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "0.5 kJ/K",
+            "1.0 kJ/K",
+            "1.5 kJ/K",
+            "2.0 kJ/K"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2018_84_q1_s9",
+          "subNumber": "i",
+          "text": "A gas having a negative Joule-Thompson coefficient (\\( \\mu &lt; 0 \\)), when throttled, will",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "become cooler",
+            "become warmer",
+            "remain at the same temperature",
+            "either be cooler or warmer depending on the type of gas"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2018_84_q1_s10",
+          "subNumber": "j",
+          "text": "Which one of the following represents the condensation of a mixture of saturated liquid and saturated vapour on the enthalpy-entropy diagram?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A horizontal line",
+            "An inclined line of constant slope",
+            "A vertical line",
+            "A curved line"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2018_84_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2018_84_q2_s1",
+          "subNumber": "a",
+          "text": "Convert the following readings of pressure to kPa, assuming that the barometer reads 760 mmHg: (i) 90 cmHg gauge (ii) 40 cm Hg vacuum (iii) 1.2 m \\( \\text{H}_2\\text{O} \\) gauge (iv) 3.1 bar",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2018_84_q2_s2",
+          "subNumber": "b",
+          "text": "The resistance of a platinum wire is found to be 11,000 ohms at the ice point, 15.247 ohms at the steam point, and 28.887 ohms at the sulphur point. Find the constants A and B in the equation \\( R = R_0(1 + At + Bt^2) \\) And plot R against t in the range 0 to \\( 660^\\circ\\text{C} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2018_84_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2018_84_q3_s1",
+          "subNumber": "a",
+          "text": "Show that heat and work are path functions and not a property. A single-cylinder, double-acting, reciprocating water pump has an indicator diagram which is a rectangle 0.075 m long and 0.05 m high. The indicator spring constant is 147 MPa per m. The pump runs at 50 r.p.m. The pump cylinder diameter is 0.15 m and the piston stroke is 0.20 m. Find the rate in kW at which the piston does work on the water.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2018_84_q3_s2",
+          "subNumber": "b",
+          "text": "State the first law of thermodynamics for a closed system undergoing a change of state. A gas of mass 1.5 kg undergoes a quasi-static expansion which follows a relationship \\( p = a + bV \\) where a and b are constants. The initial and final pressures are 1000 kPa and 200 kPa respectively and the corresponding volumes are 0.20 \\( \\text{m}^3 \\) and 1.20 \\( \\text{m}^3 \\). The specific internal energy of the gas is given by the relation \\( u = 1.5pv - 85 \\text{ kJ/kg} \\), where p is the kPa and v is in \\( \\text{m}^3/\\text{kg} \\). Calculate the net heat transfer and the maximum internal energy of the gas attained during expansion.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2018_84_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2018_84_q4_s1",
+          "subNumber": "a",
+          "text": "Derive the steady flow energy equation (SFEE). Under what conditions the SFEE does reduce to Euler's equation?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2018_84_q4_s2",
+          "subNumber": "b",
+          "text": "A turbo compressor delivers 2.33 \\( \\text{m}^3/\\text{s} \\) at 0.276 MPa, \\( 43^\\circ\\text{C} \\) which is heated at this pressure to \\( 430^\\circ\\text{C} \\) and finally expanded in a turbine which delivers 1860 kW. During the expansion, there is a heat transfer of 0.09 MJ/s to the surroundings. Calculate the turbine exhaust temperature if changes in kinetic and potential energy are negligible.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2018_84_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2018_84_q5_s1",
+          "subNumber": "a",
+          "text": "A heat pump working on the Carnot cycle takes in heat from a reservoir at \\( 5^\\circ\\text{C} \\) and delivers heat to a reservoir at \\( 60^\\circ\\text{C} \\). The heat pump is driven by a reversible heat engine which takes in heat from a reservoir at \\( 840^\\circ\\text{C} \\) and rejects heat to a reservoir at \\( 60^\\circ\\text{C} \\). The reversible heat engine also drives a machine that absorbs 30 kW. If the heat pump extracts 17 kJ/s from the \\( 5^\\circ\\text{C} \\) reservoir, determine- (i) the rate of heat supply from the \\( 840^\\circ\\text{C} \\) source; (ii) the rate of heat rejection to the \\( 60^\\circ\\text{C} \\) sink.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2018_84_q5_s2",
+          "subNumber": "b",
+          "text": "What do you understand by exergy and energy? In a steam generator, water is evaporated at \\( 260^\\circ\\text{C} \\), while the combustion gas (\\( C_p = 1.08 \\text{ kJ/kg K} \\)) is cooled from \\( 1300^\\circ\\text{C} \\) to \\( 320^\\circ\\text{C} \\). The surroundings are at \\( 30^\\circ\\text{C} \\). Determine the loss in available energy due to the above heat transfer per kg of water evaporated (Latent heat of vaporization of water at \\( 260^\\circ\\text{C} = 1662.5 \\text{ kJ/kg} \\)).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2018_84_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2018_84_q6_s1",
+          "subNumber": "a",
+          "text": "Give the criteria of reversibility, irreversibility and impossibility of a thermodynamic cycle. Two vessels, A and B, each of volume 3 \\( \\text{m}^3 \\) may be connected by a tube of negligible volume. Vessel A contains air at 0.7 MPa, \\( 95^\\circ\\text{C} \\), while vessel B contains air at 0.35 MPa, \\( 205^\\circ\\text{C} \\). Find the change of entropy when A is connected to B by working from the first principles and assuming the mixing to be complete and adiabatic. Take \\( C_p = 1.005 \\) and \\( C_v = 0.718 \\text{ kJ/kg-K} \\) and assume the specific heats to be constant. Also assume for air \\( pv = 0.287 T \\) where p is the pressure in kPa, v is the specific volume in \\( \\text{m}^3/\\text{kg} \\) and T is the temperature in K.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2018_84_q6_s2",
+          "subNumber": "b",
+          "text": "Show that the adiabatic mixing of two fluids is irreversible. Each of three identical bodies satisfies the equation \\( U = CT \\), where C is the heat capacity of each of the bodies. Their initial temperatures are 200 K, 250 K, and 540 K. If \\( C = 8.4 \\text{ kJ/K} \\), what is the maximum amount of work that can be extracted in a process in which these bodies are brought to a final common temperature?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2018_84_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2018_84_q7_s1",
+          "subNumber": "a",
+          "text": "Explain why the specific heat of a saturated vapour may be negative.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2018_84_q7_s2",
+          "subNumber": "b",
+          "text": "Explain, with suitable example, what is a pure substance? Draw the labelled phase equilibrium diagram for table salt on p-v, T-s and h-s coordinates. A large insulated vessel is divided into two chambers, one containing 5 kg of dry saturated steam at 0.2 MPa and the other 10 kg of steam, 0.8 quality at 0.5 MPa. If the partition between the chambers is removed and the steam is mixed thoroughly and allowed to settle, find the final pressure, steam quality and entropy change in the process.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2018_84_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2018_84_q8_s1",
+          "subNumber": "a",
+          "text": "With the help of neat sketch, differentiate between the working of Otto and Diesel cycle.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2018_84_q8_s2",
+          "subNumber": "b",
+          "text": "A geothermal power plant utilizes steam produced by natural means underground. Steam wells are drilled to tap this steam supply which is available at 4.5 bar and \\( 175^\\circ\\text{C} \\). The steam leaves the turbine at 100 mmHg absolute pressure. The turbine isentropic efficiency is 0.75. Calculate the efficiency of the plant. If the unit produces 12.5 MW, what is the steam flow rate?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2018_84_q9",
+      "number": 9,
+      "title": "Q.9 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2018_84_q9_s1",
+          "subNumber": "a",
+          "text": "What is the difference between specific and relative humidity? When does they become maximum?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2018_84_q9_s2",
+          "subNumber": "b",
+          "text": "Atmospheric air at dry bulb temperature of \\( 15^\\circ\\text{C} \\) enters a heating coil whose surface temperature is maintained at \\( 40^\\circ\\text{C} \\). The air leaves the heating coil at \\( 25^\\circ\\text{C} \\). What will be the by-pass factor of the heating coil?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2018_84_q9_s3",
+          "subNumber": "c",
+          "text": "For chemical reaction<br/> \\( \\text{CO}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{CO} + \\text{H}_2\\text{O} \\)<br/> The equilibrium value of the degree of reaction at 1200 K is 0.56. Determine the equilibrium constant and the Gibbs function change.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

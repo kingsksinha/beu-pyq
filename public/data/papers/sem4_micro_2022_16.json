@@ -1,0 +1,365 @@
+{
+  "id": "sem4_micro_2022_16",
+  "semester": 4,
+  "subject_code": "micro",
+  "subject_name": "Microprocessors",
+  "year": "2022",
+  "exam_code": "110405",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 4th Semester Examination, 2022 Microprocessors Time: 03 Hours Code: 110405 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 30,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_micro_2022_16_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven) :",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2022_16_q1_s1",
+          "subNumber": "a",
+          "text": "Intel 8085 is a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "microprocessor",
+            "microcontroller",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_micro_2022_16_q1_s2",
+          "subNumber": "b",
+          "text": "On reset of 8051, stack pointer points to _______ address.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "00H",
+            "05H",
+            "07H",
+            "0AH"
+          ]
+        },
+        {
+          "id": "sem4_micro_2022_16_q1_s3",
+          "subNumber": "c",
+          "text": "When 8051 wakes up, then 0x00 is loaded to which register?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "DPTR",
+            "SP",
+            "PC",
+            "PSW"
+          ]
+        },
+        {
+          "id": "sem4_micro_2022_16_q1_s4",
+          "subNumber": "d",
+          "text": "The register whose bits represent status flags is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "DPTR",
+            "SP",
+            "PC",
+            "PSW"
+          ]
+        },
+        {
+          "id": "sem4_micro_2022_16_q1_s5",
+          "subNumber": "e",
+          "text": "MOVC is used in _______ addressing mode.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "direct",
+            "indirect",
+            "index",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_micro_2022_16_q1_s6",
+          "subNumber": "f",
+          "text": "Device pins XTAL1 and XTAL2 of 8051 are used for connections to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "external oscillator",
+            "external power",
+            "external peripheral",
+            "external memory"
+          ]
+        },
+        {
+          "id": "sem4_micro_2022_16_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the 8051 variant architectures does not have ROM?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "8051",
+            "8052",
+            "8031",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_micro_2022_16_q1_s8",
+          "subNumber": "h",
+          "text": "SWAP instruction works on _______ register.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "any",
+            "accumulator",
+            "general purpose",
+            "special function"
+          ]
+        },
+        {
+          "id": "sem4_micro_2022_16_q1_s9",
+          "subNumber": "i",
+          "text": "8051 can handle _______ interrupt sources.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ]
+        },
+        {
+          "id": "sem4_micro_2022_16_q1_s10",
+          "subNumber": "j",
+          "text": "Name the architecture and the instruction set for microcontroller.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "von-Neumann architecture with CISC instruction set",
+            "Harvard architecture with CISC instruction set",
+            "von-Neumann architecture with RISC instruction set",
+            "Harvard architecure with RISC instruction set"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2022_16_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2022_16_q2_s1",
+          "subNumber": "a",
+          "text": "Differentiate between Microprocessor and Microcontroller. Also list some of the popular microprocessors and microcontrollers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q2_s2",
+          "subNumber": "b",
+          "text": "What is word size of a processor? How is this related to ALU size, Memory size, Register size and Bus size? Explain.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q2_s3",
+          "subNumber": "c",
+          "text": "Comment on the benefit of having separate program and data memory in the typical microcontroller architecture.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2022_16_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2022_16_q3_s1",
+          "subNumber": "a",
+          "text": "What make any system embedded? Give examples of application areas of embedded systems. Write three key characteristics of an embedded system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss about the role of micro-controllers in embedded systems in detail. Give a detailed note on the technologies other than microcontrollers used in embedded system design.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2022_16_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2022_16_q4_s1",
+          "subNumber": "a",
+          "text": "List addressing modes of 8051. By how many different ways we can access the program/code memory? Explain by using suitable example instructions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q4_s2",
+          "subNumber": "b",
+          "text": "Write secondary functions of Port P3 pins of 8051.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q4_s3",
+          "subNumber": "c",
+          "text": "Differentiate among MOV, MOVC and MOVX instructions.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2022_16_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2022_16_q5_s1",
+          "subNumber": "a",
+          "text": "Comment on the ROM availability in different variant architectures of 8051. How to access an external ROM? Draw proper interfacing diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q5_s2",
+          "subNumber": "b",
+          "text": "How is machine cycle related to clock frequency and the execution time of an instruction? Explain in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2022_16_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2022_16_q6_s1",
+          "subNumber": "a",
+          "text": "Write 8051 assembly program to copy a block of 10 bytes from RAM location starting at 37h to RAM location starting at 59h.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the role of timers in 8051. Also explain the registers used for timer operations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2022_16_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2022_16_q7_s1",
+          "subNumber": "a",
+          "text": "Write a program to generate a delay of 10 milliseconds using timer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q7_s2",
+          "subNumber": "b",
+          "text": "How can we use time delay generated in question no. 7(a) for making Diwali lighting with blinking period of 10 milliseconds? Use delay code as subroutine.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2022_16_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2022_16_q8_s1",
+          "subNumber": "a",
+          "text": "What is ADC and DAC? Explain DAC working with suitable diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q8_s2",
+          "subNumber": "b",
+          "text": "What is interrupt? What is need of interrupts in the processor? List 8051 interrupts.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q8_s3",
+          "subNumber": "c",
+          "text": "List the serial communication interface standards. Write a few lines on each.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2022_16_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2022_16_q9_s1",
+          "subNumber": "a",
+          "text": "Differentiate between Synchronous and Asynchronous communications.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q9_s2",
+          "subNumber": "b",
+          "text": "What are sensors and actuators? List different sensors and actuators used in embedded system design.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2022_16_q9_s3",
+          "subNumber": "c",
+          "text": "Discuss about the wireless protocols used in communication for embedded systems.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

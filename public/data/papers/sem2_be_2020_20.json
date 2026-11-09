@@ -1,0 +1,277 @@
+{
+  "id": "sem2_be_2020_20",
+  "semester": 2,
+  "subject_code": "be",
+  "subject_name": "Basic Electronics",
+  "year": "2020",
+  "exam_code": "ESC-202",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Special Exam., 2020 (New Course) BASIC ELECTRONICS Time: 03 Hours Code: ESC-202 (101302) Full Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 6,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_be_2020_20_q1",
+      "number": 1,
+      "title": "Q.1 Answer/Fill in the blanks/Write true or false (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_20_q1_s1",
+          "subNumber": "a",
+          "text": "Why is filter required to be added after rectifier circuit?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_20_q1_s2",
+          "subNumber": "b",
+          "text": "What is the application of voltage regulator?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_be_2020_20_q1_s3",
+          "subNumber": "c",
+          "text": "DC value of pure AC waveform is ______",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_20_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the transistor currents is always the largest?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_20_q1_s5",
+          "subNumber": "e",
+          "text": "What is the source of leakage current in a transistor?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_be_2020_20_q1_s6",
+          "subNumber": "f",
+          "text": "What is the major difference between a bipolar and a unipolar device?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_20_q1_s7",
+          "subNumber": "g",
+          "text": "Give the advantage of negative feedback in amplifier",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_be_2020_20_q1_s8",
+          "subNumber": "h",
+          "text": "BJT amplifier changes the frequency and shape of the signal. (True/False)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_20_q1_s9",
+          "subNumber": "i",
+          "text": "CMMR for ideal operational amplifier is ______",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_be_2020_20_q1_s10",
+          "subNumber": "j",
+          "text": "Slew rate for ideal operational amplifier is ______",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_20_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_20_q2_s1",
+          "subNumber": "a",
+          "text": "Draw volt-ampere characteristics of a Zener diode. What is meant by the knee voltage in the curve?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_20_q2_s2",
+          "subNumber": "b",
+          "text": "Describe in detail the avalanche breakdown mechanism in a diode.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_20_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_20_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the principle of operation of LED with the help of diagram.",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_be_2020_20_q3_s2",
+          "subNumber": "b",
+          "text": "Derive the expression for \\( I_C \\) in terms of \\( I_E \\) and \\( \\alpha_d \\) for a common-base BJT configuration. For a given \\( \\alpha_d \\) of 0.998, determine \\( I_C \\) if \\( I_E = 4 \\text{ mA} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_20_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_20_q4_s1",
+          "subNumber": "a",
+          "text": "Define the stability factor. What does smaller stability factor indicate?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_20_q4_s2",
+          "subNumber": "b",
+          "text": "Derive the expression for stability factor for voltage divider bias (self-bias) circuit.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_20_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_20_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the construction and characteristics of FET.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_be_2020_20_q5_s2",
+          "subNumber": "b",
+          "text": "Draw and explain h-parameter small signal model for BJT.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_20_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_20_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the working of common emitter amplifier with the help of circuit diagram.",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_be_2020_20_q6_s2",
+          "subNumber": "b",
+          "text": "What are the roles of coupling and bypass capacitors? Explain in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_20_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_20_q7_s1",
+          "subNumber": "a",
+          "text": "Describe the RC phase-shift oscillator with circuit diagram.",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_be_2020_20_q7_s2",
+          "subNumber": "b",
+          "text": "Explain the working of high-frequency LC oscillator with the help of circuit diagram.",
+          "freq": 6,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_20_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_20_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the working of voltage series feedback amplifier with the help of block diagram.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem2_be_2020_20_q8_s2",
+          "subNumber": "b",
+          "text": "Design an integrator using op-amp and explain its working.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_20_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_20_q9_s1",
+          "subNumber": "a",
+          "text": "Write the circuit diagram of differential amplifier configurations and explain its working.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_20_q9_s2",
+          "subNumber": "b",
+          "text": "Explain about CMRR, slew rate and concept of virtual ground.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

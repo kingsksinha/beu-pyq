@@ -1,0 +1,316 @@
+{
+  "id": "sem4_math3_2020_5",
+  "semester": 4,
+  "subject_code": "math3",
+  "subject_name": "Engineering Mathematics - III",
+  "year": "2020",
+  "exam_code": "BS-101",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Special Exam., 2020 MATHEMATICS-III Time: 03 Hours Code: BS-101 (104303) Full Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_math3_2020_5_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following as directed (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_5_q1_s1",
+          "subNumber": "a",
+          "text": "The value of Chebyshev polynomials \\( T_3(x) \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( 2x^2 - 1 \\)",
+            "\\( 2x^2 + 1 \\)",
+            "\\( 4x^3 + 3x \\)",
+            "\\( 4x^3 - 3x \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_5_q1_s2",
+          "subNumber": "b",
+          "text": "The value of \\( \\frac{d}{dx}(x \\text{ bei}' x) \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( -x \\text{ ber } x \\)",
+            "\\( -\\text{bet } x \\)",
+            "\\( x \\text{ ber } x \\)",
+            "\\( -x \\text{ ber } x \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_5_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following functions is inverse of itself?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( f(x) = \\frac{1-x}{1+x} \\)",
+            "\\( f(x) = 5^{\\log x} \\)",
+            "\\( f(x) = 2^{x(x-1)} \\)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_5_q1_s4",
+          "subNumber": "d",
+          "text": "Given \\( f(x) = \\log\\left(\\frac{1+x}{1-x}\\right) \\) and \\( g(x) = \\frac{3x+x^3}{1-3x^2} \\). Then \\( f \\circ g(x) \\) equals",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( -f(x) \\)",
+            "\\( 3f(x) \\)",
+            "\\( |f(x)|^3 \\)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_5_q1_s5",
+          "subNumber": "e",
+          "text": "If a function \\( f: (2,\\infty) \\rightarrow B \\) defined by \\( f(x) = x^2 - 4x + 5 \\) is a bijection, then B =",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "R",
+            "\\( [1, \\infty) \\)",
+            "\\( [4, -1] \\)",
+            "\\( [5, \\infty) \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_5_q1_s6",
+          "subNumber": "f",
+          "text": "If \\( r_1 \\) and \\( r_2 \\) are two regression coefficients, then signs of \\( r_1 \\) and \\( r_2 \\) depend on _________.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2020_5_q1_s7",
+          "subNumber": "g",
+          "text": "Regression coefficient of y on x is 0.7 and that of x on y is 3.2. Is the correlation coefficient consistent? (State Yes or No)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2020_5_q1_s8",
+          "subNumber": "h",
+          "text": "The SD of the binomial distribution is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\sqrt{npq} \\)",
+            "\\( \\sqrt{np} \\)",
+            "\\( npq \\)",
+            "\\( pq \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_5_q1_s9",
+          "subNumber": "i",
+          "text": "A hypothesis is true but is rejected, then there is an error of type _________.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_math3_2020_5_q1_s10",
+          "subNumber": "j",
+          "text": "A hypothesis is false but is accepted, then there is an error of type _________.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_5_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_5_q2_s1",
+          "subNumber": "a",
+          "text": "State and prove the orthogonality property of Chebyshev polynomials.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_math3_2020_5_q2_s2",
+          "subNumber": "b",
+          "text": "Show that \\( (1-x^2)T_n'(x) = nT_{n-1}(x) - nxT_n(x) \\), where \\( T_n(x) \\) is Chebyshev polynomials.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_5_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_5_q3_s1",
+          "subNumber": "a",
+          "text": "What are the applications of wavelets transform?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_math3_2020_5_q3_s2",
+          "subNumber": "b",
+          "text": "For any three sets A, B and C, prove that \\( A \\times (B \\cup C) = (A \\times B) \\cap (A \\times C) \\). (Note: There is a typo in the original question paper which asks to prove intersection instead of union, please prove accordingly or state the standard relation).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_5_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_5_q4_s1",
+          "subNumber": "a",
+          "text": "Prove that the relation R on the set \\( N \\times N \\) defined by \\( (a,b)R(c,d) \\in R \\Leftrightarrow a+d = b+c \\) for all \\( (a,b), (c,d) \\in N \\times N \\) is an equivalence relation.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_math3_2020_5_q4_s2",
+          "subNumber": "b",
+          "text": "Show that the function \\( f: R \\rightarrow R \\) defined by \\( f(x) = 3x^3 + 3 \\) for all \\( x \\in R \\) is a bijection.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_5_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_5_q5_s1",
+          "subNumber": "a",
+          "text": "Derive the expression of ber and bei functions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2020_5_q5_s2",
+          "subNumber": "b",
+          "text": "Consider the given graph. Find all edges that are incident on \\( v_1 \\), all vertices that are adjacent to \\( v_1 \\), all edges that are adjacent to \\( e_1 \\), all loops, all parallel edges, all vertices that are adjacent to themselves, and all isolated vertices.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/100.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_5_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_5_q6_s1",
+          "subNumber": "a",
+          "text": "The first four moments about the working mean 28.5 of a distribution are 0.294, 7.144, 42.409 and 454.98. Calculate the moment about the mean. Also evaluate \\( \\beta_1 \\), \\( \\beta_2 \\) and comment upon the skewness and kurtosis of the distribution.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2020_5_q6_s2",
+          "subNumber": "b",
+          "text": "Compute the Karl Pearson's coefficient correlation using the data given below:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_5_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_5_q7_s1",
+          "subNumber": "a",
+          "text": "Find the moment-generating function of Poisson distribution.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_math3_2020_5_q7_s2",
+          "subNumber": "b",
+          "text": "In a certain factory turning out razor blades, there is a small chance of 0.002 for any blade to be defective. The blades are supplied in packets of 10. Calculate the approximate number of packets containing no defective, one defective and two defective blades respectively in a consignment of 10000 packets.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_5_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_5_q8_s1",
+          "subNumber": "a",
+          "text": "In a normal distribution, 31% of the items are under 45 and 8% are over 64. Find the mean and SD of the distribution.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2020_5_q8_s2",
+          "subNumber": "b",
+          "text": "Discuss the method of least square.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_5_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_5_q9_s1",
+          "subNumber": "a",
+          "text": "The mean of a certain normal population is equal to the standard error of the mean of the samples of 100 from that distribution. Find the probability that the mean of the sample of 25 from the distribution will be negative.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_math3_2020_5_q9_s2",
+          "subNumber": "b",
+          "text": "An unbiased coin is thrown n times. It is desired that the relative frequency of the appearance of head should lie between 0.49 and 0.51. Find the smallest value of n that will ensure this result with 90% confidence.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

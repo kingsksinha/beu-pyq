@@ -1,0 +1,221 @@
+{
+  "id": "sem4_mantech_2019_12",
+  "semester": 4,
+  "subject_code": "mantech",
+  "subject_name": "Manufacturing Technology",
+  "year": "2019",
+  "exam_code": "021618",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 6th Semester Examination, 2019 Competitive Manufacturing Strategies Time: 3 hours Code: 021618 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "All questions carry equal marks.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mantech_2019_12_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2019_12_q1_s1",
+          "subNumber": "a",
+          "text": "List the components of reconfigurable manufacturing system.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mantech_2019_12_q1_s2",
+          "subNumber": "b",
+          "text": "Discuss in short about network-based manufacturing.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2019_12_q1_s3",
+          "subNumber": "c",
+          "text": "Explain modular design.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mantech_2019_12_q1_s4",
+          "subNumber": "d",
+          "text": "State the principles of TQM.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2019_12_q1_s5",
+          "subNumber": "e",
+          "text": "Discuss about the simulation tools.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mantech_2019_12_q1_s6",
+          "subNumber": "f",
+          "text": "Explain E-manufacturing.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mantech_2019_12_q1_s7",
+          "subNumber": "g",
+          "text": "Explain WTO agreement.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2019_12_q1_s8",
+          "subNumber": "h",
+          "text": "Explain in short Kanban system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2019_12_q1_s9",
+          "subNumber": "i",
+          "text": "Explain the vendor selection and rating system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2019_12_q1_s10",
+          "subNumber": "j",
+          "text": "Explain how manufacturing could be considered as one of the competitive strategy.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2019_12_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2019_12_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss the advantages and disadvantages of the present competitive environment in the market.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2019_12_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2019_12_q3_s1",
+          "subNumber": "a",
+          "text": "Explain in detail lean and agile manufacturing. With the help of a suitable example, differentiate clearly between lean and agile manufacturing.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2019_12_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2019_12_q4_s1",
+          "subNumber": "a",
+          "text": "Explain in detail the concepts of MRP and ERP.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2019_12_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2019_12_q5_s1",
+          "subNumber": "a",
+          "text": "Explain intelligent manufacturing. Also justify that how it can be used a tool for competitive manufacturing.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2019_12_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2019_12_q6_s1",
+          "subNumber": "a",
+          "text": "What do you understand by cellular manufacturing system? Explain its main components and features with the help of a neat sketch.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2019_12_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2019_12_q7_s1",
+          "subNumber": "a",
+          "text": "Explain in detail the features of flexible manufacturing systems. Also clearly differentiate between dedicated and flexible manufacturing systems.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2019_12_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2019_12_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the major components of Computer Integrated Manufacturing along with the CIM wheel.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2019_12_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2019_12_q9_s1",
+          "subNumber": "a",
+          "text": "Explain how E-manufacturing could be used for satisfying the customer requirements as well as maximizing the profit in the present competitive environment. In the light of above discussion, explain the major components of E-manufacturing.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

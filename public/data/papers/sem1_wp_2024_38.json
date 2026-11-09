@@ -1,0 +1,351 @@
+{
+  "id": "sem1_wp_2024_38",
+  "semester": 1,
+  "subject_code": "wp",
+  "subject_name": "Workshop + Workshop Practices",
+  "year": "2024",
+  "exam_code": "100105",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 (Old) Workshop Manufacturing Practices Time: 03 Hours Code: 100105 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 5,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_wp_2024_38_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer the following (Any seven only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2024_38_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is not an advantage of casting as a manufacturing process?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Ability to create complex shapes",
+            "Low material waste",
+            "High dimensional accuracy",
+            "Suitable for mass production"
+          ]
+        },
+        {
+          "id": "sem1_wp_2024_38_q1_s2",
+          "subNumber": "b",
+          "text": "An Advanced Manufacturing Methods, Additive Manufacturing primarily differs from conventional subtractive methods in that:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It uses more material",
+            "It removes material layer by layer",
+            "It builds components by adding material layer by layer",
+            "It only works with metals"
+          ]
+        },
+        {
+          "id": "sem1_wp_2024_38_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is an example of an advanced manufacturing process?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Forging",
+            "Turning",
+            "3D Printing",
+            "Brazing"
+          ]
+        },
+        {
+          "id": "sem1_wp_2024_38_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following processes is considered a non-traditional machining process?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Milling",
+            "Turning",
+            "Electro Discharge Machining (EDM)",
+            "Drilling"
+          ]
+        },
+        {
+          "id": "sem1_wp_2024_38_q1_s5",
+          "subNumber": "e",
+          "text": "Ultrasonic machining is best suited for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Non-ferrous metal",
+            "Amorphous solids",
+            "Brittle materials",
+            "Dielectrics"
+          ]
+        },
+        {
+          "id": "sem1_wp_2024_38_q1_s6",
+          "subNumber": "f",
+          "text": "What is the primary purpose of a try square in carpentry?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Measuring wood thickness",
+            "Sanding wooden surfaces",
+            "Checking right angles and marking straight lines",
+            "Driving nails into wood"
+          ]
+        },
+        {
+          "id": "sem1_wp_2024_38_q1_s7",
+          "subNumber": "g",
+          "text": "Which type of wood joint is best suited for making strong right-angle frame connections?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Butt joint",
+            "Lap joint",
+            "Dovetail joint",
+            "Scarf joint"
+          ]
+        },
+        {
+          "id": "sem1_wp_2024_38_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following plastic moulding processes involves injecting molten plastic into a mould cavity?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Blow moulding",
+            "Injection moulding",
+            "Compression moulding",
+            "Extrusion moulding"
+          ]
+        },
+        {
+          "id": "sem1_wp_2024_38_q1_s9",
+          "subNumber": "i",
+          "text": "Thermosetting plastics are preferred in moulding because:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "They can be remelted and reshaped",
+            "They retain their shape permanently after setting",
+            "They are biodegradable",
+            "They are flexible and soft"
+          ]
+        },
+        {
+          "id": "sem1_wp_2024_38_q1_s10",
+          "subNumber": "j",
+          "text": "Before cutting glass, the surface should be:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Painted",
+            "Coated with oil",
+            "Roughened with sandpaper",
+            "Marked and cleaned thoroughly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2024_38_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2024_38_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the comparison between Casting and Machining in terms of process, cost, accuracy, and material wastage.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_wp_2024_38_q2_s2",
+          "subNumber": "b",
+          "text": "Explain Friction Stir Welding (FSW) as an advanced joining process. Describe its working principle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2024_38_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2024_38_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the comparison between casting and forming with respect to their material applications, dimensional accuracy, and cost-effectiveness.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_wp_2024_38_q3_s2",
+          "subNumber": "b",
+          "text": "Explain the comparison between Additive Manufacturing (3D Printing) and Subtractive Manufacturing in terms of material usage, design flexibility, and typical applications.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2024_38_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2024_38_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the step-by-step procedure to make a mortise and tenon joint.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2024_38_q4_s2",
+          "subNumber": "b",
+          "text": "Discuss the importance of proper seasoning of wood in carpentry. What are the common methods used for seasoning wood?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2024_38_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2024_38_q5_s1",
+          "subNumber": "a",
+          "text": "Describe the process of injection moulding. Include the materials used, steps involved, and key advantages.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2024_38_q5_s2",
+          "subNumber": "b",
+          "text": "Compare thermoplastics and thermosetting plastics in the context of moulding. Provide examples of each.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2024_38_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2024_38_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the safety precautions and tools required for cutting glass accurately.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2024_38_q6_s2",
+          "subNumber": "b",
+          "text": "Describe the step-by-step method to cut a straight line on a sheet of glass.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2024_38_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2024_38_q7_s1",
+          "subNumber": "a",
+          "text": "Differentiate between arc welding and gas welding in terms of heat source, equipment, and applications.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_wp_2024_38_q7_s2",
+          "subNumber": "b",
+          "text": "Describe the safety precautions to be followed during arc welding.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2024_38_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2024_38_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the brazing process and mention the common materials used for filler metal.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2024_38_q8_s2",
+          "subNumber": "b",
+          "text": "List the advantages and limitations of brazing compared to welding.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2024_38_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2024_38_q9_s1",
+          "subNumber": "a",
+          "text": "CNC Machining",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2024_38_q9_s2",
+          "subNumber": "b",
+          "text": "Plastic Mouldings",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2024_38_q9_s3",
+          "subNumber": "c",
+          "text": "Soldering process",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2024_38_q9_s4",
+          "subNumber": "d",
+          "text": "Carpentry",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

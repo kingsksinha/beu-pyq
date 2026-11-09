@@ -1,0 +1,284 @@
+{
+  "id": "sem4_trans_2024_85",
+  "semester": 4,
+  "subject_code": "trans",
+  "subject_name": "Transportation Engineering",
+  "year": "2024",
+  "exam_code": "101507",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Examination, 2024 Transportation Engineering Time: 03 Hours Code: 101507 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_trans_2024_85_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven questions only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2024_85_q1_s1",
+          "subNumber": "a",
+          "text": "The particular places where pedestrians are to cross the pavement are properly marked by the pavement marking known as",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q1_s2",
+          "subNumber": "b",
+          "text": "As per the Nagpur plan, the un-surfaced roads were meant for",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q1_s3",
+          "subNumber": "c",
+          "text": "MORTH stands for",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q1_s4",
+          "subNumber": "d",
+          "text": "Highway facilities are designed for",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q1_s5",
+          "subNumber": "e",
+          "text": "In CBR test the value of CBR is calculated at",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q1_s6",
+          "subNumber": "f",
+          "text": "If aggregate impact value is 20-30 percent, then it is classified as",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q1_s7",
+          "subNumber": "g",
+          "text": "Tie bars in cement concrete pavements are at",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q1_s8",
+          "subNumber": "h",
+          "text": "As per IRC recommendations, the maximum limit of superelevation for mixed traffic in plain terrain is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q1_s9",
+          "subNumber": "i",
+          "text": "Rigidity factor for a tyre pressure greater than \\( 7 \\text{ kg/cm}^2 \\) is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q1_s10",
+          "subNumber": "j",
+          "text": "Desire Lines are plotted in",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2024_85_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2024_85_q2_s1",
+          "subNumber": "a",
+          "text": "Define highway alignment. What are the factors affecting highway alignment?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_trans_2024_85_q2_s2",
+          "subNumber": "b",
+          "text": "Briefly outline the various road patterns commonly in use.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2024_85_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2024_85_q3_s1",
+          "subNumber": "a",
+          "text": "What is camber and why it is to be provided for a road surface? Explain different types of camber in pavement with suitability of each as per traffic type.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q3_s2",
+          "subNumber": "b",
+          "text": "Calculate the length of transition curve using the following data: Design speed = 70 kmph, Radius of circular curve = 200m, Pavement width including extra widening = 7.5m, Allowable rate of introduction of superelevation (pavement rotated about the centre line) 1 in 150.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2024_85_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2024_85_q4_s1",
+          "subNumber": "a",
+          "text": "Explain briefly about various factors which affect the:<br/>(i) Road User Characteristics<br/>(ii) Vehicular Characteristics",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q4_s2",
+          "subNumber": "b",
+          "text": "What is traffic volume? Enumerate the different methods of carrying out traffic volume studies.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2024_85_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2024_85_q5_s1",
+          "subNumber": "a",
+          "text": "Calculate the length of stopping sight distance for two way traffic in a single lane road. The design speed is 80 kmph. Coefficient of friction is 0.6. Calculate for sloping road with (i) Ascending slope of 2% (ii) Descending slope of 3%.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q5_s2",
+          "subNumber": "b",
+          "text": "Describe briefly about PIEV theory.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2024_85_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2024_85_q6_s1",
+          "subNumber": "a",
+          "text": "The radius of a horizontal circular curve is 100m. The design speed is 50 kmph and the design Coefficient of lateral friction is 0.15. Calculate the superelevation required if full lateral friction is assumed to develop.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q6_s2",
+          "subNumber": "b",
+          "text": "Explain briefly about different types of transition curves commonly adopted.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2024_85_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2024_85_q7_s1",
+          "subNumber": "a",
+          "text": "Define the following terms:<br/>(i) Space-mean speed<br/>(ii) Time-mean speed<br/>(iii) Traffic Island<br/>(iv) Passenger car unit (PCU)<br/>(v) Traffic capacity<br/>(vi) \\( 30^{\\text{th}} \\) highest hourly volume<br/>(vii) Jam Density",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2024_85_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2024_85_q8_s1",
+          "subNumber": "a",
+          "text": "What are the different types of bituminous materials used in road construction? Under what circumstances each of these materials are preferred?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q8_s2",
+          "subNumber": "b",
+          "text": "Differentiate between flexible pavements and rigid pavements clearly outlining the advantages and disadvantages of both.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2024_85_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:-",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2024_85_q9_s1",
+          "subNumber": "a",
+          "text": "Joints in Cement Concrete pavements",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q9_s2",
+          "subNumber": "b",
+          "text": "Prime Coat and Tack Coat",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q9_s3",
+          "subNumber": "c",
+          "text": "Extra Widening in Horizontal Curves",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2024_85_q9_s4",
+          "subNumber": "d",
+          "text": "Floating Car Method of Speed Delay Study",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

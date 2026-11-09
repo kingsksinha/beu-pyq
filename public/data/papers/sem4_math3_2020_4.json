@@ -1,0 +1,337 @@
+{
+  "id": "sem4_math3_2020_4",
+  "semester": 4,
+  "subject_code": "math3",
+  "subject_name": "Engineering Mathematics - III",
+  "year": "2020",
+  "exam_code": "100311",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2020 (New Course) MATHEMATICS-III (Differential Calculus) Time: 03 Hours Code: 100311 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 6,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_math3_2020_4_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_4_q1_s1",
+          "subNumber": "a",
+          "text": "The value of \\( \\lim_{x\\rightarrow0}\\left(\\frac{\\sin x}{x}\\right)^{1/x} \\) is",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "0",
+            "1",
+            "e",
+            "\\( 1/e \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_4_q1_s2",
+          "subNumber": "b",
+          "text": "Let \\( f(x)=|x| \\) and \\( g(x)=|x^3| \\), then",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( f(x) \\) and \\( g(x) \\) both are continuous at \\( x=0 \\)",
+            "\\( f(x) \\) and \\( g(x) \\) both are differentiable at \\( x=0 \\)",
+            "\\( f(x) \\) is differentiable but \\( g(x) \\) is not differentiable at \\( x=0 \\)",
+            "\\( f(x) \\) and \\( g(x) \\) both are not differentiable at \\( x=0 \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_4_q1_s3",
+          "subNumber": "c",
+          "text": "The value of \\( \\nabla^2[(1-x)(1-2x)] \\) is equal to",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_4_q1_s4",
+          "subNumber": "d",
+          "text": "If \\( \\vec{v} = xy^2\\hat{i} - 2x^2yz\\hat{j} - 3yz^2\\hat{k} \\), then the value of curl \\( \\vec{v} \\) at (1,1,1) is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( -(\\hat{j}-2\\hat{k}) \\)",
+            "\\( -(\\hat{i}-3\\hat{k}) \\)",
+            "\\( -(\\hat{i}-2\\hat{k}) \\)",
+            "\\( (\\hat{i}-2\\hat{j}-\\hat{k}) \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_4_q1_s5",
+          "subNumber": "e",
+          "text": "The degree of the differential equation \\( y\\frac{dx}{dy} + \\left(\\frac{dx}{dy}\\right)^2 + \\sin y \\left(\\frac{dx}{dy}\\right)^3 - \\cos x = 0 \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "Cannot be determined"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_4_q1_s6",
+          "subNumber": "f",
+          "text": "The solution of the boundary value problem \\( (x-y^2x)dx - (x^2y-y)dy = 0 \\), \\( y(0)=0 \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( x^2-y^2=0 \\)",
+            "\\( 2x-y=0 \\)",
+            "\\( x-2y=0 \\)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_4_q1_s7",
+          "subNumber": "g",
+          "text": "Let \\( P_n(x) \\) be the Legendre polynomial of degree \\( n \\ge 0 \\). If \\( \\int_{-1}^1 P_{n-1}^2(x)dx = \\frac{2}{4n-1} \\) then the value of (k, l) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(1, 1)",
+            "(1, 2)",
+            "(2, 1)",
+            "(2, 2)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_4_q1_s8",
+          "subNumber": "h",
+          "text": "The general solution of Bessel differential equation \\( x^2y''(x) + xy'(x) + (x^2-64)y(x) = 0 \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( y = AJ_8(x) + BJ_{-8}(x) \\), where A and B are arbitrary constants",
+            "\\( y = AJ_8(x) + BY_{-8}(x) \\), where A and B are arbitrary constants",
+            "\\( y = AJ_8(x) + J_{-8}(x) \\), where A is arbitrary constant",
+            "\\( y = J_{3/4}(x) + Y_{3/4}(x) \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_4_q1_s9",
+          "subNumber": "i",
+          "text": "The equation \\( p \\tan y + q \\tan x = \\sec^2 z \\) is of order",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "2",
+            "0",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_math3_2020_4_q1_s10",
+          "subNumber": "j",
+          "text": "The solution of \\( p \\tan x + q \\tan y = \\tan z \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( \\sin x / \\sin y = \\varphi(\\sin y / \\sin z) \\)",
+            "\\( \\sin x \\cdot \\sin y = \\varphi(\\sin y / \\sin z) \\)",
+            "\\( \\sin x / \\sin y = \\phi(\\sin y, \\sin z) \\)",
+            "\\( \\sin x / \\sin y = \\varphi(\\sin y \\cdot \\sin z) \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_4_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_4_q2_s1",
+          "subNumber": "a",
+          "text": "If \\( y = (\\sin^{-1}x)^2 \\), then show that \\( (1-x^2)y_{n+2} - (2n+1)xy_{n+1} - n^2y_n = 0 \\). Hence find \\( (y_n)_0 \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2020_4_q2_s2",
+          "subNumber": "b",
+          "text": "Find the value of \\( \\lim_{x\\rightarrow0} \\left(\\frac{\\tan x}{x}\\right)^{1/x^2} \\).",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_4_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_4_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss the continuity of the following function \\( f(x,y) \\) at point (0, 0): <br/> \\( f(x,y) = \\begin{cases} \\frac{\\sin\\sqrt{|xy|} - \\sqrt{|xy|}}{\\sqrt{x^2+y^2}}, &amp; (x,y) \\neq (0,0) \\\\ 0, &amp; (x,y) = (0,0) \\end{cases} \\)",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_math3_2020_4_q3_s2",
+          "subNumber": "b",
+          "text": "For the function \\( f(x,y) = \\begin{cases} \\frac{xy(2x^2-3y^2)}{x^2+y^2}, &amp; (x,y) \\neq (0,0) \\\\ 0, &amp; (x,y) = (0,0) \\end{cases} \\) check whether \\( f_{xy}(0,0) \\) and \\( f_{yx}(0,0) \\) are equal or not.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_4_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_4_q4_s1",
+          "subNumber": "a",
+          "text": "Find the minimum value of \\( x^2+y^2+z^2 \\) subject to the condition \\( xyz=a^3 \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2020_4_q4_s2",
+          "subNumber": "b",
+          "text": "Obtain the second-order Taylor's series approximation to the function \\( f(x,y) = xy^2 + y \\cos(x-y) \\) about the point (1, 1).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_4_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_4_q5_s1",
+          "subNumber": "a",
+          "text": "If \\( f = (x^2+y^2+z^2)^{-n} \\), then find div grad \\( f \\) and determine \\( n \\), if div grad \\( f = 0 \\).",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_math3_2020_4_q5_s2",
+          "subNumber": "b",
+          "text": "Verify Green's theorem for \\( \\int_C [(xy+y^2)dx + x^2dy] \\) where C is bounded by \\( y=x \\), \\( y=x^2 \\).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_4_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_4_q6_s1",
+          "subNumber": "a",
+          "text": "Find the value of n for which the vector \\( r^n\\vec{r} \\) solenoidal, where \\( \\vec{r} = x\\hat{i} + y\\hat{j} + z\\hat{k} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2020_4_q6_s2",
+          "subNumber": "b",
+          "text": "Solve the differential equation \\( (y^4+2y)dx + (xy^3+2y^4-4x)dy = 0 \\).",
+          "freq": 6,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_4_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_4_q7_s1",
+          "subNumber": "a",
+          "text": "Solve \\( p = \\sin(y-xp) \\). Also find its singular solution.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2020_4_q7_s2",
+          "subNumber": "b",
+          "text": "Solve \\( x^2\\frac{d^2y}{dx^2} - 3x\\frac{dy}{dx} + 5y = x \\log x \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_4_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_4_q8_s1",
+          "subNumber": "a",
+          "text": "Prove that \\( 2nJ_n(x) = x(J_{n-1}(x) + J_{n+1}(x)) \\).",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_math3_2020_4_q8_s2",
+          "subNumber": "b",
+          "text": "Prove that \\( \\sum_{n=0}^\\infty \\frac{x^{n+1}}{n+1}P_n(1) = \\frac{1}{2}\\log\\left(\\frac{1+x}{1-x}\\right) \\).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2020_4_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2020_4_q9_s1",
+          "subNumber": "a",
+          "text": "Solve \\( x^2p + y^2q = (x+y)z \\).",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_math3_2020_4_q9_s2",
+          "subNumber": "b",
+          "text": "Solve \\( (x+y)(p+q)^2 + (x-y)(p-q)^2 = 1 \\).",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    }
+  ]
+}

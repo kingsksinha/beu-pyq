@@ -1,0 +1,335 @@
+{
+  "id": "sem3_eca_2023_13",
+  "semester": 3,
+  "subject_code": "eca",
+  "subject_name": "Electrical Circuit Analysis",
+  "year": "2023",
+  "exam_code": "100306",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Examination, 2023 Electrical Circuit Analysis Time: 03 Hours Code: 100306 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 7,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_eca_2023_13_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2023_13_q1_s1",
+          "subNumber": "a",
+          "text": "Kirchhoff's Current law is based on law of conservation of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "energy",
+            "momentum",
+            "mass",
+            "charge"
+          ]
+        },
+        {
+          "id": "sem3_eca_2023_13_q1_s2",
+          "subNumber": "b",
+          "text": "Determine the current if a 20 coulomb charge passes a point in 0.25 seconds",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10 A",
+            "20 A",
+            "2 A",
+            "80 A"
+          ]
+        },
+        {
+          "id": "sem3_eca_2023_13_q1_s3",
+          "subNumber": "c",
+          "text": "Comment on the linearity of \\( y[n]=n*x[n] \\).",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Linear",
+            "Only additive",
+            "Not scalable",
+            "Non linear"
+          ]
+        },
+        {
+          "id": "sem3_eca_2023_13_q1_s4",
+          "subNumber": "d",
+          "text": "Maximum power transfer occurs at a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "100% efficiency",
+            "50% efficiency",
+            "25% efficiency",
+            "75% efficiency"
+          ]
+        },
+        {
+          "id": "sem3_eca_2023_13_q1_s5",
+          "subNumber": "e",
+          "text": "The inverse laplace transform of \\( \\frac{1}{s} - \\frac{e^{-as}}{s} \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( U(t)-U(t-a) \\)",
+            "\\( U(t) \\)",
+            "\\( U(t-a) \\)",
+            "Zero"
+          ]
+        },
+        {
+          "id": "sem3_eca_2023_13_q1_s6",
+          "subNumber": "f",
+          "text": "The parameter A of a two port network is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( V_{2}/V_{1} \\) with \\( I_{1}=0 \\)",
+            "\\( V_{1}/I_{2} \\) with \\( V_{2}=0 \\)",
+            "\\( I_{1}/I_{2} \\) with \\( V_{2}=0 \\)",
+            "\\( V_{1}/V_{2} \\) with \\( I_{2}=0 \\)"
+          ]
+        },
+        {
+          "id": "sem3_eca_2023_13_q1_s7",
+          "subNumber": "g",
+          "text": "A system is linear if it satisfies",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Principle of superposition",
+            "Principle of homogeneity",
+            "Both (i) &amp; (ii)",
+            "Only (i)"
+          ]
+        },
+        {
+          "id": "sem3_eca_2023_13_q1_s8",
+          "subNumber": "h",
+          "text": "Given \\( F(S)=(S+2)/S(S+1) \\) the initial and final values of f(t) will be respectively",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1, 2",
+            "2, 1",
+            "1, 1",
+            "2, 2"
+          ]
+        },
+        {
+          "id": "sem3_eca_2023_13_q1_s9",
+          "subNumber": "i",
+          "text": "Time constant of RL circuit is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( L/R \\)",
+            "RL",
+            "\\( R/L \\)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_eca_2023_13_q1_s10",
+          "subNumber": "j",
+          "text": "The transmission parameters are also known as:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "impedance parameters",
+            "ABCD parameters",
+            "admittance parameters",
+            "hybrid parameters"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2023_13_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2023_13_q2_s1",
+          "subNumber": "a",
+          "text": "A series R-L circuit has \\( R=2 \\Omega \\) and \\( L=2H \\). A ramp input r(t) is applied at \\( t=1 \\text{ sec} \\). Obtain an expression for current through the circuit.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2023_13_q2_s2",
+          "subNumber": "b",
+          "text": "Define time constant. What the significance of time constant?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2023_13_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2023_13_q3_s1",
+          "subNumber": "a",
+          "text": "State Superposition theorem explaining the conditions in which it is valid.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2023_13_q3_s2",
+          "subNumber": "b",
+          "text": "In the network shown in figure below, find the value of current flowing through the 6 ohm resistance in the circuit given below using superposition theorem.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/161.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2023_13_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2023_13_q4_s1",
+          "subNumber": "a",
+          "text": "State and explain Thevenin's Theorem. Show the Thevenin's equivalent representation of any circuit.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2023_13_q4_s2",
+          "subNumber": "b",
+          "text": "For the circuit given below, determine the current flowing through the 4 ohm resistance by Thevenin's theorem. What are the values of Thevenin's resistance and Thevenin's voltage for this circuit.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/160.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2023_13_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2023_13_q5_s1",
+          "subNumber": "a",
+          "text": "Calculate the Laplace Transform of the function \\( f(t)=e^{-t}\\sin(wt) \\).",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem3_eca_2023_13_q5_s2",
+          "subNumber": "b",
+          "text": "Define Gate function? Using Gate function find out the Laplace Transform of a single Sine wave.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/159.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2023_13_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2023_13_q6_s1",
+          "subNumber": "a",
+          "text": "Calculate the impedance, resistance, Power and power factor of a circuit whose expression for voltage and current are given by: \\( V = 100\\sin(wt+60^{\\circ}) - 50\\sin(5wt-30^{\\circ}) \\text{ volt} \\) and \\( I = 10\\sin(wt+60^{\\circ}) - 5\\sin(3wt+30^{\\circ}) \\text{ amp} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2023_13_q6_s2",
+          "subNumber": "b",
+          "text": "A 400 mH coil of zero resistance is connected to an AC circuit in which 6 mA current is flowing. Find out the voltage across the coil if the frequency is 100 Hz.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2023_13_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2023_13_q7_s1",
+          "subNumber": "a",
+          "text": "Obtain the Y &amp; Z parameters of the network shown below. Write the unit of all individual parameters.",
+          "freq": 7,
+          "stars": "★★★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/158.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2023_13_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2023_13_q8_s1",
+          "subNumber": "a",
+          "text": "Explain frequency response. Why magnitude and phase plots are necessary for frequency response analysis.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eca_2023_13_q8_s2",
+          "subNumber": "b",
+          "text": "What is Q-factor? Calculate the quality factor of a series RLC circuit with \\( L=2H \\), \\( C=2\\mu F \\) and \\( R=20 \\Omega \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eca_2023_13_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eca_2023_13_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

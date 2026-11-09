@@ -1,0 +1,351 @@
+{
+  "id": "sem3_dsa_2022_7",
+  "semester": 3,
+  "subject_code": "dsa",
+  "subject_name": "Data Structure and Algorithms",
+  "year": "2022",
+  "exam_code": "100304",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2022 Data Structure & Algorithms Time: 03 Hours Code: 100304 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_dsa_2022_7_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2022_7_q1_s1",
+          "subNumber": "a",
+          "text": "In a stack, if a user tries to remove an element from empty stack it is called:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "underflow",
+            "empty collection",
+            "garbage collection",
+            "overflow"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2022_7_q1_s2",
+          "subNumber": "b",
+          "text": "Consider the binary max-heap implemented using an array. Which one of the following array represents the heap:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "25, 12, 16, 13, 10, 8, 14",
+            "25, 12, 16, 13, 10, 8, 14",
+            "25, 14, 16, 13, 10, 8, 12",
+            "25, 14, 12, 13, 10, 8, 16"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2022_7_q1_s3",
+          "subNumber": "c",
+          "text": "A hash function is defined as h(key) = key mod 7, with linear probing used to insert keys 44, 45, 79, 55, 91, 18, 63 into a table indexed from 0 to 6. What will be the location of key 18?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2022_7_q1_s4",
+          "subNumber": "d",
+          "text": "If the number of values to be sorted is already partially sorted, then ______ sorting can be efficient.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "merge",
+            "insertion",
+            "bubble",
+            "selection"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2022_7_q1_s5",
+          "subNumber": "e",
+          "text": "The time complexity of merge sort is:",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "\\( O(n) \\)",
+            "\\( O(\\log n) \\)",
+            "\\( O(n\\log n) \\)",
+            "\\( O(n^2) \\)"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2022_7_q1_s6",
+          "subNumber": "f",
+          "text": "State true or false: A: Binary search is used for searching in a sorted array. B: The time complexity of binary search is \\( O(\\log n) \\).",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "True, False",
+            "False, True",
+            "False, False",
+            "True, True"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2022_7_q1_s7",
+          "subNumber": "g",
+          "text": "In a circular linked list organization, insertion of a record involves modification of:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "One pointer",
+            "Two pointers",
+            "More than two pointers",
+            "No pointer"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2022_7_q1_s8",
+          "subNumber": "h",
+          "text": "Level order traversal of a rooted tree can be done by starting from the root and performing:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "pre-order traversal",
+            "in-order traversal",
+            "depth first search",
+            "breadth first search"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2022_7_q1_s9",
+          "subNumber": "i",
+          "text": "An Abstract Data Type (ADT) is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "same as an abstract class",
+            "a data type that cannot be instantiated",
+            "a data type for which only the operations defined on it can be used, but none else",
+            "all of the above"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2022_7_q1_s10",
+          "subNumber": "j",
+          "text": "How many distinct BSTs can be constructed with 3 distinct keys?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2022_7_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2022_7_q2_s1",
+          "subNumber": "a",
+          "text": "Explain different asymptotic notations (Big-O, \\( \\Omega \\), \\( \\Theta \\)) used for comparing the time complexity of an algorithm with neat figures.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_dsa_2022_7_q2_s2",
+          "subNumber": "b",
+          "text": "The run time of an algorithm is represented by the recurrence relation \\( T(n) = 2T(n/2) + n \\); \\( n \\ge 2 \\) and with boundary condition \\( T(1) = 0 \\). What is the time complexity (in terms of \\( \\Theta \\) notation).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2022_7_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2022_7_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss pre-order, in-order and post-order traversal techniques of binary tree. Write a C function for non-recursive pre-order traversal.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2022_7_q3_s2",
+          "subNumber": "b",
+          "text": "The pre-order traversal sequence of a Binary Search Tree (BST) is 30, 20, 10, 15, 25, 23, 39, 35, 42. Write step by step process to derive the BST and find post-order traversal also.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2022_7_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2022_7_q4_s1",
+          "subNumber": "a",
+          "text": "Consider a circular queue of capacity n-elements implemented with an array. Write C functions for insertion and deletion operations.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2022_7_q4_s2",
+          "subNumber": "b",
+          "text": "Convert the given infix expression into postfix using stack: \\( A + B / C * (D + E) - F \\). For each input symbol clearly mention the action taken and status of the stack during conversion.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2022_7_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2022_7_q5_s1",
+          "subNumber": "a",
+          "text": "Write a C function to delete last node from a singly linked list.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2022_7_q5_s2",
+          "subNumber": "b",
+          "text": "Create a max-heap by inserting following keys in the given order. Show each insertion step with clear illustration: 25, 35, 18, 9, 46, 70, 48.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2022_7_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2022_7_q6_s1",
+          "subNumber": "a",
+          "text": "Write an algorithm for merge sort and discuss space and time complexity.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_dsa_2022_7_q6_s2",
+          "subNumber": "b",
+          "text": "Define collision in hashing. Explain briefly different methodologies to resolve collision.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2022_7_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2022_7_q7_s1",
+          "subNumber": "a",
+          "text": "Write algorithm to count leaf nodes in binary tree. What is the complexity of your algorithm?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_dsa_2022_7_q7_s2",
+          "subNumber": "b",
+          "text": "Compare BFS and DFS traversal techniques for graph. Write an algorithm to perform BFS using queue.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2022_7_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2022_7_q8_s1",
+          "subNumber": "a",
+          "text": "Differentiate between system defined data types and abstract data types with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2022_7_q8_s2",
+          "subNumber": "b",
+          "text": "What is doubly linked list? What are its applications? Explain how a node can be added as last node using appropriate pseudo code.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2022_7_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2022_7_q9_s1",
+          "subNumber": "a",
+          "text": "AVL Rotations",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2022_7_q9_s2",
+          "subNumber": "b",
+          "text": "Open Addressing &amp; Chaining",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2022_7_q9_s3",
+          "subNumber": "c",
+          "text": "B-Tree",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2022_7_q9_s4",
+          "subNumber": "d",
+          "text": "Priority Queue",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

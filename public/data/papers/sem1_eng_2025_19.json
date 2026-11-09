@@ -1,0 +1,302 @@
+{
+  "id": "sem1_eng_2025_19",
+  "semester": 1,
+  "subject_code": "eng",
+  "subject_name": "Communicative English",
+  "year": "2025",
+  "exam_code": "100206",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 (Old Course) English Time: 03 Hours Code: 100206 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 21,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eng_2025_19_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option / answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_19_q1_s1",
+          "subNumber": "a",
+          "text": "The Greek root \"tele\" in the word telephone means:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Far",
+            "Sound",
+            "Write",
+            "See"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_19_q1_s2",
+          "subNumber": "b",
+          "text": "The antonym of \"expand\" is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Extend",
+            "Stretch",
+            "Contract",
+            "Increase"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_19_q1_s3",
+          "subNumber": "c",
+          "text": "The standard abbreviation \"etc\" stands for:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "End of text content",
+            "Extra temporary content",
+            "Et cetera",
+            "Et central"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_19_q1_s4",
+          "subNumber": "d",
+          "text": "The word \"rewrite\" contains which type of affix?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Suffix only",
+            "Prefix only",
+            "Both prefix and suffix",
+            "None"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_19_q1_s5",
+          "subNumber": "e",
+          "text": "Identify the phrase in this sentence: \"The old man in the park is reading.\"",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The old man",
+            "In the park",
+            "Is reading",
+            "Old man is reading"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_19_q1_s6",
+          "subNumber": "f",
+          "text": "Choose the correctly punctuated sentence:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Let eat Grandma.",
+            "Lets eat. Grandma.",
+            "Let's eat, Grandma.",
+            "Lets eat Grandma."
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_19_q1_s7",
+          "subNumber": "g",
+          "text": "Identify the indirect form: \"He said, 'I am busy now.'\"",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "He said he is busy now.",
+            "He said he was busy then.",
+            "He says he is busy now.",
+            "He said he had been busy now."
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_19_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following is a direct question?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "He asked whether I was fine.",
+            "I wonder if you could help me.",
+            "What are you doing?",
+            "She wanted to know where I live."
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_19_q1_s9",
+          "subNumber": "i",
+          "text": "Choose the correctly written sentence:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "She served sandwiches to the children on paper plates.",
+            "She served sandwiches on paper plates to the children.",
+            "On paper plates, she served to the children sandwiches.",
+            "She served on paper plates children sandwiches."
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_19_q1_s10",
+          "subNumber": "j",
+          "text": "Choose the sentence free from redundancy:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "They returned back home.",
+            "He repeated the same mistake again.",
+            "She entered the room.",
+            "The end result was surprising."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_19_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_19_q2_s1",
+          "subNumber": "a",
+          "text": "You find a post from Tata Motors on their website inviting Mechanical Engineering students to apply for a Summer Internship Program. You have completed one academic project and participated in a robotics competition. Write a brief resume suitable for this internship application.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_19_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_19_q3_s1",
+          "subNumber": "a",
+          "text": "You ordered electronic equipment from a supplier, but the items were damaged on delivery. Write a formal complaint letter requesting replacement or refund.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_19_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_19_q4_s1",
+          "subNumber": "a",
+          "text": "Define Mother Tongue Influence (MTI) in pronunciation. Discuss how MTI affects the spoken English of Indian speakers, citing common examples of mispronunciation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2025_19_q4_s2",
+          "subNumber": "b",
+          "text": "Write a short dialogue between two friends discussing weekend plans, and another between a student and a librarian. Analyse how politeness, tone, and clarity are maintained.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_19_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_19_q5_s1",
+          "subNumber": "a",
+          "text": "Describe how one should handle conversations in common social contexts such as greeting, apologizing, requesting, and thanking. Provide examples of appropriate dialogues.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2025_19_q5_s2",
+          "subNumber": "b",
+          "text": "English spelling is often misleading for pronunciation. Explain how the IPA system provides a scientific way to represent sounds. Illustrate your answer with examples of words where spelling and pronunciation differ.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_19_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_19_q6_s1",
+          "subNumber": "a",
+          "text": "You are part of a campus placement GD where the topic is \"Social Media: A Boon or a Bane for Students.\" As a participant, explain how you would introduce the topic, present balanced arguments, and handle interruptions politely during the discussion.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_19_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_19_q7_s1",
+          "subNumber": "a",
+          "text": "You are appearing for an interview for the position of Software Engineer Trainee. How would you prepare yourself before the interview? Write an introduction about yourself that you would use while responding to the interviewer's question: \"Tell me something about yourself?\"",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_19_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_19_q8_s1",
+          "subNumber": "a",
+          "text": "Write a short report in about 200-250 words on a Hackathon Camp organized in your institute. Include details like objective, participants, outcome, and suggestions for improvement.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_19_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_19_q9_s1",
+          "subNumber": "a",
+          "text": "Write a short note of 120 words on \"The Role of Youth in Building a Corruption-Free India.\"",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_eng_2025_19_q9_s2",
+          "subNumber": "b",
+          "text": "Write a short note of 120 words on \"Artificial Intelligence: A Blessing or a Threat to Human Employment?\"",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "id": "sem1_bee_2025_14",
+  "semester": 1,
+  "subject_code": "bee",
+  "subject_name": "Basic Electrical Engineering",
+  "year": "2025",
+  "exam_code": "100201",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 (Old Course) Basic Electrical Engineering Time: 03 Hours Code: 100201 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 6,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_bee_2025_14_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven questions only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_14_q1_s1",
+          "subNumber": "a",
+          "text": "The function of an MCB is to protect against",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Overcurrent",
+            "Overvoltage",
+            "Earth faults",
+            "Lightning"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q1_s2",
+          "subNumber": "b",
+          "text": "The EMF induced in a transformer, if \\( f=50~Hz \\), \\( N=1000 \\) turns, \\( \\varphi_m=0.001 \\) Wb.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "44.4 V",
+            "22.2 V",
+            "55.5 V",
+            "2.22 V"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q1_s3",
+          "subNumber": "c",
+          "text": "The short-circuit test is conducted to determine",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Efficiency",
+            "Voltage ratio",
+            "Copper losses",
+            "Regulation"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q1_s4",
+          "subNumber": "d",
+          "text": "The torque of a DC motor is directly proportional to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Speed",
+            "Armature current",
+            "Armature voltage squared",
+            "Resistance"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q1_s5",
+          "subNumber": "e",
+          "text": "If an RL circuit has \\( R=10~\\Omega \\), \\( L=5~H \\) and is connected to 20V DC, the final current after a long time is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0 A",
+            "2 A",
+            "4 A",
+            "5 A"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q1_s6",
+          "subNumber": "f",
+          "text": "The synchronous speed for a 4-pole, 50 Hz motor is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1500 rpm",
+            "3000 rpm",
+            "750 rpm",
+            "1000 rpm"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q1_s7",
+          "subNumber": "g",
+          "text": "If a delta network has each branch of \\( 9~\\Omega \\), the equivalent star resistance is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 3~\\Omega \\)",
+            "\\( 4.5~\\Omega \\)",
+            "\\( 6~\\Omega \\)",
+            "\\( 9~\\Omega \\)"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q1_s8",
+          "subNumber": "h",
+          "text": "A purely inductive circuit has",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Current and voltage in phase",
+            "Current lagging voltage by \\( 90^{\\circ} \\)",
+            "Current leading voltage by \\( 90^{\\circ} \\)",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following is an active element",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Resistor",
+            "Voltage source",
+            "Inductor",
+            "Capacitor"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q1_s10",
+          "subNumber": "j",
+          "text": "The power factor of a pure capacitor is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "Leading",
+            "1",
+            "Lagging"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_14_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_14_q2_s1",
+          "subNumber": "a",
+          "text": "Describe the plate earthing and pipe earthing methods in detail. Compare their advantages and disadvantages.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_14_q2_s2",
+          "subNumber": "b",
+          "text": "In the circuit given below, the maximum power delivered to the load (\\( R_L \\)) is.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/25bee2b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_14_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_14_q3_s1",
+          "subNumber": "a",
+          "text": "Compare DC motors, induction motors, and synchronous machines in terms of torque, speed control, and applications.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_14_q3_s2",
+          "subNumber": "b",
+          "text": "Explain the criteria for selecting the size of wires and cables for electrical installations. Discuss the effects of overloading and voltage drop.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_14_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_14_q4_s1",
+          "subNumber": "a",
+          "text": "A 3-phase induction motor has a full-load slip of 4%. If the supply frequency is 50 Hz, find the rotor speed and rotor frequency at full load.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_14_q4_s2",
+          "subNumber": "b",
+          "text": "What is an Earth Leakage Circuit Breaker (ELCB)? Explain its working principle and importance in protecting human life and equipment.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_14_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_14_q5_s1",
+          "subNumber": "a",
+          "text": "The switch is closed at \\( t=0 \\) find the voltage across the capacitor \\( V_c \\) at \\( t=7ms \\)",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/25bee5a.png"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q5_s2",
+          "subNumber": "b",
+          "text": "Derive an expression for the energy stored in a magnetic field.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_14_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_14_q6_s1",
+          "subNumber": "a",
+          "text": "Derive the torque equation of a DC motor and explain the torque-speed characteristic.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_14_q6_s2",
+          "subNumber": "b",
+          "text": "A 250-V shunt motor giving 14.92 kW at 1000 r.p.m. takes an armature current of 75 A. The armature resistance is 0.25 ohms, and the load torque remains constant. If the flux is reduced by 20 percent of its normal value before the speed changes, find the instantaneous value of the armature current and the torque. Determine the final value of the armature current and speed.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/25bee6b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_14_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_14_q7_s1",
+          "subNumber": "a",
+          "text": "Find the equivalent resistance between terminals A and B.",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/25bee7a.png"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_14_q7_s2",
+          "subNumber": "b",
+          "text": "Derive the EMF equation of a single-phase transformer.",
+          "freq": 6,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_14_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_14_q8_s1",
+          "subNumber": "a",
+          "text": "Define voltage regulation and derive its expression.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_14_q8_s2",
+          "subNumber": "b",
+          "text": "What are hysteresis and eddy current losses? Discuss their effects on magnetic materials.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_14_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_14_q9_s1",
+          "subNumber": "a",
+          "text": "Power triangle",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2025_14_q9_s2",
+          "subNumber": "b",
+          "text": "Auto-Transformer",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_14_q9_s3",
+          "subNumber": "c",
+          "text": "Thevenin's Theorem",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_14_q9_s4",
+          "subNumber": "d",
+          "text": "Explain why the rating of the transformer is in KVA but not in KW.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "id": "sem1_egd_2021_73",
+  "semester": 1,
+  "subject_code": "egd",
+  "subject_name": "Engineering Graphics & Design",
+  "year": "2021",
+  "exam_code": "100102",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam., 2021 (New Course) Engineering Graphics and Design Time: 3 hours Code: 100102 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_egd_2021_73_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[2 × 7 = 14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2021_73_q1_s1",
+          "subNumber": "a",
+          "text": "A0 sheet has the dimensions",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "841 × 1189",
+            "720 × 540",
+            "1200 × 1500",
+            "250 × 350"
+          ]
+        },
+        {
+          "id": "sem1_egd_2021_73_q1_s2",
+          "subNumber": "b",
+          "text": "Which is a type of a line?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Outline",
+            "Margin line",
+            "Dimension line",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem1_egd_2021_73_q1_s3",
+          "subNumber": "c",
+          "text": "When are the projectors parallel to each other and perpendicular to the plane of projection?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Oblique projection",
+            "Isometric projection",
+            "Orthographic projection",
+            "Perspective projection"
+          ]
+        },
+        {
+          "id": "sem1_egd_2021_73_q1_s4",
+          "subNumber": "d",
+          "text": "Tetrahedron has how many faces?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "6",
+            "5",
+            "8",
+            "4"
+          ]
+        },
+        {
+          "id": "sem1_egd_2021_73_q1_s5",
+          "subNumber": "e",
+          "text": "When the section plane is parallel to the HP, the true shape of the section will be seen in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "top view",
+            "sectional top view",
+            "front view",
+            "sectional front view"
+          ]
+        },
+        {
+          "id": "sem1_egd_2021_73_q1_s6",
+          "subNumber": "f",
+          "text": "In isometric view, the number of dimensions of an object that are visible is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "3",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "id": "sem1_egd_2021_73_q1_s7",
+          "subNumber": "g",
+          "text": "A digitizer falls under which category?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Input device",
+            "Output device",
+            "Printing device",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem1_egd_2021_73_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following is DRAW command?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Line",
+            "Plane",
+            "Polygon",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem1_egd_2021_73_q1_s9",
+          "subNumber": "i",
+          "text": "The LIMIT command sets",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the limits of computation",
+            "the limits of measurements",
+            "the limits of drawing area",
+            "the screen limits"
+          ]
+        },
+        {
+          "id": "sem1_egd_2021_73_q1_s10",
+          "subNumber": "j",
+          "text": "LAYER command helps in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "dividing the drawing",
+            "introducing different colours to the drawing",
+            "introducing different line thicknesses in the drawing",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2021_73_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2021_73_q2_s1",
+          "subNumber": "a",
+          "text": "Construct an ellipse when the distance of the focus from the directrix is equal to 50 mm and eccentricity is 2/3.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2021_73_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2021_73_q3_s1",
+          "subNumber": "a",
+          "text": "A thin circular disc of 50 mm diameter is allowed to roll without slipping from upper edge of sloping plank which is inclined at 15° with the horizontal plane. Draw the curve traced by the point on the circumference of the disc.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2021_73_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2021_73_q4_s1",
+          "subNumber": "a",
+          "text": "A line, \\( PQ \\), 75 mm long, has its end \\( P \\) in the VP and the end \\( Q \\) in the HP. The line is inclined at 30° to the HP and at 60° to the VP. Draw its projections.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2021_73_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2021_73_q5_s1",
+          "subNumber": "a",
+          "text": "Draw the projections of a regular hexagon of 25 mm side having one of its sides in the HP and inclined at 60° to the VP, and its surface making an angle of 45° with the HP.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2021_73_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2021_73_q6_s1",
+          "subNumber": "a",
+          "text": "Draw the projections of a pentagonal prism, base 25 mm side and axis 50 mm long, resting on one of its rectangular faces on the HP with the axis inclined at 45° to the VP.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2021_73_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2021_73_q7_s1",
+          "subNumber": "a",
+          "text": "A cylinder, 65 mm diameter and 90 mm long, has its axis parallel to the HP and inclined at 30° to the VP. It is cut by a vertical section plane in such a way that the true shape of the section is an ellipse having the major axis 75 mm long. Draw its sectional front view and true shape of the section.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2021_73_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2021_73_q8_s1",
+          "subNumber": "a",
+          "text": "A frustum of a square pyramid has its base 50 mm side, top 25 mm side and height 75 mm. Draw the development of its lateral surface.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2021_73_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2021_73_q9_s1",
+          "subNumber": "a",
+          "text": "Draw the isometric view of a cone, base 40 mm diameter and axis 55 mm long (i) when its axis is vertical and (ii) when its axis is horizontal.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

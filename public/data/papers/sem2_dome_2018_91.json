@@ -1,0 +1,291 @@
+{
+  "id": "sem2_dome_2018_91",
+  "semester": 2,
+  "subject_code": "dome",
+  "subject_name": "Design of Machine Elements",
+  "year": "2018",
+  "exam_code": "021615",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam., 2018 Design of Machine Elements Time: 3 hours Code: 021615 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 19,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_dome_2018_91_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2018_91_q1_s1",
+          "subNumber": "a",
+          "text": "Steels used for automobile bodies and hoods are",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "medium carbon steel",
+            "mild steel",
+            "high carbon steel",
+            "alloy steel"
+          ]
+        },
+        {
+          "id": "sem2_dome_2018_91_q1_s2",
+          "subNumber": "b",
+          "text": "Material used for self-lubricated bearing is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "acetal",
+            "polyurethane",
+            "polytetrafluoroethylene (Teflon)",
+            "Any one of the above"
+          ]
+        },
+        {
+          "id": "sem2_dome_2018_91_q1_s3",
+          "subNumber": "c",
+          "text": "In forged components",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "fiber lines arranged in a predetermined way",
+            "fiber lines of rolled stock are broken",
+            "there are no fiber lines",
+            "fiber lines are scattered"
+          ]
+        },
+        {
+          "id": "sem2_dome_2018_91_q1_s4",
+          "subNumber": "d",
+          "text": "When a circular shaft is subjected to torque, the torsional shear stress is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "maximum at the axis of rotation and zero at the outer surface",
+            "uniform from axis of rotation to the outer surface",
+            "zero at the axis of rotation and maximum at the outer surface",
+            "zero at the axis of rotation and zero at the outer surface and maximum at the mean radius"
+          ]
+        },
+        {
+          "id": "sem2_dome_2018_91_q1_s5",
+          "subNumber": "e",
+          "text": "The thermal stresses are caused due to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "variation in temperature",
+            "high temperature",
+            "specific heat",
+            "latent heat"
+          ]
+        },
+        {
+          "id": "sem2_dome_2018_91_q1_s6",
+          "subNumber": "f",
+          "text": "A stress that varies in sinusoidal manner with respect to time from tensile to compressive (or vice versa) and with zero mean is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "reversed stress",
+            "fluctuating stress",
+            "repeated stress",
+            "varying stress"
+          ]
+        },
+        {
+          "id": "sem2_dome_2018_91_q1_s7",
+          "subNumber": "g",
+          "text": "In order to find the endurance limit, the rotating beam specimen is subjected to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "repeated stresses",
+            "reversed stresses",
+            "fluctuating stresses",
+            "maximum stress"
+          ]
+        },
+        {
+          "id": "sem2_dome_2018_91_q1_s8",
+          "subNumber": "h",
+          "text": "In design of screw jack from buckling considerations, the end conditions are assumed as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "both ends are hinged",
+            "both ends are fixed",
+            "one end fixed and other hinged",
+            "one end fixed and other free"
+          ]
+        },
+        {
+          "id": "sem2_dome_2018_91_q1_s9",
+          "subNumber": "i",
+          "text": "In the running condition, the net force acting on the drum of centrifugal clutch is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the centrifugal force on shoe",
+            "the centrifugal force on shoe minus spring force",
+            "the centrifugal force on shoe plus spring force",
+            "the spring force"
+          ]
+        },
+        {
+          "id": "sem2_dome_2018_91_q1_s10",
+          "subNumber": "j",
+          "text": "The maximum shear stress in spring wire is induced at",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "inner surface of the coil",
+            "outer surface of the coil",
+            "central surface of the coil",
+            "end coils"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2018_91_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2018_91_q2_s1",
+          "subNumber": "a",
+          "text": "What are the factors to be considered for selection of engineering materials for a machine component? Discuss the important manufacturing considerations in machine design.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2018_91_q2_s2",
+          "subNumber": "b",
+          "text": "How will you select direction of fiber lines in forged components?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2018_91_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2018_91_q3_s1",
+          "subNumber": "a",
+          "text": "The force acting on a bolt consists of two components - an axial pull of \\( 12 \\text{ kN} \\) and a transverse shear force of \\( 6 \\text{ kN} \\). The bolt is made of steel having \\( S_{yt}=310 \\text{ N/mm}^2 \\) and factor of safety is 2.5. Determine the diameter of the bolt using the maximum shear stress theory of failure.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2018_91_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2018_91_q4_s1",
+          "subNumber": "a",
+          "text": "A rotating bar made of steel having \\( S_{ut}=620 \\text{ N/mm}^2 \\) is subjected to completely reversed bending stress. The corrected endurance limit of the bar is \\( 310 \\text{ N/mm}^2 \\). Calculate the fatigue strength of the bar for a life of \\( 1,00,000 \\) cycles.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2018_91_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2018_91_q5_s1",
+          "subNumber": "a",
+          "text": "A forged steel bar of \\( 55 \\text{ mm} \\) diameter is subjected to a reversed bending stress of \\( 260 \\text{ N/mm}^2 \\). The bar is made of 40C8 steel \\( (S_{ut}=610 \\text{ N/mm}^2) \\). Calculate the life of the bar for a reliability of 90%.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2018_91_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2018_91_q6_s1",
+          "subNumber": "a",
+          "text": "A transmission shaft carries a pulley midway between the two bearings. The bending moment at the pulley varies from \\( 200 \\text{ N-m} \\) to \\( 600 \\text{ N-m} \\), as the torsional moment in the shaft varies from \\( 70 \\text{ N-m} \\) to \\( 200 \\text{ N-m} \\). The frequencies of variation of bending and torsional moments of steel FeE 400 \\( (S_{yt}=400 \\text{ N/mm}^2 \\) and \\( S_{ut}=540 \\text{ N/mm}^2) \\). The corrected endurance limit of the shaft is \\( 210 \\text{ N/mm}^2 \\). Determine the diameter of the shaft using a factor of safety of 2.5.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2018_91_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2018_91_q7_s1",
+          "subNumber": "a",
+          "text": "The layout of a wall crane and the pin-joint connecting the tie-rod to the crane post is shown. The tension in the tie rod is maximum, when the load is at a distance of \\( 2 \\text{ m} \\) from the wall. The tie-rod and the pin are made of steel having \\( S_{yt}=250 \\text{ N/mm}^2 \\) and factor of safety is 3.0. Determine the diameter of the tie rod and the pin.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/197.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2018_91_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2018_91_q8_s1",
+          "subNumber": "a",
+          "text": "A gearbox weighing \\( 6 \\text{ kN} \\) is provided with a steel eyebolt for lifting and transporting on the shop floor. The eyebolt is made of 30C8 steel \\( (S_{yt}=380 \\text{ N/mm}^2) \\) and factor of safety is 5. Determine the nominal diameter of the eyebolt having coarse threads if \\( d_c=0.8d \\) where \\( d_c \\) and \\( d \\) are the core and major diameters respectively.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2018_91_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2018_91_q9_s1",
+          "subNumber": "a",
+          "text": "A cylindrical pressure vessel with a \\( 0.8 \\text{ m} \\) inner diameter is subjected to an internal steam pressure of \\( 2 \\text{ MPa} \\). The permissible stresses for cylinder plate and rivets in tension, shear and compression are \\( 80 \\), \\( 60 \\) and \\( 120 \\text{ N/mm}^2 \\) respectively. The efficiency of longitudinal joint can be taken as 80% for calculating the plate thickness. The corrosion allowance is \\( 2 \\text{ mm} \\). The efficiency of circumferential lap joint should be at least 62%. Design the circumferential lap joint and calculate the thickness of plate, diameter of the rivets, number of rivets and pitch of rivets.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

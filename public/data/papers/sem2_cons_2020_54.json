@@ -1,0 +1,349 @@
+{
+  "id": "sem2_cons_2020_54",
+  "semester": 2,
+  "subject_code": "cons",
+  "subject_name": "Analysis and Design of Concrete Structure",
+  "year": "2020",
+  "exam_code": "101501",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2020 Analysis and Design of Concrete Structure Time: 03 Hours Code: 101501 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cons_2020_54_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct alternative from any seven of the following.",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2020_54_q1_s1",
+          "subNumber": "a",
+          "text": "Deflection can be controlled by using the appropriate",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "aspect ratio",
+            "modular ratio",
+            "span/depth ratio",
+            "water/cement ratio"
+          ]
+        },
+        {
+          "id": "sem2_cons_2020_54_q1_s2",
+          "subNumber": "b",
+          "text": "The probability of failure implied in limit state design is of the order of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 10^{-2} \\)",
+            "\\( 10^{-3} \\)",
+            "\\( 10^{-4} \\)",
+            "\\( 10^{-5} \\)"
+          ]
+        },
+        {
+          "id": "sem2_cons_2020_54_q1_s3",
+          "subNumber": "c",
+          "text": "The main reinforcement of an RC slab consists of 10 mm bars @ 100 mm spacing. It is desired to replace 10 mm bars by 12 mm bars, then the spacing of 12 mm bars should be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "120 mm",
+            "140 mm",
+            "144 mm",
+            "160 mm"
+          ]
+        },
+        {
+          "id": "sem2_cons_2020_54_q1_s4",
+          "subNumber": "d",
+          "text": "Flexural collapse in over-reinforced beam is due to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "primary compression failure",
+            "secondary compression failure",
+            "primary tension failure",
+            "bond failure"
+          ]
+        },
+        {
+          "id": "sem2_cons_2020_54_q1_s5",
+          "subNumber": "e",
+          "text": "As per IS-456, side face reinforcement, not less than 0.05% of web area, is provided on each side when the depth of web is not less than",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "300 mm",
+            "400 mm",
+            "500 mm",
+            "750 mm"
+          ]
+        },
+        {
+          "id": "sem2_cons_2020_54_q1_s6",
+          "subNumber": "f",
+          "text": "Shear span is defined as the zone, where",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "bending moment is zero",
+            "shear force is zero",
+            "shear force is constant",
+            "bending moment is constant"
+          ]
+        },
+        {
+          "id": "sem2_cons_2020_54_q1_s7",
+          "subNumber": "g",
+          "text": "Lap length of reinforcement in compression shall not be less than",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 30\\phi \\)",
+            "\\( 24\\phi \\)",
+            "\\( 20\\phi \\)",
+            "\\( 15\\phi \\)"
+          ]
+        },
+        {
+          "id": "sem2_cons_2020_54_q1_s8",
+          "subNumber": "h",
+          "text": "The minimum clear cover (in mm) to the main steel bars in slab, beam, column and footing respectively are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10, 15, 20, 25",
+            "15, 25, 40, 40",
+            "20, 25, 30, 40",
+            "20, 35, 40, 75"
+          ]
+        },
+        {
+          "id": "sem2_cons_2020_54_q1_s9",
+          "subNumber": "i",
+          "text": "A concrete pedestal made of M-20 concrete is shown in the figure below. The \\( \\tan \\alpha \\) value in this case will be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "not less than 3.5",
+            "less than or equal to 3.6",
+            "greater than 3.6",
+            "greater than or equal to 3.6"
+          ],
+          "images": [
+            "img/beu/diagram/2nd3rd/219.jpg"
+          ]
+        },
+        {
+          "id": "sem2_cons_2020_54_q1_s10",
+          "subNumber": "j",
+          "text": "A square column section of size 350 mm x 350 mm is reinforced with four bars of 25 mm and four bars of 16 mm. Then the transverse steel should be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "8 mm @ 350 c/c",
+            "8 mm @ 250 c/c",
+            "6 mm @ 250 c/c",
+            "5 mm @ 240 c/c"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2020_54_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2020_54_q2_s1",
+          "subNumber": "a",
+          "text": "What is principle of stability? Discuss.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cons_2020_54_q2_s2",
+          "subNumber": "b",
+          "text": "A meeting hall is shown in the figure given below. The slab is cast monolithically with beam. The beams are spaced 3.5 m c/c. The slab is 130 mm thick and design for a superimposed working load of \\( 6 \\, kN/m^2 \\). The web of the beam is 300 mm wide. Design beam-B using LSM. If M-25 concrete and Fe-500 grade steel is used, design for flexure as well as shear.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/220.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2020_54_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2020_54_q3_s1",
+          "subNumber": "a",
+          "text": "What are different design philosophies for RCC structures. Discuss the merits and demerits of each.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2020_54_q3_s2",
+          "subNumber": "b",
+          "text": "A continuous beam is shown in the figure below. It is supporting a DL of 20 kN/m and LL of 25 kN/m at working loads. Design the end span of the beam for shear and flexure. The width of the beam is 300 mm. Use M-25 concrete and Fe-415 steel.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/221.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2020_54_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2020_54_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss how wind and earthquake loads are calculated on structure taking suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2020_54_q4_s2",
+          "subNumber": "b",
+          "text": "Design a two-flight staircase with steps on waist slab for floor-to-floor height of 3.6 m. Width of flight is equal to 1.5 m and LL is \\( 4 \\, kN/m^2 \\). The waist slab is simply supported on landing slabs which spans transversely to the flight. Landing slabs are 1.5 m wide. Use M-25 concrete and Fe-415 bars.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2020_54_q5",
+      "number": 5,
+      "title": "Q.5 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2020_54_q5_s1",
+          "subNumber": "a",
+          "text": "Draw the \\( P_{u}-M_{u} \\) interaction curve for a column and mark all salient points on it. Discuss all points.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2020_54_q5_s2",
+          "subNumber": "b",
+          "text": "Calculate the load carrying capacity of a short axially loaded column 350 mm reinforced with 6 bars of 22 mm of Fe-415 grade. The helical reinforcement consists of 8 mm bars of Fe-415 grade steel at 40 mm pitch. Assume clear cover of 40 mm and grade of concrete M-25.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2020_54_q5_s3",
+          "subNumber": "c",
+          "text": "Design a short axially loaded column carrying an axial working load of 1100 kN and size of column 400 mm x 450 mm. Use M-25 concrete and Fe-415 steel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2020_54_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2020_54_q6_s1",
+          "subNumber": "a",
+          "text": "A 1.0 m wide cantilever chajja (small balcony) is constructed monolithically with a lintel over an opening 2.0 m wide garage door in a 230 mm thick brick wall (inclusive of plaster). The height of the door is 3.5 m and that of roof is 6.0 m. The weight of brick masonry is \\( 19.5 \\, kN/m^3 \\). The LL on chajja is \\( 1.5 \\, kN/m^2 \\) and the finish load may be taken as \\( 0.6 \\, kN/m^2 \\). Design the chajja and lintel. The materials used are M-20 concrete and Fe-415 steel.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2020_54_q6_s2",
+          "subNumber": "b",
+          "text": "Discuss the behaviour of concrete and HYSD steel under compression and tension.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2020_54_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2020_54_q7_s1",
+          "subNumber": "a",
+          "text": "Design a rectangular column for the following data: Ultimate axial load = 1000 kN; Ultimate moment (about X-axis) at top bisecting depth of column = 30 kN-m; Ultimate moment (about Y-axis) at top bisecting width of column = 10 kN-m; Ultimate moment at bottom about X-axis = 20 kN-m; Ultimate moment at bottom about Y-axis = 10 kN-m; Unsupported length about X-axis = 6 m; Effective length about X-axis = 4.8 m; Unsupported length about Y-axis = 6 m; Effective length about Y-axis = 4.8 m. Width of column = 300 mm. Effective cover = 50 mm. Use M-25 concrete and Fe-415 steel. The column is braced and bends into single curvature. (Sp-16 graphs shall be provided.)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2020_54_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2020_54_q8_s1",
+          "subNumber": "a",
+          "text": "Design a simply supported one-way slab as shown in the figure below. It is subjected to an LL of \\( 4 \\, kN/m^2 \\) and surface finish of \\( 1 \\, kN/m^2 \\). Consider M-25 concrete and Fe-500 steel.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/222.jpg"
+          ]
+        },
+        {
+          "id": "sem2_cons_2020_54_q8_s2",
+          "subNumber": "b",
+          "text": "Discuss the role of engineer, architects, user and builder in building planning design and construction.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cons_2020_54_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cons_2020_54_q9_s1",
+          "subNumber": "a",
+          "text": "Design a reinforced concrete square footing for a column of section 400 mm x 400 mm which is subjected to a load of 1200 kN at service state. Consider: Weight to soil = \\( 18 \\, kN/m^3 \\), Angle of repose = \\( 30^{\\circ} \\), Allowable BC of soil = \\( 120 \\, kN/m^2 \\). Use M-25 concrete and Fe-500 steel.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cons_2020_54_q9_s2",
+          "subNumber": "b",
+          "text": "Determine moment of resistance of a beam section 300 mm width and 500 mm effective depth, if it is reinforced by 4-16 mm bars. Consider M-25 concrete and Fe-415 steel.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

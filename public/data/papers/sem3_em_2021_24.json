@@ -1,0 +1,371 @@
+{
+  "id": "sem3_em_2021_24",
+  "semester": 3,
+  "subject_code": "em",
+  "subject_name": "Engineering Mechanics",
+  "year": "2021",
+  "exam_code": "100309",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2021 (New Course) Engineering Mechanics Time: 03 Hours Code: 100309 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_em_2021_24_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_24_q1_s1",
+          "subNumber": "a",
+          "text": "A body of mass m moving with a constant velocity v strikes another body of same mass moving with same velocity but in opposite direction. The common velocity of both the bodies after collision is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "v",
+            "2v",
+            "4v",
+            "zero"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q1_s2",
+          "subNumber": "b",
+          "text": "The centre of percussion of the homogeneous rod of length L suspended at the top will be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "L/2",
+            "L/3",
+            "3L/4",
+            "2L/3"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q1_s3",
+          "subNumber": "c",
+          "text": "The figure given below shows the three coplanar forces P, Q and R acting at a point O. If these forces are in equilibrium, then",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( P/\\sin\\beta = Q/\\sin\\alpha = R/\\sin\\gamma \\)",
+            "\\( P/\\sin\\alpha = Q/\\sin\\beta = R/\\sin\\gamma \\)",
+            "\\( P/\\sin\\gamma = Q/\\sin\\alpha = R/\\sin\\beta \\)",
+            "\\( P/\\sin\\alpha = Q/\\sin\\gamma = R/\\sin\\beta \\)"
+          ],
+          "images": [
+            "img/beu/diagram/2nd3rd/130.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q1_s4",
+          "subNumber": "d",
+          "text": "The angle of inclination of the plane at which the body begins to move down the plane, is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "angle of friction",
+            "angle of repose",
+            "angle of projection",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q1_s5",
+          "subNumber": "e",
+          "text": "Pick up wrong statement about friction force for dry surfaces. Friction force is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "proportional to normal load between the surfaces",
+            "dependent on the materials of contact surface",
+            "proportional to velocity of sliding",
+            "independent of the area of contact surfaces"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q1_s6",
+          "subNumber": "f",
+          "text": "The term 'centroid' is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the same as centre of gravity",
+            "the point of suspension",
+            "the point of application of the resultant of all the forces tending to cause a body to rotate about a certain axis",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q1_s7",
+          "subNumber": "g",
+          "text": "The CG of a plane lamina will not be at its geometrical centre in the case of a",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "right-angled triangle",
+            "equilateral triangle",
+            "square",
+            "circle"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q1_s8",
+          "subNumber": "h",
+          "text": "If the masses of both the bodies, as shown in the figure below are reduced to 50 percent then tension in the string will be",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "same",
+            "half",
+            "double",
+            "None of the above"
+          ],
+          "images": [
+            "img/beu/diagram/2nd3rd/129.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q1_s9",
+          "subNumber": "i",
+          "text": "Forces are called coplanar when all of them acting on body lie in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "one point",
+            "one plane",
+            "different planes",
+            "perpendicular planes"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q1_s10",
+          "subNumber": "j",
+          "text": "A weight of 1000 N can be lifted by an effort of 80 N. If the velocity ratio is 20, then the machine is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "reversible",
+            "non-reversible",
+            "ideal",
+            "None of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_24_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_24_q2_s1",
+          "subNumber": "a",
+          "text": "Four forces of magnitude 10 N, 20 N, 30 N and 40 N are acting respectively along the four sides of a square ABCD as shown in Fig. 1. Determine the resultant moment about the point A. Each side of the square is given 2 m.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/137.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q2_s2",
+          "subNumber": "b",
+          "text": "Three like parallel forces 100 N, 200 N and 300 N are acting at points A, B and C respectively on a straight line ABC as shown in Fig. 2. The distances are AB = 30 cm and BC = 40 cm. Find the resultant and also the distance of the resultant from point A on line ABC.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/133.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_24_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_24_q3_s1",
+          "subNumber": "a",
+          "text": "Fig. 3 shows a sphere resting in a smooth V-shaped groove and subjected to a spring force. The spring is compressed to a length of 100 mm from the free length of 150 mm. If the stiffness of the spring is \\( 2\\text{ N/mm} \\), determine the contact reaction at A and B.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/132.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q3_s2",
+          "subNumber": "b",
+          "text": "Using the analytical method, determine the centre of gravity of the plane uniform lamina as shown in Fig. 4.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/136.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_24_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_24_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the conditions for equilibrium of forces in space.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2021_24_q4_s2",
+          "subNumber": "b",
+          "text": "show that \\( I_O = I_G + Ah^2 \\), where \\( I_G \\) is the moment of inertia of a lamina about an axis through its centroid and lying in its plane and h is the distance from the centroid to a parallel axis in the same plane about which its moment of inertia is \\( I_O \\). A being the area of the lamina.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_24_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_24_q5_s1",
+          "subNumber": "a",
+          "text": "Find the least force required to pull a body of weight W placed on a rough horizontal plane, when the force is applied at an angle \\( \\theta \\) with the horizontal.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2021_24_q5_s2",
+          "subNumber": "b",
+          "text": "A cord connects two bodies of weights 500 N and 1000 N. The two bodies are placed on an inclined plane and cord is parallel to inclined plane. The coefficients of friction for the weight of 500 N is 0.20 and that of 1000 N is 0.4. Determine the inclination of the plane to the horizontal and tension in the cord, when the motion is about to take place, down the inclined plane. The body weight 500 N is below the body weighing 1000 N.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_24_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_24_q6_s1",
+          "subNumber": "a",
+          "text": "A truss of span 9 m is loaded as shown in Fig. 5. Find the reactions and forces in the members marked.",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/131.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q6_s2",
+          "subNumber": "b",
+          "text": "Define and explain the terms 'perfect frame', 'imperfect frame', 'deficient frame' and 'redundant frame'.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_24_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_24_q7_s1",
+          "subNumber": "a",
+          "text": "Each of the two uniform hinged bars in Fig. 6 has a mass m and a length l, and is supported and loaded as shown below. For a given force P, determine the angle \\( \\theta \\) for equilibrium.",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/135.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_24_q7_s2",
+          "subNumber": "b",
+          "text": "The mass of the uniform bar of length l in Fig. 7 is m while that of the uniform bar of length 2l is 2m shown below. For a given force P, determine the angle for equilibrium.",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/134.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_24_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_24_q8_s1",
+          "subNumber": "a",
+          "text": "A wheel is rotating about its axis with a constant angular acceleration of \\( 1\\text{ rad/s}^2 \\). If the initial and final angular velocities are \\( 5.25\\text{ rad/s} \\) and \\( 10.5\\text{ rad/s} \\), determine the total angle turned through during the time interval this change of angular velocity took place.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2021_24_q8_s2",
+          "subNumber": "b",
+          "text": "(i) A flywheel starts rotating from rest and is given an acceleration of \\( 1\\text{ rad/s}^2 \\). Find the angular velocity and speed in r.p.m. after 1.5 minutes. (ii) If the flywheel is brought to rest with a uniform angular retardation of \\( 0.5\\text{ rad/s}^2 \\), determine the time taken by the flywheel in seconds to come to rest.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_24_q9",
+      "number": 9,
+      "title": "Q.9 Solve all three questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_24_q9_s1",
+          "subNumber": "a",
+          "text": "State and prove Varignon's theorem.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2021_24_q9_s2",
+          "subNumber": "b",
+          "text": "Derive the equation of path of a projectile and hence show the equation of path of projectile is a parabolic curve.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_em_2021_24_q9_s3",
+          "subNumber": "c",
+          "text": "A particle is moving in X-Y plane and its position is defined by \\( \\vec{r} = (\\frac{3}{2}t^2)\\hat{i} + (\\frac{2}{3}t^3)\\hat{j} \\). Find radius of curvature, when \\( t=2 \\) sec.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

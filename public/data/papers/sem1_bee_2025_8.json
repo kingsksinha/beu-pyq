@@ -1,0 +1,364 @@
+{
+  "id": "sem1_bee_2025_8",
+  "semester": 1,
+  "subject_code": "bee",
+  "subject_name": "Basic Electrical Engineering",
+  "year": "2025",
+  "exam_code": "100212",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 Basic Electrical Engineering Time: 03 Hours Code: 100212 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 7,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_bee_2025_8_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_8_q1_s1",
+          "subNumber": "a",
+          "text": "Kirchhoff's Current Law is based on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Conservation of momentum",
+            "Conservation of magnetic flux",
+            "Conservation of energy",
+            "Conservation of charge"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_8_q1_s2",
+          "subNumber": "b",
+          "text": "In a bilateral element, voltage-current relation",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Changes with direction",
+            "Same in both directions",
+            "Constant",
+            "Nonlinear"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_8_q1_s3",
+          "subNumber": "c",
+          "text": "Eddy current loss can be reduced by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Thick laminations",
+            "No laminations",
+            "Thin laminations",
+            "Magnetic shielding"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_8_q1_s4",
+          "subNumber": "d",
+          "text": "A circuit with low power factor draws",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Less current",
+            "No current",
+            "More current",
+            "Zero reactive power"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_8_q1_s5",
+          "subNumber": "e",
+          "text": "Superposition theorem is not applicable to networks containing",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Nonlinear elements",
+            "Dependent current source",
+            "Dependent voltage source",
+            "Transformers"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_8_q1_s6",
+          "subNumber": "f",
+          "text": "Transformer efficiency is maximum when",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Iron loss &lt; Copper loss",
+            "Copper loss &gt; Iron loss",
+            "Iron loss &gt; Copper loss",
+            "Iron loss = Copper loss"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_8_q1_s7",
+          "subNumber": "g",
+          "text": "A good solder joint should be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Dull and grainy",
+            "Thick and uneven",
+            "Shiny and smooth",
+            "Blackened"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_8_q1_s8",
+          "subNumber": "h",
+          "text": "Transformer works on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "AC only",
+            "Both AC &amp; DC",
+            "DC only",
+            "High voltage only"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_8_q1_s9",
+          "subNumber": "i",
+          "text": "Permeability is highest in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Air",
+            "Soft iron",
+            "Wood",
+            "Aluminum"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_8_q1_s10",
+          "subNumber": "j",
+          "text": "The rms value of a sinusoidal voltage with peak-to-peak value of 240 V is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "84.86 V",
+            "94.68 V",
+            "77.82 V",
+            "89.15 V"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_8_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_8_q2_s1",
+          "subNumber": "a",
+          "text": "Determine the value of current flowing through the 10 \\( \\Omega \\) resistor for given circuit:",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/25bee2a.png"
+          ]
+        },
+        {
+          "id": "sem1_bee_2025_8_q2_s2",
+          "subNumber": "b",
+          "text": "State and explain the Maximum Power Transfer Theorem, and derive the condition under which maximum power is delivered to the load.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_8_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_8_q3_s1",
+          "subNumber": "a",
+          "text": "Define delta network and star network and derive the formulae to convert a delta network into its equivalent star network.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_8_q3_s2",
+          "subNumber": "b",
+          "text": "A voltage wave has the variation shown in figure.<br/> (i) Find the average and effective values of the voltage.<br/> (ii) If this voltage is applied to a 10 \\( \\Omega \\) resistance, find the dissipated power.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/25bee3b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_8_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_8_q4_s1",
+          "subNumber": "a",
+          "text": "A 100 W resistor is connected in series with a choke coil. When a 400 V, 50 Hz supply is applied to this combination, the voltages across the resistance and the choke coil are 200 V and 360 V respectively. Find the power consumed by the choke coil. Also, calculate the power factor of the choke coil and the power factor of the circuit.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_8_q4_s2",
+          "subNumber": "b",
+          "text": "Define and find the expression for the condition of resonance, bandwidth and quality factor of a series R-L-C circuit.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_8_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_8_q5_s1",
+          "subNumber": "a",
+          "text": "Derive the relationship between phase and line quantities (voltage, current) for a balanced three-phase delta-connected system. Also draw neat diagrams.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_8_q5_s2",
+          "subNumber": "b",
+          "text": "Three similar coils each having a resistance of 10 \\( \\Omega \\) and inductance of 0.04 H are connected in star across 3 phase, 50 Hz, 200 V supply. Calculate the line current, total power absorbed, reactive volt amperes and total volt amperes.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_8_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_8_q6_s1",
+          "subNumber": "a",
+          "text": "Derive an emf equation for a single-phase transformer and explain voltage and current ratio of an ideal transformer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_8_q6_s2",
+          "subNumber": "b",
+          "text": "A 250 kVA, 50 Hz single-phase transformer has ratio of secondary to primary turns as 0.1. The secondary voltage at no-load condition is 240 V. Calculate (i) primary voltage and (ii) full load primary and secondary currents.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_8_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_8_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the working principle of DC generator and derive expression for the emf of a DC generator.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_8_q7_s2",
+          "subNumber": "b",
+          "text": "Explain the working principle and operation of Three Phase Induction Motor.",
+          "freq": 7,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_8_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_8_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the steps involved in proper soldering and desoldering of electronic components.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_8_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the difference between breadboard wiring and PCB wiring with advantages and limitations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2025_8_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2025_8_q9_s1",
+          "subNumber": "a",
+          "text": "Residential and Commercial wiring systems.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2025_8_q9_s2",
+          "subNumber": "b",
+          "text": "Superposition Theorem",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2025_8_q9_s3",
+          "subNumber": "c",
+          "text": "Hysteresis and Eddy Current losses",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_8_q9_s4",
+          "subNumber": "d",
+          "text": "Power factor improvement",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2025_8_q9_s5",
+          "subNumber": "e",
+          "text": "Power Triangle",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

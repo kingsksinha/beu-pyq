@@ -1,0 +1,355 @@
+{
+  "id": "sem1_che_2024_59",
+  "semester": 1,
+  "subject_code": "che",
+  "subject_name": "Engineering Chemistry",
+  "year": "2024",
+  "exam_code": "100203",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2024 Chemistry Time: 03 Hours Code: 100203 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. I is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_che_2024_59_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer the following (Any seven question only):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_59_q1_s1",
+          "subNumber": "a",
+          "text": "How many electrons can exist with the principal quantum number's value as 4?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "16",
+            "4",
+            "32",
+            "12"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_59_q1_s2",
+          "subNumber": "b",
+          "text": "A ball of mass 0.5kg is moving with velocity 6.626 m/s. What's the wavelength of that ball?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 1 \\times 10^{-34} \\, \\text{m} \\)",
+            "\\( 2 \\times 10^{-32} \\, \\text{m} \\)",
+            "\\( 2 \\times 10^{-34} \\, \\text{m} \\)",
+            "\\( 2 \\times 10^{-3} \\, \\text{m} \\)"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_59_q1_s3",
+          "subNumber": "c",
+          "text": "As per Heisenberg's principle of uncertainty, the relation between relative momentum and relative position is ______.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Independent",
+            "Directly proportional",
+            "Equal",
+            "Inversely proportional"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_59_q1_s4",
+          "subNumber": "d",
+          "text": "Arrange the following intermediate into decreasing order of stability.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/24che1d.jpg"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_59_q1_s5",
+          "subNumber": "e",
+          "text": "The distance between the centers of the peaks of doublet is called as?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Coupling constant",
+            "Spin constant",
+            "Spin-spin coupling",
+            "Chemical shift"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_59_q1_s6",
+          "subNumber": "f",
+          "text": "How many peaks are expected in low-resolution NMR spectrum of vinyl chloride and ethyl cyclopropane?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "3.5",
+            "5.3",
+            "6.3",
+            "3.6"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_59_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following phase changes are endothermic?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Melting and condensation",
+            "Sublimation and condensation",
+            "Vaporization and condensation",
+            "Melting, sublimation and vaporization"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_59_q1_s8",
+          "subNumber": "h",
+          "text": "The Gibbs free energy is positive when a change in enthalpy and change in entropy are positive at ______.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "high temperatures",
+            "Low temperatures",
+            "At All temperatures",
+            "Only at 0 Kelvin"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_59_q1_s9",
+          "subNumber": "i",
+          "text": "The type of hardness that occurs due to the presence of bicarbonate of calcium and magnesium ions hardness is ______.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "half hardness",
+            "Permanent hardness",
+            "Temporary hardness",
+            "Momentary hardness"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_59_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following is an alkane which can exhibit optical activity?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Neopentane",
+            "Isopentane",
+            "3-Methyl pentane",
+            "3-Methyl hexane"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_59_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_59_q2_s1",
+          "subNumber": "a",
+          "text": "Write short notes on:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q2_s2",
+          "subNumber": "b",
+          "text": "What are Quantum numbers and what do they signify? How are these numbers related with each other?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_59_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_59_q3_s1",
+          "subNumber": "a",
+          "text": "Give reason for the following:-",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q3_s2",
+          "subNumber": "b",
+          "text": "Find out the bond orders of CO, \\( \\text{N}_2 \\), \\( \\text{O}_2^\\text{2-} \\), \\( \\text{O}_2^\\text{2+} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q3_s3",
+          "subNumber": "c",
+          "text": "Which of the following two molecules has a higher bond length (i) \\( \\text{O}_2 \\): (ii) \\( \\text{O}_2^- \\)? Explain using Molecular orbital Theory.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_59_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_59_q4_s1",
+          "subNumber": "a",
+          "text": "Describe and compare the splitting of d- orbitals under the influence of octahedral and tetrahedral ligand fields.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q4_s2",
+          "subNumber": "b",
+          "text": "Explain Crystal Field Stabilization Energy (CFSE) and pairing Energy (PE). How do the CFSE values related to the corresponding colours of d-block metal complexes?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_59_q5",
+      "number": 5,
+      "title": "Q.5 Solve all parts :",
+      "marks": "[5+5+4=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_59_q5_s1",
+          "subNumber": "a",
+          "text": "Why is methanol a good solvent for U.V. Visible but not for IR spectroscopy?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q5_s2",
+          "subNumber": "b",
+          "text": "Calculate the number of vibrational degrees of freedom in the following compounds",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q5_s3",
+          "subNumber": "c",
+          "text": "What is the importance of fingerprint region in IR spectra?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_59_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[9+5=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_59_q6_s1",
+          "subNumber": "a",
+          "text": "Discuss spin-spin relaxation in NMR spectroscopy and draw and explain the splitting pattern observed in the 1H NMR of \\( \\text{CHCl}_2\\text{CH}_2\\text{Cl} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q6_s2",
+          "subNumber": "b",
+          "text": "The frequency of oscillation of HF is \\( 4.12 \\times 10^{-14} \\) Hz. Calculate the vibrational energy and its force constant. \\( M_{H} = 1.0078u \\), \\( M_{F} = 18.9984u \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_59_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_59_q7_s1",
+          "subNumber": "a",
+          "text": "What are ion exchange Resins? Discuss their application in water softening. How are spent resins regenerated?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q7_s2",
+          "subNumber": "b",
+          "text": "9.67ml of EDTA solution consumes exactly 10.2 mg of \\( \\text{CaCO}_3 \\) equivalents. 100 ml of a given Hard water sample consumes 17.5 ml of above EDTA solution. 250 ml of the above hard water sample was boiled completely and boiled off sample consumed 35 ml of above EDTA solution. Calculate the temporary and permanent hardness of the above hardware sample in \\( ^{\\circ}C \\), \\( ^{\\circ}F \\) and as \\( \\text{CaCO}_3 \\) equivalents.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_59_q8",
+      "number": 8,
+      "title": "Q.8 Solve all parts :",
+      "marks": "[5+5+4=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_59_q8_s1",
+          "subNumber": "a",
+          "text": "Differentiate between terms Configuration and Conformation with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q8_s2",
+          "subNumber": "b",
+          "text": "Discuss stereochemistry of tartaric acid.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q8_s3",
+          "subNumber": "c",
+          "text": "Explain racemisation of optical isomers with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_59_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_59_q9_s1",
+          "subNumber": "a",
+          "text": "What do you mean by cyclization and ring opening reactions give two examples of each type of these reactions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_59_q9_s2",
+          "subNumber": "b",
+          "text": "What are carbonium ions? Show hybridisation in the structure of carbonium ion and discuss the stability of primary, secondary and tertiary carbonium ions.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

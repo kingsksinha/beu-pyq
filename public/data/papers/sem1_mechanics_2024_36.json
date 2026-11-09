@@ -1,0 +1,291 @@
+{
+  "id": "sem1_mechanics_2024_36",
+  "semester": 1,
+  "subject_code": "mechanics",
+  "subject_name": "Engineering Mechanics",
+  "year": "2024",
+  "exam_code": "101101",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 1st Semester Examination, 2024 (Old) Physics (Mechanics & Mechanics of Solids) Time: 03 Hours Code: 101101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_mechanics_2024_36_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer/answer the following (Any seven only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_36_q1_s1",
+          "subNumber": "a",
+          "text": "Define a conservative force. How is it related to the potential energy function?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q1_s2",
+          "subNumber": "b",
+          "text": "Write the expression of Newton's second law in polar coordinates.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q1_s3",
+          "subNumber": "c",
+          "text": "What is the physical significance of the gradient of a potential energy function?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q1_s4",
+          "subNumber": "d",
+          "text": "State Euler's laws of motion for a rigid body.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q1_s5",
+          "subNumber": "e",
+          "text": "Define a planar rigid body. Give an example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q1_s6",
+          "subNumber": "f",
+          "text": "Explain the difference between limiting and non-limiting friction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q1_s7",
+          "subNumber": "g",
+          "text": "Name the two main types of joints used in trusses.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q1_s8",
+          "subNumber": "h",
+          "text": "Define a free body diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q1_s9",
+          "subNumber": "i",
+          "text": "Define normal stress and shear stress.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q1_s10",
+          "subNumber": "j",
+          "text": "What is the use of Mohr's circle in stress analysis?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_36_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_36_q2_s1",
+          "subNumber": "a",
+          "text": "State and explain the form invariance of Newton's second law.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q2_s2",
+          "subNumber": "b",
+          "text": "Prove that the curl of a conservative force field is zero.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_36_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_36_q3_s1",
+          "subNumber": "a",
+          "text": "A particle moves under a central force \\( F(r)=-k/r^{2} \\). Derive the expression for effective potential energy and sketch the energy diagram for different types of orbits.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q3_s2",
+          "subNumber": "b",
+          "text": "A satellite is in circular orbit around Earth. If its radius is increased by 5%, calculate the change in its orbital speed. Use Kepler's third law to justify the result.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_36_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_36_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the motion of a rigid body in a plane with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q4_s2",
+          "subNumber": "b",
+          "text": "A uniform disc of mass 2 kg and radius 0.5 m is rotating about its center with an angular velocity of \\( 10~rad/s \\). Find its angular momentum.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_36_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_36_q5_s1",
+          "subNumber": "a",
+          "text": "What is the angular momentum of a rigid body in planar motion about a fixed point? Derive the expression and explain its physical significance.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q5_s2",
+          "subNumber": "b",
+          "text": "A rigid body is rotating with an angular velocity of \\( 5~rad/s \\). If the moment of inertia about the axis is \\( 2~kg\\cdot m^{2} \\), calculate the torque required to stop it in 4 seconds.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_36_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_36_q6_s1",
+          "subNumber": "a",
+          "text": "What is a truss? Describe how a perfect truss differs from a redundant and a deficient truss with examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q6_s2",
+          "subNumber": "b",
+          "text": "A light rod AB is supported by a hinge at A and a roller at B. A force of 500 N is applied at 2 m from A inclined at \\( 30^{\\circ} \\) to the horizontal. Determine the reactions at the supports using a free body diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_36_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_36_q7_s1",
+          "subNumber": "a",
+          "text": "What is strain energy? Derive an expression for the strain energy stored in a prismatic bar under axial load.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q7_s2",
+          "subNumber": "b",
+          "text": "Draw shear force and bending moment diagrams for a simply supported beam of 6m span carrying a point load of 10 kN at 2m from the left end.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_36_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_36_q8_s1",
+          "subNumber": "a",
+          "text": "A circular shaft of diameter 60 mm is subjected to a torque of 1500 Nm. Determine the shear stress at the outer surface of the shaft and the angle of twist over a length of 2 m. Take G = 80 GPa.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q8_s2",
+          "subNumber": "b",
+          "text": "State and derive the generalized Hooke's Law for an isotropic material under three-dimensional stress. Include the effect of thermal strain in your explanation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2024_36_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2024_36_q9_s1",
+          "subNumber": "a",
+          "text": "Coriolis acceleration",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q9_s2",
+          "subNumber": "b",
+          "text": "Foucault's Pendulum",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q9_s3",
+          "subNumber": "c",
+          "text": "Strain hardening",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2024_36_q9_s4",
+          "subNumber": "d",
+          "text": "Castigliano's Theorem",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

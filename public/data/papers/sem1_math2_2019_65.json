@@ -1,0 +1,270 @@
+{
+  "id": "sem1_math2_2019_65",
+  "semester": 1,
+  "subject_code": "math2",
+  "subject_name": "Engineering Mathematics-2",
+  "year": "2019",
+  "exam_code": "102202",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2019 MATHEMATICS-II (Ordinary Differential Equations and\n                Complex Variables) Time: 3 hours Code: 102202 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 9,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_math2_2019_65_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following (any seven):",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2019_65_q1_s1",
+          "subNumber": "a",
+          "text": "Find the directional derivative of \\(\\varphi(x,y,z)=x^{2}yz+4~xz^{2}\\) at \\((1,-2,-1)\\) in the direction \\(2i-j-2k\\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2019_65_q1_s2",
+          "subNumber": "b",
+          "text": "Evaluate \\(\\nabla.[r\\nabla(1/r^{3})].\\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2019_65_q1_s3",
+          "subNumber": "c",
+          "text": "What is the degree of the differential equation \\(\\left(\\frac{d^{3}y}{dx^{3}}\\right)^{2/3}+\\left(\\frac{d^{3}y}{dx^{3}}\\right)^{3/2}=0\\)?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2019_65_q1_s4",
+          "subNumber": "d",
+          "text": "Find the general solution of the differential equation \\(x(x^{2}+3y^{2})dx+y(y^{2}+3x^{2})dy=0\\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math2_2019_65_q1_s5",
+          "subNumber": "e",
+          "text": "Evaluate the integral \\(\\int_{C}\\frac{(e^{z}+\\sin~\\pi z)dz}{(z-1)(z+1)(z+4)},\\) \\(C:|z|=2\\)",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_math2_2019_65_q1_s6",
+          "subNumber": "f",
+          "text": "Evaluate the integral \\(\\int_{C}\\frac{dz}{(z^{2}+4z+3)^{2}}\\) \\(C:|z|=4\\)",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_math2_2019_65_q1_s7",
+          "subNumber": "g",
+          "text": "Define the pole-type singularity with an example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2019_65_q1_s8",
+          "subNumber": "h",
+          "text": "Find the bilinear transformation that maps \\(z_{1}=\\infty,\\) \\(z_{2}=i\\) and \\(z_{3}=0\\) into the points \\(w_{1}=0,\\) \\(w_{2}=i\\) and \\(w_{3}=\\infty.\\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2019_65_q1_s9",
+          "subNumber": "i",
+          "text": "If \\( a{&lt;}b,\\) then evaluate the integral \\(\\int_{a}^{b}|(x-a)+(x-b)|dx \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2019_65_q1_s10",
+          "subNumber": "j",
+          "text": "Evaluate the integral \\(\\int_{0}^{\\infty}\\int_{x}^{\\infty}\\frac{e^{-y}}{y}dy~dx\\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2019_65_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2019_65_q2_s1",
+          "subNumber": "a",
+          "text": "Evaluate the integral \\(\\int_{0}^{a}\\int_{y}^{a}\\frac{x}{(x^{2}+y)^{2}}dy~dx\\)",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math2_2019_65_q2_s2",
+          "subNumber": "b",
+          "text": "Find the mass of a plate in the form of a quadrant of an ellipse \\(\\frac{x^{2}}{a^{2}}+\\frac{y^{2}}{b^{2}}=1\\) whose density per unit area is given by \\(\\rho=kxy.\\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2019_65_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2019_65_q3_s1",
+          "subNumber": "a",
+          "text": "Evaluate \\(\\int_{C}F\\cdot dr,\\) where \\(F=(3x^{2}+6y)i-14yzj+20xz^{2}k\\) from \\((0,0,0)\\) to \\((1,1,1)\\) along the path \\(x=t,\\) \\(y=t^{2}\\) and \\(z=t^{3}\\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2019_65_q3_s2",
+          "subNumber": "b",
+          "text": "Evaluate \\(\\int_{C}F\\cdot dr\\) along the straight line joining \\((0,0,0)\\) to \\((1,1,1)\\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2019_65_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2019_65_q4_s1",
+          "subNumber": "a",
+          "text": "Solve the differential equation \\((x^{2}+y^{2}+x)dx-(2x^{2}+2y^{2}-y)dy=0\\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math2_2019_65_q4_s2",
+          "subNumber": "b",
+          "text": "Solve the differential equation \\(y=2px+y^{2}p^{3}\\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2019_65_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2019_65_q5_s1",
+          "subNumber": "a",
+          "text": "State and prove Rodrigues' formula.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2019_65_q5_s2",
+          "subNumber": "b",
+          "text": "Show that \\(2nJ_{n}(x)=x[J_{n+1}(x)+J_{n-1}(x)]\\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2019_65_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2019_65_q6_s1",
+          "subNumber": "a",
+          "text": "Find the series solution of the differential equation \\(x^{2}\\frac{d^{2}y}{dx^{2}}+6~x\\frac{dy}{dx}+(x^{2}+6)y=0\\)",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2019_65_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2019_65_q7_s1",
+          "subNumber": "a",
+          "text": "State and prove the sufficient condition for a function \\(w=f(z)\\) to be analytic.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2019_65_q7_s2",
+          "subNumber": "b",
+          "text": "Find an analytic function \\(f(z)\\) such that \\(\\operatorname{Re}\\{f^{\\prime}(z)\\}=3x^{2}-4y-3y^{2}\\) and \\(f(1+i)=0\\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2019_65_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2019_65_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss the nature of the singularities for \\(\\left(\\frac{1-\\cosh~z}{z^{3}}\\right).\\) Also determine the order of the pole and corresponding residue if it exists.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2019_65_q8_s2",
+          "subNumber": "b",
+          "text": "Find what regions of the w-plane correspond by the transformation \\(w=\\left(\\frac{z-i}{z+i}\\right)\\) to the interior of a circle of centre \\(z=-i.\\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2019_65_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2019_65_q9_s1",
+          "subNumber": "a",
+          "text": "Evaluate \\(\\oint_{C}\\frac{\\sin^{2}z}{z(z-1)(2z+5)}dz,\\) \\(C:|z-1|+|z+1|=3\\)",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_math2_2019_65_q9_s2",
+          "subNumber": "b",
+          "text": "Evaluate \\(\\int_{0}^{\\infty}\\frac{\\sin(mx)}{x(x^{2}+a^{2})}dx\\)",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    }
+  ]
+}

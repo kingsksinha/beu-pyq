@@ -1,0 +1,305 @@
+{
+  "id": "sem1_che_2021_62",
+  "semester": 1,
+  "subject_code": "che",
+  "subject_name": "Engineering Chemistry",
+  "year": "2021",
+  "exam_code": "100103",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam., 2021 Chemistry Time: 3 hours Code: 100103 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 30,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_che_2021_62_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven questions in brief:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_62_q1_s1",
+          "subNumber": "a",
+          "text": "What are the shapes of \\( \\text{NF}_3 \\), \\( \\text{BF}_3 \\) and \\( \\text{ClF}_3 \\) molecules?",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_che_2021_62_q1_s2",
+          "subNumber": "b",
+          "text": "How many \\( \\text{sp}^3 \\)-, \\( \\text{sp}^2 \\)- and sp-hybridized carbon atoms are present in \\( (\\text{CH}_3)_2\\text{CH}-\\text{CH}=\\text{CH}-\\text{C}=\\text{C}-\\text{CH}=\\text{CH}_2 \\)?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q1_s3",
+          "subNumber": "c",
+          "text": "Arrange molecular species \\( \\text{N}_2 \\), \\( \\text{N}_2^+ \\), \\( \\text{N}_2^- \\) and \\( \\text{N}_2^{2-} \\) in increasing order of stability.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q1_s4",
+          "subNumber": "d",
+          "text": "Transition metal ions like \\( \\text{Cu}^+ \\) and \\( \\text{Ag}^+ \\) are colourless. Why?",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_che_2021_62_q1_s5",
+          "subNumber": "e",
+          "text": "What type of magnetism is exhibited by \\( [\\text{Mn(H}_2\\text{O)}_6]^{2+} \\) ion?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q1_s6",
+          "subNumber": "f",
+          "text": "How are exhausted zeolite regenerated?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q1_s7",
+          "subNumber": "g",
+          "text": "Name any two coagulants.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q1_s8",
+          "subNumber": "h",
+          "text": "A gas expands against vacuum. What is the work done on it?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2021_62_q1_s9",
+          "subNumber": "i",
+          "text": "Under what condition, \\( \\Delta H = \\Delta U \\)?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q1_s10",
+          "subNumber": "j",
+          "text": "What type of transition can take place in \\( \\text{CH}_3\\text{NO}_2 \\) in UV spectroscopy?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_62_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_62_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss photoelectric effect and explain equations involved with this effect.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q2_s2",
+          "subNumber": "b",
+          "text": "How many photons of light having a wavelength of 4000 Å are necessary to provide 1 J of energy? \\( (h = 6 \\cdot 626 \\times 10^{-34} \\, \\text{J-s}) \\).",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2021_62_q2_s3",
+          "subNumber": "c",
+          "text": "If the electron in an unexcited hydrogen atom is excited by absorption of \\( 1.76 \\times 10^{-18} \\, \\text{J} \\) per atom, what would be the wavelength of radiation emitted when the atom returns to its ground state? \\( (c = 3 \\times 10^8 \\, \\text{m s}^{-1}, \\, h = 6 \\cdot 626 \\times 10^{-34} \\, \\text{J-s}) \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_62_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_62_q3_s1",
+          "subNumber": "a",
+          "text": "Draw the MO energy level diagram for \\( \\text{B}_2 \\) and based on the diagram, explain the magnetic property observed in \\( \\text{B}_2 \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q3_s2",
+          "subNumber": "b",
+          "text": "Which type of isomerism is observed with the metal complex having molecular formula, \\( \\text{CoBr(SO}_4) \\cdot \\text{5NH}_3 \\)? Draw their structures. Write one chemical test (reaction) in favour of each structure.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_62_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_62_q4_s1",
+          "subNumber": "a",
+          "text": "Calculate the frequency (in Hz and cm⁻¹) of O-H bond, if the force constant and reduced mass of the atom pair are 770 N m⁻¹ and \\( 1.563 \\times 10^{-27} \\, \\text{kg} \\) respectively.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q4_s2",
+          "subNumber": "b",
+          "text": "Microwave spectrum of gaseous HCl molecule exhibits a series of equally spaced lines with interspacing of 20-7 cm⁻¹. Calculate the internuclear distance of HCl molecule.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q4_s3",
+          "subNumber": "c",
+          "text": "Draw a relative energy diagram showing \\( \\sigma \\), \\( \\pi \\), \\( n \\), \\( \\pi^* \\) and \\( \\sigma^* \\) energy levels. Using this diagram, discuss the variation of energy levels for \\( \\pi \\rightarrow \\pi^* \\) and \\( n \\rightarrow \\pi^* \\) transitions with increase in solvent polarity qualitatively.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_62_q5",
+      "number": 5,
+      "title": "Q.5 Solve all parts :",
+      "marks": "[3+6+5=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_62_q5_s1",
+          "subNumber": "a",
+          "text": "At what frequency shift from TMS, would a group of nuclei with δ = 7.50 resonate in an NMR spectrometer operating at 500 MHz?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2021_62_q5_s2",
+          "subNumber": "b",
+          "text": "Write the number of \\( ^{1}\\text{H} \\)-NMR signals and splitting pattern of the signals (singlet, doublet, etc.) due to spin-spin coupling for the following molecules with proper justification:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q5_s3",
+          "subNumber": "c",
+          "text": "Use the equation of state of van der Waals to calculate the pressure of 5 moles of \\( \\text{NH}_3(g) \\) occupying a volume of 7 L at 373 K. (Given, \\( a = 4 \\cdot 17 \\, \\text{L}^2 \\, \\text{atm mol}^{-2} \\), \\( b = 0 \\cdot 0371 \\, \\text{L mol}^{-1} \\)). Compare the above result with the pressure calculated using ideal gas equation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_62_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_62_q6_s1",
+          "subNumber": "a",
+          "text": "1 mole of an ideal gas expands isothermally and reversibly from 5 dm³ to 10 dm³ at 300 K. Calculate \\( q \\), \\( w \\), \\( \\Delta U \\), \\( \\Delta H \\), \\( \\Delta G \\) and \\( \\Delta A \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q6_s2",
+          "subNumber": "b",
+          "text": "Design electrochemical cells (in proper cell representation/notation) in which each of the following reactions occurs:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_62_q7",
+      "number": 7,
+      "title": "Q.7 Solve all parts :",
+      "marks": "[2+6+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_62_q7_s1",
+          "subNumber": "a",
+          "text": "Write the principle for lime soda process for softening of hard water.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q7_s2",
+          "subNumber": "b",
+          "text": "Calculate the amount of lime and soda required for the softening of a million litres of hard water containing \\( \\text{CaCO}_3 = 25 \\, ppm \\), \\( \\text{MgCO}_3 = 144 \\, ppm \\), \\( \\text{CaCl}_2 = 111 \\, ppm \\), \\( \\text{MgCl}_2 = 95 \\, ppm \\), \\( \\text{Na}_2\\text{SO}_4 = 15 \\, ppm \\), \\( \\text{Fe}_2\\text{O}_3 = 25 \\, ppm \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q7_s3",
+          "subNumber": "c",
+          "text": "The hardness of 50000 litres of water sample was removed by passing it through a zeolite softener. The softener then required 200 L of NaCl solution, containing 125 g/L of NaCl for regeneration. Calculate the hardness of the sample of water.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_62_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_62_q8_s1",
+          "subNumber": "a",
+          "text": "Distinguish between the Pauling and Mulliken electronegativity scales.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q8_s2",
+          "subNumber": "b",
+          "text": "Draw all the optical isomers of tartaric acid. Identify the pair(s) of enantiomers and diastereomers from the above optical isomers.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_62_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_62_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the following:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_62_q9_s2",
+          "subNumber": "b",
+          "text": "0.5 g of \\( \\text{CaCO}_3 \\) was dissolved in HCl and the solution was made up to 500 mL with distilled water. 50 mL of this solution required 48 mL of EDTA solution for titration. 50 mL of water sample required 15 mL of EDTA and after boiling and filtering required 10 mL of EDTA solution. Calculate total hardness, non-carbonate hardness and carbonate hardness of the water sample.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

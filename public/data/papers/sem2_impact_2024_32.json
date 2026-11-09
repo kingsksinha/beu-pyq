@@ -1,0 +1,316 @@
+{
+  "id": "sem2_impact_2024_32",
+  "semester": 2,
+  "subject_code": "impact",
+  "subject_name": "Civil Engineering - Societal & Global Impact",
+  "year": "2024",
+  "exam_code": "101401",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2024 Civil Engineering- Societal & Global Impact Time: 03 Hours Code: 101401 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_impact_2024_32_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2024_32_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is a man-made disaster?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Terrorism",
+            "Major fire",
+            "Pollution",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_impact_2024_32_q1_s2",
+          "subNumber": "b",
+          "text": "Floods can be prevented by",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "Afforestation",
+            "Cutting the forest",
+            "Tilling the land",
+            "Removing the top soil"
+          ]
+        },
+        {
+          "id": "sem2_impact_2024_32_q1_s3",
+          "subNumber": "c",
+          "text": "By how much has atmospheric carbon dioxide concentration increased ever since the Industrial Revolution?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "20%",
+            "10%",
+            "40%",
+            "60%"
+          ]
+        },
+        {
+          "id": "sem2_impact_2024_32_q1_s4",
+          "subNumber": "d",
+          "text": "What types of people were pyramids built for?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "wealthy people",
+            "Pharaohs",
+            "The God",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_impact_2024_32_q1_s5",
+          "subNumber": "e",
+          "text": "where is located the hanging gardens of Babylon?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Rome",
+            "Iraq",
+            "Italy",
+            "Egypt"
+          ]
+        },
+        {
+          "id": "sem2_impact_2024_32_q1_s6",
+          "subNumber": "f",
+          "text": "Which among the following is not polymeric?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Carbohydrates",
+            "Nucleic acids",
+            "Proteins",
+            "Lipids"
+          ]
+        },
+        {
+          "id": "sem2_impact_2024_32_q1_s7",
+          "subNumber": "g",
+          "text": "Built environment means",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Man-made structures",
+            "Features",
+            "Facilities",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_impact_2024_32_q1_s8",
+          "subNumber": "h",
+          "text": "IFMA means",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "International field management association",
+            "International facilities management association",
+            "International field merged association",
+            "International facilities merged association"
+          ]
+        },
+        {
+          "id": "sem2_impact_2024_32_q1_s9",
+          "subNumber": "i",
+          "text": "The structural concrete slab panels can be repaired by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Internal bonding",
+            "External bonding",
+            "Stress bonding",
+            "layered bonding"
+          ]
+        },
+        {
+          "id": "sem2_impact_2024_32_q1_s10",
+          "subNumber": "j",
+          "text": "How many types of cracks can occur in a building?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "four"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2024_32_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2024_32_q2_s1",
+          "subNumber": "a",
+          "text": "(a) Define Civil Engineering. What is the scope of work in the various branches of Civil Engineering?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_impact_2024_32_q2_s2",
+          "subNumber": "b",
+          "text": "(b) What do you mean by global warming and how it can be controlled?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2024_32_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2024_32_q3_s1",
+          "subNumber": "a",
+          "text": "(a) Recently which energy is declared as renewable energy by GOI? How it can have impact on the total energy generation of country?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_impact_2024_32_q3_s2",
+          "subNumber": "b",
+          "text": "(b) How does the infrastructure development &amp; growth of the nation can have effects on employments and living standards of people?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2024_32_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2024_32_q4_s1",
+          "subNumber": "a",
+          "text": "(a) How does the futuristic systems can impact the growth of any nation?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_impact_2024_32_q4_s2",
+          "subNumber": "b",
+          "text": "(b) i) Differentiate between EIA &amp; SEA. ii) Explain environmental clearance procedure in India.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2024_32_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2024_32_q5_s1",
+          "subNumber": "a",
+          "text": "(a) Define LEED ratings and EIA. What is hyper loops? How it can play a role in futuristic growth of nation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_impact_2024_32_q5_s2",
+          "subNumber": "b",
+          "text": "(b) Define Ocean thermal energy conversion. Why it is in news now a days?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2024_32_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2024_32_q6_s1",
+          "subNumber": "a",
+          "text": "(a) How does the Ist and IInd industrial revolution eras helped the civil engineering to grow?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_impact_2024_32_q6_s2",
+          "subNumber": "b",
+          "text": "(b) Write note on recent civil engineering breakthroughs and innovations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2024_32_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2024_32_q7_s1",
+          "subNumber": "a",
+          "text": "(a) Give points in the favour and in against of river interlinking projects.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2024_32_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2024_32_q8_s1",
+          "subNumber": "a",
+          "text": "Explain and differentiate the following revolutions: (a) Pre-industrial revolution days (b) Agricultural revolution (c) First and second industrial revolutions (d) IT revolution.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_impact_2024_32_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_impact_2024_32_q9_s1",
+          "subNumber": "a",
+          "text": "What do you understand by sustainable development? Explain various goals of sustainable development in detail.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": "sem3_formal_2019_58",
+  "semester": 3,
+  "subject_code": "formal",
+  "subject_name": "Formal Language & Automata Theory",
+  "year": "2019",
+  "exam_code": "051611",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam., 2019 FORMAL LANGUAGES AND AUTOMATA THEORY Time: 03 Hours Code: 051611 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_formal_2019_58_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer/Fill in the blank of any seven of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2019_58_q1_s1",
+          "subNumber": "a",
+          "text": "The word 'formal' in formal languages means",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "they are unnecessary, in reality",
+            "the symbols used have well-defined meaning",
+            "only the form of the string of symbols is significant",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2019_58_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following statements is true?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "If a language is context-free, it can always be accepted by a deterministic push-down automaton.",
+            "The union of two context-free languages is context-free.",
+            "The intersection of two context-free languages is context-free.",
+            "The complement of a context-free language is context-free."
+          ]
+        },
+        {
+          "id": "sem3_formal_2019_58_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following pairs of regular expressions are equivalent?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( x^* \\) and \\( x^*x \\)",
+            "\\( 1(01)^* \\) and \\( (10)^*1 \\)",
+            "\\( x(xx)^* \\) and \\( (xx)^*x \\)",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2019_58_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following pairs have DIFFERENT expressive powers?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Deterministic finite automata (DFA) and non-deterministic finite automata (NDFA)",
+            "Deterministic push-down automata (DPDA) and non-deterministic push-down automata (NDPDA)",
+            "Deterministic single-tape Turing machine and non-deterministic single-tape Turing machine",
+            "Single-tape Turing machine and multi-tape Turing machine"
+          ]
+        },
+        {
+          "id": "sem3_formal_2019_58_q1_s5",
+          "subNumber": "e",
+          "text": "Definition of a language L with alphabet {a} is given as \\( L = \\{a^{nk} \\mid k &gt; 0 \\text{ and n is a positive integer constant}\\} \\). What is the minimum number of states needed in a DFA to recognize L?",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "\\( k + 1 \\)",
+            "\\( n + 1 \\)",
+            "\\( 2n + 1 \\)",
+            "\\( 2k + 1 \\)"
+          ]
+        },
+        {
+          "id": "sem3_formal_2019_58_q1_s6",
+          "subNumber": "f",
+          "text": "Suppose a polynomial time algorithm is discovered that correctly computes the largest clique in a given graph. In this scenario, which one of the following represents the correct Venn diagram of the complexity classes P, NP and NP complete (NPC)?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(A) P and NP are disjoint",
+            "(B) P and NP overlap, with NPC in intersection",
+            "(C) P = NP = NPC",
+            "(D) P != NP, NPC inside NP"
+          ],
+          "images": [
+            "img/beu/diagram/2nd3rd/113.jpg"
+          ]
+        },
+        {
+          "id": "sem3_formal_2019_58_q1_s7",
+          "subNumber": "g",
+          "text": "Let L1 be a recursive language. Let L2 and L3 be languages that are not recursively enumerable but recursive. Which of the following statements is not necessarily true?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "L2-L1 is recursively enumerable.",
+            "L1-L3 is recursively enumerable.",
+            "L2 ∩ L1 is recursively enumerable.",
+            "L2 ∪ L1 is recursively enumerable."
+          ]
+        },
+        {
+          "id": "sem3_formal_2019_58_q1_s8",
+          "subNumber": "h",
+          "text": "A PDM behaves like an FSM when the number of auxiliary memory it has, is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2019_58_q1_s9",
+          "subNumber": "i",
+          "text": "Define Turing machine in brief.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2019_58_q1_s10",
+          "subNumber": "j",
+          "text": "A finite automaton with _____ is equivalent to push-down automata.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2019_58_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2019_58_q2_s1",
+          "subNumber": "a",
+          "text": "Consider the set of strings on {0, 1} defined by the requirements below. For each, construct an accepting dfa:<br/> (i) Every 00 is followed immediately by a 1. For example, the strings 101, 0010, 001001 are in the language, but 0001 and 00100 are not.<br/> (ii) All strings containing 00 but not 000.<br/> (iii) The leftmost symbol differs from the rightmost one.<br/> (iv) Every substring of four symbols has at most two 0's. For example, 001110 and 011001 are in the language, but 10010 is not since one of its substrings, 0010, contains three zeros.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2019_58_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2019_58_q3_s1",
+          "subNumber": "a",
+          "text": "Construct the regular grammar accepting the following language: \\( L = w \\in \\{a, b\\}^* \\mid w \\text{ is a string over } \\{a, b\\} \\) \\( \\text{ such that the number of b's is } 3 \\mod 4 \\)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_formal_2019_58_q3_s2",
+          "subNumber": "b",
+          "text": "Let \\( G = (V, T, S, P) \\) be a right-linear grammar. Prove that the language generated using the grammar G is a regular.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2019_58_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2019_58_q4_s1",
+          "subNumber": "a",
+          "text": "Construct a Moore machine equivalent to the Mealy machine M defined by the following Table 1 state transitions:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2019_58_q4_s2",
+          "subNumber": "b",
+          "text": "Prove the following equation : \\( (1+00^*1) + (1+00^*1)(0+10^*1)^*(0+10^*1) \\) = \\( 0^*1(0+10^*1)^* \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2019_58_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2019_58_q5_s1",
+          "subNumber": "a",
+          "text": "Using the pumping lemma theorem, show that the following sets are not regular:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2019_58_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2019_58_q6_s1",
+          "subNumber": "a",
+          "text": "Convert the grammar into Chomsky normal form: \\( S \\rightarrow aB \\mid AB \\), \\( A \\rightarrow aab \\mid \\lambda \\), \\( B \\rightarrow bbA \\)",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem3_formal_2019_58_q6_s2",
+          "subNumber": "b",
+          "text": "Show that the family of unambiguous context-free languages is not closed under union.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2019_58_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2019_58_q7_s1",
+          "subNumber": "a",
+          "text": "Construct an npda corresponding to the grammar: \\( S \\rightarrow aABB \\mid aAA \\), \\( A \\rightarrow aBB \\mid a \\), \\( B \\rightarrow bBB \\mid A \\)",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2019_58_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2019_58_q8_s1",
+          "subNumber": "a",
+          "text": "Construct Turing machines that will accept the following languages on {a, b}:",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2019_58_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2019_58_q9_s1",
+          "subNumber": "a",
+          "text": "Design a Turing machine with no more than three states that accepts the language \\( L(a(a+b)^*) \\). Assume that \\( \\Sigma = \\{a, b\\} \\). Is it possible to do this with a two-state machine?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2019_58_q9_s2",
+          "subNumber": "b",
+          "text": "Let G be an undirected graph. An Euler circuit of the graph is a simple cycle that includes all edges. The Euler Circuit Problem (EULER) is to decide if G has an Euler circuit. Show that EULER is not NP-complete.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

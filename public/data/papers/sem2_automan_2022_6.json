@@ -1,0 +1,224 @@
+{
+  "id": "sem2_automan_2022_6",
+  "semester": 2,
+  "subject_code": "automan",
+  "subject_name": "Automation in Manufacturing",
+  "year": "2022",
+  "exam_code": "102605",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Examination, 2022 Automation in Manufacturing Time: 03 Hours Code: 102605 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 1,
+  "has_mcq": false,
+  "instructions": [
+    "All questions carry equal marks.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_automan_2022_6_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_automan_2022_6_q1_s1",
+          "subNumber": "a",
+          "text": "Define automation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_automan_2022_6_q1_s2",
+          "subNumber": "b",
+          "text": "Which type of control system is suitable in applications like food industry, petro-chemical and industries involving robots?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_automan_2022_6_q1_s3",
+          "subNumber": "c",
+          "text": "Which G-code gives point-to-point movement?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_automan_2022_6_q1_s4",
+          "subNumber": "d",
+          "text": "Name the basic geometric building block provided in a CAD/CAM package.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_automan_2022_6_q1_s5",
+          "subNumber": "e",
+          "text": "How can the speed and position in CNC be controlled?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_automan_2022_6_q1_s6",
+          "subNumber": "f",
+          "text": "What effect does overloading have on fluid power and electrical systems?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_automan_2022_6_q1_s7",
+          "subNumber": "g",
+          "text": "Can we simulate transportation, manufacturing and health system?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_automan_2022_6_q1_s8",
+          "subNumber": "h",
+          "text": "Why are designs periodically modified?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_automan_2022_6_q1_s9",
+          "subNumber": "i",
+          "text": "Which technique is used for solution of nonlinear programming?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_automan_2022_6_q1_s10",
+          "subNumber": "j",
+          "text": "Name any two of the available softwares used in computer-aided design (CAD).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_automan_2022_6_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_automan_2022_6_q2_s1",
+          "subNumber": "a",
+          "text": "Why is automation necessary in manufacturing field? Write its advantages and disadvantages.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_automan_2022_6_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_automan_2022_6_q3_s1",
+          "subNumber": "a",
+          "text": "What is PLC? Explain the working of PLC.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_automan_2022_6_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_automan_2022_6_q4_s1",
+          "subNumber": "a",
+          "text": "Classify CNC machines. Explain which one is suitable for small-scale industries and why.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_automan_2022_6_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_automan_2022_6_q5_s1",
+          "subNumber": "a",
+          "text": "Discuss the CIM wheel with neat sketch. Briefly discuss various elements of CIM.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_automan_2022_6_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_automan_2022_6_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the concept of flexible manufacturing system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_automan_2022_6_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_automan_2022_6_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the following commands in geometric modelling: (a) Scaling, (b) Mirror, (c) Rotation",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_automan_2022_6_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_automan_2022_6_q8_s1",
+          "subNumber": "a",
+          "text": "Explain system modelling. Write differences between continuous and discrete event.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_automan_2022_6_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_automan_2022_6_q9_s1",
+          "subNumber": "a",
+          "text": "Write a CNC program using appropriate G and M code to turn component as shown in the figure below. Raw material-MS \\( \\Phi 32 \\times 50 \\text{ mm} \\), cutting speed \\( V = 40 \\text{ m/min} \\) and feed = 0.1. Assume suitable data for depth of cut.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/248.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}

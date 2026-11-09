@@ -1,0 +1,270 @@
+{
+  "id": "sem4_ml_2023_23",
+  "semester": 4,
+  "subject_code": "ml",
+  "subject_name": "Machine Learning",
+  "year": "2023",
+  "exam_code": "105602",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 6th Semester Examination, 2023 Machine Learning Time: 03 Hours Code: 105602 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_ml_2023_23_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following: (Answer any seven)",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_ml_2023_23_q1_s1",
+          "subNumber": "a",
+          "text": "(a) Define binary classification.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_ml_2023_23_q1_s2",
+          "subNumber": "b",
+          "text": "(b) What is decision tree?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_ml_2023_23_q1_s3",
+          "subNumber": "c",
+          "text": "(c) Define specific boundary.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_ml_2023_23_q1_s4",
+          "subNumber": "d",
+          "text": "(d) State Bayes theorem",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_ml_2023_23_q1_s5",
+          "subNumber": "e",
+          "text": "(e) List the basic design issues to machine learning.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_ml_2023_23_q1_s6",
+          "subNumber": "f",
+          "text": "(f) What is regression?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_ml_2023_23_q1_s7",
+          "subNumber": "g",
+          "text": "(g) Define precision and Recall.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_ml_2023_23_q1_s8",
+          "subNumber": "h",
+          "text": "(h) What is the essential difference between analytical and inductive learning methods?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_ml_2023_23_q1_s9",
+          "subNumber": "i",
+          "text": "(i) What do you understand by noise in the data? How it affect the result?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_ml_2023_23_q1_s10",
+          "subNumber": "j",
+          "text": "(j) What is meant by Ensemble learning?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_ml_2023_23_q2",
+      "number": 2,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_ml_2023_23_q2_s1",
+          "subNumber": "a",
+          "text": "\"Machine learning cannot solve every problem\". Is this statement correct? Give justification to your answer with proper explanation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_ml_2023_23_q2_s2",
+          "subNumber": "b",
+          "text": "With an example, explain about classification and ranking.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_ml_2023_23_q3",
+      "number": 3,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_ml_2023_23_q3_s1",
+          "subNumber": "a",
+          "text": "What is binary classification? Explain scoring and ranking.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_ml_2023_23_q3_s2",
+          "subNumber": "b",
+          "text": "Differentiate between unsupervised and descriptive learning.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_ml_2023_23_q4",
+      "number": 4,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_ml_2023_23_q4_s1",
+          "subNumber": "a",
+          "text": "What is the necessity of feature transformation in learning?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_ml_2023_23_q4_s2",
+          "subNumber": "b",
+          "text": "What is first order rule learning in machine learning? Explain with example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_ml_2023_23_q5",
+      "number": 5,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_ml_2023_23_q5_s1",
+          "subNumber": "a",
+          "text": "Explain about principle component analysis in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_ml_2023_23_q5_s2",
+          "subNumber": "b",
+          "text": "Explain about the least-squares method.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_ml_2023_23_q6",
+      "number": 6,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_ml_2023_23_q6_s1",
+          "subNumber": "a",
+          "text": "Explain in detail about geometric model.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_ml_2023_23_q6_s2",
+          "subNumber": "b",
+          "text": "Explain Q learning algorithm assuming deterministic rewards and actions.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_ml_2023_23_q7",
+      "number": 7,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_ml_2023_23_q7_s1",
+          "subNumber": "a",
+          "text": "Explain about grouping and Grading models.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_ml_2023_23_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss about beyond conjunctive concepts using first-order logic.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_ml_2023_23_q8",
+      "number": 8,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_ml_2023_23_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the principle of unsupervised and descriptive learning with respect to clustering.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_ml_2023_23_q8_s2",
+          "subNumber": "b",
+          "text": "Discuss in detail about learning ordered Rule lists.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_ml_2023_23_q9",
+      "number": 9,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_ml_2023_23_q9_s1",
+          "subNumber": "a",
+          "text": "Discuss how a multi layer network learns using a gradient descent algorithm.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

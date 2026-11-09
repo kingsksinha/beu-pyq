@@ -1,0 +1,295 @@
+{
+  "id": "sem2_anacom_2023_2",
+  "semester": 2,
+  "subject_code": "anacom",
+  "subject_name": "Analog Communication",
+  "year": "2023",
+  "exam_code": "104402",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2023 Analog Communication Time: 03 Hours Code: 104402 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 20,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_anacom_2023_2_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_anacom_2023_2_q1_s1",
+          "subNumber": "a",
+          "text": "In NBFM, the modulation index is close to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "10",
+            "greater than 1",
+            "infinite"
+          ]
+        },
+        {
+          "id": "sem2_anacom_2023_2_q1_s2",
+          "subNumber": "b",
+          "text": "The maximum power efficiency of an AM modulator is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "50%",
+            "25%",
+            "75%",
+            "100%"
+          ]
+        },
+        {
+          "id": "sem2_anacom_2023_2_q1_s3",
+          "subNumber": "c",
+          "text": "Spectral density of white noise is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Varies with frequency",
+            "Constant",
+            "Varies with bandwidth",
+            "Varies with amplitude"
+          ]
+        },
+        {
+          "id": "sem2_anacom_2023_2_q1_s4",
+          "subNumber": "d",
+          "text": "If the step size of a system is 0.0721, find its quantization power?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 3.25 \\times 10^{-3} \\)",
+            "\\( 4.33 \\times 10^{-3} \\)",
+            "\\( 4.33 \\times 10^{-4} \\)",
+            "\\( 3.25 \\times 10^{-2} \\)"
+          ]
+        },
+        {
+          "id": "sem2_anacom_2023_2_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following frequency is not transmitted in AM transmission?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Upper side band frequency",
+            "Carrier frequency",
+            "Lower side band frequency",
+            "Audio frequency"
+          ]
+        },
+        {
+          "id": "sem2_anacom_2023_2_q1_s6",
+          "subNumber": "f",
+          "text": "What is the use of Companding?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "in PCM transmitters to allow amplitude limiting in the receivers",
+            "in PCM receiver to overcome impulse noise",
+            "to overcome quantizing noise in PCM",
+            "to protect small signals in PCM from quantizing distortion"
+          ]
+        },
+        {
+          "id": "sem2_anacom_2023_2_q1_s7",
+          "subNumber": "g",
+          "text": "Envelope Detector is a/an",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Coherent detector",
+            "Asynchronous Detector",
+            "Synchronous Detector",
+            "Product Demodulator"
+          ]
+        },
+        {
+          "id": "sem2_anacom_2023_2_q1_s8",
+          "subNumber": "h",
+          "text": "A 1000KHz carrier is modulated by 100Hz and 200Hz waves, then which of the following frequencies cannot be present at the output?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1000.1 KHz",
+            "999.9 KHz",
+            "1000.2 KHz",
+            "999.7 KHz"
+          ]
+        },
+        {
+          "id": "sem2_anacom_2023_2_q1_s9",
+          "subNumber": "i",
+          "text": "For 100% modulation, power in each sideband is _____ of that of carrier.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "50%",
+            "60%",
+            "25%",
+            "33.33%"
+          ]
+        },
+        {
+          "id": "sem2_anacom_2023_2_q1_s10",
+          "subNumber": "j",
+          "text": "The frequency of local oscillator",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "can be either below or above the RF frequency",
+            "is below the RF frequency",
+            "is above the RF frequency",
+            "is fixed typically at 450KHz"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_anacom_2023_2_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_anacom_2023_2_q2_s1",
+          "subNumber": "a",
+          "text": "A radio receiver with equivalent noise bandwidth of 10kHz has a noise figure of 20dB.If input SNR to receiver is 40dB, determine the output SNR. What is equivalent noise temperature if ambient temperature is 27°C.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_anacom_2023_2_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_anacom_2023_2_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss the Armstrong method for the generation of wideband FM.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_anacom_2023_2_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_anacom_2023_2_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the working of slope detector method used for demodulation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_anacom_2023_2_q4_s2",
+          "subNumber": "b",
+          "text": "Write notes on PAM, PPM and PWM.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_anacom_2023_2_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_anacom_2023_2_q5_s1",
+          "subNumber": "a",
+          "text": "Explain need of modulation and its advantage.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_anacom_2023_2_q5_s2",
+          "subNumber": "b",
+          "text": "Derive the expression for power content in an AM wave.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_anacom_2023_2_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_anacom_2023_2_q6_s1",
+          "subNumber": "a",
+          "text": "When a super-heterodyne receiver is tuned to 600kHz,its local oscillator provides the mixer with an input at 1055 kHz. What is the image frequency? The antenna of the receiver is connected to the mixer via a tuned circuit with Q 50. What will be the rejection ratio for the calculated image frequency?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_anacom_2023_2_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_anacom_2023_2_q7_s1",
+          "subNumber": "a",
+          "text": "What is demodulation? Explain square law demodulator.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_anacom_2023_2_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_anacom_2023_2_q8_s1",
+          "subNumber": "a",
+          "text": "Derive the expression of AM modulated wave and draw its waveform.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_anacom_2023_2_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_anacom_2023_2_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

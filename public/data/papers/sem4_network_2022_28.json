@@ -1,0 +1,303 @@
+{
+  "id": "sem4_network_2022_28",
+  "semester": 4,
+  "subject_code": "network",
+  "subject_name": "Network Theory",
+  "year": "2022",
+  "exam_code": "104304",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2022 Network Theory Time: 03 Hours Code: 104304 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_network_2022_28_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer of the following: (Answer any seven)",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2022_28_q1_s1",
+          "subNumber": "a",
+          "text": "An ideal voltage source should have",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q1_s2",
+          "subNumber": "b",
+          "text": "For every tree, there will be _______ number of cut-set matrices.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following expression is true in case of open circuit parameters?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q1_s4",
+          "subNumber": "d",
+          "text": "For a T shaped network, if the Short-circuit admittance parameters are \\( Y_{11}, Y_{12}, Y_{21} \\) and \\( Y_{22} \\) then \\( Y_{11} \\) in terms of Transmission parameters can be expressed as",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q1_s5",
+          "subNumber": "e",
+          "text": "The cut-off frequency of the constant k-low pass filter is ?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q1_s6",
+          "subNumber": "f",
+          "text": "Which condition determines the causality of the LTI system in terms of its impulse response?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q1_s7",
+          "subNumber": "g",
+          "text": "A graph with n vertices and n-1 edges that is not a tree, is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q1_s8",
+          "subNumber": "h",
+          "text": "If a network function has zeros only in the left-half of the s-plane, then it is said to be",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q1_s9",
+          "subNumber": "i",
+          "text": "Define tree, twigs and links of a graph.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q1_s10",
+          "subNumber": "j",
+          "text": "What do you mean by natural response and forced response of a network?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2022_28_q2",
+      "number": 2,
+      "title": "Q.2 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2022_28_q2_s1",
+          "subNumber": "a",
+          "text": "Define the following terms: (i) Branch (ii) Node (iii) Tree (iv) Loop",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q2_s2",
+          "subNumber": "b",
+          "text": "Define and state the properties of incidence matrix.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q2_s3",
+          "subNumber": "c",
+          "text": "For the graph shown below, find the incidence and cut set matrices.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/82.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2022_28_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2022_28_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss in brief the Z parameters, Y parameters, hybrid parameters and ABCD parameters.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q3_s2",
+          "subNumber": "b",
+          "text": "Find the Z and Y parameters for the following circuit.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/81.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2022_28_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2022_28_q4_s1",
+          "subNumber": "a",
+          "text": "Check whether the following polynomial is Hurwitz or not: \\( s^4 + 7s^3 + 4s^2 + 18s + 6 \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q4_s2",
+          "subNumber": "b",
+          "text": "A driving point impedance is given by: \\( Z_{LC}(s) = \\frac{s(s^2+1)(s^2+6)}{(s^2+1)(s^2+5)} \\). Obtain the first form of Cauer network.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2022_28_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2022_28_q5_s1",
+          "subNumber": "a",
+          "text": "If the bandstop filter shown in below figure is to reject a 200 Hz sinusoid while passing other frequency, Calculate the value of L and C, take \\( R = 150 \\Omega \\) and bandwidth as 100 Hz.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/80.jpg"
+          ]
+        },
+        {
+          "id": "sem4_network_2022_28_q5_s2",
+          "subNumber": "b",
+          "text": "Explain Low pass filter, high pass filter, band pass filter and band stop filter with proper diagram and derivation.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2022_28_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2022_28_q6_s1",
+          "subNumber": "a",
+          "text": "The output \\( y(t) \\) of a linear time invariant system is related to its input \\( X(t) \\) by following equation: \\( y(t) = 0.5X(t-t_d+T) + X(t-t_d) + 0.5X(t-t_d-T) \\). What is s Filter transfer function \\( H(w) \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q6_s2",
+          "subNumber": "b",
+          "text": "What is the system? What are the different types of system?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2022_28_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2022_28_q7_s1",
+          "subNumber": "a",
+          "text": "Obtain the first and second Foster forms of the below reactance function: \\( Z(s) = \\frac{s(s^2+9)}{(s^2+4)(s^2+16)} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q7_s2",
+          "subNumber": "b",
+          "text": "Show all possible cut-sets of the below network graph.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/79.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2022_28_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2022_28_q8_s1",
+          "subNumber": "a",
+          "text": "Obtain the values of L and C for a prototype T and \\(\\pi\\) shape low pass filters with \\( R_0 = 500 \\Omega \\) and cut off frequency \\( f_c = 2KHz \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q8_s2",
+          "subNumber": "b",
+          "text": "A second-order band pass filter is to be constructed using RC components that will only allow a range of frequencies to pass above 1kHZ and below 30kHz. Assuming that both the resistors have values of 10k\\(\\Omega\\), calculate the values of the two capacitors required.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2022_28_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2022_28_q9_s1",
+          "subNumber": "a",
+          "text": "Image impedance and its relation to open circuit and short circuit impedances.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q9_s2",
+          "subNumber": "b",
+          "text": "Transient response of R L series circuit to impulse signal.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2022_28_q9_s3",
+          "subNumber": "c",
+          "text": "Inverse hybrid parameter of a 2 port network.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

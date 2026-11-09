@@ -1,0 +1,330 @@
+{
+  "id": "sem2_cpp_2013_58",
+  "semester": 2,
+  "subject_code": "cpp",
+  "subject_name": "Object Oriented Programming using C++",
+  "year": "2013",
+  "exam_code": "051401",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech Examination, 2013 Object Oriented Programming Time: 03 Hours Code: 051401 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "All questions carry equal marks.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cpp_2013_58_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven) :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2013_58_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following statements is correct?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A reference is stored on heap",
+            "A reference is stored on stack",
+            "A reference is stored in a queue",
+            "A reference is stored in a binary tree"
+          ]
+        },
+        {
+          "id": "sem2_cpp_2013_58_q1_s2",
+          "subNumber": "b",
+          "text": "How many parameters does a Default Constructor accept?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "id": "sem2_cpp_2013_58_q1_s3",
+          "subNumber": "c",
+          "text": "Destructor has the same name as the constructor and it is preceded by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "~",
+            "!",
+            "&amp;",
+            "?"
+          ]
+        },
+        {
+          "id": "sem2_cpp_2013_58_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following types of class allows only one object of it to be created?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Virtual class",
+            "Abstract class",
+            "Singleton class",
+            "Friend class"
+          ]
+        },
+        {
+          "id": "sem2_cpp_2013_58_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following statements is correct?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Two functions having same number of argument, order and type of argument can be overloaded if both functions do not have any default argument",
+            "Overloaded function must have default arguments",
+            "Overloaded function must have default arguments starting from the left of argument list",
+            "A function can be overloaded more than once"
+          ]
+        },
+        {
+          "id": "sem2_cpp_2013_58_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following statements is incorrect?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Default arguments can be provided for pointers to functions",
+            "A function can have all its arguments as default",
+            "Default argument cannot be provided for pointers to functions",
+            "A default argument cannot be redefined in later declaration"
+          ]
+        },
+        {
+          "id": "sem2_cpp_2013_58_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following is not a type of constructor?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Copy constructor",
+            "Friend constructor",
+            "Default constructor",
+            "Parameterized constructor"
+          ]
+        },
+        {
+          "id": "sem2_cpp_2013_58_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following access specifies is used in a class definition by default?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Protected",
+            "Public",
+            "Private",
+            "Friend"
+          ]
+        },
+        {
+          "id": "sem2_cpp_2013_58_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following statements is correct with respect to the use of friend keyword inside a class?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A private data member can be declared as a friend",
+            "A class may be declared as a friend",
+            "An object may be declared as a friend",
+            "We can use friend keyword as a class name"
+          ]
+        },
+        {
+          "id": "sem2_cpp_2013_58_q1_s10",
+          "subNumber": "j",
+          "text": "How many types of polymorphisms are supported by C++?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2013_58_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2013_58_q2_s1",
+          "subNumber": "a",
+          "text": "Define string. How does a string type differ from C type string?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2013_58_q2_s2",
+          "subNumber": "b",
+          "text": "WAP in C++ that reads a particular string and displays the frequency of each character in the string.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2013_58_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2013_58_q3_s1",
+          "subNumber": "a",
+          "text": "What is ST? Describe with example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2013_58_q3_s2",
+          "subNumber": "b",
+          "text": "WAP in C++ using the function count() to how many elements in a container have a specified value.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2013_58_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2013_58_q4_s1",
+          "subNumber": "a",
+          "text": "Explain exception handling and their types.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2013_58_q4_s2",
+          "subNumber": "b",
+          "text": "WAP in C++ to demonstrate the use of multiple Catch statements.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2013_58_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2013_58_q5_s1",
+          "subNumber": "a",
+          "text": "Describe streams.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2013_58_q5_s2",
+          "subNumber": "b",
+          "text": "Write about the following functions: put(); get(); width(); getline(); fill().",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2013_58_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2013_58_q6_s1",
+          "subNumber": "a",
+          "text": "Describe polymorphism with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2013_58_q6_s2",
+          "subNumber": "b",
+          "text": "WAP in C++ using array of pointers to accept desired number of integers and display their sum.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2013_58_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2013_58_q7_s1",
+          "subNumber": "a",
+          "text": "What is inheritance? Describe its types with examples.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2013_58_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2013_58_q8_s1",
+          "subNumber": "a",
+          "text": "Explain 'this' pointer. Differentiate between overloaded functions and function templates.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2013_58_q8_s2",
+          "subNumber": "b",
+          "text": "What is a virtual function? WAP to demonstrate use of virtual functions.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2013_58_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2013_58_q9_s1",
+          "subNumber": "a",
+          "text": "Explain friend function along with example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2013_58_q9_s2",
+          "subNumber": "b",
+          "text": "Describe type conversion with examples.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    }
+  ]
+}

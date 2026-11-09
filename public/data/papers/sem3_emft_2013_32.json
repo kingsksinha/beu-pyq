@@ -1,0 +1,242 @@
+{
+  "id": "sem3_emft_2013_32",
+  "semester": 3,
+  "subject_code": "emft",
+  "subject_name": "Electromagnetic Field Theory",
+  "year": "2013",
+  "exam_code": "103307",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna 2013 (A) Electromagnetic Field Theory Time: 3 hours Code: 103307 Full Marks: 70",
+  "question_count": 10,
+  "total_subquestions": 20,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are TEN questions in this paper.",
+    "Attempt any FIVE questions."
+  ],
+  "questions": [
+    {
+      "id": "sem3_emft_2013_32_q1",
+      "number": 1,
+      "title": "Q.1 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2013_32_q1_s1",
+          "subNumber": "a",
+          "text": "Find the potential distribution due to a long pair of parallel wires of negligible cross-section and having equal and opposite line charge density. Also obtain equipotential surfaces produced by them.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2013_32_q1_s2",
+          "subNumber": "b",
+          "text": "Find the capacitance of two parallel cylindrical conductors having their radii as a and separation between their axes as b.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2013_32_q2",
+      "number": 2,
+      "title": "Q.2 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2013_32_q2_s1",
+          "subNumber": "a",
+          "text": "State uniqueness theorem and prove it.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_emft_2013_32_q2_s2",
+          "subNumber": "b",
+          "text": "Explain conductor properties and obtain boundary conditions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2013_32_q2_s3",
+          "subNumber": "c",
+          "text": "For a two-dimensional system in which \\( r=\\sqrt{x^2+y^2} \\) determine \\( \\nabla^2V \\) when \\( V=\\frac{1}{r} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2013_32_q3",
+      "number": 3,
+      "title": "Q.3 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2013_32_q3_s1",
+          "subNumber": "a",
+          "text": "Find the energy density in the magnetic field.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emft_2013_32_q3_s2",
+          "subNumber": "b",
+          "text": "Find the magnetic field inside a solid conductor carrying a direct current, and hence obtain total magnetic flux per unit length within the conductor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2013_32_q3_s3",
+          "subNumber": "c",
+          "text": "Prove Stokes' theorem.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2013_32_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2013_32_q4_s1",
+          "subNumber": "a",
+          "text": "Obtain two Maxwell's equations which deviate from steady-state field.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2013_32_q4_s2",
+          "subNumber": "b",
+          "text": "The electric field of electromagnetic wave is given by \\( E_x=0=E_z \\), \\( E_y=A\\cos\\omega(t-\\frac{z}{c}) \\). Using Maxwell's equation in free space, find the magnetic vector \\( \\vec{H} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2013_32_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2013_32_q5_s1",
+          "subNumber": "a",
+          "text": "Find the ratio of \\( \\vec{E} \\) and \\( \\vec{H} \\) in a uniform plane wave.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emft_2013_32_q5_s2",
+          "subNumber": "b",
+          "text": "Discuss the wave propagation in conducting medium and obtain the value of \\( \\alpha \\) and \\( \\beta \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2013_32_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2013_32_q6_s1",
+          "subNumber": "a",
+          "text": "Derive the reflection coefficient of perfect dielectric for oblique incidence in the case of parallel polarization. Obtain Brewster angle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2013_32_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2013_32_q7_s1",
+          "subNumber": "a",
+          "text": "State Poynting theorem and prove it.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_emft_2013_32_q7_s2",
+          "subNumber": "b",
+          "text": "A short vertical transmitting antenna erected on the surface of a perfectly conducting earth produces effective field strength \\( E_{\\text{eff.}} = E_{\\theta \\text{eff.}} = 100\\sin\\theta \\frac{\\text{mu}}{\\text{m}} \\) at points at a distance of one mile from the antenna. Compute the Poynting vector and total power radiated.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2013_32_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2013_32_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss UHF line as circuit element and hence find the input impedance of short-circuited quarter-wave line.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2013_32_q8_s2",
+          "subNumber": "b",
+          "text": "Discuss quarter-wave line as transformer.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2013_32_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2013_32_q9_s1",
+          "subNumber": "a",
+          "text": "Discuss Smith chart and its uses.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2013_32_q9_s2",
+          "subNumber": "b",
+          "text": "Design a necessary matching unit to join without impedance mismatch the two different sections of transmission line whose impedances are 75 ohm and 50 ohm.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2013_32_q10",
+      "number": 10,
+      "title": "Q.10 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2013_32_q10_s1",
+          "subNumber": "a",
+          "text": "Find the field component of TM wave in parallel plane guide and hence discuss TEM wave.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

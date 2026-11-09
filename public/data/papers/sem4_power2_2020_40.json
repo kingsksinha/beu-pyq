@@ -1,0 +1,339 @@
+{
+  "id": "sem4_power2_2020_40",
+  "semester": 4,
+  "subject_code": "power2",
+  "subject_name": "Power Systems – II",
+  "year": "2020",
+  "exam_code": "031508",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Special Exam., 2020 POWER SYSTEM-II Time: 03 Hours Code: 031508 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_power2_2020_40_q1",
+      "number": 1,
+      "title": "Q.1 Answer/Choose the correct option from any seven of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2020_40_q1_s1",
+          "subNumber": "a",
+          "text": "The power output from a hydroelectric power plant depends on three parameters.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Head, Type and Dam of discharge",
+            "Head, Discharge and Efficiency of the system",
+            "Efficiency of the system, type of draft tube and type of turbine used",
+            "Type of dam, discharge and type of catchment area"
+          ]
+        },
+        {
+          "id": "sem4_power2_2020_40_q1_s2",
+          "subNumber": "b",
+          "text": "Low head hydro-plant is also known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "canal power plant",
+            "medium head hydro-plant",
+            "run-off river hydro-plant",
+            "base load hydro-plant"
+          ]
+        },
+        {
+          "id": "sem4_power2_2020_40_q1_s3",
+          "subNumber": "c",
+          "text": "Demand factor is defined as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "average load/maximum load",
+            "maximum demand/connected load",
+            "connected load/maximum demand",
+            "average load/maximum load"
+          ]
+        },
+        {
+          "id": "sem4_power2_2020_40_q1_s4",
+          "subNumber": "d",
+          "text": "The area under a load curve gives",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "average demand",
+            "energy consumed",
+            "maximum demand",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_power2_2020_40_q1_s5",
+          "subNumber": "e",
+          "text": "Which among the following is the most severe fault?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Single line to ground fault",
+            "Double line to ground fault",
+            "Line-to-line fault",
+            "Symmetrical fault"
+          ]
+        },
+        {
+          "id": "sem4_power2_2020_40_q1_s6",
+          "subNumber": "f",
+          "text": "What is the value of the zero sequence current?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "3 times the current in the neutral wire",
+            "\\( 1/3 \\) times the current in the neutral wire",
+            "\\( \\sqrt{3} \\) times the current in the neutral wire",
+            "Equal to the current in the neutral wire"
+          ]
+        },
+        {
+          "id": "sem4_power2_2020_40_q1_s7",
+          "subNumber": "g",
+          "text": "Which among the following methods is used for improving the system stability?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Increasing the system voltage",
+            "Reducing the transfer reactance",
+            "Using high-speed circuit-breaker",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_power2_2020_40_q1_s8",
+          "subNumber": "h",
+          "text": "The transient stability limit of the power system can be increased by introducing",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "series inductance",
+            "shunt inductance",
+            "series capacitance",
+            "shunt capacitance"
+          ]
+        },
+        {
+          "id": "sem4_power2_2020_40_q1_s9",
+          "subNumber": "i",
+          "text": "What do you mean by positive sequence network?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q1_s10",
+          "subNumber": "j",
+          "text": "Define diversity factor and mention its significance.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2020_40_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2020_40_q2_s1",
+          "subNumber": "a",
+          "text": "What are the factors to be considered in selecting the site of a hydroelectric power plant? Write a short note on the selection of hydraulic turbine.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q2_s2",
+          "subNumber": "b",
+          "text": "A generating station has the following data: installed capacity = 300 MW; capacity factor = 50%; annual load factor = 60%; annual cost of fuel, oil, etc. = \\( 9 \\times 10^7 \\); capital cost = \\( 10^9 \\); annual interest and depreciation = 10%. Calculate (i) the minimum reserve capacity of the station and (ii) the cost per kWh generated.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2020_40_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2020_40_q3_s1",
+          "subNumber": "a",
+          "text": "Explain with neat sketch pumped storage peak load plant.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q3_s2",
+          "subNumber": "b",
+          "text": "Estimate the generating cost per kWh delivered from a generating station from the following data: Plant capacity = 50 MW; Annual load factor = 40%; Capital cost = 1.2 crores; Annual cost of wages, taxation, etc. = 4 lakhs; cost of fuel, lubrication, maintenance, etc. = 1.0 paise/kWh generated. Interest 5% per annum, depreciation 6% per annum of initial value.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2020_40_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2020_40_q4_s1",
+          "subNumber": "a",
+          "text": "Deduce and draw the sequence network for LLG fault at terminal of unloaded generator.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q4_s2",
+          "subNumber": "b",
+          "text": "A 25 MVA, 13.2 kV alternator with solidly grounded neutral has a subtransient reactance of 0.25 p.u. The negative and zero sequence reactances are 0.35 and 0.1 p.u. respectively. A single line to ground fault occurs at the terminals of an unloaded alternator; determine the fault current and line-to-line voltages on neglecting resistances.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2020_40_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2020_40_q5_s1",
+          "subNumber": "a",
+          "text": "Derive the expression of fault current for line-to-line fault on unloaded generator.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q5_s2",
+          "subNumber": "b",
+          "text": "The line currents in phases a, b and c respectively are \\( 500+j150 \\), \\( 100+j600 \\) and \\( -300+j600 \\) referred to the same reference vector. Find the symmetrical component of current.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2020_40_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2020_40_q6_s1",
+          "subNumber": "a",
+          "text": "What is 'equal area criterion' and how is it derived from the swing equation? Explain the operation of a synchronous motor using this criterion when sudden increase in mechanical load on that motor occurs.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q6_s2",
+          "subNumber": "b",
+          "text": "A 50 Hz synchronous generator having an internal voltage 1.2 pu, H = 5.2 MJ/MVA and a reactance of 0.4 pu is connected to an infinite bus through a double circuit line, each line of reactance 0.35 pu. The generator is delivering 0.8 pu power and the infinite bus voltage is 1.0 pu. Determine: maximum power transfer, steady state operating angle, and natural frequency of oscillation if damping is neglected.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2020_40_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2020_40_q7_s1",
+          "subNumber": "a",
+          "text": "What are the assumptions made during the stability analysis of a multi-machine system? Derive the equation for reduced admittance matrix.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q7_s2",
+          "subNumber": "b",
+          "text": "A 50 Hz, 4-pole turbo alternator rated 150 MVA, 11 kV has an inertia constant of 9 MJ/MVA. Find the (i) stored energy at synchronous speed, (ii) rotor acceleration if the input mechanical power is raised to 100 MW when the electrical load is 75 MW and (iii) speed at the end of 10 cycles if acceleration is assumed constant at the initial value.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2020_40_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2020_40_q8_s1",
+          "subNumber": "a",
+          "text": "Enlist the effects of high-load factor on the operation of power plants.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q8_s2",
+          "subNumber": "b",
+          "text": "The energy cost of a 100 MW steam station working at 40% load factor comes out to be 12 paise/kWh of energy generated. What will be the cost of energy generated if the load factor is improved to 60%? The fuel cost of the power station due to increased generation increase the annual generation cost by 5%.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2020_40_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2020_40_q9_s1",
+          "subNumber": "a",
+          "text": "Plant capacity factor",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q9_s2",
+          "subNumber": "b",
+          "text": "Surge tank",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q9_s3",
+          "subNumber": "c",
+          "text": "Reactor control of short circuit currents",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2020_40_q9_s4",
+          "subNumber": "d",
+          "text": "Steady state stability",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    }
+  ]
+}

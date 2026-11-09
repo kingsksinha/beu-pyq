@@ -1,0 +1,323 @@
+{
+  "id": "sem3_env2_2023_39",
+  "semester": 3,
+  "subject_code": "env2",
+  "subject_name": "Environmental Engineering-II",
+  "year": "2023",
+  "exam_code": "101605",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 6th Semester Examination, 2023 Environmental Engineering-II Time: 03 Hours Code: 101605 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_env2_2023_39_q1",
+      "number": 1,
+      "title": "Q.1 Choose/Write the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2023_39_q1_s1",
+          "subNumber": "a",
+          "text": "Imhoff cone is used to determine",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "settleable solids",
+            "suspended solids",
+            "dissolved solids",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem3_env2_2023_39_q1_s2",
+          "subNumber": "b",
+          "text": "The main objective of secondary treatment of wastewater is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "COD removal",
+            "BOD removal",
+            "nutrient removal",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2023_39_q1_s3",
+          "subNumber": "c",
+          "text": "The ratio of maximum daily sewage flow to the average daily sewage flow for sewer mains of 0.5 to 1 m diameter, is generally taken as",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "1.5",
+            "2.0",
+            "3.0",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem3_env2_2023_39_q1_s4",
+          "subNumber": "d",
+          "text": "The percentage of activated sludge mixed with the wastewater in activated sludge process of wastewater treatment ranges between",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "10 to 20",
+            "20 to 40",
+            "40 to 60",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem3_env2_2023_39_q1_s5",
+          "subNumber": "e",
+          "text": "The bacteria which require free oxygen for their survival are called",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "aerobic bacteria",
+            "anaerobic bacteria",
+            "facultative bacteria",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem3_env2_2023_39_q1_s6",
+          "subNumber": "f",
+          "text": "The most serious environmental effect posed by hazardous waste is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "air pollution",
+            "contamination of ground water",
+            "increased used of land for landfills",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem3_env2_2023_39_q1_s7",
+          "subNumber": "g",
+          "text": "The most suitable section of a sewer in a separate sewerage system is:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "rectangular",
+            "circular",
+            "new egg shape",
+            "parabolic"
+          ]
+        },
+        {
+          "id": "sem3_env2_2023_39_q1_s8",
+          "subNumber": "h",
+          "text": "The gas which is generally found present in sewers is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( H_{2}S \\)",
+            "\\( CO_{2} \\)",
+            "\\( CH_{4} \\)",
+            "all of these"
+          ]
+        },
+        {
+          "id": "sem3_env2_2023_39_q1_s9",
+          "subNumber": "i",
+          "text": "One of the most effective forms of hazardous waste disposal may be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "land fills",
+            "deep well injection",
+            "Incineration",
+            "Surface impoundments"
+          ]
+        },
+        {
+          "id": "sem3_env2_2023_39_q1_s10",
+          "subNumber": "j",
+          "text": "Which one of the following solid waste disposal methods is ecologically most acceptable?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Sanitary landfill",
+            "Incineration",
+            "Pyrolysis",
+            "Composting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2023_39_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2023_39_q2_s1",
+          "subNumber": "a",
+          "text": "Explain various forces acting on sewer when laid below ground level and running full along with mathematical expressions.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_env2_2023_39_q2_s2",
+          "subNumber": "b",
+          "text": "A raw wastewater with the following characteristics is being treated in an activated sludge plant. Given that: \\( BOD_{5} \\) of raw wastewater = \\( 220~gm/l \\); effluent \\( BOD_{5} \\) desired = \\( 20~mg/l \\); inflow rate to aeration tank = \\( 100~m^{3}/d \\); mixed liquor volatile suspended solid concentration = \\( 2000~mg/l \\); volume of aeration tank = \\( 500~m^{3} \\); water depth in aeration tank = 2.5 m. Determine the:<br/> (i) food to microorganisms (F/M) ratio,<br/> (ii) space loading on aeration tank,<br/> (iii) hydraulic loading on aeration tank and<br/> (iv) detention period in aeration tank.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2023_39_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2023_39_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the various types of solid wastes in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2023_39_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss the types of composition of municipal solid wastes.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2023_39_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2023_39_q4_s1",
+          "subNumber": "a",
+          "text": "Compare between separate and combined systems of sewerage. Enumerate the advantages of egg-shaped sewer over circular sewer. Explain the rational formula for estimation of storm run-off along with assumptions. Determine the size of a circular sewer for a discharge of \\( 2.25~m^{3}/sec \\) and the sewer is to be laid at a gradient of 1 in 7500. Manning's rugosity coefficient = 0.015.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2023_39_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2023_39_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the difference between compaction and size reduction and their importances in solid waste management.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2023_39_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the types, mode of action and applications of equipments used for size reduction and component separation in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2023_39_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2023_39_q6_s1",
+          "subNumber": "a",
+          "text": "List the various materials which can be recovered from the municipal solid waste generated from a typical Indian city.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2023_39_q6_s2",
+          "subNumber": "b",
+          "text": "Describe in brief the various methods employed for the disposal of municipal solid waste.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2023_39_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2023_39_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the importance of the following in the design of sewers: (i) Self cleansing velocity and (ii) Non scouring velocity.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2023_39_q7_s2",
+          "subNumber": "b",
+          "text": "A 2 m deep trickling filter with a diameter of 18 m is operated with a recirculation ratio of 1.5. The raw wastewater flow rate is 2.5 ML/d and the 5-day BOD of the raw wastewater is \\( 210~mg/L \\). Assuming that the primary tank BOD removal efficiency is 30%, compute the hydraulic as well as organic load on the trickling filter.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2023_39_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2023_39_q8_s1",
+          "subNumber": "a",
+          "text": "What do you understand by sludge volume index? Discuss in brief.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_env2_2023_39_q8_s2",
+          "subNumber": "b",
+          "text": "Design an oxidation pond using the following data: Population = 5000, Sewage generation = \\( 120~L/c/d \\), \\( BOD_{5} \\) of sewage = \\( 300~mg/l \\), Organic loading = \\( 300~kg/ha/d \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2023_39_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2023_39_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

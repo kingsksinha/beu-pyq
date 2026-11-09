@@ -1,0 +1,270 @@
+{
+  "id": "sem4_micro_2017_18",
+  "semester": 4,
+  "subject_code": "micro",
+  "subject_name": "Microprocessors",
+  "year": "2017",
+  "exam_code": "031511",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Examination, 2017 Microprocessor and its Application Time: 03 Hours Code: 031511 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 9,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_micro_2017_18_q1",
+      "number": 1,
+      "title": "Q.1 Answer as directed any seven of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2017_18_q1_s1",
+          "subNumber": "a",
+          "text": "How many general purpose registers are there in 8085 microprocessor?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q1_s2",
+          "subNumber": "b",
+          "text": "Program counter is an 8-bit register. (State True or False)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q1_s3",
+          "subNumber": "c",
+          "text": "How many address buses are there in 8085 microprocessor?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q1_s4",
+          "subNumber": "d",
+          "text": "If sign flag is set result of the arithmetic operation is positive. (State True or False)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2017_18_q1_s5",
+          "subNumber": "e",
+          "text": "How many pins are there in 8085 microprocessor?",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q1_s6",
+          "subNumber": "f",
+          "text": "What is the addressing mode of the instruction STA 2400H?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2017_18_q1_s7",
+          "subNumber": "g",
+          "text": "LXI H, 2500H is a 3-byte instruction. (State True or False)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2017_18_q1_s8",
+          "subNumber": "h",
+          "text": "How many segment registers are there in 8086 microprocessor?",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q1_s9",
+          "subNumber": "i",
+          "text": "How many data buses are there in 8086 microprocessor?",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q1_s10",
+          "subNumber": "j",
+          "text": "Intel 8251 is a programmable counter/interval timer. (State True or False)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2017_18_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2017_18_q2_s1",
+          "subNumber": "a",
+          "text": "State the functions of the following pins of 8085 microprocessor: ALE, \\( IO/\\overline{M} \\), S0, S1, HLDA",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss flag register of 8085 microprocessor.",
+          "freq": 9,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2017_18_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2017_18_q3_s1",
+          "subNumber": "a",
+          "text": "What are the functions of the following instructions of 8085 microprocessor? LXI H, 2400H, RAL, LDA 2500H, IN 01",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q3_s2",
+          "subNumber": "b",
+          "text": "Explain addressing modes of 8085 microprocessor with suitable examples.",
+          "freq": 9,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2017_18_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[9+5=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2017_18_q4_s1",
+          "subNumber": "a",
+          "text": "Draw the timing diagram of MVI A, 05.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2017_18_q4_s2",
+          "subNumber": "b",
+          "text": "Discuss the functions of program counter and stack pointer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2017_18_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[5+9=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2017_18_q5_s1",
+          "subNumber": "a",
+          "text": "Write an assembly language program to add two 8-bit numbers and sum is 16 bits.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q5_s2",
+          "subNumber": "b",
+          "text": "Write an assembly language program to find largest no. in a data array.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2017_18_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2017_18_q6_s1",
+          "subNumber": "a",
+          "text": "What are the functions of the following pins of Intel 8257? DRQ0 - DRQ3, \\( A_6 - A_7 \\), AEN, ADSTB",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2017_18_q6_s2",
+          "subNumber": "b",
+          "text": "Draw and discuss the pin description of Intel 8251.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2017_18_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2017_18_q7_s1",
+          "subNumber": "a",
+          "text": "Write the functions of the following pins of 8086 microprocessor: \\( BHE/S7 \\), NMI, \\( \\overline{TEST} \\), \\( \\overline{DEN} \\)",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss register organization of 8086 microprocessor.",
+          "freq": 9,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2017_18_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2017_18_q8_s1",
+          "subNumber": "a",
+          "text": "Write the functions of the following instructions of 8086 microprocessor: MOV AX, DX, ADD AL, 35H, DIV CL, LODSB",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_micro_2017_18_q8_s2",
+          "subNumber": "b",
+          "text": "Write an assembly language program to add series of 16 bit numbers and sum is 32 bits.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2017_18_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on the following:",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2017_18_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

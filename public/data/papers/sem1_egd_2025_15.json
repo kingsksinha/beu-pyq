@@ -1,0 +1,343 @@
+{
+  "id": "sem1_egd_2025_15",
+  "semester": 1,
+  "subject_code": "egd",
+  "subject_name": "Engineering Graphics & Design",
+  "year": "2025",
+  "exam_code": "100202",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 (Old Course) Engineering Graphics & Design Time: 03 Hours Code: 100202 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_egd_2025_15_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_15_q1_s1",
+          "subNumber": "a",
+          "text": "The main purpose of engineering graphics is to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Beautify drawings",
+            "Communicate technical information clearly",
+            "Create artistic designs",
+            "Reduce material cost"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_15_q1_s2",
+          "subNumber": "b",
+          "text": "If width of a standard engineering drawing sheet is 841 mm, then its length in mm would be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "965",
+            "1189",
+            "1000",
+            "1215"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_15_q1_s3",
+          "subNumber": "c",
+          "text": "In the first angle projection method, the object is placed",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "In front of the vertical plane and above the horizontal plane",
+            "Behind the vertical plane and below the horizontal plane",
+            "In front of the vertical plane and below the horizontal plane",
+            "Behind the vertical plane and above the horizontal plane"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_15_q1_s4",
+          "subNumber": "d",
+          "text": "Which one is the enlarging scale?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1:1",
+            "1:10",
+            "1:2",
+            "100:1"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_15_q1_s5",
+          "subNumber": "e",
+          "text": "The straight line will represent its true length in that plane to which it is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Parallel",
+            "Perpendicular",
+            "Inclined to HP",
+            "Inclined to VP"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_15_q1_s6",
+          "subNumber": "f",
+          "text": "The actual length of the drawing is 200m; the RF is given as 1:2500. Find the length of the drawing.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "20 mm",
+            "80 mm",
+            "0.08 mm",
+            "160 mm"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_15_q1_s7",
+          "subNumber": "g",
+          "text": "Which computer technology has most significantly improved accuracy and efficiency in graphical communication?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Desktop publishing software",
+            "Presentation software",
+            "Computer-Aided Design (CAD) software",
+            "Word processors"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_15_q1_s8",
+          "subNumber": "h",
+          "text": "The UNITS command in CAD is used to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Set the paper size",
+            "control the display format and precision of coordinates",
+            "Create new layers",
+            "Define the coordinate system"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_15_q1_s9",
+          "subNumber": "i",
+          "text": "Role of layers in CAD drawing",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "organize and manage different elements of a drawing",
+            "Improve the drawing scale",
+            "Reduce the file size",
+            "Add hatching to surfaces"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_15_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following best describes a 3D wireframe model?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It represents only the outer surfaces of an object",
+            "It represents an object using edges and vertices without surfaces",
+            "It represents an object using solid volumes",
+            "It is used only for 2D drafting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_15_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_15_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the basic principles of engineering graphics and their importance in technical communication.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2025_15_q2_s2",
+          "subNumber": "b",
+          "text": "Construct a vernier scale to read distances correct to a decametre on a map in which the actual distances are reduced in the ratio of 1:40000. The scale should be long enough to measure 6 km. Mark on the scale the lengths of 3.34 km and 0.57 km.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_15_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_15_q3_s1",
+          "subNumber": "a",
+          "text": "What is orthographic projection? Differentiate between first-angle and third-angle projection methods.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2025_15_q3_s2",
+          "subNumber": "b",
+          "text": "The front view of a line makes an angle of \\( 30^{\\circ} \\) with xy. The H.T of the line is 45 mm in front of the V.P., while its V.T is 30 mm below the H.P. One end of the line is 10 mm above the H.P. and the other end is 100 mm in front of the V.P. Draw the projections of the line and determine its true length and its inclinations with the H.P and V.P?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_15_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_15_q4_s1",
+          "subNumber": "a",
+          "text": "A cone diameter of base 50 mm and axis 50 mm long is resting on its base on the H.P. It is cut by a section plane perpendicular to the V.P., Inclined at \\( 75^{\\circ} \\) to the H.P and passing through the apex. Draw its front view, sectional top view, and true shape of the section.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_egd_2025_15_q4_s2",
+          "subNumber": "b",
+          "text": "Draw an ellipse by using concentric circles method given the major and minor axes as 100 mm and 60 mm respectively.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_15_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_15_q5_s1",
+          "subNumber": "a",
+          "text": "Define surface development and explain the method for developing the surface of a cone.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2025_15_q5_s2",
+          "subNumber": "b",
+          "text": "A line AB, 60 mm long, has its end A 10 mm from HP and 20 mm away from VP. The line is inclined at \\( 30^{\\circ} \\) to the HP and its projection is in all the three quadrants. Draw its projections, when the whole line lies in the same quadrant.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_15_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_15_q6_s1",
+          "subNumber": "a",
+          "text": "What is isometric projection? Explain how to draw the isometric view of a cube.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2025_15_q6_s2",
+          "subNumber": "b",
+          "text": "Draw the projections of a hexagonal pyramid, base 30 mm side and axis 60 mm long, having its base on the H.P and one of the edges of the base inclined at \\( 45^{\\circ} \\) to the V.P.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_15_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_15_q7_s1",
+          "subNumber": "a",
+          "text": "Discuss the purpose and functions of the following toolbars in CAD software and give examples of common tools.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Standard Toolbar",
+            "Object Properties Toolbar",
+            "Draw Toolbar",
+            "Dimension Toolbar"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_15_q7_s2",
+          "subNumber": "b",
+          "text": "What is meant by orthographic constraints in CAD software? Describe how these constraints help in producing accurate technical drawings.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_15_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_15_q8_s1",
+          "subNumber": "a",
+          "text": "Describe the concept and purpose of layers in CAD software. Explain how layers can be created, edited, and customized to organize complex drawings efficiently.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2025_15_q8_s2",
+          "subNumber": "b",
+          "text": "Write a detailed note on planar projection theory.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_15_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_15_q9_s1",
+          "subNumber": "a",
+          "text": "What are the key steps involved in creating a detailed floor plan using CAD software?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2025_15_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the process of creating an engineering model and describe how it is presented in both 2D blueprint form and 3D wireframe or shaded solid representations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

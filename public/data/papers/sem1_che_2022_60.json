@@ -1,0 +1,298 @@
+{
+  "id": "sem1_che_2022_60",
+  "semester": 1,
+  "subject_code": "che",
+  "subject_name": "Engineering Chemistry",
+  "year": "2022",
+  "exam_code": "100203",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2022 Chemistry Time: 3 hours Code: 100203 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. I is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_che_2022_60_q1",
+      "number": 1,
+      "title": "Q.1 Answer in brief any seven of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2022_60_q1_s1",
+          "subNumber": "a",
+          "text": "State de Broglie's principle.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q1_s2",
+          "subNumber": "b",
+          "text": "What is an orbital?",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q1_s3",
+          "subNumber": "c",
+          "text": "Arrange the covalent bonds C—F, C—Br, C—Cl and C—I in increasing order of strength.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2022_60_q1_s4",
+          "subNumber": "d",
+          "text": "Which of \\( \\text{NH}_3 \\), \\( \\text{PH}_3 \\), \\( \\text{AsH}_3 \\) and \\( \\text{SbH}_3 \\) possesses largest bond angle? Give reason.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q1_s5",
+          "subNumber": "e",
+          "text": "Out of \\( \\text{Cr}^{2+} \\) and \\( \\text{Cr}^{3+} \\), which one is stable in aqueous solution?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q1_s6",
+          "subNumber": "f",
+          "text": "\\( \\text{Cu}^+ \\) is colourless, but \\( \\text{Cu}^{2+} \\) is coloured. Why?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q1_s7",
+          "subNumber": "g",
+          "text": "What is selection rule?",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q1_s8",
+          "subNumber": "h",
+          "text": "A gas expands against vacuum. What is the work done on it?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q1_s9",
+          "subNumber": "i",
+          "text": "What is the condition for a reaction to be in equilibrium?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q1_s10",
+          "subNumber": "j",
+          "text": "The presence of \\( \\text{CO}_2 \\) in boiler feed water should be avoided. Why?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2022_60_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2022_60_q2_s1",
+          "subNumber": "a",
+          "text": "Write short notes on the following:",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss photoelectric effect (with mathematical equations) for explaining the particle nature of light.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2022_60_q2_s3",
+          "subNumber": "c",
+          "text": "How many photons of light having a wavelength of 4000 Å are necessary to provide 1 J of energy? \\( (h = 6.626 \\times 10^{-34} \\, \\text{J s}) \\)",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2022_60_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2022_60_q3_s1",
+          "subNumber": "a",
+          "text": "Which of the following two molecules has a higher bond length? (i) \\( \\text{O}_2 \\) (ii) \\( \\text{O}_2^+ \\) (iii) \\( \\text{O}_2^- \\) Explain using molecular orbital theory.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q3_s2",
+          "subNumber": "b",
+          "text": "Draw the MO energy level diagram for NO molecule. Using this diagram, calculate and explain bond order and magnetic behaviour of (i) NO, (ii) \\( \\text{NO}^+ \\) and (iii) \\( \\text{NO}^- \\).",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2022_60_q4",
+      "number": 4,
+      "title": "Q.4 Solve all parts :",
+      "marks": "[5+5+4=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2022_60_q4_s1",
+          "subNumber": "a",
+          "text": "The internuclear distance of NaCl is \\( 2.36 \\times 10^{-10} \\text{ m} \\). Calculate the reduced mass and moment of inertia of NaCl. (Atomic mass of Cl = \\( 35 \\times 10^{-3} \\text{ kg mol}^{-1} \\) and Na = \\( 23 \\times 10^{-3} \\text{ kg mol}^{-1} \\)).",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q4_s2",
+          "subNumber": "b",
+          "text": "Calculate the force constant for CO, if it absorbs at \\( 2.143 \\times 10^{5} \\, \\text{m}^{-1} \\). (Atomic mass of C = \\( 12 \\times 10^{-3} \\, \\text{kg mol}^{-1} \\) and O = \\( 16 \\times 10^{-3} \\, \\text{kg mol}^{-1} \\))",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q4_s3",
+          "subNumber": "c",
+          "text": "Which type of electronic transition(s) is/are observed in UV-visible spectrum of phenol in the range 200 nm to 900 nm? Justify your answer.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2022_60_q5",
+      "number": 5,
+      "title": "Q.5 Solve all parts :",
+      "marks": "[5+4+5=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2022_60_q5_s1",
+          "subNumber": "a",
+          "text": "How many types of \\( ^{1}\\text{H} \\) NMR signals are expected for (i) \\( \\text{CH}_2\\text{BrCH}_2\\text{Cl} \\) and (ii) \\( \\text{CH}_3\\text{OCH}_3 \\)? Mention relative intensity ratio for the signal(s) observed for (i) and (ii).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2022_60_q5_s2",
+          "subNumber": "b",
+          "text": "At what frequency shift from TMS, would a group of nuclei with δ = 1:5 resonate in NMR spectrometers operating at 60 MHz and 400 MHz?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q5_s3",
+          "subNumber": "c",
+          "text": "2 mol of \\( \\text{NH}_3 \\) at 300 K occupy a volume of \\( 5 \\times 10^{-3} \\, \\text{m}^3 \\). Calculate the pressure using van der Waals equation \\( (a = 0.417 \\, \\text{Nm}^4 \\, \\text{mol}^{-2} \\) and \\( b = 0.037 \\times 10^{-3} \\, \\text{m}^3 \\, \\text{mol}^{-1}) \\). Compare the above result with the pressure calculated using ideal gas equation.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2022_60_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2022_60_q6_s1",
+          "subNumber": "a",
+          "text": "7 mol of a monatomic ideal gas are compressed reversibly and adiabatically. The initial volume is 16 dm³ and the final volume is 7 dm³. The initial temperature is 27 °C.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q6_s2",
+          "subNumber": "b",
+          "text": "Write a cell (in proper cell representation) whose cell reaction is \\( \\text{AgCl} \\rightarrow \\text{Ag}^+ + \\text{Cl}^- \\), using the following standard electrode potentials at 298 K:",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2022_60_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2022_60_q7_s1",
+          "subNumber": "a",
+          "text": "A water sample had the following constituents per litre:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2022_60_q7_s2",
+          "subNumber": "b",
+          "text": "In an experiment to determine the hardness of a sample of water, 25 ml of N/50 \\( \\text{Na}_2\\text{CO}_3 \\) solution was added to 100 ml of water sample. After complete precipitation of insoluble carbonate, the unreacted \\( \\text{Na}_2\\text{CO}_3 \\) was titrated against N/50 \\( \\text{H}_2\\text{SO}_4 \\) solution, when 10 ml of acid was required. Calculate the hardness and comment on the nature of hardness so determined.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2022_60_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2022_60_q8_s1",
+          "subNumber": "a",
+          "text": "Write notes on the following:",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q8_s2",
+          "subNumber": "b",
+          "text": "Differentiate between the following:",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2022_60_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2022_60_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the following:",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2022_60_q9_s2",
+          "subNumber": "b",
+          "text": "Arrange the following carbocations in order of increasing stability with suitable reasons:",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "sem1_bee_2022_87",
+  "semester": 1,
+  "subject_code": "bee",
+  "subject_name": "Basic Electrical Engineering",
+  "year": "2022",
+  "exam_code": "100201",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2022 (New Course) Basic Electrical Engineering Time: 3 hours Code: 100201 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 7,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_bee_2022_87_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2022_87_q1_s1",
+          "subNumber": "a",
+          "text": "State and explain Kirchhoff's laws with an example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q1_s2",
+          "subNumber": "b",
+          "text": "Which winding (LV or HV) should be kept open while conducting OC test? Justify your answer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q1_s3",
+          "subNumber": "c",
+          "text": "Assume that the given transformer has the following name plate ratings: 40 kVA, 440 V/11 kV, 50 Hz. What do these numbers imply?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q1_s4",
+          "subNumber": "d",
+          "text": "What is a commutator in d.c. machine?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q1_s5",
+          "subNumber": "e",
+          "text": "What is meant by linear network? Explain \\(R\\), \\(L\\) and \\(C\\) as linear elements.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q1_s6",
+          "subNumber": "f",
+          "text": "Differentiate among real, reactive and apparent powers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q1_s7",
+          "subNumber": "g",
+          "text": "Calculate maximum value and r.m.s. value of \\(v = 10 \\sin \\omega t - 17.3 \\cos \\omega t\\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q1_s8",
+          "subNumber": "h",
+          "text": "A 250 V bulb passes a current of 0.3 A. Calculate the power in the lamp.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q1_s9",
+          "subNumber": "i",
+          "text": "Define unilateral and bilateral elements.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q1_s10",
+          "subNumber": "j",
+          "text": "Give some applications of three-phase induction motor.",
+          "freq": 7,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2022_87_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2022_87_q2_s1",
+          "subNumber": "a",
+          "text": "An a.c. current varying sinusoidal with frequency 50 Hz has r.m.s. value 20 A. Write equation for instantaneous value and find this value 0.0125 seconds after passing through maximum value.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q2_s2",
+          "subNumber": "b",
+          "text": "Calculate the resistance between A and B from the figure given below:",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/22bee2b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2022_87_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2022_87_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the r.m.s. value. Solve the \\(V_{\\text{rms}}\\) value of given waveform in the figure.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/22bee3a.png"
+          ]
+        },
+        {
+          "id": "sem1_bee_2022_87_q3_s2",
+          "subNumber": "b",
+          "text": "Two coils, connected in series-adding fashion, have a total inductance of 250 mH. When connected in a series-opposing configuration, the coils have a total inductance of 150 mH. If the inductance of one coil (\\(L_1\\)) is three times the other, then find \\(L_1, L_2\\) and M. What is the coupling coefficient?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2022_87_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2022_87_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the principle of transformer action.",
+          "freq": 7,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_bee_2022_87_q4_s2",
+          "subNumber": "b",
+          "text": "A series circuit consists of a resistance of \\(4\\,\\Omega\\), an inductance of 500 mH and a variable capacitance connected across a 100 V, 50 Hz supply. Calculate the capacitance requires for producing a series resonance condition, and the voltages generated across both the inductor and the capacitor at the point of resonance.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2022_87_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2022_87_q5_s1",
+          "subNumber": "a",
+          "text": "Define parallel resonance. Calculate at resonance the resultant current and quality factor in terms of the parameters of a circuit.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2022_87_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the advantages of rotating field-type alternator.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2022_87_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2022_87_q6_s1",
+          "subNumber": "a",
+          "text": "A 3-phase, 6-pole, star-connected alternator revolves at 1000 r.p.m. The stator has 90 slots and 8 conductors per slot. The flux per pole is 0.05 Wb. Calculate the voltage generated, if \\(K_w = 0.96\\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2022_87_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2022_87_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the principle of operation of d.c. motor.",
+          "freq": 7,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_bee_2022_87_q7_s2",
+          "subNumber": "b",
+          "text": "A balanced star-connected load of \\((8+j6)\\,\\Omega\\) per phase is connected to a balanced 3-phase, 400 V supply. Find the line current, power factor, power and total volt-amperes.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2022_87_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2022_87_q8_s1",
+          "subNumber": "a",
+          "text": "A 6-pole alternator runs at 1000 r.p.m., and supplies power to a 4-pole, 3-phase induction motor. The frequency of rotor of induction motor is 2 Hz. Determine the slip and speed of the motor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2022_87_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2022_87_q9_s1",
+          "subNumber": "a",
+          "text": "Two coils, X of 12000 turns and Y of 15000 turns, lie in parallel planes so that 45% of the flux produced by coil X links coil Y. A current of 5 A in X produces 0.05 Wb while the same current in Y produces 0.075 Wb. Calculate (a) the mutual inductance, (b) the coupling coefficient and (c) the percentage of flux produced by coil Y and linking with coil X.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "id": "sem3_em_2020_25",
+  "semester": 3,
+  "subject_code": "em",
+  "subject_name": "Engineering Mechanics",
+  "year": "2020",
+  "exam_code": "100309",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2020 (New Course) Engineering Mechanics Time: 03 Hours Code: 100309 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_em_2020_25_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_25_q1_s1",
+          "subNumber": "a",
+          "text": "The coefficient of friction depends upon",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "area of contact only",
+            "nature of surface only",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is a vector quantity?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Energy",
+            "Mass",
+            "Momentum",
+            "Angle"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q1_s3",
+          "subNumber": "c",
+          "text": "Moment of inertia of a hollow rectangular section as shown in the figure below about X-X axis is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( (DB^3/12) - (db^3/12) \\)",
+            "\\( (BD^3/12) - (bd^3/12) \\)",
+            "\\( (BD^3/36) - (bd^3/36) \\)",
+            "\\( (DB^3/36) - (db^3/36) \\)"
+          ],
+          "images": [
+            "img/beu/diagram/2nd3rd/148.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q1_s4",
+          "subNumber": "d",
+          "text": "The moment of a force",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "is the turning effect produced by a force on the body on which it acts",
+            "is equal to the product of force acting on the body and the perpendicular distance of a point and the line of action of the force",
+            "is equal to twice the area of the triangle, whose base is the line representing the force and whose vertex is the point, about which the moment is taken",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q1_s5",
+          "subNumber": "e",
+          "text": "A heavy string attached at two ends at same horizontal level and when central dip is very small approaches",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "circular arc",
+            "parabola",
+            "hyperbola",
+            "ellipse"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q1_s6",
+          "subNumber": "f",
+          "text": "The centre of gravity, a T-section \\( 100\\text{ mm} \\times 150\\text{ mm} \\times 50\\text{ mm} \\) from its bottom is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "50 mm",
+            "75 mm",
+            "87.5 mm",
+            "125 mm"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q1_s7",
+          "subNumber": "g",
+          "text": "Kinetic friction is the",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "tangent of angle between normal reaction and the resultant of normal reaction and the limiting friction",
+            "ratio of limiting friction and normal reaction",
+            "friction force acting when the body is just about to move",
+            "friction force acting when the body is in motion"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q1_s8",
+          "subNumber": "h",
+          "text": "The mechanical advantage of a lifting machine is the ratio of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "distance moved by effort to the distance moved by load",
+            "load lifted to the effort applied",
+            "output to the input",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q1_s9",
+          "subNumber": "i",
+          "text": "In ideal machines, mechanical advantage is velocity ratio.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "equal to",
+            "less than",
+            "greater than",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q1_s10",
+          "subNumber": "j",
+          "text": "Frictional force encountered after commencement of motion is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "limiting friction",
+            "kinematic friction",
+            "frictional resistance",
+            "dynamic friction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_25_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_25_q2_s1",
+          "subNumber": "a",
+          "text": "A force of 100 N is acting at a point A as shown in Fig. 1. Determine the moments of this force about O.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/155.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q2_s2",
+          "subNumber": "b",
+          "text": "The cable AB prevents bar OA from rotating clockwise about the pivot O shown in Fig. 2. If the cable tension is 750 N, determine the n- and t-components of this force acting on point A of the bar.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/154.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_25_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_25_q3_s1",
+          "subNumber": "a",
+          "text": "A lamp weighing 5 N is suspended from the ceiling by a chain. It is pulled aside by a horizontal cord until the chain makes an angle of \\( 60^{\\circ} \\) with the ceiling as shown in Fig. 3. Find the tensions in the chain and the cord by applying Lami's theorem.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/151.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q3_s2",
+          "subNumber": "b",
+          "text": "A roller of radius 40 cm, weighing 3000 N is to be pulled over rectangular block of height 20 cm as shown in Fig. 4, by a horizontal force applied at the end of a string wound round the circumference of the roller. Find the magnitude of the horizontal force which will just turn the roller over the corner of the rectangular block. Also, determine the magnitude and direction of reactions at A and B. All surfaces may be taken as smooth.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/150.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_25_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_25_q4_s1",
+          "subNumber": "a",
+          "text": "In Fig. 5, the coefficient of friction is 0.2 between the rope and fixed pulley and between other surfaces of contact, \\( \\mu = 0.3 \\). Determine the minimum weight W to prevent the downward motion of the 100 N body.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/153.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q4_s2",
+          "subNumber": "b",
+          "text": "A body of weight 60 N is placed on a rough horizontal plane. To just move the body on the horizontal plane, a push of 18 N inclined at \\( 20^{\\circ} \\) to the horizontal plane is required. Find the coefficient of friction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_25_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_25_q5_s1",
+          "subNumber": "a",
+          "text": "Determine the support reactions and nature, and magnitude of forces in the members of truss shown in Fig. 6.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/152.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q5_s2",
+          "subNumber": "b",
+          "text": "What are the different methods of analyzing (or finding out the forces) a perfect frame? Which one is used where and why?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_25_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_25_q6_s1",
+          "subNumber": "a",
+          "text": "Prove that the moment of inertia of a circular section about a horizontal axis (in the plane of the circular section) and passing through the CG of the section is given by \\( \\pi D^4/64 \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2020_25_q6_s2",
+          "subNumber": "b",
+          "text": "From a rectangular lamina ABCD, 10 cm x 14 cm a rectangular hole of 3 cm x 5 cm is cut as shown in Fig. 7. Find the centre of gravity of the remainder lamina.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/149.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_25_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_25_q7_s1",
+          "subNumber": "a",
+          "text": "The spring of constant k in Fig. 8 is unstretched when force P = 0. Derive an expression for the force P required to deflect the system to an angle \\( \\theta \\). The mass of the bars is negligible.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/157.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_25_q7_s2",
+          "subNumber": "b",
+          "text": "For link OA in the horizontal position shown in Fig. 9, determine the force P on the sliding collar which will prevent OA from rotating under the action of the couple M. Neglect the mass of the moving parts.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/156.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_25_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_25_q8_s1",
+          "subNumber": "a",
+          "text": "A particle moves in x-y plane with acceleration components \\( a_x = -3\\text{ m/s}^2 \\) and \\( a_y = -16t\\text{ m/s}^2 \\). If its initial velocity is \\( V_0 = 50\\text{ m/s} \\) directed at \\( 35^{\\circ} \\) to the x-axis, compute the radius of curvature of the path at \\( t=2 \\) sec.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2020_25_q8_s2",
+          "subNumber": "b",
+          "text": "A force of magnitude of 20 kN, acts at point A (3,4,5) m and has its line of action passing through B (5, -3, 4) m. Calculate the moment of this force about a line passing through points S (2,-5,3) m and T (-3,4,6) m.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_25_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_25_q9_s1",
+          "subNumber": "a",
+          "text": "Three forces F1, F2 and F3 act at the origin of Cartesian coordinate axes system. The force \\( F1 (=70N) \\) acts along OA whereas \\( F2 (=80\\text{ N}) \\) acts along OB and \\( F3 (=100\\text{ N}) \\) acts along OC. The coordinates of the points A, B and C are (2, 1, 3), (-1, 2, 0) and (4, 1, 5) respectively. Find the resultant of this force system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2020_25_q9_s2",
+          "subNumber": "b",
+          "text": "A 75 kg person stands on a weighing scale in an elevator. 3 seconds after the motion starts from rest, the tension in the hoisting cable was found to be 8300 N. Find the reading of the scale in kg during this interval. Also, find the velocity of the elevator at the end of this interval. The total mass of the elevator, including mass of the person and weighing scale is 750 kg. If the elevator is now moving in the opposite direction, with same magnitude of acceleration, what will be the new reading of the scale?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

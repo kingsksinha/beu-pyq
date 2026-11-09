@@ -1,0 +1,351 @@
+{
+  "id": "sem2_bio_2020_23",
+  "semester": 2,
+  "subject_code": "bio",
+  "subject_name": "Biology",
+  "year": "2020",
+  "exam_code": "100301",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Examination, 2020 Biology for Engineers Time: 03 Hours Code: 100301 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_bio_2020_23_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_23_q1_s1",
+          "subNumber": "a",
+          "text": "The term 'biology' was introduced by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Lamarck and Treviranus",
+            "Darwin",
+            "John Ray",
+            "Aristotle"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_23_q1_s2",
+          "subNumber": "b",
+          "text": "The time dependent permanent deformation is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "plastic deformation",
+            "elastic deformation",
+            "creep",
+            "anelastic deformation"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_23_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is not present in animal cells?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Cell walls",
+            "Mitochondria",
+            "Ribosomes",
+            "Cytoplasms"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_23_q1_s4",
+          "subNumber": "d",
+          "text": "Normal human blood pressure is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "110/110",
+            "\\( 120/70 \\)",
+            "120/80",
+            "140/60"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_23_q1_s5",
+          "subNumber": "e",
+          "text": "Which ancient Indian physician is known as the 'Father of Surgery'?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Charaka",
+            "Sushruta",
+            "Nagarjuna",
+            "Vagbhata"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_23_q1_s6",
+          "subNumber": "f",
+          "text": "The existence of genes was first suggested by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Gregor Mendel",
+            "George Wells Beadle",
+            "Edward Lawrie Tatum",
+            "Frederick Griffith"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_23_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following animals has the longest life span?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Tortoise",
+            "Elephant",
+            "Crocodile",
+            "Dog"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_23_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following is the reason for orange colour of carrot?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It grows in the soil",
+            "It contains carotene",
+            "It is not exposed to sunlight",
+            "The entire plant is orange in colour"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_23_q1_s9",
+          "subNumber": "i",
+          "text": "Rh factor of the blood was discovered by the scientist(s)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Louis Pasteur",
+            "Landsteiner and Wiener",
+            "Jansky",
+            "Moss"
+          ]
+        },
+        {
+          "id": "sem2_bio_2020_23_q1_s10",
+          "subNumber": "j",
+          "text": "The suitable temperature to transport viral culture is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 30^{\\circ}C \\)",
+            "\\( 5^{\\circ}C \\)",
+            "\\( 25^{\\circ}C \\)",
+            "\\( 45^{\\circ}C \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_23_q2",
+      "number": 2,
+      "title": "Q.2 Write the answer in very brief of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_23_q2_s1",
+          "subNumber": "a",
+          "text": "What is the working principle of human eye and digital camera?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_bio_2020_23_q2_s2",
+          "subNumber": "b",
+          "text": "Define Mendel's laws.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_bio_2020_23_q2_s3",
+          "subNumber": "c",
+          "text": "Classify about the types of sugars.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_bio_2020_23_q2_s4",
+          "subNumber": "d",
+          "text": "How can you say that DNA is a genetic material?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_23_q3",
+      "number": 3,
+      "title": "Q.3 Write the answer in very brief of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_23_q3_s1",
+          "subNumber": "a",
+          "text": "List the properties of genetic code.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_bio_2020_23_q3_s2",
+          "subNumber": "b",
+          "text": "Define the term of primary structure of protein.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_bio_2020_23_q3_s3",
+          "subNumber": "c",
+          "text": "List the laws of thermodynamics.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_bio_2020_23_q3_s4",
+          "subNumber": "d",
+          "text": "Write the examples of single-cell organism and multicellular organism.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_23_q4",
+      "number": 4,
+      "title": "Q.4 Write the answer in short of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_23_q4_s1",
+          "subNumber": "a",
+          "text": "Differentiate between prokaryote and eukaryote organisms.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem2_bio_2020_23_q4_s2",
+          "subNumber": "b",
+          "text": "What are recessive traits in living organism?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_23_q5",
+      "number": 5,
+      "title": "Q.5 Write the answer in short of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_23_q5_s1",
+          "subNumber": "a",
+          "text": "Explain about Brownian motion.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_bio_2020_23_q5_s2",
+          "subNumber": "b",
+          "text": "Write the parts of light microscope used for observation of cells.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_23_q6",
+      "number": 6,
+      "title": "Q.6 Write the answer in short of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_23_q6_s1",
+          "subNumber": "a",
+          "text": "Discuss how biological discovery of 20th Century led to major investigation in medical science.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_bio_2020_23_q6_s2",
+          "subNumber": "b",
+          "text": "Discuss about Mendel's laws of segregation and independent assortment.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_23_q7",
+      "number": 7,
+      "title": "Q.7 Write the answer in short of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_23_q7_s1",
+          "subNumber": "a",
+          "text": "How can you say that proteins are transporters and receptors of a living cell?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_bio_2020_23_q7_s2",
+          "subNumber": "b",
+          "text": "Differentiate between photosynthesis and transpiration in plant.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_23_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_23_q8_s1",
+          "subNumber": "a",
+          "text": "How can you prove that biology is an important scientific discipline similar to mathematics, physics and chemistry? Answer in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_bio_2020_23_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_bio_2020_23_q9_s1",
+          "subNumber": "a",
+          "text": "Draw the flow chart of Krebs cycle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

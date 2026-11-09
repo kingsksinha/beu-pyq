@@ -1,0 +1,337 @@
+{
+  "id": "sem3_java_2016_86",
+  "semester": 3,
+  "subject_code": "java",
+  "subject_name": "OOPs (JAVA) / Java Programming Language",
+  "year": "2016",
+  "exam_code": "051529",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Examination, 2016 Introduction to Java Programming language Time: 3 hours Code: 051529 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "There are Nine Questions in this Paper.",
+    "Attempt five questions in all.",
+    "Question No. 1 is Compulsory.",
+    "The questions are of equal value."
+  ],
+  "questions": [
+    {
+      "id": "sem3_java_2016_86_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven)",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2016_86_q1_s1",
+          "subNumber": "a",
+          "text": "What is the output of this program?<br/> <pre style=\"font-size: 10px;\">class bitwise_operator { public static void main (String args[]) { int var1 = 42; int var2 = ~var1; System.out.print(var1 + \" \" + var2); } }</pre>",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "42 42",
+            "43 43",
+            "42 -43",
+            "42 -42"
+          ]
+        },
+        {
+          "id": "sem3_java_2016_86_q1_s2",
+          "subNumber": "b",
+          "text": "Which of these have highest precedence?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "()",
+            "++",
+            "*",
+            "&gt;&gt;"
+          ]
+        },
+        {
+          "id": "sem3_java_2016_86_q1_s3",
+          "subNumber": "c",
+          "text": "What is the output of this program?<br/> <pre style=\"font-size: 10px;\">class operators { public static void main(String args[]) { int var1 = 5; int var2 = 6; int var3; var3 = ++var2 * var1 / var2 + var2; System.out.print(var3); } }</pre>",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "56"
+          ]
+        },
+        {
+          "id": "sem3_java_2016_86_q1_s4",
+          "subNumber": "d",
+          "text": "What is the output of this program?<br/> <pre style=\"font-size: 10px;\">class output { public static void main(String args[]) { int x, y; x = 10; x++; --x; y = x++; System.out.println(x + \" \" + y); } }</pre>",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "11 11",
+            "11 10",
+            "10 10",
+            "10 11"
+          ]
+        },
+        {
+          "id": "sem3_java_2016_86_q1_s5",
+          "subNumber": "e",
+          "text": "What is the output of this program?<br/> <pre style=\"font-size: 10px;\">class conversion { public static void main(String args[]) { double a = 295.04; int b = 300; byte c = (byte) a; byte d = (byte) b; System.out.println(c + \" \" + d); } }</pre>",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "38 -43",
+            "39 44",
+            "295 300",
+            "295.04 300"
+          ]
+        },
+        {
+          "id": "sem3_java_2016_86_q1_s6",
+          "subNumber": "f",
+          "text": "What is the default value of Boolean variable?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "true",
+            "false",
+            "null",
+            "not defined"
+          ]
+        },
+        {
+          "id": "sem3_java_2016_86_q1_s7",
+          "subNumber": "g",
+          "text": "What is the output of this program?<br/> <pre style=\"font-size: 10px;\">class array_output { public static void main(String args[]) { char array_variable[] = new char[10]; for (int i=0; i&lt;10; ++i) { array_variable[i] = '1'; System.out.print(array_variable[i] + \" \"); i++; } } }</pre>",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1 1 1 1 1",
+            "1 1 1 1 1 1 1 1 1 1",
+            "0 1 2 3 4",
+            "None of the mentioned"
+          ]
+        },
+        {
+          "id": "sem3_java_2016_86_q1_s8",
+          "subNumber": "h",
+          "text": "What is the output of this program?<br/> <pre style=\"font-size: 10px;\">class exception_handling { public static void main(String args[]) { try { System.out.print(\"Hello\" + \" \" + 1/0); } catch (ArithmeticException e) { System.out.print(\"World\"); } } }</pre>",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Hello",
+            "World",
+            "Hello world",
+            "Hello world (with Exception thrown)"
+          ]
+        },
+        {
+          "id": "sem3_java_2016_86_q1_s9",
+          "subNumber": "i",
+          "text": "What is the output of this program?<br/> <pre style=\"font-size: 10px;\">class overload { int y; int x; void add(int a) { x = a + 1; } void add(int a, int b) { x = a + 2; } } class overload_methods { public static void main(String args[]) { overload obj = new overload(); int a = 0; obj.add(6, 7); System.out.println(obj.x); } }</pre>",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ]
+        },
+        {
+          "id": "sem3_java_2016_86_q1_s10",
+          "subNumber": "j",
+          "text": "What is the output of this program?<br/> <pre style=\"font-size: 10px;\">class A { public int i; private int j; } class B extends A { void display() { super.j = super.i + 1; System.out.println(super.i + \" \" + super.j); } } class inheritance { public static void main(String args[]) { B obj = new B(); obj.i = 1; obj.j = 2; obj.display(); } }</pre>",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2 2",
+            "3 3",
+            "Runtime Error",
+            "Compilation Error"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2016_86_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2016_86_q2_s1",
+          "subNumber": "a",
+          "text": "What is the difference between the C, C++ and Java?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_java_2016_86_q2_s2",
+          "subNumber": "b",
+          "text": "Write a program that reads an integer and check whether it is prime number or not.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2016_86_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2016_86_q3_s1",
+          "subNumber": "a",
+          "text": "What do you understand by polymorphism? Explain with examples.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_java_2016_86_q3_s2",
+          "subNumber": "b",
+          "text": "What do you understand by precedence and Associativity? Explain with examples.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2016_86_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2016_86_q4_s1",
+          "subNumber": "a",
+          "text": "What is a constructor? Give its properties. How do we declare/define it? Can they be overloaded? Explain types of constructors with example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2016_86_q4_s2",
+          "subNumber": "b",
+          "text": "What is exception-handling? What are the statements used for it? Show an example.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2016_86_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2016_86_q5_s1",
+          "subNumber": "a",
+          "text": "Give the definition (1-2 Lines) and an example of the following: i. Thread Class, ii. AWT, iii. JDBC, iv. JVM.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2016_86_q5_s2",
+          "subNumber": "b",
+          "text": "Difference between the following with example: i. Break and continue, ii. Abstract class and interface.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2016_86_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2016_86_q6_s1",
+          "subNumber": "a",
+          "text": "What is exception-handling? What are the statements used for it? Show an example.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_java_2016_86_q6_s2",
+          "subNumber": "b",
+          "text": "What is inheritance in java? Explain different types of inheritance.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2016_86_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2016_86_q7_s1",
+          "subNumber": "a",
+          "text": "Create an abstract class Discount Policy. It should have a single abstract method compute Discount that will return the discount for the purchase of a given number of a single item. The method has two parameters, count and itemCost.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2016_86_q7_s2",
+          "subNumber": "b",
+          "text": "Write a program to find largest and second largest element in an array.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2016_86_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2016_86_q8_s1",
+          "subNumber": "a",
+          "text": "Write a program to design a class account using the inheritance and static keyword that shows all function of bank (withdrawal, deposit).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2016_86_q8_s2",
+          "subNumber": "b",
+          "text": "Write a program to create a thread that Implement the Runnable interface.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2016_86_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2016_86_q9_s1",
+          "subNumber": "a",
+          "text": "Write a program to create a Simple class to find out the Area and perimeter of rectangle and box using super and this keyword.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2016_86_q9_s2",
+          "subNumber": "b",
+          "text": "Write a program to find the factorial of a given number using Recursion.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "id": "sem3_eim_2024_12",
+  "semester": 3,
+  "subject_code": "eim",
+  "subject_name": "Electronics Instruments And Measurement",
+  "year": "2024",
+  "exam_code": "104604",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Examination, 2024 Electronics Instruments and Measurement Time: 03 Hours Code: 104604 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_eim_2024_12_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eim_2024_12_q1_s1",
+          "subNumber": "a",
+          "text": "The high torque to weight ratio in an analog indicating instrument indicates",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "High Friction loss",
+            "Low friction loss",
+            "Nothing as regards friction",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_eim_2024_12_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is the most popular method for measuring low resistance?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "ducter ohmmeter method",
+            "kelvin double bridge method",
+            "ammeter-voltmeter method",
+            "potentiometer method"
+          ]
+        },
+        {
+          "id": "sem3_eim_2024_12_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following method is used for the measurement of Medium Resistance?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Direct-Deflection method",
+            "Anderson Bridge",
+            "Carey-Foster bridge method",
+            "Kelvin's double bridge method"
+          ]
+        },
+        {
+          "id": "sem3_eim_2024_12_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following is a balance equation for computing the resistance?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( R_{1} = R_{2}/R_{4} \\)",
+            "\\( R_{1} = R_{3}/R_{4} \\)",
+            "\\( R_{1} = R_{2}R_{3} \\)",
+            "\\( R_{1} = R_{2}R_{3}/R_{4} \\)"
+          ]
+        },
+        {
+          "id": "sem3_eim_2024_12_q1_s5",
+          "subNumber": "e",
+          "text": "A Schering bridge can be used for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "measuring voltages",
+            "testing capacitors",
+            "protecting the circuit from temperature rises",
+            "measuring currents"
+          ]
+        },
+        {
+          "id": "sem3_eim_2024_12_q1_s6",
+          "subNumber": "f",
+          "text": "What is the dependence of frequency on the balance equation?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "varies by a factor of 2",
+            "depends on the detector used",
+            "independent",
+            "depends on the supply magnitude"
+          ]
+        },
+        {
+          "id": "sem3_eim_2024_12_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following can be measured using Maxwell's Inductance Bridge?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "capacitance",
+            "frequency",
+            "mutual Induction",
+            "Induction"
+          ]
+        },
+        {
+          "id": "sem3_eim_2024_12_q1_s8",
+          "subNumber": "h",
+          "text": "The windings of a C.T. are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "tied together",
+            "Shorted",
+            "wound over one another",
+            "Grounded"
+          ]
+        },
+        {
+          "id": "sem3_eim_2024_12_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following device is used to measure power in A.C. circuits?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "ammeter",
+            "Wattmeter",
+            "voltmeter",
+            "ohmmeter"
+          ]
+        },
+        {
+          "id": "sem3_eim_2024_12_q1_s10",
+          "subNumber": "j",
+          "text": "When the moving coil in a Dynamometer type wattmeter deflects",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "pointer doesn't move",
+            "current flows",
+            "voltage is generated",
+            "pointer moves"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_eim_2024_12_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eim_2024_12_q2_s1",
+          "subNumber": "a",
+          "text": "Explain how the unknown frequency is measured using Wien bridge method?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eim_2024_12_q2_s2",
+          "subNumber": "b",
+          "text": "What is the need for standards of measurements? How are they classified?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eim_2024_12_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eim_2024_12_q3_s1",
+          "subNumber": "a",
+          "text": "How do you measure the unknown inductance using Hay's Bridge?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_eim_2024_12_q3_s2",
+          "subNumber": "b",
+          "text": "State the purpose of calibration of measuring instruments. Explain the procedure of calibration of D.C. Voltmeter by using D.C. Potentiometer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eim_2024_12_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eim_2024_12_q4_s1",
+          "subNumber": "a",
+          "text": "How do you measure the unknown capacitance using Schering Bridge? Also draw the phasor diagram.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_eim_2024_12_q4_s2",
+          "subNumber": "b",
+          "text": "Draw the possible methods of connecting the pressure coil of a wattmeter and compare the errors. Explain the meaning of 'compensating winding' in a wattmeter and show how they help to reduce the error.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eim_2024_12_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eim_2024_12_q5_s1",
+          "subNumber": "a",
+          "text": "List out comparisons between CT's and PT's (Any four).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eim_2024_12_q5_s2",
+          "subNumber": "b",
+          "text": "A current transformer with a bar primary has 300 turns in its secondary. Resistance and reactance of the secondary circuit are 1.5 Ω and 1.0 Ω respectively. Including the transformer winding with 5 A flowing in the secondary winding, find the phase angle error. (Assuming magnetizing mmf to be 100 AT and core loss to be 1.5 W).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eim_2024_12_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eim_2024_12_q6_s1",
+          "subNumber": "a",
+          "text": "Describe the construction and principle of operation of D' Arsonval type Galvanometer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eim_2024_12_q6_s2",
+          "subNumber": "b",
+          "text": "Write short notes on (a) Kelvin's double bridge (b) Digital frequency meter.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eim_2024_12_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eim_2024_12_q7_s1",
+          "subNumber": "a",
+          "text": "Describe the measurement of frequency, phase angle and time delay using oscilloscope with suitable diagrams and mathematical expressions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eim_2024_12_q7_s2",
+          "subNumber": "b",
+          "text": "A moving coil instrument gives a full scale deflection of 10mA, when the potential difference across its terminal is 100mV. Calculate (1) The shunt resistance for a full scale deflection corresponding to 100A (2) The resistance for full scale reading with 1000V. Calculate the power dissipation in each case?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eim_2024_12_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eim_2024_12_q8_s1",
+          "subNumber": "a",
+          "text": "Draw the block diagram of an electronic voltmeter and explain its operation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eim_2024_12_q8_s2",
+          "subNumber": "b",
+          "text": "Explain BH curve with a neat diagram. What is Hysteresis loop?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_eim_2024_12_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_eim_2024_12_q9_s1",
+          "subNumber": "a",
+          "text": "Prove that for electrodynamometer type wattmeter true power = \\( \\frac{\\cos \\Phi}{\\cos \\Phi \\cos(\\Phi-\\beta)} \\times \\text{actual wattmeter reading} \\). Where \\( \\cos \\phi \\) = power factor of the circuit, \\( \\beta = \\tan^{-1}(wL/R) \\) where L and R are the inductance and resistance of the pressure coil.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_eim_2024_12_q9_s2",
+          "subNumber": "b",
+          "text": "Explain with a neat sketch, the construction and working principle of Megger.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

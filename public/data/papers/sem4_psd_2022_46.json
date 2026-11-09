@@ -1,0 +1,221 @@
+{
+  "id": "sem4_psd_2022_46",
+  "semester": 4,
+  "subject_code": "psd",
+  "subject_name": "Professional Skill Development",
+  "year": "2022",
+  "exam_code": "100508",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech End Semester Examination - 2022 Professional Skill Development Time: 03 Hours Code: 100508 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_psd_2022_46_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2022_46_q1_s1",
+          "subNumber": "a",
+          "text": "Define group.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_psd_2022_46_q1_s2",
+          "subNumber": "b",
+          "text": "What is a schedule?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_psd_2022_46_q1_s3",
+          "subNumber": "c",
+          "text": "Explain what is a resume?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_psd_2022_46_q1_s4",
+          "subNumber": "d",
+          "text": "What is walk-in-interview?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_psd_2022_46_q1_s5",
+          "subNumber": "e",
+          "text": "What do you understand by ethics?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_psd_2022_46_q1_s6",
+          "subNumber": "f",
+          "text": "What is occullesics?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_psd_2022_46_q1_s7",
+          "subNumber": "g",
+          "text": "What is Jargon?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2022_46_q1_s8",
+          "subNumber": "h",
+          "text": "What does group discussion evaluates?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2022_46_q1_s9",
+          "subNumber": "i",
+          "text": "Which is the purpose of communication?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_psd_2022_46_q1_s10",
+          "subNumber": "j",
+          "text": "Why power point is used?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2022_46_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2022_46_q2_s1",
+          "subNumber": "a",
+          "text": "What is the role of body language in communication?",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2022_46_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2022_46_q3_s1",
+          "subNumber": "a",
+          "text": "What is the significance of group formation? Explain the stage of group formation.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2022_46_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2022_46_q4_s1",
+          "subNumber": "a",
+          "text": "Define stress. Explain any four methods of stress management.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2022_46_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2022_46_q5_s1",
+          "subNumber": "a",
+          "text": "What is the importance of emotional intelligence in professional life?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2022_46_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2022_46_q6_s1",
+          "subNumber": "a",
+          "text": "What business etiquettes should be observed by a salesman? Explain.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2022_46_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2022_46_q7_s1",
+          "subNumber": "a",
+          "text": "Discuss irrational intelligence in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2022_46_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2022_46_q8_s1",
+          "subNumber": "a",
+          "text": "What are the types of interview? Explain them.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2022_46_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2022_46_q9_s1",
+          "subNumber": "a",
+          "text": "Write an essay on \"Impacts of Digitalization in India\".",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "id": "sem4_signals_2020_53",
+  "semester": 4,
+  "subject_code": "signals",
+  "subject_name": "Signals and Systems",
+  "year": "2020",
+  "exam_code": "EC-102",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Special Exam., 2020 SIGNALS AND SYSTEMS Time: 03 Hours Code: EC-102 (104305) Full Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 35,
+  "max_freq": 16,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_signals_2020_53_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following as directed (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2020_53_q1_s1",
+          "subNumber": "a",
+          "text": "If the Z-transform of \\( x(n) \\) is \\( X(z) \\) then show that \\( Z[x_{1}(n)*x_{2}(n)]=X_{1}(z)X_{2}(z) \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q1_s2",
+          "subNumber": "b",
+          "text": "If the impulse response for a system is given by \\( h(n)=a^{n}u(n) \\), then what is the condition for the system to be BIBO stable?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q1_s3",
+          "subNumber": "c",
+          "text": "A voltage having the laplace transform \\( \\frac{4s^{2}+3s+2}{7s^{2}+6s+5} \\) is applied across a 2H inductor. What is the current in inductor at \\( t \\to \\infty \\) assuming zero initial condition?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q1_s4",
+          "subNumber": "d",
+          "text": "Differentiate between Kronecker delta function and Direc delta function.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q1_s5",
+          "subNumber": "e",
+          "text": "The step response of an LTI system when the impulse response \\( h(n) \\) is unit step \\( u(n) \\) is _________.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q1_s6",
+          "subNumber": "f",
+          "text": "Find the Laplace transform \\( f(t)=e^{3t}\\cos(2t)u(t) \\) where symbols have their usual meanings.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q1_s7",
+          "subNumber": "g",
+          "text": "An LTI system is described as \\( 0.5\\frac{d^{2}y(t)}{dt^{2}}+2.5\\frac{dy(t)}{dt}+2y(t)=\\delta(t) \\). Find the final value of the output response where \\( y(t) \\) is output and \\( x(t) \\) is input.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q1_s8",
+          "subNumber": "h",
+          "text": "The period of a sequence \\( x(n)=\\cos(\\frac{2\\pi n}{3}) \\) is _________.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q1_s9",
+          "subNumber": "i",
+          "text": "The final value of step response of a causal LTI system with \\( H(s)=\\frac{s+1}{s+4} \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "0.5",
+            "0.25",
+            "1",
+            "10"
+          ]
+        },
+        {
+          "id": "sem4_signals_2020_53_q1_s10",
+          "subNumber": "j",
+          "text": "Consider two functions \\( f(t)=h(t)h(3-t) \\) and \\( g(t)=h(t)-h(t-3) \\). Are these two functions identical? Show that \\( L[f(t)]=L[g(t)] \\) where L is the Laplace operator.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2020_53_q2",
+      "number": 2,
+      "title": "Q.2 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2020_53_q2_s1",
+          "subNumber": "a",
+          "text": "Let a system is described by the differential equation as \\( \\ddot{y}+3\\dot{y}+2y=e^{-t} \\); with initial condition \\( y(0)=\\dot{y}(0)=0 \\). Compute the solution of the equation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q2_s2",
+          "subNumber": "b",
+          "text": "Let \\( f(t) \\) is a periodic function with periodicity T for \\( t\\ge0 \\), then show that \\( L[f(t)]=\\frac{L[f_{T}(t)]}{1-e^{-sT}} \\), \\( s&gt;0 \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q2_s3",
+          "subNumber": "c",
+          "text": "Find the Laplace transform of Fig. 1.",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/61.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2020_53_q3",
+      "number": 3,
+      "title": "Q.3 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2020_53_q3_s1",
+          "subNumber": "a",
+          "text": "State why ROC does not include any pole. Find the Z-transform of \\( x(n)=\\begin{cases}(0.5)^{n}u(n),&amp;n&gt;0\\\\ (0.25)^{-n},&amp;n &lt; 0\\end{cases} \\)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q3_s2",
+          "subNumber": "b",
+          "text": "Find the inverse Z-transform of \\( X(z)=\\frac{1-\\frac{1}{4}z^{-1}}{1-\\frac{1}{9}z^{-1}} \\) where ROC: \\( |z|&gt;\\frac{1}{3} \\)",
+          "freq": 16,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q3_s3",
+          "subNumber": "c",
+          "text": "Show that \\( Z[nx(n)]=-z\\frac{dX(z)}{dz} \\) where \\( X(z)\\leftrightarrow x[n] \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2020_53_q4",
+      "number": 4,
+      "title": "Q.4 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2020_53_q4_s1",
+          "subNumber": "a",
+          "text": "Briefly explain the causality of a system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q4_s2",
+          "subNumber": "b",
+          "text": "Find whether the signal \\( x[n]=\\sin(\\frac{3\\pi}{4}n)+\\sin(\\frac{\\pi}{3}n) \\) is periodic or aperiodic. If periodic, then what is the periodicity of x[n]?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q4_s3",
+          "subNumber": "c",
+          "text": "Write down the Dirichlet condition.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q4_s4",
+          "subNumber": "d",
+          "text": "Find the Fourier transform of \\( x(t)=e^{-|t|}u(t) \\), and hence draw the magnitude and phase spectrums.",
+          "freq": 16,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2020_53_q5",
+      "number": 5,
+      "title": "Q.5 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2020_53_q5_s1",
+          "subNumber": "a",
+          "text": "Compute the Fourier transform of signal shown in Fig. 2: \\( R_{x}(\\tau)=\\begin{cases}\\frac{N}{2},&amp;-B\\le\\tau\\le B\\\\ 0,&amp;elsewhere\\end{cases} \\)",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/62.jpg"
+          ]
+        },
+        {
+          "id": "sem4_signals_2020_53_q5_s2",
+          "subNumber": "b",
+          "text": "Find the convolution of the following discrete sequences: \\( x(n)=\\frac{1}{3}u(n) \\) and \\( h(n)=\\frac{1}{5}u(n) \\)",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q5_s3",
+          "subNumber": "c",
+          "text": "State why the realization of an ideal low-pass filter is not possible, with proper justification.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2020_53_q6",
+      "number": 6,
+      "title": "Q.6 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2020_53_q6_s1",
+          "subNumber": "a",
+          "text": "A system is defined as \\( y(n)=x(n^{2}) \\). Check whether the system is linear or non-linear, time-varying or time-invariant, causal or non-causal, and memoryless or memory type.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q6_s2",
+          "subNumber": "b",
+          "text": "State Parseval's theorem.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q6_s3",
+          "subNumber": "c",
+          "text": "Sketch the signal \\( x(t)=-2u(t-1) \\).",
+          "freq": 10,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q6_s4",
+          "subNumber": "d",
+          "text": "Compute the Nyquist sampling rate for the signal \\( g(t)=10\\cos(50\\pi)\\cos^{2}(150\\pi t) \\)",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2020_53_q7",
+      "number": 7,
+      "title": "Q.7 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2020_53_q7_s1",
+          "subNumber": "a",
+          "text": "Show that \\( u(n)=\\sum_{k=-\\infty}^{n}\\delta(n) \\) where symbols have their usual meanings.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q7_s2",
+          "subNumber": "b",
+          "text": "What is unit doublet? Prove that \\( \\int_{-\\infty}^{\\infty}x(t)\\delta^{k}(t)dt=(-1)^{k}\\frac{d^{k}x(t)}{dt^{k}}|_{t=0} \\) where \\( x^{k} \\) is k-th derivative of function \\( x(t) \\) and \\( \\delta(t) \\) is Dirac delta function.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q7_s3",
+          "subNumber": "c",
+          "text": "A system is described by its input-output relationship as \\( y[n]=\\sum_{k=-\\infty}^{n}x[n-k] \\). Is the system memoryless, stable, causal, time-invariant and linear?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2020_53_q7_s4",
+          "subNumber": "d",
+          "text": "Find the fundamental period of signal \\( x[n]=e^{j7.351\\pi n} \\)",
+          "freq": 10,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2020_53_q8",
+      "number": 8,
+      "title": "Q.8 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2020_53_q8_s1",
+          "subNumber": "a",
+          "text": "Let \\( x[n] \\) be an arbitrary function with even and odd part as \\( x_{e}[n] \\) and \\( x_{o}[n] \\) respectively. Show that \\( \\sum_{n=-\\infty}^{\\infty}x^{2}[n]=\\sum_{n=-\\infty}^{\\infty}x_{e}^{2}[n]+\\sum_{n=-\\infty}^{\\infty}x_{o}^{2}[n] \\)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q8_s2",
+          "subNumber": "b",
+          "text": "Perform the convolution operation between \\( x[n]=\\{0,0,0,0,(2),-3,1,0,0\\} \\) and \\( h[n]=\\{0,0,0,1,(2),2,0,0,0\\} \\) using graphical method.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2020_53_q8_s3",
+          "subNumber": "c",
+          "text": "Calculate the Fourier transform of \\( x[n]=u[n] \\).",
+          "freq": 16,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2020_53_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2020_53_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

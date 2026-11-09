@@ -1,0 +1,358 @@
+{
+  "id": "sem2_cn_2023_40",
+  "semester": 2,
+  "subject_code": "cn",
+  "subject_name": "Computer Networks",
+  "year": "2023",
+  "exam_code": "110715",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 7th Semester Examination, 2023 Computer Networks Time: 03 Hours Code: 110715 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cn_2023_40_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2023_40_q1_s1",
+          "subNumber": "a",
+          "text": "Flow control is the responsibility of?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Data Link Layer",
+            "Transport Layer",
+            "Both (a) and (b)",
+            "Application Layer"
+          ]
+        },
+        {
+          "id": "sem2_cn_2023_40_q1_s2",
+          "subNumber": "b",
+          "text": "Which one of the following layers of abstraction is not present in the TCP/IP (Transmission Control Protocol/Internet Protocol) model but is included in the OSI model?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Network layer.",
+            "Transport layer.",
+            "Session layer.",
+            "Application layer."
+          ]
+        },
+        {
+          "id": "sem2_cn_2023_40_q1_s3",
+          "subNumber": "c",
+          "text": "How many bits are required to represent IPv4 address in any IPv4 header?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "64 bits.",
+            "32 bits.",
+            "16 bits.",
+            "8 bits."
+          ]
+        },
+        {
+          "id": "sem2_cn_2023_40_q1_s4",
+          "subNumber": "d",
+          "text": "Which one of the following functionalities do TCP and UDP have in common?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "In-order delivery.",
+            "Reliable transfer.",
+            "Checksum.",
+            "Connection establishment."
+          ]
+        },
+        {
+          "id": "sem2_cn_2023_40_q1_s5",
+          "subNumber": "e",
+          "text": "What type of application would prefer UDP transport service?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Video conferencing.",
+            "World Wide Web (WWW).",
+            "Online chess game.",
+            "Email."
+          ]
+        },
+        {
+          "id": "sem2_cn_2023_40_q1_s6",
+          "subNumber": "f",
+          "text": "Which one of the following statements is true about Go-Back-N (GBN) protocol?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Sequence number in GBN needs to be at least twice as large as the window size.",
+            "GBN uses multiple timers.",
+            "GBN retransmits packets upon receiving duplicate acknowledgements.",
+            "GBN discards packets that are received out of order."
+          ]
+        },
+        {
+          "id": "sem2_cn_2023_40_q1_s7",
+          "subNumber": "g",
+          "text": "Which one of the following statements is true about Selective Repeat (SR) protocol?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "SR receiver sends duplicate acknowledgement for all packets that are not expected.",
+            "SR uses multiple timers.",
+            "SR retransmits packets upon receiving duplicate acknowledgements.",
+            "SR uses cumulative acknowledgement."
+          ]
+        },
+        {
+          "id": "sem2_cn_2023_40_q1_s8",
+          "subNumber": "h",
+          "text": "Which one of the following statements is true about TCP's \"Slow Start\" algorithm?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "TCP's congestion window size increases linearly.",
+            "TCP's congestion window size decreases linearly.",
+            "TCP's congestion window size increases exponentially.",
+            "TCP's congestion window size decreases exponentially."
+          ]
+        },
+        {
+          "id": "sem2_cn_2023_40_q1_s9",
+          "subNumber": "i",
+          "text": "In which computer network topology, a single cable is used, through which all data propagates and to which all computers and networked nodes are connected?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Star.",
+            "Bus.",
+            "Ring.",
+            "Mesh."
+          ]
+        },
+        {
+          "id": "sem2_cn_2023_40_q1_s10",
+          "subNumber": "j",
+          "text": "Bluetooth is the wireless technology for -",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Personal area network.",
+            "Local area network.",
+            "Metropolitan area network.",
+            "Wide area network."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2023_40_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[10+4=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2023_40_q2_s1",
+          "subNumber": "a",
+          "text": "List, in order, the layers of the TCP/IP protocol stack, and briefly write the functions provided by each layer. Also give an example of a protocol or networking technology associated with each layer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q2_s2",
+          "subNumber": "b",
+          "text": "Draw the IPV4 Datagram Header Format and explain it.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2023_40_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[4+10=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2023_40_q3_s1",
+          "subNumber": "a",
+          "text": "What are the differences in the treatment of collisions in CSMA/CD (Carrier Sense Multiple Access, with Collision Detection) and CSMA/CA (Carrier Sense Multiple Access, with Collision Avoidance)?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q3_s2",
+          "subNumber": "b",
+          "text": "Write down the sender-side steps and the receiver-side steps in Cyclic Redundancy Check (CRC) method, with examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2023_40_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2023_40_q4_s1",
+          "subNumber": "a",
+          "text": "Explain why Slotted ALOHA approach performs better than pure ALOHA approach?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q4_s2",
+          "subNumber": "b",
+          "text": "In a Slotted ALOHA system, suppose there are 5 nodes, in which each node transmits a frame with probability \\( p \\). What is the probability that in a given time slot, one of the nodes successfully transmits a frame?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q4_s3",
+          "subNumber": "c",
+          "text": "Consider a sender S and a receiver R that are connected on a network, where the one-way latency is 250 milliseconds. The data rate of that network is 32000 bits per second, and size of each frame in that network is 1000 bits. Assume that S and R are using sliding windows with Selective Repeat. How large must the sliding window for S be in order to maximize the utilization?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2023_40_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2023_40_q5_s1",
+          "subNumber": "a",
+          "text": "Discuss Link-State routing protocol with an example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q5_s2",
+          "subNumber": "b",
+          "text": "Explain count-to-infinity problem associated with distance vector routing. Discuss the countermeasures taken in Split Horizon and Poison Reverse techniques.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2023_40_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2023_40_q6_s1",
+          "subNumber": "a",
+          "text": "An ISP is granted the block 80.70.56.0/21. The ISP needs to allocate addresses for 2 organizations each 500 addresses, 2 organizations each with 250 addresses and 3 organizations each with 50 addresses. Design a subnet and find the range of addresses and unallocated addresses for each organization.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q6_s2",
+          "subNumber": "b",
+          "text": "Compare any two the following: (i) TCP and UDP. (ii) Packet switching and Circuit switching (iii) Bit-stuffing and Byte-stuffing",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2023_40_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[9+5=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2023_40_q7_s1",
+          "subNumber": "a",
+          "text": "Consider a router receiving an IP packet of header size 20 Bytes (having no optional fields) and payload size of 4000 Bytes. Now the router must now transmit this packet across an Ethernet network, which has Maximum Transmission Unit (MTU) of 1500 Bytes. If the router attempts to send the maximum payload bits permissible in each attempt, how fragmentation is to be carried out to transmit the IP packet in the Ethernet network?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q7_s2",
+          "subNumber": "b",
+          "text": "What are the differences between leaky bucket algorithm and token bucket algorithm?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2023_40_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2023_40_q8_s1",
+          "subNumber": "a",
+          "text": "Write down the handshaking steps required to setup a TCP connection between two applications running on two end-hosts A and B. Also, write down the purpose of each data unit of TCP that is sent and received for establishing TCP connection.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q8_s2",
+          "subNumber": "b",
+          "text": "Write down the similarities and differences between Hyper-Text Transfer Protocol (HTTP) and File Transfer Protocol (FTP).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2023_40_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2023_40_q9_s1",
+          "subNumber": "a",
+          "text": "Hamming distance",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q9_s2",
+          "subNumber": "b",
+          "text": "DNS",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q9_s3",
+          "subNumber": "c",
+          "text": "DHCP",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2023_40_q9_s4",
+          "subNumber": "d",
+          "text": "Telnet",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

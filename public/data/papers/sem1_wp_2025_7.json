@@ -1,0 +1,351 @@
+{
+  "id": "sem1_wp_2025_7",
+  "semester": 1,
+  "subject_code": "wp",
+  "subject_name": "Workshop + Workshop Practices",
+  "year": "2025",
+  "exam_code": "100211",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 Workshop Time: 03 Hours Code: 100211 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 9,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_wp_2025_7_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_7_q1_s1",
+          "subNumber": "a",
+          "text": "GI sheet refers to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Galvanized iron",
+            "General-purpose iron",
+            "Glass-insulated sheet",
+            "Grey iron"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_7_q1_s2",
+          "subNumber": "b",
+          "text": "Micrometer screw gauge is used for:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Large distances",
+            "Cutting sheet",
+            "Internal diameters",
+            "Small and precise thickness"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_7_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is a solid-state joining process?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Brazing",
+            "TIG welding",
+            "Friction welding",
+            "Soldering"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_7_q1_s4",
+          "subNumber": "d",
+          "text": "Which gas combination is most common in gas welding?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Hydrogen-Oxygen",
+            "Propane-Air",
+            "Acetylene-Oxygen",
+            "Nitrogen-Oxygen"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_7_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following is not a pattern material?",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "Wood",
+            "Wax",
+            "Cast iron",
+            "Silicon carbide"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_7_q1_s6",
+          "subNumber": "f",
+          "text": "The purpose of a core in sand casting is to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Strengthen mould box",
+            "Form internal cavities in casting",
+            "Increase permeability",
+            "Prevent shrinkage"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_7_q1_s7",
+          "subNumber": "g",
+          "text": "Which file has a cross-section shaped like a triangle?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Flat file",
+            "Half-round file",
+            "Triangular file",
+            "Square file"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_7_q1_s8",
+          "subNumber": "h",
+          "text": "A ball peen hammer is primarily used for:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Wood working",
+            "Punching and riveting",
+            "Welding",
+            "Drilling"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_7_q1_s9",
+          "subNumber": "i",
+          "text": "The wood defect caused by unequal shrinkage is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Shake",
+            "Warp",
+            "Knot",
+            "Split"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_7_q1_s10",
+          "subNumber": "j",
+          "text": "The furnace used for heating metals in a smithy shop is called:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Cupola",
+            "Hearth",
+            "Kiln",
+            "Reverbatory furnace"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_7_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_7_q2_s1",
+          "subNumber": "a",
+          "text": "Classify the joining processes based on state of the filler material during joining.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2025_7_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the principle of gas welding with a neat sketch of the oxy-acetylene welding setup.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_7_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_7_q3_s1",
+          "subNumber": "a",
+          "text": "Sketch the cross-section of a sand mould which is ready for pouring, and label the various important parts.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2025_7_q3_s2",
+          "subNumber": "b",
+          "text": "Explain the types of pattern with schematic diagram.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_7_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_7_q4_s1",
+          "subNumber": "a",
+          "text": "Write down the various types of holding tools, cutting tools, marking tools and measuring tools, which is used in fitting shop.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2025_7_q4_s2",
+          "subNumber": "b",
+          "text": "Write down the types filling tools with schematic diagram.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_7_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_7_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the structure of wood with schematic diagram.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_wp_2025_7_q5_s2",
+          "subNumber": "b",
+          "text": "What are the carpentry joints and draw them with dimension?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_7_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_7_q6_s1",
+          "subNumber": "a",
+          "text": "What are the materials generally used in sheet metals work?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2025_7_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the sheet metal operations.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_7_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_7_q7_s1",
+          "subNumber": "a",
+          "text": "What are the tools used in foundry shop?",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2025_7_q7_s2",
+          "subNumber": "b",
+          "text": "Explain the operation used for developing the eye nail in foundry shop.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_7_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_7_q8_s1",
+          "subNumber": "a",
+          "text": "What are safety precaution used in workshop during operation?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_wp_2025_7_q8_s2",
+          "subNumber": "b",
+          "text": "Describe the processes and operations taught in Workshop Technology.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_7_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_7_q9_s1",
+          "subNumber": "a",
+          "text": "Sand casting",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2025_7_q9_s2",
+          "subNumber": "b",
+          "text": "Hot working process",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2025_7_q9_s3",
+          "subNumber": "c",
+          "text": "Seasoning process",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2025_7_q9_s4",
+          "subNumber": "d",
+          "text": "Arc welding",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

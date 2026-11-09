@@ -1,0 +1,309 @@
+{
+  "id": "sem1_eng_2024_35",
+  "semester": 1,
+  "subject_code": "eng",
+  "subject_name": "Communicative English",
+  "year": "2024",
+  "exam_code": "100106",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 (Old) English Time: 03 Hours Code: 100106 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eng_2024_35_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_35_q1_s1",
+          "subNumber": "a",
+          "text": "Choose the synonym of \"Eminent\":",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Unknown",
+            "Distinguished",
+            "Insignificant",
+            "Hidden"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_35_q1_s2",
+          "subNumber": "b",
+          "text": "Choose the synonym of \"Candid\":",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Dishonest",
+            "Indirect",
+            "Frank",
+            "Reserved"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_35_q1_s3",
+          "subNumber": "c",
+          "text": "Choose the antonym of \"Prosperity\":",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Wealth",
+            "Poverty",
+            "Success",
+            "Affluence"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_35_q1_s4",
+          "subNumber": "d",
+          "text": "Choose the antonym of \"Diligent\":",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Lazy",
+            "Industrious",
+            "Careful",
+            "Alert"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_35_q1_s5",
+          "subNumber": "e",
+          "text": "Choose the sentence with correct use of a noun clause:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "I don't know that he will come.",
+            "I don't know why did he come.",
+            "I don't know why he came.",
+            "I don't know he came why."
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_35_q1_s6",
+          "subNumber": "f",
+          "text": "In academic writing, \"N.B.\" is used to draw attention to something important. What does it stand for?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Noted below",
+            "Nota bene",
+            "New brief",
+            "Notable base"
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_35_q1_s7",
+          "subNumber": "g",
+          "text": "Which sentence is grammatically correct?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Neither the teacher nor the students was late.",
+            "Neither the teacher nor the students is late.",
+            "Neither the teacher nor the students were late.",
+            "Neither the teacher nor the students has been late."
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_35_q1_s8",
+          "subNumber": "h",
+          "text": "Select the correct sentence:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Not only the principal but also the teachers is responsible.",
+            "Not only the principal but also the teachers has been responsible.",
+            "Not only the principal but also the teachers are responsible.",
+            "Not only the principal but also the teachers was responsible."
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_35_q1_s9",
+          "subNumber": "i",
+          "text": "Which sentence is grammatically correct?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The book is lying on the table over the window.",
+            "The book is lying on the table beneath the window.",
+            "The book is lying on the table above the window.",
+            "The book is lying on the table under the window."
+          ]
+        },
+        {
+          "id": "sem1_eng_2024_35_q1_s10",
+          "subNumber": "j",
+          "text": "Identify the sentence with the correct preposition:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The manager is responsible for making decisions regarding the budget.",
+            "The manager is responsible of making decisions regarding the budget.",
+            "The manager is responsible regarding the budget.",
+            "The manager is responsible to make decisions regarding the budget."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_35_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_35_q2_s1",
+          "subNumber": "a",
+          "text": "You are the customer service manager at a company that sells television sets. A customer has written to complain about a faulty product she purchased. Write a letter in 250 words in response, apologizing for the inconvenience caused and offering a solution. Be sure to maintain a professional tone and address the customer's concerns clearly.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_35_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_35_q3_s1",
+          "subNumber": "a",
+          "text": "Write a short note of 120 words on \"The Future of Electric Vehicles (EVs)\".",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_eng_2024_35_q3_s2",
+          "subNumber": "b",
+          "text": "Write a short note of 120 words on \"The Role of Online Learning in Education\".",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_35_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_35_q4_s1",
+          "subNumber": "a",
+          "text": "What are Indianisms, and how do redundancies and other common errors affect the clarity of English communication? Provide examples and suggest corrections.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_35_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_35_q5_s1",
+          "subNumber": "a",
+          "text": "What is Mother Tongue Influence (MTI), and how can it affect one's spoken English? Discuss strategies to overcome MTI with examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_35_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_35_q6_s1",
+          "subNumber": "a",
+          "text": "Write an application in about 300 words to your college principal requesting permission to organize a technical fest on campus.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_35_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_35_q7_s1",
+          "subNumber": "a",
+          "text": "Prepare a report on a recent industrial visit undertaken by the Mechanical department of your college, highlighting key observations and learning outcomes in about 350 words. Provide appropriate headings and invent necessary details.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_35_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_35_q8_s1",
+          "subNumber": "a",
+          "text": "Draft a cover letter for a fresher applying for a content writing role at a digital marketing firm, emphasizing your language skills and passion for writing.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2024_35_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2024_35_q9_s1",
+          "subNumber": "a",
+          "text": "Define soft skills and and give two examples relevant to the workplace.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2024_35_q9_s2",
+          "subNumber": "b",
+          "text": "How does time management affect your productivity and reliability at work?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2024_35_q9_s3",
+          "subNumber": "c",
+          "text": "What is the importance of email etiquette in professional communication?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2024_35_q9_s4",
+          "subNumber": "d",
+          "text": "Name one common challenge in team dynamics and suggest a way to overcome it.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

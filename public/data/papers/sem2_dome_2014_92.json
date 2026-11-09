@@ -1,0 +1,237 @@
+{
+  "id": "sem2_dome_2014_92",
+  "semester": 2,
+  "subject_code": "dome",
+  "subject_name": "Design of Machine Elements",
+  "year": "2014",
+  "exam_code": "021615",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam., 2014 Design of Machine Elements Time: 3 hours Code: 021615 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Use of data books is permitted. Select data, if missing, suitably."
+  ],
+  "questions": [
+    {
+      "id": "sem2_dome_2014_92_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following as directed:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2014_92_q1_s1",
+          "subNumber": "a",
+          "text": "Give two examples of bearing pressure and crushing stress in the design consideration of machine elements.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2014_92_q1_s2",
+          "subNumber": "b",
+          "text": "A hollow shaft and a solid shaft are of equal weight. The hollow shaft has",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "lower strength but greater stiffness",
+            "lower strength and lower stiffness",
+            "greater strength but lower stiffness",
+            "greater strength and also greater stiffness"
+          ]
+        },
+        {
+          "id": "sem2_dome_2014_92_q1_s3",
+          "subNumber": "c",
+          "text": "If a helical coil spring of stiffness K is cut into two identical half coil springs, the stiffness of each of these half spring will be _________.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2014_92_q1_s4",
+          "subNumber": "d",
+          "text": "Cast iron is widely used for machine frames. Give two reasons.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2014_92_q1_s5",
+          "subNumber": "e",
+          "text": "Give the composition of \\( 25Cr_4Mo_2 \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2014_92_q1_s6",
+          "subNumber": "f",
+          "text": "The resistance of fatigue of a material is measured by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "elastic limit",
+            "proportionate limit",
+            "endurance limit",
+            "ultimate strength limit"
+          ]
+        },
+        {
+          "id": "sem2_dome_2014_92_q1_s7",
+          "subNumber": "g",
+          "text": "What is the minimum efficiency required for the circumferential boiler joint?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2014_92_q1_s8",
+          "subNumber": "h",
+          "text": "Why are multiple threaded screws not recommended in screw jack?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2014_92_q1_s9",
+          "subNumber": "i",
+          "text": "Suggest suitable coupling for shafts with parallel misalignment.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2014_92_q1_s10",
+          "subNumber": "j",
+          "text": "Name the three stresses induced in belt due to power transmission.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2014_92_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2014_92_q2_s1",
+          "subNumber": "a",
+          "text": "Design a cotter joint, made of 30C8 steel, to support a load of \\( 50 \\text{ kN} \\) which is subjected to slow reversals of direction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2014_92_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2014_92_q3_s1",
+          "subNumber": "a",
+          "text": "Determine the main dimensions of the longitudinal joints of a boiler whose inner diameter is \\( 1.7 \\text{ m} \\) and pressure of steam is \\( 20 \\text{ bar} \\). The allowable tensile, crushing and shear stresses of mild steel rivet are \\( 80 \\text{ N/mm}^2 \\), \\( 120 \\text{ N/mm}^2 \\) and \\( 65 \\text{ N/mm}^2 \\) respectively. Assume quadruple rivetted, zig-zag butt joint with unequal cover plates.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2014_92_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2014_92_q4_s1",
+          "subNumber": "a",
+          "text": "Determine the size of the welds to support by means of fillet welds of a beam of rectangular cross-section as shown in the figure below if the permissible shear stress in the weld is limited to \\( 75 \\text{ N/mm}^2 \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/198.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2014_92_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2014_92_q5_s1",
+          "subNumber": "a",
+          "text": "A mild steel shaft has to transmit \\( 70 \\text{ kW} \\) at \\( 240 \\text{ r.p.m.} \\). The allowable shear stress in the shaft material is limited to \\( 45 \\text{ MPa} \\) and the angle of twist is not to exceed \\( 1^\\circ \\) in a length of \\( 20 \\) times the shaft diameter. Determine the shaft diameter and design a cast iron flange coupling of protected type for the shaft. The shear stress in the coupling bolts is to be limited to \\( 30 \\text{ MPa} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2014_92_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2014_92_q6_s1",
+          "subNumber": "a",
+          "text": "Design a screw jack for lifting a load of \\( 20 \\text{ kN} \\) through a distance of \\( 200 \\text{ mm} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2014_92_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2014_92_q7_s1",
+          "subNumber": "a",
+          "text": "A safety valve of \\( 60 \\text{ mm} \\) diameter is to blow off at a pressure of \\( 12 \\text{ bar} \\). It is held on its seat by a close-coiled helical spring. The maximum lift of the valve is \\( 10 \\text{ mm} \\). Determine main dimensions of a compression spring of spring index 5. Take initial compression of the spring as \\( 35 \\text{ mm} \\). The maximum shear stress in the material of the spring wire is to be limited to \\( 500 \\text{ N/mm}^2 \\). Take \\( C=82 \\text{ GPa} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2014_92_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2014_92_q8_s1",
+          "subNumber": "a",
+          "text": "A crossed belt drive is to transmit \\( 10 \\text{ kW} \\) at \\( 1200 \\text{ r.p.m.} \\) of the smaller pulley which is \\( 250 \\text{ mm} \\) in diameter. The velocity ratio is 2 and centre distance is \\( 1.2 \\text{ m} \\). It is desired to use a \\( 6 \\text{ mm} \\) thick leather belt with coefficient of friction equal to \\( 0.25 \\). If the permissible stress for the belt material is \\( 2 \\text{ N/mm}^2 \\), determine the width of the belt. Take the mass density of the belt material as \\( 1000 \\text{ kg/m}^3 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2014_92_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2014_92_q9_s1",
+          "subNumber": "a",
+          "text": "A single-disc clutch is required to resist a maximum torque \\( 500 \\text{ N-m} \\). The outer radius of the friction lining is 30% more than the inner radius. The permissible intensity of pressure between the contact surfaces is \\( 0.08 \\text{ N/mm}^2 \\). The coefficient of friction is \\( 0.25 \\). Eight helical compression springs are used to provide axial force necessary to engage the clutch. If the stiffness of each spring is \\( 36 \\text{ N/mm} \\), determine the size of the friction lining and initial compression in the spring.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": "sem2_cpp_2020_56",
+  "semester": 2,
+  "subject_code": "cpp",
+  "subject_name": "Object Oriented Programming using C++",
+  "year": "2020",
+  "exam_code": "100313",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 3rd Semester Exam., 2020 Object-Oriented Programming using C++ Time: 03 Hours Code: 100313 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cpp_2020_56_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven parts:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2020_56_q1_s1",
+          "subNumber": "a",
+          "text": "Write the name of the function in C++ used for opening a file for input only.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q1_s2",
+          "subNumber": "b",
+          "text": "What is the purpose of using a derived class?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q1_s3",
+          "subNumber": "c",
+          "text": "Is there any difference between public protection and private protection?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q1_s4",
+          "subNumber": "d",
+          "text": "How does abstract class differ from interface?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q1_s5",
+          "subNumber": "e",
+          "text": "What is the role of catch block in the exception handling?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cpp_2020_56_q1_s6",
+          "subNumber": "f",
+          "text": "Is it possible to return more than one value from a function? Explain with a small example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q1_s7",
+          "subNumber": "g",
+          "text": "What are the mutator functions? Give an example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q1_s8",
+          "subNumber": "h",
+          "text": "Discuss the role of default constructor when an object of a class is created.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q1_s9",
+          "subNumber": "i",
+          "text": "Write a small code which illustrates the concept of multiple inheritance.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cpp_2020_56_q1_s10",
+          "subNumber": "j",
+          "text": "Differentiate between compile-time polymorphism and run-time polymorphism.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2020_56_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2020_56_q2_s1",
+          "subNumber": "a",
+          "text": "Write a language program in C++ which accepts the user's first and last name and print them in reverse order with a space between them.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q2_s2",
+          "subNumber": "b",
+          "text": "Create the equivalent of a four-function calculator. The program should ask the user to enter a number, an operator and another number. (Use floating point.) It should then carry out the specified arithmetical operation: adding, subtracting, multiplying or dividing the two numbers. Use a switch statement to select the operation. Finally, display the result. When it finishes the calculation, the program should ask whether the user wants to do another calculation. The response can be 'y' or 'n'.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2020_56_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2020_56_q3_s1",
+          "subNumber": "a",
+          "text": "Use a single-subscripted array to solve the following problem: Read in 20 numbers, each of which is between 10 and 100, inclusive. As each number is read, print it only if it is not a duplicate of a number already read. Provide for the 'worst case' in which all 20 numbers are different. Use the smallest possible array to solve this problem.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q3_s2",
+          "subNumber": "b",
+          "text": "Write a program in C++ to read text file and display count of character in file.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2020_56_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2020_56_q4_s1",
+          "subNumber": "a",
+          "text": "What is the main advantage of passing arguments by reference? When do we need to use default arguments in a function?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q4_s2",
+          "subNumber": "b",
+          "text": "What do you mean by dynamic binding? How is it useful in OOP?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2020_56_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2020_56_q5_s1",
+          "subNumber": "a",
+          "text": "What is constructor? Write a program in C++ to find the area of the circle using constructor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q5_s2",
+          "subNumber": "b",
+          "text": "Define a class to represent a bank account. Include the following members:<br/> Data members: 1. Name of the depositor 2. Account number 3. Type of account 4. Balance amount in the account<br/> Member functions: 1. To assign initial values 2. To deposit an amount 3. To withdraw an amount after checking the balance 4. To display name and balance.<br/> Write a main program which handles 10 customers.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2020_56_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2020_56_q6_s1",
+          "subNumber": "a",
+          "text": "What do you mean by dynamic initialization of objects? Why do we need to do this? How is dynamic initialization of objects achieved?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q6_s2",
+          "subNumber": "b",
+          "text": "Write a C++ program to define a class string and use overloaded == operator to compare two strings.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2020_56_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2020_56_q7_s1",
+          "subNumber": "a",
+          "text": "Some programmers prefer not to use protected access because it breaks the encapsulation of the base class. Discuss the relative merits of using protected access vs. insisting on using private access in base classes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q7_s2",
+          "subNumber": "b",
+          "text": "Write a C++ program to demonstrate example of hierarchical inheritance to get square and cube of a number.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2020_56_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2020_56_q8_s1",
+          "subNumber": "a",
+          "text": "We knew that a private member of a base class is not inheritable. Is it anyway possible for the objects of a derived class to access the private members of the base class? If yes, how?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q8_s2",
+          "subNumber": "b",
+          "text": "Write a program that uses a function template called max to determine the largest of three arguments. Test the program using integer, character and floating-point number pairs.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cpp_2020_56_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cpp_2020_56_q9_s1",
+          "subNumber": "a",
+          "text": "Describe the relationship between class templates and inheritance. Why is it appropriate to call a class template a parameterized type?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cpp_2020_56_q9_s2",
+          "subNumber": "b",
+          "text": "Write a program that demonstrates how certain exception types are not allowed to be thrown.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

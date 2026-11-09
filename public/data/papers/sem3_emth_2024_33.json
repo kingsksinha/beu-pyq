@@ -1,0 +1,330 @@
+{
+  "id": "sem3_emth_2024_33",
+  "semester": 3,
+  "subject_code": "emth",
+  "subject_name": "Electromagnetic Theory",
+  "year": "2024",
+  "exam_code": "104404",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2024 Electromagnetic Theory Time: 03 Hours Code: 104404 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_emth_2024_33_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emth_2024_33_q1_s1",
+          "subNumber": "a",
+          "text": "The divergence of the vector field is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Vector",
+            "Scalar",
+            "Can't be both",
+            "None"
+          ]
+        },
+        {
+          "id": "sem3_emth_2024_33_q1_s2",
+          "subNumber": "b",
+          "text": "The unit of electric field intensity",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Volt",
+            "Volt per metre",
+            "Tesla",
+            "Metre"
+          ]
+        },
+        {
+          "id": "sem3_emth_2024_33_q1_s3",
+          "subNumber": "c",
+          "text": "In Gauss's Law the electric field is related to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The charge density",
+            "The potential difference",
+            "The charge enclosed",
+            "The capacitance"
+          ]
+        },
+        {
+          "id": "sem3_emth_2024_33_q1_s4",
+          "subNumber": "d",
+          "text": "The electric field at a point due to an infinite sheet of charge is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{\\sigma}{\\epsilon_{0}} \\)",
+            "\\( \\frac{\\sigma}{2\\epsilon_{0}} \\)",
+            "\\( \\frac{2\\epsilon_{0}}{\\sigma} \\)",
+            "0"
+          ]
+        },
+        {
+          "id": "sem3_emth_2024_33_q1_s5",
+          "subNumber": "e",
+          "text": "The force on a charged particle moving in a magnetic field is maximum when the angle between the velocity and magnetic field is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 0^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 180^{\\circ} \\)"
+          ]
+        },
+        {
+          "id": "sem3_emth_2024_33_q1_s6",
+          "subNumber": "f",
+          "text": "The energy density in magnetic field is given by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{\\mu H^{2}}{2} \\)",
+            "\\( \\frac{H^{2}}{2\\mu} \\)",
+            "2",
+            "None"
+          ]
+        },
+        {
+          "id": "sem3_emth_2024_33_q1_s7",
+          "subNumber": "g",
+          "text": "The dot product of the vectors \\( 3i-2j+5k \\) and \\( -i+3j+2k \\) is,",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "-1",
+            "1",
+            "0",
+            "-3i"
+          ]
+        },
+        {
+          "id": "sem3_emth_2024_33_q1_s8",
+          "subNumber": "h",
+          "text": "The Pointing vector P is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( E \\times H \\)",
+            "\\( E \\cdot H \\)",
+            "\\( \\frac{1}{2} E \\times H \\)",
+            "\\( (E \\times H)^{2} \\)"
+          ]
+        },
+        {
+          "id": "sem3_emth_2024_33_q1_s9",
+          "subNumber": "i",
+          "text": "The Maxwell's equation \\( \\nabla \\cdot B = 0 \\) is due to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Monopole does not exit",
+            "Coulomb's Law",
+            "Existence of monopoles",
+            "Ampere Circuital Law"
+          ]
+        },
+        {
+          "id": "sem3_emth_2024_33_q1_s10",
+          "subNumber": "j",
+          "text": "Curl of gradient of a vector is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "Null Vector",
+            "Unity",
+            "Depends on the constants of the vector"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_emth_2024_33_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emth_2024_33_q2_s1",
+          "subNumber": "a",
+          "text": "Write the differential elements (dl, da, dv) in both Cartesian, cylindrical co-ordinate system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emth_2024_33_q2_s2",
+          "subNumber": "b",
+          "text": "State divergence theorem. What will be divergence to position vector?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emth_2024_33_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emth_2024_33_q3_s1",
+          "subNumber": "a",
+          "text": "Given the two points, \\( C(-3,2,1) \\) and \\( D(r=5, \\theta=20^{\\circ}, \\varphi=-70^{\\circ}) \\). find: (i) The spherical coordinates of C (ii) The Cartesian coordinates of D",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emth_2024_33_q3_s2",
+          "subNumber": "b",
+          "text": "Find the divergence of \\( \\vec{A} = 3x^{2}a_{x} + 5x^{2}y^{2}a_{y} + xyz^{3}a_{z} \\) where \\( a_{x}, a_{y} \\) and \\( a_{z} \\) are unit vectors in cartesian coordinates at point (1,1,1)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emth_2024_33_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emth_2024_33_q4_s1",
+          "subNumber": "a",
+          "text": "State and derive Coulomb's law. Write coulomb's law in vector forms.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emth_2024_33_q4_s2",
+          "subNumber": "b",
+          "text": "Derive an expression for intensity of electric field at a point distant r from a point charge.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emth_2024_33_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emth_2024_33_q5_s1",
+          "subNumber": "a",
+          "text": "An infinite long line charge of uniform density \\( \\rho_{L} \\) C/cm is situated along the z-axis. Obtain electric field intensity due to this charge using Gauss's law.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emth_2024_33_q5_s2",
+          "subNumber": "b",
+          "text": "Derive energy density in electrostatic field.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emth_2024_33_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emth_2024_33_q6_s1",
+          "subNumber": "a",
+          "text": "Four 3pC charges are at the corners of a 1-m square. The two charges at the left side of the square are positive. The two charges on the right side are negative. Find the field E at the centre of the square, \\( \\epsilon_{r}=1 \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emth_2024_33_q6_s2",
+          "subNumber": "b",
+          "text": "What do you understand by capacitance of a capacitor? Deduce and expression for the capacitance of a parallel plate capacitor. How will it be modified when the gaps between the plates is filled with a dielectric?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emth_2024_33_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emth_2024_33_q7_s1",
+          "subNumber": "a",
+          "text": "Show that the Faraday's law of electromagnetic induction can be expressed as \\( \\nabla \\times E = -\\partial B/\\partial t \\). Write down its integral form.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emth_2024_33_q7_s2",
+          "subNumber": "b",
+          "text": "Explain the concept of displacement current and show how it led to the modification of the Ampere's law.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emth_2024_33_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emth_2024_33_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss reflection of plane electromagnetic wave incident normally on a perfect dielectric and obtain expressions for the two reflection coefficients of electric and magnetic fields.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emth_2024_33_q8_s2",
+          "subNumber": "b",
+          "text": "Define Poynting vector. Mention any two properties of uniform plane wave.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emth_2024_33_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:-",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emth_2024_33_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

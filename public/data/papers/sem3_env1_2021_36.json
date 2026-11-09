@@ -1,0 +1,324 @@
+{
+  "id": "sem3_env1_2021_36",
+  "semester": 3,
+  "subject_code": "env1",
+  "subject_name": "Environmental Engineering -I",
+  "year": "2021",
+  "exam_code": "101502",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2021 Environmental Engineering-I Time: 3 hours Code: 101502 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Assume data suitably, if not given."
+  ],
+  "questions": [
+    {
+      "id": "sem3_env1_2021_36_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2021_36_q1_s1",
+          "subNumber": "a",
+          "text": "The suitable layout of a distribution system for irregularly growing town is",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "dead-end system",
+            "grid-iron system",
+            "radial system",
+            "ring system"
+          ]
+        },
+        {
+          "id": "sem3_env1_2021_36_q1_s2",
+          "subNumber": "b",
+          "text": "Average rate of water consumption per head per day as per Indian Standard is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "100 litres",
+            "135 litres",
+            "165 litres",
+            "200 litres"
+          ]
+        },
+        {
+          "id": "sem3_env1_2021_36_q1_s3",
+          "subNumber": "c",
+          "text": "Orthotolidine test is used for the determination of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "dissolved oxygen",
+            "residual chlorine",
+            "biochemical oxygen demand",
+            "dose of coagulant"
+          ]
+        },
+        {
+          "id": "sem3_env1_2021_36_q1_s4",
+          "subNumber": "d",
+          "text": "Colour of water is expressed in number of a",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "po value",
+            "silica scale",
+            "platinum cobalt scale",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env1_2021_36_q1_s5",
+          "subNumber": "e",
+          "text": "MPN index is a measure of which one of the following?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Coliform bacteria",
+            "\\( BOD_{5} \\)",
+            "Dissolved oxygen content",
+            "Hardness"
+          ]
+        },
+        {
+          "id": "sem3_env1_2021_36_q1_s6",
+          "subNumber": "f",
+          "text": "When environmental lapse rate is more than adiabatic lapse rate, then the environment is said to be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "stable",
+            "unstable",
+            "neutral",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env1_2021_36_q1_s7",
+          "subNumber": "g",
+          "text": "The reference pressure used in determination of sound pressure level is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "20 dB",
+            "10 μPa",
+            "20 μPa",
+            "10 dB"
+          ]
+        },
+        {
+          "id": "sem3_env1_2021_36_q1_s8",
+          "subNumber": "h",
+          "text": "The frequency of sound is measured in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "hertz",
+            "Dobson unit (DU)",
+            "decibel (dB)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env1_2021_36_q1_s9",
+          "subNumber": "i",
+          "text": "The most hazardous gaseous air pollutant for human health is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "nitrogen",
+            "carbon dioxide",
+            "oxygen",
+            "sulphur dioxide"
+          ]
+        },
+        {
+          "id": "sem3_env1_2021_36_q1_s10",
+          "subNumber": "j",
+          "text": "Among the given choices below, which of the following is not a primary air pollutant?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "PAN",
+            "Volatile organic compounds like hydrocarbon",
+            "Suspended particulate matter",
+            "Oxides of nitrogen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2021_36_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2021_36_q2_s1",
+          "subNumber": "a",
+          "text": "Explain per capita demand of water. How is it determined? Discuss various factors that affect the rate of demand.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2021_36_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the importance of chemical and bacteriological analysis of water used for domestic purpose.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2021_36_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2021_36_q3_s1",
+          "subNumber": "a",
+          "text": "Classify the atmosphere on the basis of temperature variation. State main activities taking place in each of them.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2021_36_q3_s2",
+          "subNumber": "b",
+          "text": "What is BOD? Deduce the expression for first-stage BOD.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2021_36_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2021_36_q4_s1",
+          "subNumber": "a",
+          "text": "Explain disinfection process. List the various methods used for disinfection process.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2021_36_q4_s2",
+          "subNumber": "b",
+          "text": "Differentiate between temporary and permanent hardness.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2021_36_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2021_36_q5_s1",
+          "subNumber": "a",
+          "text": "Enumerate the different major air pollutants, their characteristics, sources and health effects on human beings in a tabular form.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2021_36_q5_s2",
+          "subNumber": "b",
+          "text": "What do you mean by gaseous pollutants? Name and describe any one controlling device used for gaseous pollutants.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2021_36_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2021_36_q6_s1",
+          "subNumber": "a",
+          "text": "The flow through a flocculator processes \\( 300 m^{3}/hr \\) of water at \\( 20^{\\circ}C \\). The paddles are arranged longitudinally. The optimum G value has been found from jar tests to be \\( 600 s^{-1} \\) and detention time of 30 s. Determine (a) basin dimensions, (b) power applied to the water and (c) paddle configuration and rotational speed. Assume any other data not given.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2021_36_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2021_36_q7_s1",
+          "subNumber": "a",
+          "text": "Write down the Indian Standard of ambient noise level.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2021_36_q7_s2",
+          "subNumber": "b",
+          "text": "Write on the sources, effects and control measures of noise pollution.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2021_36_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2021_36_q8_s1",
+          "subNumber": "a",
+          "text": "How would you assess the water demand of the building to be used for different purposes?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2021_36_q8_s2",
+          "subNumber": "b",
+          "text": "How is the hot water requirement of building computed?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2021_36_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2021_36_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

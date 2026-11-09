@@ -1,0 +1,337 @@
+{
+  "id": "sem2_mech_2023_35",
+  "semester": 2,
+  "subject_code": "mech",
+  "subject_name": "Mechanical Engineering",
+  "year": "2023",
+  "exam_code": "101407",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University End Semester Examination - 2023 (Semester-IV) Mechanical Engineering Time: 03 Hours Code: 101407 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_mech_2023_35_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2023_35_q1_s1",
+          "subNumber": "a",
+          "text": "Which one of the following is the extensive property of thermodynamic system?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Volume",
+            "Pressure",
+            "Temperature",
+            "Density"
+          ]
+        },
+        {
+          "id": "sem2_mech_2023_35_q1_s2",
+          "subNumber": "b",
+          "text": "Ice kept in a well-insulated thermosflask is an example of which system?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Closed System",
+            "Isolated System",
+            "Open System",
+            "Non-flow adiabatic system"
+          ]
+        },
+        {
+          "id": "sem2_mech_2023_35_q1_s3",
+          "subNumber": "c",
+          "text": "Measurement of temperature is based on which law of thermodynamics?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Zero law of thermodynamics",
+            "First law of thermodynamics",
+            "Second law of thermodynamics",
+            "Third law of thermodynamics"
+          ]
+        },
+        {
+          "id": "sem2_mech_2023_35_q1_s4",
+          "subNumber": "d",
+          "text": "A closed system receives 60 kJ heat but its internal energy decreases by 30 kJ. Then the work done by the system is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "90 kJ",
+            "30 kJ",
+            "-30 kJ",
+            "-90 kJ"
+          ]
+        },
+        {
+          "id": "sem2_mech_2023_35_q1_s5",
+          "subNumber": "e",
+          "text": "A reversible engine operates between temperature 900 K and \\( T_{2} \\) \\((T_{2} &lt; 900 \\text{ K})\\) and another reversible engine between \\( T_{2} \\) and 400 K \\((T_{2}&gt; 400 \\text{ K})\\) in series. The value of \\( T_{2} \\) if work outputs of both the engines are equal is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "600 K",
+            "625 K",
+            "650 K",
+            "675 K"
+          ]
+        },
+        {
+          "id": "sem2_mech_2023_35_q1_s6",
+          "subNumber": "f",
+          "text": "For real thermodynamics cycle, which one of the following is correct?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\oint \\frac{dQ}{T} &gt; 0 \\)",
+            "\\( \\oint \\frac{dQ}{T} &lt; 0 \\)",
+            "\\( \\oint \\frac{dQ}{T} = 0 \\)",
+            "\\( \\oint ds = 0 \\)"
+          ]
+        },
+        {
+          "id": "sem2_mech_2023_35_q1_s7",
+          "subNumber": "g",
+          "text": "The specific volume of water when heated from \\( 0^{\\circ}C \\)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "first increases and then decreases",
+            "increases steadily",
+            "decreases and then increases",
+            "decreases steadily"
+          ]
+        },
+        {
+          "id": "sem2_mech_2023_35_q1_s8",
+          "subNumber": "h",
+          "text": "A four-stroke petrol engine theoretically operates on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Otto Cycle",
+            "Brayton Cycle",
+            "Joule Cycle",
+            "Rankine Cycle"
+          ]
+        },
+        {
+          "id": "sem2_mech_2023_35_q1_s9",
+          "subNumber": "i",
+          "text": "On psychometric chart, the constant wet bulb temperature lines coincide with",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Constant relative humidity lines",
+            "Constant enthalpy lines",
+            "Constant dew point temperature lines",
+            "Constant volume lines"
+          ]
+        },
+        {
+          "id": "sem2_mech_2023_35_q1_s10",
+          "subNumber": "j",
+          "text": "One ton of refrigeration in kW is equivalent to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "2.5",
+            "210",
+            "3.5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2023_35_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2023_35_q2_s1",
+          "subNumber": "a",
+          "text": "If a gas of volume 6000 cm³ and at pressure of 100 kPa is compressed quasistatically according to \\( pV^{2} = \\text{constant} \\) until the volume becomes 2000 cm³, determine the final pressure and the work transfer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2023_35_q2_s2",
+          "subNumber": "b",
+          "text": "unavailabile question",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2023_35_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2023_35_q3_s1",
+          "subNumber": "a",
+          "text": "A turbine operates under steady flow conditions, receiving steam at the following State: Pressure 1.2 MPa, temperature \\( 188^{\\circ}C \\), enthalpy \\( 2785 \\text{ kJ/kg} \\), velocity \\( 333 \\text{ m/s} \\) and elevation 3 m. The steam leaves the turbine at the following state: Pressure 20 kPa, enthalpy \\( 2512 \\text{ kJ/kg} \\), velocity \\( 100 \\text{ m/s} \\) and elevation 0 m. Heat is lost to the surroundings at the rate of \\( 0.20 \\text{ kJ/s} \\). If the rate of steam flow through the turbine is \\( 0.42 \\text{ kg/s} \\), what is the power output of the turbine in kW?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2023_35_q3_s2",
+          "subNumber": "b",
+          "text": "Prove the equivalence of Clausius statement to the Kelvin Planck statement with schematic diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2023_35_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2023_35_q4_s1",
+          "subNumber": "a",
+          "text": "Two reversible heat engines A and B are arranged in series, A rejecting heat directly to B. Engine A receives 200 kJ at a temperature of \\( 421^{\\circ}C \\) from a hot source, while engine B is in communication with a cold sink at a temperature of \\( 44^{\\circ}C \\). If work output of A is twice that of B, find<br/> (i) The intermediate temperature between A and B.<br/> (ii) The efficiency of each engine.<br/> (iii) The heat rejected to the cold sink.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2023_35_q4_s2",
+          "subNumber": "b",
+          "text": "Derive an expression for the efficiency of a Carnot cycle. What is the difficulty in constructing an engine working on Carnot cycle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2023_35_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2023_35_q5_s1",
+          "subNumber": "a",
+          "text": "With the help of net sketch, differentiate between the working of Otto and Diesel cycle.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2023_35_q5_s2",
+          "subNumber": "b",
+          "text": "What do you understand by exergy and energy? In a steam generator, water is evaporated at \\( 260^{\\circ}C \\), while the combustion gas \\( (c_{p}=1.08 \\text{ kJ/kg K}) \\) is cooled from \\( 1300^{\\circ}C \\) to \\( 320^{\\circ}C \\). The surroundings are at \\( 30^{\\circ}C \\). Determine the loss in available energy due to the above heat transfer per kg of water evaporated (Latent heat of vaporization of water at \\( 260^{\\circ}C = 1662.5 \\text{ kJ/kg} \\)).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2023_35_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2023_35_q6_s1",
+          "subNumber": "a",
+          "text": "A rigid closed tank of volume contains 5 kg of wet steam at a pressure of 200 kPa. The tank is heated until the steam becomes dry saturated. Determine the final pressure and the heat transfer to the tank.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2023_35_q6_s2",
+          "subNumber": "b",
+          "text": "(i) Write down the van der Waal's equation of state. How does it differ from the ideal gas equation?<br/> (ii) Write three Maxwell's equations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2023_35_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2023_35_q7_s1",
+          "subNumber": "a",
+          "text": "A geothermal plant utilizes steam produced by natural means underground. Steam wells are drilled to tap this steam supply which is available at 4.5 bar and \\( 175^{\\circ}C \\). The steam leaves the turbine at 100 mm Hg absolute pressure. The turbine isentropic efficiency is 0.75. Calculate the efficiency of the plant. If the unit produces 12.5 MW, what is the steam flow rate? Use steam table for required data.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2023_35_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2023_35_q8_s1",
+          "subNumber": "a",
+          "text": "A Brayton cycle operates with air entering the compressor at 1 bar and \\( 25^{\\circ}C \\). The pressure ratio across the compressor is 3 to 1, and the maximum temperature in the cycle is \\( 650^{\\circ}C \\). Determine the compressor work, turbine work, thermal efficiency and work ratio of the cycle.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2023_35_q8_s2",
+          "subNumber": "b",
+          "text": "Describe with net schematic arrangement, working of a simple vapour compression cycle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2023_35_q9",
+      "number": 9,
+      "title": "Q.9 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2023_35_q9_s1",
+          "subNumber": "a",
+          "text": "Define the terms 'unsaturated air' and 'relative humidity'.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2023_35_q9_s2",
+          "subNumber": "b",
+          "text": "With the help of suitable diagram, explain the psychrometric chart.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_mech_2023_35_q9_s3",
+          "subNumber": "c",
+          "text": "With help of a suitable diagram, explain the process of cooling and dehumidification.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

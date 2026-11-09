@@ -1,0 +1,330 @@
+{
+  "id": "sem1_wp_2025_5",
+  "semester": 1,
+  "subject_code": "wp",
+  "subject_name": "Workshop + Workshop Practices",
+  "year": "2025",
+  "exam_code": "100206",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 Workshop Practices Time: 03 Hours Code: 100206 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 14,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_wp_2025_5_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option / answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_5_q1_s1",
+          "subNumber": "a",
+          "text": "The sheet metal gauge is used to measure",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Length",
+            "Thickness of sheet",
+            "Hardness",
+            "Angle"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_5_q1_s2",
+          "subNumber": "b",
+          "text": "The metal commonly used in sheet metal work is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Cast iron",
+            "Tin plate",
+            "Bronze",
+            "Lead"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_5_q1_s3",
+          "subNumber": "c",
+          "text": "Soldering uses a Filler metal with melting temperature",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Equal to base metal",
+            "Above 1000°C",
+            "Below 450°C",
+            "Without heating"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_5_q1_s4",
+          "subNumber": "d",
+          "text": "In arc welding, heat is produced by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Gas flame",
+            "Electric arc",
+            "Chemical reaction",
+            "Friction"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_5_q1_s5",
+          "subNumber": "e",
+          "text": "The material used for patterns is NOT",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Wood",
+            "Aluminium",
+            "Brass",
+            "Glass"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_5_q1_s6",
+          "subNumber": "f",
+          "text": "The tool used for ramming sand in moulding is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Trowel",
+            "Slick",
+            "Rammer",
+            "Shovel"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_5_q1_s7",
+          "subNumber": "g",
+          "text": "Draw filing is used to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Cut threads",
+            "Remove bulk material",
+            "Mark lines",
+            "Obtain smooth surface finish"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_5_q1_s8",
+          "subNumber": "h",
+          "text": "A common carpentry joint is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Lap joint",
+            "Brazed joint",
+            "Riveted joint",
+            "Welded joint"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_5_q1_s9",
+          "subNumber": "i",
+          "text": "In smithy, heating of metal is done in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Furnace",
+            "Lathe",
+            "Shaper",
+            "Drill press"
+          ]
+        },
+        {
+          "id": "sem1_wp_2025_5_q1_s10",
+          "subNumber": "j",
+          "text": "The forging operation used to increase length and reduce cross-section is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Upsetting",
+            "Drawing (Drawing down)",
+            "Punching",
+            "Bending"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_5_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_5_q2_s1",
+          "subNumber": "a",
+          "text": "List any five sheet metal tools and describe their uses.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_wp_2025_5_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the process of scribing and bending in sheet metal work.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_5_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_5_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the difference between brazing and soldering.",
+          "freq": 14,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2025_5_q3_s2",
+          "subNumber": "b",
+          "text": "Describe mechanical joints with examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_5_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_5_q4_s1",
+          "subNumber": "a",
+          "text": "Describe the different pattern materials used in foundries.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2025_5_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the function of riser, runner, and sprue in sand casting with a neat sketch.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_5_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_5_q5_s1",
+          "subNumber": "a",
+          "text": "Name and explain the types of files used in fitting shop.",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2025_5_q5_s2",
+          "subNumber": "b",
+          "text": "Describe sawing and chipping operations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_5_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_5_q6_s1",
+          "subNumber": "a",
+          "text": "Explain any three defects in wood.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2025_5_q6_s2",
+          "subNumber": "b",
+          "text": "Describe carpentry measuring and marking tools.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_5_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_5_q7_s1",
+          "subNumber": "a",
+          "text": "Define seasoning of wood. What are the different methods?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2025_5_q7_s2",
+          "subNumber": "b",
+          "text": "Differentiate between hot working and cold working processes.",
+          "freq": 14,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_5_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_5_q8_s1",
+          "subNumber": "a",
+          "text": "Write down the procedure of the product development: hexagonal box with cap in sheet metal shop.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2025_5_q8_s2",
+          "subNumber": "b",
+          "text": "What safety precautions should be considered and followed in a workshop during various operations?",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2025_5_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2025_5_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

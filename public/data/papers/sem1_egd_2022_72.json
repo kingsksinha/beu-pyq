@@ -1,0 +1,284 @@
+{
+  "id": "sem1_egd_2022_72",
+  "semester": 1,
+  "subject_code": "egd",
+  "subject_name": "Engineering Graphics & Design",
+  "year": "2022",
+  "exam_code": "100202",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2022 (New Course) Engineering Graphics and Design Time: 3 hours Code: 100202 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_egd_2022_72_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[2 × 7 = 14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2022_72_q1_s1",
+          "subNumber": "a",
+          "text": "Which type of line is particular to section drawings?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Break lines",
+            "Phantom lines",
+            "Extension lines",
+            "Cutting plane lines"
+          ]
+        },
+        {
+          "id": "sem1_egd_2022_72_q1_s2",
+          "subNumber": "b",
+          "text": "Which one of the following is not a reducing scale?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1:1",
+            "1:200",
+            "5/320",
+            "5:6"
+          ]
+        },
+        {
+          "id": "sem1_egd_2022_72_q1_s3",
+          "subNumber": "c",
+          "text": "What type of curve is created by the intersection of a plane parallel to the side of cone?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Parabola",
+            "Hyperbola",
+            "Ellipse",
+            "Roulette"
+          ]
+        },
+        {
+          "id": "sem1_egd_2022_72_q1_s4",
+          "subNumber": "d",
+          "text": "The straight line of projection will make an angle with xy line to the angle of plane with the other principal plane.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Perpendicular",
+            "Equal",
+            "Right angle",
+            "Zero"
+          ]
+        },
+        {
+          "id": "sem1_egd_2022_72_q1_s5",
+          "subNumber": "e",
+          "text": "The intersection of a plane surface with the horizontal plane is a line and is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "horizontal trace",
+            "vertical trace",
+            "profile trace",
+            "trace"
+          ]
+        },
+        {
+          "id": "sem1_egd_2022_72_q1_s6",
+          "subNumber": "f",
+          "text": "The solid having polygon for a base and triangular lateral faces intersecting at a vertex is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "pyramid",
+            "prism",
+            "cone",
+            "torus"
+          ]
+        },
+        {
+          "id": "sem1_egd_2022_72_q1_s7",
+          "subNumber": "g",
+          "text": "What types of sketch are typically used in the refinement stage of the design process?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Isometric",
+            "Document",
+            "Oblique",
+            "Ideation"
+          ]
+        },
+        {
+          "id": "sem1_egd_2022_72_q1_s8",
+          "subNumber": "h",
+          "text": "Inclined planes in a three-view drawing will appear as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "two surfaces and one edge",
+            "two edges and one surface",
+            "three edges",
+            "foreshortened in each view"
+          ]
+        },
+        {
+          "id": "sem1_egd_2022_72_q1_s9",
+          "subNumber": "i",
+          "text": "The primary difference between the model tab and the layout tab is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the model tab is used for drawing in 3D and a layout is used for drawing in 2D",
+            "the model tab is where you create the drawing and a layout tab represents the sheet that you will plot or print on the color of the background",
+            "the model tab displays the drawing you are copying from and the layout tab is where you layout the new drawing",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem1_egd_2022_72_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following is not a property of an object?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Line weight",
+            "Measure",
+            "Hyperlink",
+            "Elevation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2022_72_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2022_72_q2_s1",
+          "subNumber": "a",
+          "text": "On a road map, a scale of miles is shown. On measuring from this scale, a distance of 25 miles is shown by a line 10 cm long. Construct this scale to read miles and to measure up to 40 miles. Construct a comparative scale, attached to this scale, to read kilometres \"up to 60 kilometres. [1 mile = 1·609 km.]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2022_72_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2022_72_q3_s1",
+          "subNumber": "a",
+          "text": "A thin circular disc of 50 mm diameter is allowed to roll without slipping from upper edge of sloping plank which is inclined at 15° with the horizontal plane. Draw the curve traced by the point on the circumference of the disc.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2022_72_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2022_72_q4_s1",
+          "subNumber": "a",
+          "text": "The line AB is 75 mm long and it is 30° and 40° inclined to HP and VP respectively. End A is 12 mm above HP and 10 mm in front of VP. Draw its projections. The line is in first quadrant.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2022_72_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2022_72_q5_s1",
+          "subNumber": "a",
+          "text": "Determine the true shape of the figure, the top view of which is a regular pentagon of 35 mm sides, having one side inclined at 30° to reference line and whose front view is a straight line making an angle of 45° to reference line.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2022_72_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2022_72_q6_s1",
+          "subNumber": "a",
+          "text": "A square pyramid, base 40 mm side and axis 65 mm long, has its base in the VP. One edge of the base is inclined at 30° to the HP and a corner contained by that edge is on the HP. Draw its projections.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2022_72_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2022_72_q7_s1",
+          "subNumber": "a",
+          "text": "Draw a line diagram as shown, using relative polar coordinate method :",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/222egd7.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2022_72_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2022_72_q8_s1",
+          "subNumber": "a",
+          "text": "An air-conditioning duct of a square cross-section 70 mm × 70 mm connects a circular pipe of 40 mm diameter through the transition piece. Draw the projections and develop the lateral surface of the transition piece.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2022_72_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2022_72_q9_s1",
+          "subNumber": "a",
+          "text": "Draw the isometric view of a cone, base 40 mm diameter and axis 55 mm long (i) when its axis is vertical and (ii) when its axis is horizontal.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "sem2_cs_2012_39",
+  "semester": 2,
+  "subject_code": "cs",
+  "subject_name": "Control Systems",
+  "year": "2012",
+  "exam_code": "102415",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University 2012 (A) CONTROL SYSTEM Time: 03 Hours Code: 102415 Full Marks: 70",
+  "question_count": 10,
+  "total_subquestions": 16,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are TEN questions in this paper.",
+    "Attempt any FIVE questions."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cs_2012_39_q1",
+      "number": 1,
+      "title": "Q.1 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2012_39_q1_s1",
+          "subNumber": "a",
+          "text": "What is servomechanism? Differentiate between open-loop and closed-loop control system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2012_39_q1_s2",
+          "subNumber": "b",
+          "text": "Obtain the transfer function of the block diagram shown in Fig 1.",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/218.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2012_39_q2",
+      "number": 2,
+      "title": "Q.2 Write technical notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2012_39_q2_s1",
+          "subNumber": "a",
+          "text": "(a) LVDT<br/> (b) Strain gauges<br/> (c) CRO<br/> (d) Hygrometer",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2012_39_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2012_39_q3_s1",
+          "subNumber": "a",
+          "text": "What is the principle of measuring pressure by elastic transducers? Discuss the elastic diaphragms for the measurement of pressure. Give the examples of secondary transducers used with diaphragms.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2012_39_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2012_39_q4_s1",
+          "subNumber": "a",
+          "text": "For the system shown in Fig. 2 given below, find the transfer function \\( X(s)/F(s) \\) where symbols have their usual meanings.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/217.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2012_39_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2012_39_q5_s1",
+          "subNumber": "a",
+          "text": "Analyse the time response of second-order system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2012_39_q5_s2",
+          "subNumber": "b",
+          "text": "Define rise time, peak time, settling time and peak overshoot.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2012_39_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2012_39_q6_s1",
+          "subNumber": "a",
+          "text": "What is transducer? Distinguish between the active and passive transducer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2012_39_q6_s2",
+          "subNumber": "b",
+          "text": "Describe the operating principle of piezoelectric pickups.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2012_39_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2012_39_q7_s1",
+          "subNumber": "a",
+          "text": "Draw a neat sketch of an orifice meter. Derive an expression of flow rate and state its advantages over venturi meter.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2012_39_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2012_39_q8_s1",
+          "subNumber": "a",
+          "text": "Describe the construction and working of thermocouples. Describe the thermo-electric laws and their applications.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2012_39_q8_s2",
+          "subNumber": "b",
+          "text": "Draw the block diagram of electronic counter and explain its working.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2012_39_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2012_39_q9_s1",
+          "subNumber": "a",
+          "text": "Describe the construction and working of hot-wire anemometer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2012_39_q9_s2",
+          "subNumber": "b",
+          "text": "How are frequency and phase of a signal measured using CRO?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2012_39_q10",
+      "number": 10,
+      "title": "Q.10 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2012_39_q10_s1",
+          "subNumber": "a",
+          "text": "Explain the stability of control system with the help of Routh-Hurwitz criterion.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2012_39_q10_s2",
+          "subNumber": "b",
+          "text": "The characteristic equation of a system is \\( s^{5}+4s^{4}+8s^{3}+8s^{2}+7s+4=0 \\). Determine if the system is stable.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

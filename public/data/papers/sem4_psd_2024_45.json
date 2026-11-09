@@ -1,0 +1,277 @@
+{
+  "id": "sem4_psd_2024_45",
+  "semester": 4,
+  "subject_code": "psd",
+  "subject_name": "Professional Skill Development",
+  "year": "2024",
+  "exam_code": "100608",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Examination, 2024 Professional Skill Development Time: 03 Hours Code: 100608 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 1,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_psd_2024_45_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer the following (Any seven question only):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2024_45_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following best defines 'public speaking'?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q1_s2",
+          "subNumber": "b",
+          "text": "In communication, what aspect is most influenced by body language?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q1_s3",
+          "subNumber": "c",
+          "text": "What skill is essential for successful negotiation in interpersonal communication?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q1_s4",
+          "subNumber": "d",
+          "text": "What is a key component required for effective time management?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q1_s5",
+          "subNumber": "e",
+          "text": "Which leadership style depends the most on team collaboration?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q1_s6",
+          "subNumber": "f",
+          "text": "What is a critical skill needed for managing stress in the corporate world?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q1_s7",
+          "subNumber": "g",
+          "text": "What is the primary purpose of professional ethics in the workplace?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q1_s8",
+          "subNumber": "h",
+          "text": "What is NOT a part of business writing skills?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q1_s9",
+          "subNumber": "i",
+          "text": "What describes a group discussion most accurately?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q1_s10",
+          "subNumber": "j",
+          "text": "What is a key factor in the development of leadership qualities?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2024_45_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2024_45_q2_s1",
+          "subNumber": "a",
+          "text": "Analyse how gestures and body language impact leadership perception in group discussions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q2_s2",
+          "subNumber": "b",
+          "text": "What non-verbal cues are essential for establishing authority and trust within a team?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2024_45_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2024_45_q3_s1",
+          "subNumber": "a",
+          "text": "How do emotional intelligence and interpersonal skills influence negotiation outcomes in a business context?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q3_s2",
+          "subNumber": "b",
+          "text": "What methods can be used to enhance emotional intelligence to improve workplace relationships?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2024_45_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2024_45_q4_s1",
+          "subNumber": "a",
+          "text": "What difficulties do professionals face when managing time and stress in the workplace?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q4_s2",
+          "subNumber": "b",
+          "text": "Suggest practical strategies to overcome these challenges and maintain a healthy work-life balance.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2024_45_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2024_45_q5_s1",
+          "subNumber": "a",
+          "text": "How do self-motivation and a positive attitude contribute to effective decision-making in high-pressure environments?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q5_s2",
+          "subNumber": "b",
+          "text": "What steps can individuals take to cultivate these traits for long-term career success?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2024_45_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2024_45_q6_s1",
+          "subNumber": "a",
+          "text": "How do technical presentation skills affect professional advancement in the workplace?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q6_s2",
+          "subNumber": "b",
+          "text": "What are the key elements of a successful technical presentation that communicates complex ideas effectively?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2024_45_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2024_45_q7_s1",
+          "subNumber": "a",
+          "text": "What role does teamwork play in fostering innovation and productivity within organisations?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q7_s2",
+          "subNumber": "b",
+          "text": "How can leaders create a collaborative work culture to promote collective success?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2024_45_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2024_45_q8_s1",
+          "subNumber": "a",
+          "text": "How do professional ethics impact organisational reputation and internal employee relations?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q8_s2",
+          "subNumber": "b",
+          "text": "What measures can businesses take to enhance ethical practices in their operations?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_psd_2024_45_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_psd_2024_45_q9_s1",
+          "subNumber": "a",
+          "text": "How can professionals tailor their resumes and interview strategies to fit specific job roles and industry expectations?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_psd_2024_45_q9_s2",
+          "subNumber": "b",
+          "text": "Why are effective resume writing and interview skills critical for securing employment?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

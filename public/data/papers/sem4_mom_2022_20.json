@@ -1,0 +1,324 @@
+{
+  "id": "sem4_mom_2022_20",
+  "semester": 4,
+  "subject_code": "mom",
+  "subject_name": "Mechanics of Materials",
+  "year": "2022",
+  "exam_code": "101506",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2022 Mechanics of Materials Time: 03 Hours Code: 101506 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mom_2022_20_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2022_20_q1_s1",
+          "subNumber": "a",
+          "text": "The property of a body to return to its original shape after removal of force is known as",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Plasticity",
+            "Elasticity",
+            "Ductility",
+            "Malleability"
+          ]
+        },
+        {
+          "id": "sem4_mom_2022_20_q1_s2",
+          "subNumber": "b",
+          "text": "Maximum stress theory is applicable to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Brittle material",
+            "Ductile material",
+            "Brittle and ductile material",
+            "Structural material"
+          ]
+        },
+        {
+          "id": "sem4_mom_2022_20_q1_s3",
+          "subNumber": "c",
+          "text": "Strain is a example of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0 order tensor",
+            "1st order tensor",
+            "2nd order tensor",
+            "Vector"
+          ]
+        },
+        {
+          "id": "sem4_mom_2022_20_q1_s4",
+          "subNumber": "d",
+          "text": "A hollow prismatic beam of circular section is subjected to a torsional moment, the maximum shear stress occurs at",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The inner wall of the cross section",
+            "Middle of the thickness",
+            "The outer surface of the shaft",
+            "Somewhere in hollow portion"
+          ]
+        },
+        {
+          "id": "sem4_mom_2022_20_q1_s5",
+          "subNumber": "e",
+          "text": "Consider the following statements for a thick walled cylinder, subjected to an internal pressure, which of the following is correct.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Hoop stress is maximum at the inside radius",
+            "Hoop stress is zero at the outside radius.",
+            "Shear stress is maximum at the inside radius",
+            "Radial stress is uniform throughout the thickness of the wall"
+          ]
+        },
+        {
+          "id": "sem4_mom_2022_20_q1_s6",
+          "subNumber": "f",
+          "text": "A composite member was formed at \\( 20^{\\circ}C \\) and was made of two materials A and B. If the coefficient of thermal expansion of A is more than that of B and composite member is heated to \\( 140^{\\circ}C \\) then",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A will be in tension and B in compression",
+            "Both A and B will be in compression",
+            "A will be in compression and B will be in tension",
+            "Both A and B will be in tension"
+          ]
+        },
+        {
+          "id": "sem4_mom_2022_20_q1_s7",
+          "subNumber": "g",
+          "text": "The shear force and bending moment are zero at the free end of a cantilever, if it carries a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Point load at the free end",
+            "Uniformly distributed load over the whole length",
+            "Point load in the middle of its length",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_mom_2022_20_q1_s8",
+          "subNumber": "h",
+          "text": "Graphical representation of which one of the following theories is an ellipse?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Maximum principal stress theory",
+            "Distortion energy theory",
+            "Maximum shear stress theory",
+            "Maximum principal strain theory"
+          ]
+        },
+        {
+          "id": "sem4_mom_2022_20_q1_s9",
+          "subNumber": "i",
+          "text": "If the Euler load of a steel column is 1000 KN and crushing load is 1500 KN, the Rankine load is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2500 KN",
+            "1500 KN",
+            "1000 KN",
+            "600 KN"
+          ]
+        },
+        {
+          "id": "sem4_mom_2022_20_q1_s10",
+          "subNumber": "j",
+          "text": "The degree of indeterminacy of the beam given below is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "images": [
+            "img/beu/diagram/2nd3rd/86.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2022_20_q2",
+      "number": 2,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2022_20_q2_s1",
+          "subNumber": "a",
+          "text": "A rolled steel joist RSJ of I section has top and bottom flanges \\( 150 \\text{ mm} \\times 25 \\text{ mm} \\) and web of the size \\( 300 \\text{ mm} \\times 12 \\text{ mm} \\). It is used as a simply supported beam over a span of 4 m to carry an uniformly distributed load of \\( 80 \\text{ kN/m} \\) over its entire span. Draw bending and shearing stresses across the section at \\( 1/4^{\\text{th}} \\) span.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mom_2022_20_q2_s2",
+          "subNumber": "b",
+          "text": "A wooden beam \\( 150 \\text{ mm} \\times 250 \\text{ mm} \\) is simply supported over a span of 5 m. When a concentrated load W is placed at a distance a, from the left support. The maximum bending stress in beam is \\( 11.2 \\text{ N/mm}^2 \\). Determine W and a.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/85.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2022_20_q3",
+      "number": 3,
+      "title": "Q.3 Answer any four of the following briefly:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2022_20_q3_s1",
+          "subNumber": "a",
+          "text": "(a) State the assumptions made in theory of simple bending.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2022_20_q4",
+      "number": 4,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2022_20_q4_s1",
+          "subNumber": "a",
+          "text": "Assuming \\( E = 160 \\text{ GPa} \\) and \\( G = 100 \\text{ GPa} \\) for a material, a strain tensor is given as, \\( \\begin{bmatrix} 0.002 &amp; 0.004 &amp; 0.006 \\\\ 0.004 &amp; 0.003 &amp; 0 \\\\ 0.006 &amp; 0 &amp; 0 \\end{bmatrix} \\). Determine the shear stress, \\( \\tau_{xy} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mom_2022_20_q4_s2",
+          "subNumber": "b",
+          "text": "What are the assumptions of Euler's theory of column? Also derive the expression for the buckling load for hinged condition of column.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2022_20_q5",
+      "number": 5,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2022_20_q5_s1",
+          "subNumber": "a",
+          "text": "A hollow shaft of diameter ratio 3/8 (internal dia. to outer dia.) is to transmit 375 kW power at 100 rpm. The maximum torque being 20% greater than the mean torque. The shear stress is not to exceed \\( 60 \\text{ N/mm}^2 \\) and twist in a length of 4 m is not to exceed \\( 2^{\\circ} \\). Calculate its external and internal diameter which would satisfy both the above conditions. Assume modulus of rigidity \\( G = 0.85 \\times 10^5 \\text{ N/mm}^2 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2022_20_q6",
+      "number": 6,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2022_20_q6_s1",
+          "subNumber": "a",
+          "text": "What do you mean by plastic deformation of a material? Discuss the behaviour of the material when loaded beyond the elastic limit.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mom_2022_20_q6_s2",
+          "subNumber": "b",
+          "text": "Draw shear flow diagram and locate shear centre for the channel section.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/89.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2022_20_q7",
+      "number": 7,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2022_20_q7_s1",
+          "subNumber": "a",
+          "text": "Differentiate between dam and a retaining wall.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mom_2022_20_q7_s2",
+          "subNumber": "b",
+          "text": "A masonry dam, trapezoidal in cross-section, 4 m high, 1 m wide at its top and 3 m wide at its bottom, retains water on its vertical face to a maximum height of 3.5 m from its base. Determine the maximum and minimum stresses at the base (i) When the reservoir is empty, and (ii) When the reservoir is full. Take the unit weight of masonry as \\( 19.62 \\text{ kN/m}^3 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2022_20_q8",
+      "number": 8,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2022_20_q8_s1",
+          "subNumber": "a",
+          "text": "Determine the maximum deflection of the simply supported beam using double integration method. The beam is made of wood having a modulus of elasticity of \\( E = 210 \\text{ GPa} \\) and cross-section \\( 300 \\text{ mm} \\times 400 \\text{ mm} \\) in dimension.",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/88.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2022_20_q9",
+      "number": 9,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2022_20_q9_s1",
+          "subNumber": "a",
+          "text": "Find the forces in the members of the frame shown in Fig. all members have the same sectional area and are made of the same material. Illustrate the forces in the diagram.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/87.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "id": "sem3_emachines2_2022_18",
+  "semester": 3,
+  "subject_code": "emachines2",
+  "subject_name": "Electrical Machines - II",
+  "year": "2022",
+  "exam_code": "103402/110402",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2022 (New Course) ELECTRICAL MACHINES-II Time: 3 hours Code: 103402/110402 Full Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_emachines2_2022_18_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2022_18_q1_s1",
+          "subNumber": "a",
+          "text": "The pitch factor, in rotating electrical machinery, is defined as the ratio of resultant emf of a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "full-pitched coil to that of a chorded coil",
+            "full-pitched coil to the phase emf",
+            "chorded coil to the phase emf",
+            "chorded coil to that of a full-pitched coil"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q1_s2",
+          "subNumber": "b",
+          "text": "For a 3 phase uniformly distributed narrow-spread winding, and the distribution factor is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.9",
+            "0.955",
+            "0.827",
+            "0.97"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q1_s3",
+          "subNumber": "c",
+          "text": "MMF is related to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "ampere turns",
+            "voltage turns",
+            "ampere hours",
+            "voltage hours",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q1_s4",
+          "subNumber": "d",
+          "text": "When a single-phase winding is excited by an alternating current, then which of the following statements is correct?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It produces one stationary MMF wave",
+            "Produced MMF wave pulsates along its magnetic axis",
+            "It does not produce two counters rotating MMF wave",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q1_s5",
+          "subNumber": "e",
+          "text": "Three-phase voltages are applied to the three windings of an electrical machine. If any two supply terminals are interchanged, then the rotating MMF wave",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "direction reverses, amplitude alters",
+            "direction reverses, amplitude unaltered",
+            "direction remains same, amplitude alters",
+            "direction remains same, amplitude unaltered"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q1_s6",
+          "subNumber": "f",
+          "text": "An induction motor can be said analogous to",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "transformer",
+            "synchronous motor",
+            "universal motor",
+            "stepper motor"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q1_s7",
+          "subNumber": "g",
+          "text": "No-load current in induction motor is 10%-20% of full-load current and the no-load current of transformer is 2%-6%.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q1_s8",
+          "subNumber": "h",
+          "text": "Mechanically air gaps in induction motor are kept very low to avoid",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "lower power factor",
+            "lagging nature",
+            "magnetizing current",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q1_s9",
+          "subNumber": "i",
+          "text": "A shaded pole motor is one of the types of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "DC shunt motor",
+            "differentially compounded DC motor",
+            "synchronous motor",
+            "single-phase induction motor"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following special motors has rotor movement in discrete step?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Stepper motor",
+            "Reluctance motor",
+            "Servomotor",
+            "Hysteresis motor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2022_18_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2022_18_q2_s1",
+          "subNumber": "a",
+          "text": "Compare full pitch coil and chorded coil in a rotating machine. Discuss MMF of a coil along with its distribution in the winding. Explain with the help of suitable neat and labelled diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss the following terms: (i) MMF, flux per pole (ii) Pole pitch (iii) Cylindrical and salient rotor (iv) Winding distribution factor",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2022_18_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2022_18_q3_s1",
+          "subNumber": "a",
+          "text": "Differentiate concentrated winding and distributed winding, with neat and labelled diagram. Discuss, why the windings are distributed sinusoidally.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q3_s2",
+          "subNumber": "b",
+          "text": "Explain, how pulsating magnetic field is produced in 1-phase induction motor. Whether it supports self-starting or not? If supports, how? If not, what measures do we take to make it start?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2022_18_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2022_18_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss the following with suitable diagrams: (i) 1-Phase windings shifted by \\( 90^\\circ \\) (ii) 3-Phase windings shifted by \\( 120^\\circ \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q4_s2",
+          "subNumber": "b",
+          "text": "Provide a basic constructional detail of 3 phase induction motor. Explain the role of wound rotor and squirrel cage type rotor in an induction motor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2022_18_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2022_18_q5_s1",
+          "subNumber": "a",
+          "text": "What are the three different modes of operation of an induction motor? Draw typical torque-slip characteristic, along with fan load characteristic, explaining the steady-state operating point.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2022_18_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2022_18_q6_s1",
+          "subNumber": "a",
+          "text": "Why is blocked rotor test performed on an induction motor? What is the information perceived from this test?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q6_s2",
+          "subNumber": "b",
+          "text": "Draw and explain the equivalent circuit diagram of an induction motor.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2022_18_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2022_18_q7_s1",
+          "subNumber": "a",
+          "text": "Mathematically and graphically explain how rotor resistance affects starting torque of an induction motor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q7_s2",
+          "subNumber": "b",
+          "text": "A 3-phase, 50 Hz induction motor has a full-load speed of 1440 r.p.m. For this motor, calculate (i) number of poles; (ii) full load slip and rotor frequency. (iii) speed of stator field with respect to 1. stator structure and 2. rotor structure; (iv) speed of rotor field with respect to 1. rotor structure, 2. stator structure and 3. stator field.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2022_18_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[8+6=14]",
+      "subQuestions": []
+    },
+    {
+      "id": "sem3_emachines2_2022_18_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2022_18_q9_s1",
+          "subNumber": "a",
+          "text": "Discuss parallel operation of alternators for synchronization and load division.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emachines2_2022_18_q9_s2",
+          "subNumber": "b",
+          "text": "Develop the power equation for salient pole synchronous machine with the help of two-reaction theory.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

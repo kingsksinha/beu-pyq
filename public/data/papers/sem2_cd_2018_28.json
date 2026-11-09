@@ -1,0 +1,358 @@
+{
+  "id": "sem2_cd_2018_28",
+  "semester": 2,
+  "subject_code": "cd",
+  "subject_name": "Compiler Design",
+  "year": "2018",
+  "exam_code": "051616",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech. 6th Semester Examination, 2018 Compiler Design Time: 03 Hours Code: 051616 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 9,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cd_2018_28_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer for any seven of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2018_28_q1_s1",
+          "subNumber": "a",
+          "text": "What is the number of tokens in the following C statement? printf(\"I=%d and I=%x\",I and I)",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "3",
+            "26",
+            "10",
+            "21"
+          ]
+        },
+        {
+          "id": "sem2_cd_2018_28_q1_s2",
+          "subNumber": "b",
+          "text": "Consider the following two statements: P: Every regular grammar is LL(1). Q: Every regular set has LR(1) grammar. Which of the following is true?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Both P and Q are true",
+            "P is true and Q is false",
+            "P is false and Q is true",
+            "Both P and Q are false"
+          ]
+        },
+        {
+          "id": "sem2_cd_2018_28_q1_s3",
+          "subNumber": "c",
+          "text": "What is the similarity between LR, LALR and SLR?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Use of same algorithm, but different parsing table",
+            "Same parsing table, but different algorithm",
+            "Their parsing tables and algorithms are similar but use top-down approach",
+            "Both parsing tables and algorithms are different"
+          ]
+        },
+        {
+          "id": "sem2_cd_2018_28_q1_s4",
+          "subNumber": "d",
+          "text": "Consider the following grammar: \\( S \\rightarrow aSbS | bSaS | \\epsilon \\). How many different parse trees are possible for string ababab?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "id": "sem2_cd_2018_28_q1_s5",
+          "subNumber": "e",
+          "text": "A shift reduce parser carries out the actions specified within braces immediately after reducing with the corresponding rule of grammar: \\( S \\rightarrow xxW \\) {PRINT \"1\"}, \\( S \\rightarrow y \\) {print \"2\"}, \\( S \\rightarrow Sz \\) {print \"3\"}. What is the translation of xxxxyzz using the syntax directed translation scheme described by the above rules?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "23131",
+            "11233",
+            "11231",
+            "33211"
+          ]
+        },
+        {
+          "id": "sem2_cd_2018_28_q1_s6",
+          "subNumber": "f",
+          "text": "The most powerful parser is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "SLR",
+            "LALR",
+            "Canonical LR",
+            "Operator-precedence"
+          ]
+        },
+        {
+          "id": "sem2_cd_2018_28_q1_s7",
+          "subNumber": "g",
+          "text": "In some programming languages, an identifier is permitted to be a letter followed by any number of letters or digits. If L and D denote the sets of letters and digits respectively, which of the following expressions defines an identifier?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( (L \\cup D)^* \\)",
+            "\\( L(L \\cup D)^* \\)",
+            "\\( (L.D)^* \\)",
+            "\\( L.(L.D)^* \\)"
+          ]
+        },
+        {
+          "id": "sem2_cd_2018_28_q1_s8",
+          "subNumber": "h",
+          "text": "In operator precedence parsing, precedence relations are defined",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "for all pairs of non-terminals",
+            "for all pairs of terminals",
+            "to delimit the handle",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cd_2018_28_q1_s9",
+          "subNumber": "i",
+          "text": "A bottom-up parser generates",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "right-most derivation",
+            "right-most derivation in reverse",
+            "left-most derivation",
+            "left-most derivation in reverse"
+          ]
+        },
+        {
+          "id": "sem2_cd_2018_28_q1_s10",
+          "subNumber": "j",
+          "text": "A grammar that produces more than one parse tree for some sentence is called",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "ambiguous",
+            "unambiguous",
+            "regular",
+            "None of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2018_28_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2018_28_q2_s1",
+          "subNumber": "a",
+          "text": "What do you understand by left recursion and left factoring? How are these eliminated? Explain with the help of suitable example.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cd_2018_28_q2_s2",
+          "subNumber": "b",
+          "text": "What do you understand by bootstrapping? Explain with the help of suitable example.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2018_28_q3",
+      "number": 3,
+      "title": "Q.3 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2018_28_q3_s1",
+          "subNumber": "a",
+          "text": "How can addressing modes be used for reducing the memory access time?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2018_28_q3_s2",
+          "subNumber": "b",
+          "text": "What are activation records? Explain its purpose in compilers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2018_28_q3_s3",
+          "subNumber": "c",
+          "text": "What are the optimization techniques applied on procedures calls? Explain with an example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2018_28_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2018_28_q4_s1",
+          "subNumber": "a",
+          "text": "Given the Syntax-Directed Definition below with the synthesized attribute val. Draw the annotated parse tree for the expression \\( (3+4)*(5+6) \\):<br/> \\( L \\rightarrow E \\) ; \\( L.val = E.val \\)<br/> \\( E \\rightarrow T \\) ; \\( E.val = T.val \\)<br/> \\( E \\rightarrow E_1+T \\) ; \\( E.val = E_1.val+T.val \\)<br/> \\( T \\rightarrow F \\) ; \\( T.val = F.val \\)<br/> \\( T \\rightarrow T_1*F \\) ; \\( T.val = T_1.val*F.val \\)<br/> \\( F \\rightarrow (E) \\) ; \\( F.val = E.val \\)<br/> \\( F \\rightarrow digit \\) ; \\( F.val = digit.lexval \\)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cd_2018_28_q4_s2",
+          "subNumber": "b",
+          "text": "Construct a Syntax-Directed Translation scheme that translates arithmetic expressions from infix into postfix notation. Your solution should include the context-free grammar, the semantic attributes for each of the grammar symbols, and semantic rules. Show the application of your scheme to the input \"3*4+5*2\".",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2018_28_q5",
+      "number": 5,
+      "title": "Q.5 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2018_28_q5_s1",
+          "subNumber": "a",
+          "text": "What is the advantage of using machine independent intermediate representation during translation process?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2018_28_q5_s2",
+          "subNumber": "b",
+          "text": "Explain, with example, what three address codes are. Give some common three address statements.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2018_28_q5_s3",
+          "subNumber": "c",
+          "text": "Find the three address codes of the following program. There are four bytes per word:<br/> Sum = 0<br/> For(i = 1; i &lt;= 20; i++)<br/> Sum = Sum + a[i] + b[i];",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2018_28_q6",
+      "number": 6,
+      "title": "Q.6 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2018_28_q6_s1",
+          "subNumber": "a",
+          "text": "Find the CNF (Chomsky Normal Form) for the following CFG:<br/> \\( S \\rightarrow ABA \\)<br/> \\( A \\rightarrow aA | \\epsilon \\)<br/> \\( B \\rightarrow bB | \\epsilon \\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_cd_2018_28_q6_s2",
+          "subNumber": "b",
+          "text": "Eliminate null productions from the following CFG:<br/> \\( S \\rightarrow Xa \\)<br/> \\( X \\rightarrow aX | bX | \\epsilon \\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_cd_2018_28_q6_s3",
+          "subNumber": "c",
+          "text": "Convert the following grammar to GNF :<br/> \\( A_1 \\rightarrow A_2A_3 \\)<br/> \\( A_2 \\rightarrow A_3A_1 | b \\)<br/> \\( A_3 \\rightarrow A_1A_2 | a \\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2018_28_q7",
+      "number": 7,
+      "title": "Q.7 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2018_28_q7_s1",
+          "subNumber": "a",
+          "text": "What are the advantages of LALR parsing over SLR and CLR methods?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cd_2018_28_q7_s2",
+          "subNumber": "b",
+          "text": "Write the algorithm to compute FIRST and FOLLOW for a given grammar.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_cd_2018_28_q7_s3",
+          "subNumber": "c",
+          "text": "What is shift-reduce conflict?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2018_28_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2018_28_q8_s1",
+          "subNumber": "a",
+          "text": "What are intermediate codes in compilers? Why is it needed in compiler design? Discuss different types of intermediate codes generated by intermediate code generation phase.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2018_28_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2018_28_q9_s1",
+          "subNumber": "a",
+          "text": "What is parsing? What is the difference between Top-down parsing, Bottom-up parsing and Predictive parsing?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2018_28_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the working of each phase of compiler in detail with an example.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

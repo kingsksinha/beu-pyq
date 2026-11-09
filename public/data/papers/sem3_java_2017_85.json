@@ -1,0 +1,315 @@
+{
+  "id": "sem3_java_2017_85",
+  "semester": 3,
+  "subject_code": "java",
+  "subject_name": "OOPs (JAVA) / Java Programming Language",
+  "year": "2017",
+  "exam_code": "051529",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2017 INTRODUCTION TO JAVA PROGRAMMING LANGUAGE Time: 3 hours Code: 051529 Full Marks: 70",
+  "question_count": 8,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_java_2017_85_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of any seven of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2017_85_q1_s1",
+          "subNumber": "a",
+          "text": "Size (in bytes) of float and double in Java is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "4 and 8",
+            "8 and 8",
+            "4 and 4",
+            "8 and 4"
+          ]
+        },
+        {
+          "id": "sem3_java_2017_85_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following operators is used to allocate memory to array variable in Java?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "malloc",
+            "alloc",
+            "new",
+            "new malloc"
+          ]
+        },
+        {
+          "id": "sem3_java_2017_85_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is an incorrect array declaration?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "int arr[] = new int[5]",
+            "int [] arr = new int[5]",
+            "int arr[] = int[5] new",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_java_2017_85_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following is used as default for a member of a class if no access specifier is used for it?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "private",
+            "public",
+            "protected",
+            "None of the above (default/package-private)"
+          ]
+        },
+        {
+          "id": "sem3_java_2017_85_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following methods of string class is used to obtain character at specified index?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "char()",
+            "Charat()",
+            "charat()",
+            "charAt()"
+          ]
+        },
+        {
+          "id": "sem3_java_2017_85_q1_s6",
+          "subNumber": "f",
+          "text": "What does AWT stand for?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "All Window Tools",
+            "All Writing Tools",
+            "Abstract Window Toolkit",
+            "Abstract Writing Toolkit"
+          ]
+        },
+        {
+          "id": "sem3_java_2017_85_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following keywords is used to prevent the content of a variable from being modified?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "final",
+            "last",
+            "constant",
+            "static"
+          ]
+        },
+        {
+          "id": "sem3_java_2017_85_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following functions is used to perform some actions when the object is to be destroyed?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "finalize()",
+            "delete()",
+            "main()",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_java_2017_85_q1_s9",
+          "subNumber": "i",
+          "text": "What is the order of precedence (highest to lowest) of the following operators?<br/>1. &amp;&amp;<br/>2. ==<br/>3. ?:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1 -&gt; 2 -&gt; 3",
+            "2 -&gt; 1 -&gt; 3",
+            "3 -&gt; 2 -&gt; 1",
+            "2 -&gt; 3 -&gt; 1"
+          ]
+        },
+        {
+          "id": "sem3_java_2017_85_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following classes is related to all the exceptions that can be caught by using catch?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Error",
+            "Exception",
+            "RuntimeException",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2017_85_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2017_85_q2_s1",
+          "subNumber": "a",
+          "text": "What are the various access specifiers for JAVA classes? Discuss the various types of inheritance supported by JAVA.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2017_85_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss the different types of operators in JAVA along with their precedence relationship.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2017_85_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2017_85_q3_s1",
+          "subNumber": "a",
+          "text": "What is JDBC connection? Explain the types of JAVA drivers available for database connectivity. List the advantages and disadvantages of each of the mentioned JAVA drivers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2017_85_q3_s2",
+          "subNumber": "b",
+          "text": "What is the difference between final, finally and finalize in JAVA? Compare and contrast between 'throw' and 'throws'.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2017_85_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2017_85_q4_s1",
+          "subNumber": "a",
+          "text": "What is a thread? Explain the different states in which a thread can exist. Why does a dead thread occur? What are the actions that can occur when a thread enters blocked state?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2017_85_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the various OOPs concepts in JAVA.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2017_85_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2017_85_q5_s1",
+          "subNumber": "a",
+          "text": "What is an immutable class? How to create an immutable class?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2017_85_q5_s2",
+          "subNumber": "b",
+          "text": "What is an abstract class? Explain with example. Differentiate between abstract class and interfaces. What are the advantages of interfaces over abstract classes?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2017_85_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2017_85_q6_s1",
+          "subNumber": "a",
+          "text": "What are applets? Which package contains the applet class? Explain the applet life cycle methods.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2017_85_q6_s2",
+          "subNumber": "b",
+          "text": "What is the difference between swing and applet? How is a frame created and closed in an applet?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2017_85_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2017_85_q7_s1",
+          "subNumber": "a",
+          "text": "How can we restrict inheritance for a class? Does JAVA support multiple inheritance? Justify your answer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2017_85_q7_s2",
+          "subNumber": "b",
+          "text": "Write a program to insert an element at the last index of an array in JAVA.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2017_85_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2017_85_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the concept of static methods with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2017_85_q8_s2",
+          "subNumber": "b",
+          "text": "What is event handling? What are the steps involved in event handling?",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    }
+  ]
+}

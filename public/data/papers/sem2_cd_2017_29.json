@@ -1,0 +1,302 @@
+{
+  "id": "sem2_cd_2017_29",
+  "semester": 2,
+  "subject_code": "cd",
+  "subject_name": "Compiler Design",
+  "year": "2017",
+  "exam_code": "051616",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech. 6th Semester Examination, 2017 Compiler Design Time: 03 Hours Code: 051616 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 21,
+  "max_freq": 9,
+  "has_mcq": true,
+  "instructions": [
+    "There are Nine Questions in this Paper.",
+    "Attempt Five questions in all.",
+    "Question No. 1 is Compulsory.",
+    "The marks are indicated in the right-hand margin."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cd_2017_29_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2017_29_q1_s1",
+          "subNumber": "a",
+          "text": "A grammar that produces more than one parse tree for some sentence is said to be",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Ambiguous",
+            "context free",
+            "disambiguous",
+            "regular"
+          ]
+        },
+        {
+          "id": "sem2_cd_2017_29_q1_s2",
+          "subNumber": "b",
+          "text": "What is not the phase of a compiler?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Syntax analyzer",
+            "code generator",
+            "code optimizer",
+            "code linker"
+          ]
+        },
+        {
+          "id": "sem2_cd_2017_29_q1_s3",
+          "subNumber": "c",
+          "text": "Given a grammar \\( G=(\\{E\\}, \\{id, +\\}, P, E) \\); where P is given by \\( E \\rightarrow E+E | id \\). Then FOLLOW(E) will contain",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "{ $ }",
+            "{ + }",
+            "{ $, + }",
+            "{ $, id, + }"
+          ]
+        },
+        {
+          "id": "sem2_cd_2017_29_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following expressions has no l-value?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "a[i+1]",
+            "a",
+            "3",
+            "*a"
+          ]
+        },
+        {
+          "id": "sem2_cd_2017_29_q1_s5",
+          "subNumber": "e",
+          "text": "Consider the statement \"fi (x&gt;=10)\", where 'if' has been misspelled. The error is detected by the compiler in the phase",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "lexical analysis",
+            "syntax analysis",
+            "semantic analysis",
+            "syntactic analysis"
+          ]
+        },
+        {
+          "id": "sem2_cd_2017_29_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following is not a loop optimization?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Induction variable elimination",
+            "Loop unrolling",
+            "Loop jamming",
+            "Loop heading"
+          ]
+        },
+        {
+          "id": "sem2_cd_2017_29_q1_s7",
+          "subNumber": "g",
+          "text": "If x is a terminal then FIRST(x) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\epsilon \\)",
+            "{ x }",
+            "\\( x^* \\)",
+            "\\( xx^* \\)"
+          ]
+        },
+        {
+          "id": "sem2_cd_2017_29_q1_s8",
+          "subNumber": "h",
+          "text": "Consider following grammar \\( S \\rightarrow cAd \\), \\( A \\rightarrow ab | a \\). For input string cad, how many times the recursive descent parser will backtrack?",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "id": "sem2_cd_2017_29_q1_s9",
+          "subNumber": "i",
+          "text": "The optional access link in the activation record is used for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Pointing to the activation record of the caller",
+            "Referring the non-local data held in other activation records",
+            "Temporary values, such as those arising in the evaluation of expressions",
+            "Pointing to the activation record of the calling procedure."
+          ]
+        },
+        {
+          "id": "sem2_cd_2017_29_q1_s10",
+          "subNumber": "j",
+          "text": "Suppose two productions are there: \\( A \\rightarrow \\alpha \\) and \\( A \\rightarrow \\beta \\). The recursive descent parsing without backtracking requires:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "first(\\( \\alpha \\)) and first(\\( \\beta \\)) must be in same set",
+            "first(\\( \\alpha \\)) and first(\\( \\beta \\)) to be disjoint",
+            "first(\\( \\alpha \\)) and first(\\( \\beta \\)) must be equal",
+            "Data insufficient"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2017_29_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2017_29_q2_s1",
+          "subNumber": "a",
+          "text": "Construct DFA for \\( (ab^* | ba^*) \\) and minimize the number of states of the above constructed DFA.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2017_29_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2017_29_q3_s1",
+          "subNumber": "a",
+          "text": "A grammar is given below:<br/> \\( S \\rightarrow A \\)<br/> \\( A \\rightarrow aB | Ad \\)<br/> \\( B \\rightarrow bBC | f \\)<br/> \\( C \\rightarrow g \\)<br/> Find the FIRST and FOLLOW set.",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_cd_2017_29_q3_s2",
+          "subNumber": "b",
+          "text": "Construct a predictive parsing table for the grammar given above.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2017_29_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2017_29_q4_s1",
+          "subNumber": "a",
+          "text": "What is a symbol table? Why is it needed in compiler design? Explain different components of a symbol table with an example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2017_29_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2017_29_q5_s1",
+          "subNumber": "a",
+          "text": "Consider the following program fragment:<br/> prod = 0;<br/> i = 1;<br/> do {<br/> prod = prod + a[i] * b[i];<br/> i = i + 1;<br/> } while (i &lt;= 20);<br/> Generate the three-address code for the above program fragment.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2017_29_q5_s2",
+          "subNumber": "b",
+          "text": "Determine the basic blocks for the computed three-address code.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2017_29_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2017_29_q6_s1",
+          "subNumber": "a",
+          "text": "What is DAG? What is the use of DAG in compiler construction? Construct a DAG for the following statements:<br/> \\( Z = X - Y + X * Y \\)<br/> \\( U = V / W + X + V \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2017_29_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2017_29_q7_s1",
+          "subNumber": "a",
+          "text": "Explain peephole optimization in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2017_29_q7_s2",
+          "subNumber": "b",
+          "text": "Suppose a basic block is formed from the C assignment statements:<br/> \\( x = a + b + c + d + e + f; \\)<br/> \\( y = a + c + e; \\)<br/> (a) Give the three-address statements (only one addition per statement) for this block.<br/> (b) Use the associative and commutative laws to modify the block to use the fewest possible number of instructions, assuming both \\( x \\) and \\( y \\) are live on exit from the block.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2017_29_q8",
+      "number": 8,
+      "title": "Q.8 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2017_29_q8_s1",
+          "subNumber": "a",
+          "text": "Given the grammar \\( G = (S, \\{S, A, B\\}, \\{a, b, c, d\\}, P) \\) with set of productions \\( P \\) below compute; <p>a. LR(1) sets of items.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2017_29_q9",
+      "number": 9,
+      "title": "Q.9 Write short note on (any two) of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2017_29_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

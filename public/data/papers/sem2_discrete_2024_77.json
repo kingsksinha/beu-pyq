@@ -1,0 +1,337 @@
+{
+  "id": "sem2_discrete_2024_77",
+  "semester": 2,
+  "subject_code": "discrete",
+  "subject_name": "Discrete Mathematics",
+  "year": "2024",
+  "exam_code": "100404",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B. Tech 4th Semester Examination, 2024 Discrete Mathematics Time: 03 Hours Code: 100404 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_discrete_2024_77_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2024_77_q1_s1",
+          "subNumber": "a",
+          "text": "The function \\( f:R \\rightarrow R \\) defined by \\( f(x)=x^3+5 \\)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "One-One but not onto",
+            "Onto but not One-One",
+            "Both One-One and Onto",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2024_77_q1_s2",
+          "subNumber": "b",
+          "text": "Consider the following relation R on a set \\( A=\\{1,2,3,4\\} \\): R = {(1,1), (1, 3), (3, 2), (2, 2), (3, 3), (3, 1), (2, 3), (1, 4), (4, 4)} Then",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Reflexive",
+            "Symmetric",
+            "Transitive",
+            "Equivalence"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2024_77_q1_s3",
+          "subNumber": "c",
+          "text": "Out of the following which of these integers is not prime?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "23",
+            "59",
+            "21",
+            "71"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2024_77_q1_s4",
+          "subNumber": "d",
+          "text": "The Greatest common divisor of 0 and 11",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "0",
+            "1",
+            "11",
+            "Does not exist"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2024_77_q1_s5",
+          "subNumber": "e",
+          "text": "Suppose G is a group with a binary operation * defined by \\( a*b=a+b+1 \\), for \\( a, b \\in G \\) then",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Identity element = -1",
+            "Identity element = 1",
+            "Identity element = -2",
+            "Identity element = 2"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2024_77_q1_s6",
+          "subNumber": "f",
+          "text": "The field which contains at least _____ element/elements",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2024_77_q1_s7",
+          "subNumber": "g",
+          "text": "The set of integers with respect to addition is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Abelian group",
+            "Cyclic group",
+            "Both (i) and (ii)",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2024_77_q1_s8",
+          "subNumber": "h",
+          "text": "The total number of edges in a complete graph of n vertices is",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "\\( n \\)",
+            "\\( \\frac{n}{2} \\)",
+            "\\( n^2-1 \\)",
+            "\\( \\frac{n(n-1)}{2} \\)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2024_77_q1_s9",
+          "subNumber": "i",
+          "text": "In any undirected graph, the sum of degrees of all vertices",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "must be even",
+            "is a twice the number of edges",
+            "must be odd",
+            "Both (i) and (ii)"
+          ]
+        },
+        {
+          "id": "sem2_discrete_2024_77_q1_s10",
+          "subNumber": "j",
+          "text": "\\( (p \\rightarrow q) \\wedge (r \\rightarrow q) \\) is equivalent to",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( (p \\vee r) \\rightarrow q \\)",
+            "\\( p \\vee (r \\rightarrow p) \\)",
+            "\\( p \\vee (r \\rightarrow q) \\)",
+            "\\( p \\rightarrow (q \\rightarrow r) \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2024_77_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2024_77_q2_s1",
+          "subNumber": "a",
+          "text": "Given \\( A=\\{1,2,3\\} \\), \\( B=\\{7,8\\} \\) and \\( R=\\{(1,7), (2, 7), (1, 8), (3, 8)\\} \\), find \\( R^{-1} \\) (inverse of R) and \\( R' \\) complement of R.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_discrete_2024_77_q2_s2",
+          "subNumber": "b",
+          "text": "Consider \\( A=B=C=R \\) set of real numbers and let \\( f:A \\rightarrow B \\), \\( g: B \\rightarrow C \\) defined by \\( f(x)=x+9 \\) and \\( g(y)=y^2+3 \\) find the following composition functions: \\( (f \\circ g)(a) \\), \\( (g \\circ f)(a) \\), \\( (g \\circ f)(x) \\), \\( (f \\circ g)(-3) \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2024_77_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2024_77_q3_s1",
+          "subNumber": "a",
+          "text": "What is the negation of each of the following propositions? (i) Today is Tuesday (ii) A cow is an animal (iii) No one wants to buy my house",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2024_77_q3_s2",
+          "subNumber": "b",
+          "text": "Determine the truth value of each of the following statements (i) \\( 4+3=7 \\) and \\( 6+2=8 \\) (ii) \\( 2+3=4 \\) and \\( 3+1=2 \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2024_77_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2024_77_q4_s1",
+          "subNumber": "a",
+          "text": "Show that the set of rational numbers Q forms an abelian group.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2024_77_q4_s2",
+          "subNumber": "b",
+          "text": "Define a ring, give an example of a commutative ring without zero divisors and a non-commutative ring with identity.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2024_77_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2024_77_q5_s1",
+          "subNumber": "a",
+          "text": "Describe the Fundamental Theorem of Arithmetic. Factorize the number '324' and represent it as a product of primes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2024_77_q5_s2",
+          "subNumber": "b",
+          "text": "Use the Euclidean algorithm to find the greatest common divisor of each pair of integers, (i) 60, 90 (ii) 414, 662",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2024_77_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2024_77_q6_s1",
+          "subNumber": "a",
+          "text": "Describe a graph model that can be used to represent all forms of electronic communication between two people in a single graph. What kind of graph is needed?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2024_77_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the complete graph and prove that \\( k_5 \\) (complete graph) is a nonplanar graph.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2024_77_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2024_77_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the congruence relation. Let \\( n \\) be a positive integer then: (i) If \\( a \\equiv b \\pmod{n} \\), then \\( b \\equiv a \\pmod{n} \\) (ii) If \\( a \\equiv b \\pmod{n} \\) and \\( b \\equiv c \\pmod{n} \\), then \\( a \\equiv c \\pmod{n} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2024_77_q7_s2",
+          "subNumber": "b",
+          "text": "Show that \\( p \\Leftrightarrow q \\equiv (p \\Rightarrow q) \\wedge (q \\Rightarrow p) \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2024_77_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2024_77_q8_s1",
+          "subNumber": "a",
+          "text": "Write short notes of the following: (i) Eulerian Graph (ii) Graph Coloring",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_discrete_2024_77_q8_s2",
+          "subNumber": "b",
+          "text": "Write short notes of the following: (i) Chromatic number (ii) Perfect Graph",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_discrete_2024_77_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_discrete_2024_77_q9_s1",
+          "subNumber": "a",
+          "text": "What is the field? Show that \\( (Q, +, \\times) \\) is a field.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_discrete_2024_77_q9_s2",
+          "subNumber": "b",
+          "text": "If in a ring R with \\( (xy)^2=x^2y^2 \\) for all \\( x, y \\in R \\), then R is commutative.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

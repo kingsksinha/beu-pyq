@@ -1,0 +1,229 @@
+{
+  "id": "sem1_phy_2022_47",
+  "semester": 1,
+  "subject_code": "phy",
+  "subject_name": "Engineering Physics",
+  "year": "2022",
+  "exam_code": "105201",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2022 Physics (Semiconductor Physics and Introduction to\n                Quantum Mechanics) Time: 3 hours Code: 105201 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 19,
+  "max_freq": 5,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Symbols used (if any) have their usual meanings."
+  ],
+  "questions": [
+    {
+      "id": "sem1_phy_2022_47_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_47_q1_s1",
+          "subNumber": "a",
+          "text": "What is the unit of mobility of charge carriers?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2022_47_q1_s2",
+          "subNumber": "b",
+          "text": "Give examples of direct band semiconductor.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2022_47_q1_s3",
+          "subNumber": "c",
+          "text": "What is de Broglie wavelength of an electron which has been accelerated from rest through a potential difference of 100 V? Given: Mass of electron = 9·1×10<sup>−31</sup> kg, Planck's constant = 6·62×10<sup>−34</sup> Js",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_47_q1_s4",
+          "subNumber": "d",
+          "text": "Define Fermi level.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_phy_2022_47_q1_s5",
+          "subNumber": "e",
+          "text": "Define expectation value.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2022_47_q1_s6",
+          "subNumber": "f",
+          "text": "What are the types of photodetectors?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_47_q1_s7",
+          "subNumber": "g",
+          "text": "Find uncertainty in the momentum of a particle when its position is determined within 0·01 cm.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2022_47_q1_s8",
+          "subNumber": "h",
+          "text": "Define population inversion.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2022_47_q1_s9",
+          "subNumber": "i",
+          "text": "What do you mean by diffusion in carrier transport?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_phy_2022_47_q1_s10",
+          "subNumber": "j",
+          "text": "Write two advantages of LED over ordinary incandescent lamp.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_47_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_47_q2_s1",
+          "subNumber": "a",
+          "text": "Derive the expression for equilibrium concentration of electrons in conduction band.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2022_47_q2_s2",
+          "subNumber": "b",
+          "text": "Calculate the equilibrium concentration of electrons in silicon at \\( T = 300 \\, \\text{K} \\). Assume, the Fermi energy is 0.25 eV below the conduction band. The value of effective density of state function in conduction (\\( N_c \\)) for silicon at 300 K = \\( 2 \\cdot 8 \\times 10^{19} \\, \\text{cm}^{-3} \\), value of \\( kT \\) at 300 K = \\( 0 \\cdot 0259 \\, \\text{eV} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_47_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_47_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss the Kronig-Penney model for the motion of an electron in a periodic potential. Plot total energy of an electron in a periodic potential versus wave number, i.e., \\( \\varepsilon - k \\) graph.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_47_q4",
+      "number": 4,
+      "title": "Q.4 Write short notes on the following:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_47_q4_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_47_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_47_q5_s1",
+          "subNumber": "a",
+          "text": "Discuss the structure, working principle and characteristics of PIN and Avalanche photodiodes.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_47_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_47_q6_s1",
+          "subNumber": "a",
+          "text": "What is non-radiative recombination mechanism? Discuss the processes involved in non-radiative recombination in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_47_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_47_q7_s1",
+          "subNumber": "a",
+          "text": "(a) Derive an expression for effective mass of an electron. <br/>(b) What is the significance of negative effective mass?",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_47_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_47_q8_s1",
+          "subNumber": "a",
+          "text": "What are LEDs? Sketch the relative eye response as a function of wavelength. Describe device structure and materials used for LED with its characteristics.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2022_47_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on the following:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2022_47_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

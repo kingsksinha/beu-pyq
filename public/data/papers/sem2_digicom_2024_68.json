@@ -1,0 +1,351 @@
+{
+  "id": "sem2_digicom_2024_68",
+  "semester": 2,
+  "subject_code": "digicom",
+  "subject_name": "Digital Communication",
+  "year": "2024",
+  "exam_code": "104602",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Examination, 2024 Digital Communication Time: 03 Hours Code: 104602 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_digicom_2024_68_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digicom_2024_68_q1_s1",
+          "subNumber": "a",
+          "text": "The sampling theorem is essential to avoid which problem?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Crosstalk",
+            "Quantization error",
+            "Attenuation",
+            "Aliasing"
+          ]
+        },
+        {
+          "id": "sem2_digicom_2024_68_q1_s2",
+          "subNumber": "b",
+          "text": "In Time Division Multiplexing (TDM), multiple signals share:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Power slots",
+            "Code slots",
+            "Time slots",
+            "Frequency slots"
+          ]
+        },
+        {
+          "id": "sem2_digicom_2024_68_q1_s3",
+          "subNumber": "c",
+          "text": "Which modulation technique is most commonly used in CDMA?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "QAM",
+            "PSK",
+            "ASK",
+            "FSK"
+          ]
+        },
+        {
+          "id": "sem2_digicom_2024_68_q1_s4",
+          "subNumber": "d",
+          "text": "In Quadrature Amplitude Modulation (QAM), the information is carried by:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Frequency and phase",
+            "Amplitude and phase",
+            "Amplitude only",
+            "Phase only"
+          ]
+        },
+        {
+          "id": "sem2_digicom_2024_68_q1_s5",
+          "subNumber": "e",
+          "text": "What does the signal-to-quantization noise ratio (SQNR) measure?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Bandwidth efficiency",
+            "Power efficiency",
+            "Distortion in quantized signals",
+            "Signal attenuation"
+          ]
+        },
+        {
+          "id": "sem2_digicom_2024_68_q1_s6",
+          "subNumber": "f",
+          "text": "Which line coding technique uses zero crossing for binary '1' and '0'?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "AMI",
+            "Manchester coding",
+            "RZ",
+            "NRZ"
+          ]
+        },
+        {
+          "id": "sem2_digicom_2024_68_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following is true for Adaptive Delta Modulation (ADM)?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It uses fixed bandwidth",
+            "It increases quantization noise",
+            "It reduces slope overload",
+            "It has fixed step size"
+          ]
+        },
+        {
+          "id": "sem2_digicom_2024_68_q1_s8",
+          "subNumber": "h",
+          "text": "A matched filter maximizes which of the following?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Transmission speed",
+            "Signal-to-noise ratio",
+            "Noise",
+            "Signal power"
+          ]
+        },
+        {
+          "id": "sem2_digicom_2024_68_q1_s9",
+          "subNumber": "i",
+          "text": "Inter-symbol interference (ISI) primarily occurs due to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "High bit rate",
+            "Low signal-to-noise ratio",
+            "Over-sampling",
+            "Improper filtering"
+          ]
+        },
+        {
+          "id": "sem2_digicom_2024_68_q1_s10",
+          "subNumber": "j",
+          "text": "Amplitude Shift Keying (ASK) modulates which signal characteristic?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Pulse width",
+            "Frequency",
+            "Phase",
+            "Amplitude"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_digicom_2024_68_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digicom_2024_68_q2_s1",
+          "subNumber": "a",
+          "text": "State and prove the sampling theorem. Why is it important in digital communication systems?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digicom_2024_68_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the working principle of Differential Phase Shift Keying (DPSK) and how it differs from standard PSK.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digicom_2024_68_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digicom_2024_68_q3_s1",
+          "subNumber": "a",
+          "text": "A signal is encoded using 8-bit PCM. Calculate the data rate if the signal is sampled at 8 kHz. What will be the data rate for 16-bit PCM at the same sampling rate?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digicom_2024_68_q3_s2",
+          "subNumber": "b",
+          "text": "Derive the expression for the probability of error in a matched filter receiver.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digicom_2024_68_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digicom_2024_68_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss the concept of a baseband signal receiver and the factors affecting the probability of error in digital communication systems.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digicom_2024_68_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the process of quantization in a digital communication system. Differentiate between uniform and non-uniform quantization.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digicom_2024_68_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digicom_2024_68_q5_s1",
+          "subNumber": "a",
+          "text": "A QPSK system transmits at a data rate of 2 Mbps. If the noise power spectral density is \\( 0.5 \\mu W/Hz \\) and the signal power is 1 mW, calculate the bit error rate (BER) of the system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digicom_2024_68_q5_s2",
+          "subNumber": "b",
+          "text": "Discuss the principles of Code Division Multiple Access (CDMA) and how it differs from TDM and FDM.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digicom_2024_68_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digicom_2024_68_q6_s1",
+          "subNumber": "a",
+          "text": "Derive the Nyquist criterion for zero ISI. Explain how this criterion ensures distortion-free transmission.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digicom_2024_68_q6_s2",
+          "subNumber": "b",
+          "text": "Describe the block diagram of a digital communication system and function of each block.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digicom_2024_68_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digicom_2024_68_q7_s1",
+          "subNumber": "a",
+          "text": "What is aliasing? Explain the causes of aliasing and how it can be avoided in digital communication systems.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digicom_2024_68_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss the various types of line coding techniques used in digital communication. Compare unipolar, polar, and bipolar schemes.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digicom_2024_68_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digicom_2024_68_q8_s1",
+          "subNumber": "a",
+          "text": "Explain Amplitude Shift Keying (ASK), Frequency Shift Keying (FSK), and Phase Shift Keying (PSK) with waveform examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digicom_2024_68_q8_s2",
+          "subNumber": "b",
+          "text": "What is Minimum Shift Keying (MSK)? Explain its advantages over FSK and other digital modulation techniques.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_digicom_2024_68_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_digicom_2024_68_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Orthogonal Frequency Division Multiple Access (OFDMA).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digicom_2024_68_q9_s2",
+          "subNumber": "b",
+          "text": "(b) Matched filter.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digicom_2024_68_q9_s3",
+          "subNumber": "c",
+          "text": "(c) Coherent reception &amp; Non-Coherent reception.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_digicom_2024_68_q9_s4",
+          "subNumber": "d",
+          "text": "(d) Advantages of Digital communication system over Analog communication systems.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

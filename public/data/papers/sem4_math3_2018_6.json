@@ -1,0 +1,337 @@
+{
+  "id": "sem4_math3_2018_6",
+  "semester": 4,
+  "subject_code": "math3",
+  "subject_name": "Engineering Mathematics - III",
+  "year": "2018",
+  "exam_code": "211303",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2018 MATHEMATICS-III Time: 03 Hours Code: 211303 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 6,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_math3_2018_6_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2018_6_q1_s1",
+          "subNumber": "a",
+          "text": "If \\( P_n \\) is the Legendre polynomial of first kind, then the value of \\( \\int_{-1}^1 P_{n+1}^2 dx \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( \\frac{2}{(2n+1)} \\)",
+            "\\( \\frac{2}{(2n+2)} \\)",
+            "\\( \\frac{2}{(2n+3)} \\)",
+            "\\( \\frac{2}{(2n+4)} \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2018_6_q1_s2",
+          "subNumber": "b",
+          "text": "If \\( J_n \\) the Bessel's function of first kind, then the value of \\( J_{3/2} \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( \\sqrt{\\frac{2}{\\pi x}}\\left(\\frac{\\cos x}{x} - \\sin x\\right) \\)",
+            "\\( \\sqrt{\\frac{2}{\\pi x}}\\left(\\frac{\\sin x}{x} - \\cos x\\right) \\)",
+            "\\( \\sqrt{\\frac{2}{\\pi x}}\\sin x \\)",
+            "\\( \\sqrt{\\frac{2}{\\pi x}}\\cos x \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2018_6_q1_s3",
+          "subNumber": "c",
+          "text": "The general solution of \\( \\frac{d^2y}{dx^2} + 9y = \\sin^3 x \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( y = A \\cos(3x+B) + \\frac{1}{24}\\sin x - \\sin 3x \\)",
+            "\\( y = A e^{3x} + Be^{-3x} + \\frac{1}{32}\\sin x + \\frac{1}{2}\\cos 3x \\)",
+            "\\( y = A + Be^{3x} + 2\\sin x - \\frac{5}{13}\\sin 3x \\)",
+            "\\( y = A \\sin(3x+B) + \\frac{3}{32}\\sin x + \\frac{x}{24}\\cos 3x \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2018_6_q1_s4",
+          "subNumber": "d",
+          "text": "The general solution of \\( \\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} = 0 \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( u = f(x+iy) + g(x-iy) \\)",
+            "\\( u = f(x+y) + g(x-y) \\)",
+            "\\( u = cf(x-iy) \\)",
+            "\\( u = cg(x+iy) \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2018_6_q1_s5",
+          "subNumber": "e",
+          "text": "The radius of convergence of the series \\( \\sum_{n=0}^\\infty (3+4i)^n z^n \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "5",
+            "\\( \\frac{1}{5} \\)",
+            "\\( 3+4i \\)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_math3_2018_6_q1_s6",
+          "subNumber": "f",
+          "text": "The value of the integral \\( \\oint_{|z|=2} \\frac{e^{2z}}{(z+1)^4} dz \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 2\\pi ie^{-1} \\)",
+            "\\( \\frac{8\\pi i}{3}e^{-2} \\)",
+            "\\( \\frac{2\\pi i}{3}e^{-2} \\)",
+            "0"
+          ]
+        },
+        {
+          "id": "sem4_math3_2018_6_q1_s7",
+          "subNumber": "g",
+          "text": "Let A, B and C be any three independent events. Which one of the following is incorrect statement?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( P(A/B) = P(A) \\)",
+            "\\( P(B/A) = P(B) \\)",
+            "\\( P(A \\cap B) = P(A)P(B) \\)",
+            "\\( P(A \\cup B) = P(A) + P(B) \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2018_6_q1_s8",
+          "subNumber": "h",
+          "text": "A random variable X has a Poisson distribution. If \\( 4P(X=2) = P(X=1) + P(X=0) \\) then the variance of X is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "3",
+            "2",
+            "1",
+            "4"
+          ]
+        },
+        {
+          "id": "sem4_math3_2018_6_q1_s9",
+          "subNumber": "i",
+          "text": "The moment-generating function of a continuous random variable X be given as, \\( M_X(t) = (1-t)^{-9}, |t|&lt;1 \\). Then its mean and variance are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(9, 1/9)",
+            "(9, 9)",
+            "(3, 3)",
+            "(1/9, 1/9)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2018_6_q1_s10",
+          "subNumber": "j",
+          "text": "For the differential equation \\( t(t-2)^2y'' + ty' + y = 0 \\), \\( t=0 \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "an ordinary point",
+            "a branch point",
+            "an irregular point",
+            "a regular singular point"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2018_6_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2018_6_q2_s1",
+          "subNumber": "a",
+          "text": "Solve the following differential equation in series form: \\( x(x-1)\\frac{d^2y}{dx^2} + (3x-1)\\frac{dy}{dx} + y = 0 \\).",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_math3_2018_6_q2_s2",
+          "subNumber": "b",
+          "text": "Show that \\( P_{2n}(0) = (-1)^n \\frac{(2n)!}{2^{2n}(n!)^2} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2018_6_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2018_6_q3_s1",
+          "subNumber": "a",
+          "text": "Show that \\( P_n(x) \\) is the coefficient of \\( t^n \\) in the expansion of \\( (1-2xt+t^2)^{-1/2} \\) in ascending power of t.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2018_6_q3_s2",
+          "subNumber": "b",
+          "text": "Prove that \\( J_{5/2}(x) = \\sqrt{\\frac{2}{\\pi x}}\\left[\\left(\\frac{3-x^2}{x^2}\\right)\\sin x - \\frac{3\\cos x}{x}\\right] \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2018_6_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2018_6_q4_s1",
+          "subNumber": "a",
+          "text": "Solve the differential equation \\( (p^2+q^2)y = qz \\).",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_math3_2018_6_q4_s2",
+          "subNumber": "b",
+          "text": "Solve the linear partial differential equation \\( \\frac{\\partial^2 z}{\\partial x^2} + \\frac{\\partial^2 z}{\\partial x \\partial y} - 6\\frac{\\partial^2 z}{\\partial y^2} = y \\cos x \\).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2018_6_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2018_6_q5_s1",
+          "subNumber": "a",
+          "text": "A tightly stretched string with fixed end points \\( x=0 \\) and \\( x=l \\) is initially at rest in its equilibrium position. If it is set vibrating by giving to each of its points on initial velocity \\( \\lambda x(l-x) \\), find the displacement of the string at any distance x from one end at any time t.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2018_6_q5_s2",
+          "subNumber": "b",
+          "text": "Prove that \\( (1-x^2)P_n'(x) = (n+1)[xP_n(x) - P_{n+1}(x)] \\).",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2018_6_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2018_6_q6_s1",
+          "subNumber": "a",
+          "text": "If \\( f(z) = u+iv \\) is an analytic function and \\( u-v = e^{-x}[(x-y)\\sin y - (x+y)\\cos y] \\), then find u, v and analytic function \\( f(z) \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2018_6_q6_s2",
+          "subNumber": "b",
+          "text": "Show that if \\( f(z) = u+iv \\) is an analytic function and (i) Re \\( f(z) \\) = constant, (ii) Im \\( f(z) \\) = constant, then \\( f(z) \\) is a constant.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2018_6_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2018_6_q7_s1",
+          "subNumber": "a",
+          "text": "Find all possible Taylor and Laurent series expansions of the function \\( f(z) = 1/[(z+1)(z+2)^2] \\) about the point \\( z=1 \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2018_6_q7_s2",
+          "subNumber": "b",
+          "text": "Evaluate the integral \\( \\int_0^{2\\pi} \\frac{d\\theta}{2+\\sin\\theta} \\) by using the residue theorem.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2018_6_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2018_6_q8_s1",
+          "subNumber": "a",
+          "text": "The odds that person X speaks the truth are 3:2 and the odds that person Y speaks the truth are 5:3. In what percentage of cases are they likely to contradict each other on an identical point?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2018_6_q8_s2",
+          "subNumber": "b",
+          "text": "A random variable X has the following probability function: <br/> P(x) values for x = 0, 1, 2, 3, 4, 5, 6 are respectively \\( 0, k, 2k, 2k, 3k, k^2, 2k^2, 7k^2+k \\). <br/> (i) Find k. <br/> (ii) Evaluate \\( P(X&lt;6) \\), \\( P(X\\ge6) \\) and \\( P(0<x<5) <br=\"\" \\).=\"\"> (iii) If \\( P(X\\le\\alpha)&gt;1/2 \\), find the minimum value of \\( \\alpha \\). <br/> (iv) Determine the distribution function of X.</x<5)>",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2018_6_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2018_6_q9_s1",
+          "subNumber": "a",
+          "text": "Let X be a non-negative random variable such that \\( \\log X = Y \\) (say) is normally distributed with mean \\( \\mu \\) and variance \\( \\sigma^2 \\). <br/> (i) Write down the probability density function of X. Find \\( E(X) \\) and var(X). <br/> (ii) Find the median and the mode of the distribution of X.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2018_6_q9_s2",
+          "subNumber": "b",
+          "text": "In one sample of 8 observations, the sum of the squares of deviations of the sample values from the sample mean was 84.4 and in other sample of 10 observations it was 102.6. Test whether this difference is significant at 5 per cent level, given that the 5 per cent point of F for \\( n_1=7 \\) and \\( n_2=9 \\) degrees of freedom is 3.29.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

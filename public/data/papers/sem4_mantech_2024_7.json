@@ -1,0 +1,337 @@
+{
+  "id": "sem4_mantech_2024_7",
+  "semester": 4,
+  "subject_code": "mantech",
+  "subject_name": "Manufacturing Technology",
+  "year": "2024",
+  "exam_code": "102603",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Examination, 2024 Manufacturing Technology Time: 03 Hours Code: 102603 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 5,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mantech_2024_7_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2024_7_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following process is not grouped under metal removal process?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "boring",
+            "milling",
+            "tumbling",
+            "rolling"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2024_7_q1_s2",
+          "subNumber": "b",
+          "text": "Machine tools can be classified as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "geometric shape of the work piece",
+            "number of the work piece",
+            "function of the machine",
+            "all of the mentioned"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2024_7_q1_s3",
+          "subNumber": "c",
+          "text": "Structural sections such as rails, angles, I-beams are made by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Hot rolling",
+            "Hot drawing",
+            "Hot piercing",
+            "Hot extrusion"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2024_7_q1_s4",
+          "subNumber": "d",
+          "text": "Ultrasonic machining is best suited for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Non-ferrous metal",
+            "Brittle materials",
+            "Amorphous solids",
+            "Dielectrics"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2024_7_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following processes has the highest metal removal rate?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Chemical machining",
+            "Abrasive machining",
+            "Ultrasonic machining",
+            "Electron beam machining"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2024_7_q1_s6",
+          "subNumber": "f",
+          "text": "In abrasive jet machining metal removal takes place due to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "evaporation",
+            "erosion",
+            "corrosion",
+            "melting"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2024_7_q1_s7",
+          "subNumber": "g",
+          "text": "Taylor's principle is concerned with",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Pneumatic comparators",
+            "Interferometric measurements",
+            "Gauging measurements",
+            "Angular measurement"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2024_7_q1_s8",
+          "subNumber": "h",
+          "text": "Limit Gauge",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "checks whether the part is made within the specified tolerance",
+            "measures both upper and lower specification limit",
+            "measures the value of the lower specification limit",
+            "measures the value of the upper specification limit"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2024_7_q1_s9",
+          "subNumber": "i",
+          "text": "Tachometers are used to measure:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Acceleration",
+            "Angular velocity",
+            "Time",
+            "Force"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2024_7_q1_s10",
+          "subNumber": "j",
+          "text": "Tolerance of gauges can be checked by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "optical flat",
+            "sine bar",
+            "auto collimator",
+            "spirit level"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2024_7_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2024_7_q2_s1",
+          "subNumber": "a",
+          "text": "Differentiate Hot and Cold Working Process.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2024_7_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss the classification of press tools.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2024_7_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2024_7_q3_s1",
+          "subNumber": "a",
+          "text": "Describe briefly the design principles for jigs and fixtures.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mantech_2024_7_q3_s2",
+          "subNumber": "b",
+          "text": "Describe briefly the accessories of jigs and fixtures.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2024_7_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2024_7_q4_s1",
+          "subNumber": "a",
+          "text": "State and explain the Taylor's principle of gauge design with neat sketch of Plug gauge and Snap gauges.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mantech_2024_7_q4_s2",
+          "subNumber": "b",
+          "text": "Explain with the help of a diagram the principle of working of a sine bar for angular measurement. List the advantages and limitations of sine bar.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2024_7_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2024_7_q5_s1",
+          "subNumber": "a",
+          "text": "Why is it necessary to give a tolerance on engineering dimension? Give an example of both unilateral and bilateral tolerances.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2024_7_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the classification of material handling equipments.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2024_7_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2024_7_q6_s1",
+          "subNumber": "a",
+          "text": "Explain Abrasive Jet Machining (AJM) with neat sketch. Also explain its advantages and disadvantages.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_mantech_2024_7_q6_s2",
+          "subNumber": "b",
+          "text": "Explain Water Jet Machining (WJM) with neat sketch. Also explain its advantages and disadvantages.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2024_7_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2024_7_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the basic principle of Electro Discharge Machining Die Sinking EDM explain different process parameters (Input parameters) used.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2024_7_q7_s2",
+          "subNumber": "b",
+          "text": "Enumerate the difference between AJM and WJM.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2024_7_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2024_7_q8_s1",
+          "subNumber": "a",
+          "text": "Explain Ultrasonic Machining with neat sketch. Also mention different process parameters.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_mantech_2024_7_q8_s2",
+          "subNumber": "b",
+          "text": "Explain Electro Chemical Machining with neat sketch. Also explain its advantages and disadvantages.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2024_7_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2024_7_q9_s1",
+          "subNumber": "a",
+          "text": "Enumerate the difference between Laser Beam Machining (LBM) and Electron beam Machining (EBM).",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mantech_2024_7_q9_s2",
+          "subNumber": "b",
+          "text": "Explain wire-cut EDM with neat sketch. Also explain its advantages and disadvantages.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    }
+  ]
+}

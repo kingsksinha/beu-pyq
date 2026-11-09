@@ -1,0 +1,331 @@
+{
+  "id": "sem3_env1_2020_37",
+  "semester": 3,
+  "subject_code": "env1",
+  "subject_name": "Environmental Engineering -I",
+  "year": "2020",
+  "exam_code": "101502",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2020 Environment Engineering-I Time: 3 hours Code: 101502 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Assume data suitably, if not given."
+  ],
+  "questions": [
+    {
+      "id": "sem3_env1_2020_37_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2020_37_q1_s1",
+          "subNumber": "a",
+          "text": "Normally designed period for a water supply scheme is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "up to 20 years",
+            "20-40 years",
+            "40-60 years",
+            "60-80 years"
+          ]
+        },
+        {
+          "id": "sem3_env1_2020_37_q1_s2",
+          "subNumber": "b",
+          "text": "According to Indian Standards, water requirement per head per day in an office building is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "15 litres",
+            "30 litres",
+            "45 litres",
+            "60 litres"
+          ]
+        },
+        {
+          "id": "sem3_env1_2020_37_q1_s3",
+          "subNumber": "c",
+          "text": "Methemoglobinemia, the blue baby syndrome is caused by consuming water containing excess of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "fluoride",
+            "phosphate",
+            "nitrite",
+            "nitrate"
+          ]
+        },
+        {
+          "id": "sem3_env1_2020_37_q1_s4",
+          "subNumber": "d",
+          "text": "Colour of water is expressed in number of a",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "po value",
+            "silica scale",
+            "platinum-cobalt scale",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env1_2020_37_q1_s5",
+          "subNumber": "e",
+          "text": "The maximum permissible chloride in water for domestic purpose should not exceed",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "250 mg/l",
+            "500 mg/l",
+            "750 mg/l",
+            "1000 mg/l"
+          ]
+        },
+        {
+          "id": "sem3_env1_2020_37_q1_s6",
+          "subNumber": "f",
+          "text": "Suitable layout of water distribution system for a well-planned city is",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "dead end system",
+            "grid-iron system",
+            "ring system",
+            "radial system"
+          ]
+        },
+        {
+          "id": "sem3_env1_2020_37_q1_s7",
+          "subNumber": "g",
+          "text": "Reflux valve is also known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "sluice valve",
+            "air valve",
+            "check valve",
+            "drain valve"
+          ]
+        },
+        {
+          "id": "sem3_env1_2020_37_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following factors is primarily responsible for causing air pollution in modern days?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Dust storms",
+            "Industries and automobiles",
+            "Forest fires",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env1_2020_37_q1_s9",
+          "subNumber": "i",
+          "text": "During temperature inversion in atmosphere, air pollutants tend to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "accumulate above inversion layer",
+            "accumulate below inversion layer",
+            "disperse laterally",
+            "disperse vertically"
+          ]
+        },
+        {
+          "id": "sem3_env1_2020_37_q1_s10",
+          "subNumber": "j",
+          "text": "As per IS: 4954-1964 an acceptable noise level for residential and business urban areas is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "40-50 dB",
+            "30-40 dB",
+            "15-25 dB",
+            "50-60 dB"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2020_37_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2020_37_q2_s1",
+          "subNumber": "a",
+          "text": "What is the difference between BOD and COD? Calculate 2 days \\( 30^{\\circ}C \\) BOD of sewage sample whose 5 days \\( 20^{\\circ}C \\) BOD is 110 mg/l. Assume \\( K_{D} \\) at \\( 20^{\\circ}C \\) as 0.1.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_env1_2020_37_q2_s2",
+          "subNumber": "b",
+          "text": "Explain in detail the structure of atmosphere.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2020_37_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2020_37_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss the important characteristics of water used for domestic purpose. Draw the flow sheet of conventional treatment of water.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2020_37_q3_s2",
+          "subNumber": "b",
+          "text": "What is the difference between disinfection and sterilization? Explain the different methods of disinfection.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2020_37_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2020_37_q4_s1",
+          "subNumber": "a",
+          "text": "Define air pollution, and differentiate between natural and man-made air pollution.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2020_37_q4_s2",
+          "subNumber": "b",
+          "text": "What is photochemical smog, how is it formed and how does it effect?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2020_37_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2020_37_q5_s1",
+          "subNumber": "a",
+          "text": "Write a note on air pollution caused by automobiles and its control.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2020_37_q5_s2",
+          "subNumber": "b",
+          "text": "What is meant by the effective height of a chimney and how is it computed?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2020_37_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2020_37_q6_s1",
+          "subNumber": "a",
+          "text": "What is noise? What is its unit of measurement? What are the ill effects of noise pollution?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2020_37_q6_s2",
+          "subNumber": "b",
+          "text": "Explain in brief the major factors and action that may help in noise abatement in society.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2020_37_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2020_37_q7_s1",
+          "subNumber": "a",
+          "text": "Illustrate with sketches the different types of layouts of pipe systems in distributing water, and compare their merits and demerits.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2020_37_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss briefly the common stresses produced in pipelines used for conveying water.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2020_37_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2020_37_q8_s1",
+          "subNumber": "a",
+          "text": "Briefly discuss the design principles involved in the design of a water supply network to be laid in multi-storeyed residential building.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2020_37_q8_s2",
+          "subNumber": "b",
+          "text": "What factors will you keep in mind while designing plumbing system for water supply to a house?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2020_37_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2020_37_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

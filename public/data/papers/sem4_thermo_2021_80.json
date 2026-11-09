@@ -1,0 +1,337 @@
+{
+  "id": "sem4_thermo_2021_80",
+  "semester": 4,
+  "subject_code": "thermo",
+  "subject_name": "Thermodynamics",
+  "year": "2021",
+  "exam_code": "102304",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Examination, 2021 Thermodynamics Time: 03 Hours Code: 102304 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_thermo_2021_80_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer from the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2021_80_q1_s1",
+          "subNumber": "a",
+          "text": "Air is compressed adiabatically in a steady flow process with negligible change in potential and kinetic energy. The work done in the process is given by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( -\\int pdv \\)",
+            "\\( +\\int pdv \\)",
+            "\\( -\\int vdp \\)",
+            "\\( +\\int vdp \\)"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2021_80_q1_s2",
+          "subNumber": "b",
+          "text": "Which one of the following is the extensive property of a thermodynamic system?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Volume",
+            "Pressure",
+            "Temperature",
+            "Density"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2021_80_q1_s3",
+          "subNumber": "c",
+          "text": "The time constant of a thermocouple is the time taken to attain",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the final value to be measured",
+            "50% of the value of the initial temperature difference",
+            "63.2% of the value of the initial temperature difference",
+            "98.8% of the value of the initial temperature difference"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2021_80_q1_s4",
+          "subNumber": "d",
+          "text": "For the expression \\( \\int pdv \\) to represent the work, which of the following conditions should apply?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The system is closed one and process takes place in non-flow system",
+            "The process is non-quasi static",
+            "The boundary of the system should not move in order that work may be transferred",
+            "If the system is open one, it should be non-reversible"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2021_80_q1_s5",
+          "subNumber": "e",
+          "text": "For a closed system, the difference between the heat added to the system and the work done by the system is equal to the change in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "enthalpy",
+            "entropy",
+            "temperature",
+            "internal energy"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2021_80_q1_s6",
+          "subNumber": "f",
+          "text": "Change in internal energy in a reversible process occurring in a closed system is equal to the heat transferred, if the process occurs at constant",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "pressure",
+            "volume",
+            "temperature",
+            "enthalpy"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2021_80_q1_s7",
+          "subNumber": "g",
+          "text": "A reversible engine operates between temperatures 900 K and \\( T_2 \\) (\\( T_2 &lt; 900 \\text{ K} \\)), and another reversible engine between \\( T_2 \\) and 400 K (\\( T_2&gt; 400 \\text{ K} \\)) in series. What is the value of \\( T_2 \\) if work outputs of both the engines are equal?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "600 K",
+            "625 K",
+            "650 K",
+            "675 K"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2021_80_q1_s8",
+          "subNumber": "h",
+          "text": "A Carnot engine operates between \\( 327^\\circ\\text{C} \\) and \\( 27^\\circ\\text{C} \\). If the engine produces 300 kJ of work, what is the entropy change during heat addition?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "0.5 kJ/K",
+            "1.0 kJ/K",
+            "1.5 kJ/K",
+            "2.0 kJ/K"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2021_80_q1_s9",
+          "subNumber": "i",
+          "text": "In which one of the following situations the entropy change will be negative?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Air expands isothermally from 6 bars to 3 bars",
+            "Air is compressed to half the volume at constant pressure",
+            "Heat is supplied to air at constant volume till the pressure becomes three folds",
+            "Air expands isentropically from 6 bars to 3 bars"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2021_80_q1_s10",
+          "subNumber": "j",
+          "text": "Neglecting changes in kinetic energy and potential energy, for unit mass the availability in a non-flow process becomes \\( a = \\phi - \\phi_0 \\), where \\( \\phi \\) is the availability function of the",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "open system",
+            "closed system",
+            "isolated system",
+            "steady flow process"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2021_80_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2021_80_q2_s1",
+          "subNumber": "a",
+          "text": "Define thermodynamic equilibrium. With the help of practical example, explain the phenomenon of achieving a thermodynamic equilibrium of system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2021_80_q2_s2",
+          "subNumber": "b",
+          "text": "0.1 \\( \\text{m}^3 \\) of an ideal gas at 300 K and 1 bar is compressed adiabatically to 8 bars. It is then cooled at constant volume and expanded isothermally so as to reach the condition from where it started. Calculate (i) pressure at the end of constant volume cooling, (ii) change in internal energy during constant volume process and (iii) net work done and heat transferred during the cycle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2021_80_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2021_80_q3_s1",
+          "subNumber": "a",
+          "text": "What is SFEE? Derive the SFEE equation of an open system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2021_80_q3_s2",
+          "subNumber": "b",
+          "text": "Air at a temperature of \\( 20^\\circ\\text{C} \\) passes through a heat exchanger at a velocity of 40 m/s where its temperature is raised to \\( 820^\\circ\\text{C} \\). It then enters a turbine with same velocity of 40 m/s and expands till the temperature falls to \\( 620^\\circ\\text{C} \\). On leaving the turbine, the air is taken at a velocity of 55 m/s to a nozzle where it expands until the temperature has fallen to \\( 510^\\circ\\text{C} \\). If the air flow rate is 2.5 kg/s calculate (i) rate of heat transfer to the air in the heat exchanger, (ii) the power output from the turbine assuming no heat loss, (iii) the velocity at exit from the nozzle, assuming no heat loss. Take the enthalpy of air as \\( h = C_pt \\), where \\( C_p \\) is the specific heat equal to 1.005 kJ/kg\\(^\\circ\\text{C}\\) and \\( t \\) be the temperature.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2021_80_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2021_80_q4_s1",
+          "subNumber": "a",
+          "text": "Draw a neat sketch of throttling calorimeter and explain how dryness fraction of steam is determined. Clearly explain its limitations.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2021_80_q4_s2",
+          "subNumber": "b",
+          "text": "A quantity of steam at 13 bars and 0.8 dryness occupies 0.1 \\( \\text{m}^3 \\). Determine the heat supplied to raise the temperature of the steam to \\( 250^\\circ\\text{C} \\) at constant pressure and percentage of this heat which appears as external work. Take specific heat for superheated steam as 2.2 kJ/kgK.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2021_80_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2021_80_q5_s1",
+          "subNumber": "a",
+          "text": "Prove the equivalence of Clausius statement to the Kelvin-Planck statement with schematic diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2021_80_q5_s2",
+          "subNumber": "b",
+          "text": "A reversible heat pump is used to maintain a temperature of \\( 0^\\circ\\text{C} \\) in a refrigerator when it rejects the heat to the surroundings at \\( 25^\\circ\\text{C} \\). (i) If the heat removal rate from the refrigerator is 1440 kJ/min, determine the COP of the machine and work input required. (ii) If the required input to run the pump is developed by a reversible engine which receives heat at \\( 380^\\circ\\text{C} \\) and rejects heat to atmosphere, then determine the overall COP of the system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2021_80_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2021_80_q6_s1",
+          "subNumber": "a",
+          "text": "Derive expressions for entropy changes for a closed system in the cases- (i) general case for change of entropy of a gas, (ii) heating a gas at constant volume and (iii) heating a gas at constant pressure.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2021_80_q6_s2",
+          "subNumber": "b",
+          "text": "1.2 \\( \\text{m}^3 \\) of air is heated reversibly at constant pressure from 300 K to 600 K, and is then cooled reversibly at constant volume back to initial temperature. If the initial pressure is 1 bar, calculate (i) the net heat flow, (ii) the overall change in entropy. Represent the processes on T-S plot.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2021_80_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2021_80_q7_s1",
+          "subNumber": "a",
+          "text": "Deduce an expression for decrease in available energy when heat is transferred through a finite temperature difference.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_thermo_2021_80_q7_s2",
+          "subNumber": "b",
+          "text": "8 kg of air at 650 K and 5.5 bars pressure is enclosed in a closed system. If the atmospheric temperature and pressure are 300 K and 1 bar respectively, determine (i) the availability if the system goes through the ideal work producing process, (ii) the availability and effectiveness if the air is cooled at constant pressure to atmospheric temperature without bringing it to complete dead state. Take \\( C_v = 0.718 \\text{ kJ/kgK} \\); \\( C_p = 1.005 \\text{ kJ/kgK} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2021_80_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2021_80_q8_s1",
+          "subNumber": "a",
+          "text": "A mass of air initially at \\( 260^\\circ\\text{C} \\) and a pressure of 6.86 bars has a volume of 0.03 \\( \\text{m}^3 \\). The air is expanded at constant pressure to 0.09 \\( \\text{m}^3 \\) a polytropic process with \\( n = 1.5 \\) is then carried out, followed by a constant temperature process which completes the cycle. All processes are reversible. Find (i) the heat received and rejected in the cycle, (ii) the efficiency of the cycle. Show the cycle on p-v and T-s planes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2021_80_q8_s2",
+          "subNumber": "b",
+          "text": "A steel flask of 0.04 \\( \\text{m}^3 \\) capacity is to be used to store nitrogen at 120 bars, \\( 20^\\circ\\text{C} \\). The flask is to be protected against excessive pressure by a fusible plug which will melt and allow the gas to escape if the temperature rises too high. (i) How many kg of nitrogen will the flask hold at the designed conditions? (ii) At what temperature must the fusible plug melt in order to limit the pressure of a full flask to a maximum of 150 bars?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2021_80_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2021_80_q9_s1",
+          "subNumber": "a",
+          "text": "Define the following: (i) Dew-point temperature (ii) Relative humidity (iii) Degree of saturation",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2021_80_q9_s2",
+          "subNumber": "b",
+          "text": "On a particular day, the atmospheric air was found to have a dry bulb temperature of \\( 30^\\circ\\text{C} \\) and a wet bulb temperature of \\( 18^\\circ\\text{C} \\). The barometric pressure was observed to be 756 mm of Hg. Using the tables of psychrometric properties of air, determine the relative humidity, the specific humidity, the dew-point temperature, the enthalpy of air per kg of dry air and the volume of mixture per kg of dry air.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

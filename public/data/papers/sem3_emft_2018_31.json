@@ -1,0 +1,284 @@
+{
+  "id": "sem3_emft_2018_31",
+  "semester": 3,
+  "subject_code": "emft",
+  "subject_name": "Electromagnetic Field Theory",
+  "year": "2018",
+  "exam_code": "031506",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2018 Electromagnetic Field Theory Time: 3 hours Code: 031506 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_emft_2018_31_q1",
+      "number": 1,
+      "title": "Q.1 Fill in the blanks any seven of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2018_31_q1_s1",
+          "subNumber": "a",
+          "text": "VSWR of a matched load is ___________",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q1_s2",
+          "subNumber": "b",
+          "text": "Normal component of magnetic flux density is ___________ across the boundary.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q1_s3",
+          "subNumber": "c",
+          "text": "Intrinsic impedance of lossless medium is ___________",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q1_s4",
+          "subNumber": "d",
+          "text": "If the current flowing in the two wires is in the same direction, then there will be force of ___________",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q1_s5",
+          "subNumber": "e",
+          "text": "Divergence of velocity of water well within the surface of water is ___________",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q1_s6",
+          "subNumber": "f",
+          "text": "The product of short-circuited impedance and open-circuited impedance of a transmission line is ___________",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q1_s7",
+          "subNumber": "g",
+          "text": "The input impedance of a resonant section of transmission line is given by ___________",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emft_2018_31_q1_s8",
+          "subNumber": "h",
+          "text": "Brewster angle is given by ___________",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q1_s9",
+          "subNumber": "i",
+          "text": "Surface impedance of a good conductor is ___________",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q1_s10",
+          "subNumber": "j",
+          "text": "Power loss in a plane conductor is ___________",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2018_31_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2018_31_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss uniqueness theorem in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q2_s2",
+          "subNumber": "b",
+          "text": "Find the capacitance between two spheres whose separation d is very much larger than their radii R.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2018_31_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2018_31_q3_s1",
+          "subNumber": "a",
+          "text": "Express Laplacian operator in curvilinear coordinate system and find \\( \\nabla^2V \\), where \\( V=10\\; r\\; \\sin^2\\theta\\; \\cos\\phi \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss boundary condition at the interface between two dielectric mediums and find the magnitude of \\( \\vec{D} \\) and \\( \\vec{E} \\) in one medium as compared to another medium.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2018_31_q4",
+      "number": 4,
+      "title": "Q.4 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2018_31_q4_s1",
+          "subNumber": "a",
+          "text": "Find the energy stored in a magnetic field.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emft_2018_31_q4_s2",
+          "subNumber": "b",
+          "text": "Discuss Stokes' law.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q4_s3",
+          "subNumber": "c",
+          "text": "Discuss magnetic vector potential.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2018_31_q5",
+      "number": 5,
+      "title": "Q.5 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2018_31_q5_s1",
+          "subNumber": "a",
+          "text": "In a medium characterized by \\( \\sigma=0 \\), \\( \\mu=\\mu_0 \\) and \\( \\epsilon_r=4 \\), \\( \\vec{E} \\) is given by \\( \\vec{E}=20\\sin(10^8t-\\beta z)\\hat{y} \\text{ V/m} \\). Calculate \\( \\vec{H} \\) and \\( \\beta \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q5_s2",
+          "subNumber": "b",
+          "text": "Discuss continuity equation for current.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q5_s3",
+          "subNumber": "c",
+          "text": "Discuss analogies between electric and magnetic fields.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2018_31_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2018_31_q6_s1",
+          "subNumber": "a",
+          "text": "Find the ratio of \\( \\vec{E} \\) and \\( \\vec{H} \\) in a uniform plane wave in a lossless medium.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emft_2018_31_q6_s2",
+          "subNumber": "b",
+          "text": "Using \\( \\nabla\\cdot\\vec{D}=\\rho \\), Ohm's law and equation of continuity, show that if at any instant a charge density \\( \\rho \\) existed within a conductor, it would decrease to \\( 1/e \\) times this value in a time \\( \\epsilon/\\sigma \\) sec. Calculate this time for copper conductor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2018_31_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2018_31_q7_s1",
+          "subNumber": "a",
+          "text": "The electric field strength of a uniform plane electromagnetic wave in free space is \\( 1 \\text{ V/m} \\) and the frequency is 300 MHz. If a very large thick flat copper plate is placed normal to the direction of wave propagation, determine (a) the electric field strength and magnetic field strength at the surface of the plate, (b) the depth of penetration, (c) the conduction current density at the surface, (d) conduction current density at a distance of 0.01 mm below the surface, (e) the linear current density, \\( I_s \\), (f) the surface impedance, (g) the power loss per square meter of surface area. For copper \\( \\sigma=5.8\\times 10^7 \\), \\( \\epsilon=\\epsilon_0 \\) and \\( \\mu=\\mu_0 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2018_31_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2018_31_q8_s1",
+          "subNumber": "a",
+          "text": "Explain Poynting theorem.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emft_2018_31_q8_s2",
+          "subNumber": "b",
+          "text": "A short vertical transmitting antenna erected on the surface of a perfectly conducting earth produces effective field strength \\( E_{eff} = E_{\\theta \\text{ eff}} = 100\\sin\\theta \\text{ mV/m} \\) at points a distance of one mile from the antenna. Compute the Poynting vector and total power radiated.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_emft_2018_31_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emft_2018_31_q9_s1",
+          "subNumber": "a",
+          "text": "Find the quality factor of a resonant transmission line section.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emft_2018_31_q9_s2",
+          "subNumber": "b",
+          "text": "Discuss quarter wave line as transformer.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

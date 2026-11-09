@@ -1,0 +1,344 @@
+{
+  "id": "sem3_hydro_2022_79",
+  "semester": 3,
+  "subject_code": "hydro",
+  "subject_name": "Hydrology & Water Resources Engineering",
+  "year": "2022",
+  "exam_code": "101505",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2022 Hydrology & Water resource engineering Time: 03 Hours Code: 101505 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_hydro_2022_79_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2022_79_q1_s1",
+          "subNumber": "a",
+          "text": "In the hydrological cycle the average residence time of water in the global",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Atmospheric moisture is larger than that in the global rivers",
+            "Oceans is smaller than that of the global ground water",
+            "Rivers is larger than that of the global ground water",
+            "Oceans is larger than that of the global ground water"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2022_79_q1_s2",
+          "subNumber": "b",
+          "text": "The double mass curve technique is adopted to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "check the consistency of rain gauge records",
+            "find the average rainfall over a number of years",
+            "find the number of rain gauges required",
+            "estimate the missing rainfall data."
+          ]
+        },
+        {
+          "id": "sem3_hydro_2022_79_q1_s3",
+          "subNumber": "c",
+          "text": "An Isohyet is a line joining points having",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "equal evaporation value",
+            "equal barometric pressure",
+            "equal height above the MSL",
+            "equal rainfall depth in a given duration"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2022_79_q1_s4",
+          "subNumber": "d",
+          "text": "Which instrument is used for measurement of Evapotranspiration?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Lysimeter",
+            "Atmometer",
+            "Phytometer",
+            "Hygrometer"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2022_79_q1_s5",
+          "subNumber": "e",
+          "text": "A hydrograph is a plot of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Rainfall intensity against time",
+            "Stream discharge against time.",
+            "Cumulative rainfall against time",
+            "Cumulative runoff against time"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2022_79_q1_s6",
+          "subNumber": "f",
+          "text": "The total rainfall in a catchment of area \\( 1200 \\, km^2 \\) during a 6-h storm is 16 cm while the surface runoff due to the storm is \\( 1.2 \\times 10^3 \\, m^3 \\). The \\( \\phi \\)-index is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( 0.1 \\, cm/h \\)",
+            "\\( 1.0 \\, cm/h \\)",
+            "\\( 0.2 \\, cm/h \\)",
+            "cannot be estimated"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2022_79_q1_s7",
+          "subNumber": "g",
+          "text": "The discharge per unit drawdown at the well is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Specific Capacity",
+            "Specific storage",
+            "Specific retention",
+            "Specific yield"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2022_79_q1_s8",
+          "subNumber": "h",
+          "text": "The relationship between the duty D in hectare/cumec, the water depth \\( \\Delta \\) in centimetre, and base period B in days, is given by:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( D = \\frac{8.64 \\times B}{\\Delta} \\)",
+            "\\( D = \\frac{864 \\times B}{\\Delta} \\)",
+            "\\( D = \\frac{8.64 \\times \\Delta}{B} \\)",
+            "\\( D = \\frac{864 \\times \\Delta}{B} \\)"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2022_79_q1_s9",
+          "subNumber": "i",
+          "text": "The Garret's diagrams are based on:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Lacey's theory",
+            "Khosla's theory",
+            "Bligh's theory",
+            "Kennedy's theory"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2022_79_q1_s10",
+          "subNumber": "j",
+          "text": "During the maintenance of an earthen dam, the apparent seepage through the foundation of the dam is best taken care of, by providing:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "a chimney drain",
+            "a rock toe",
+            "a drain trench along the downstream toe.",
+            "an upstream impervious cutoff"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2022_79_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2022_79_q2_s1",
+          "subNumber": "a",
+          "text": "Differentiate between: (i) confined and unconfined aquifer and (ii) aquiclude and aquitard.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2022_79_q2_s2",
+          "subNumber": "b",
+          "text": "A 20 cm diameter well fully penetrates a confined aquifer of thickness 25 m when the well is pumped at a 200 litres/minute. The steady state drawdown in two observation wells located at 10 m and 100 m distance from pumping well are found to be 3.5 m and 0.05 m, respectively. Calculate the permeability and transmissivity of the aquifer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2022_79_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2022_79_q3_s1",
+          "subNumber": "a",
+          "text": "Explain evapotranspiration and factors affecting evapotranspiration.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2022_79_q3_s2",
+          "subNumber": "b",
+          "text": "A storm with a 15 cm precipitation produces a direct runoff of 8.7 cm. The time distribution of storm is as follows:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2022_79_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2022_79_q4_s1",
+          "subNumber": "a",
+          "text": "Describe the salient characteristics of precipitation in India.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2022_79_q4_s2",
+          "subNumber": "b",
+          "text": "The normal annual precipitation of five raingauge stations P, Q, R, S and T are respectively 125 cm, 102 cm, 76 cm, 113 cm, and 137 cm. During a particular storm, the precipitation recorded by stations P, Q, R and S are 13.2 cm, 9.2 cm, 6.8 cm and 10.2 cm respectively. The instrument at station T was inoperative during that storm. Estimate the rainfall at station T during that storm.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2022_79_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2022_79_q5_s1",
+          "subNumber": "a",
+          "text": "Discuss in brief various methods of surface irrigation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2022_79_q5_s2",
+          "subNumber": "b",
+          "text": "A sandy loam soil holds water at 140 mm/m depth between field capacity and permanent wilting point. The root depth of the crop is 30 cm and the allowable depletion of water is 35%. The daily water use by the crop is 5 mm/day. The area to be irrigated is 60 hectare and water can be delivered at 28 litre per second. The surface irrigation application efficiency is 40%. There are no rainfall and ground water contribution. Determine i) allowable depletion depth between irrigations; ii) frequency of irrigation; iii) net application depth of water and iv) volume of water required.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2022_79_q6",
+      "number": 6,
+      "title": "Q.6 Solve all questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2022_79_q6_s1",
+          "subNumber": "a",
+          "text": "Define Paleo Irrigation and Kor Watering.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_hydro_2022_79_q6_s2",
+          "subNumber": "b",
+          "text": "Define Sprinkle Irrigation and Furrow Irrigation.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_hydro_2022_79_q6_s3",
+          "subNumber": "c",
+          "text": "A water course has a culturable command area of 5000 hectare out of which intensities of perennial sugarcane and rice crop are 25% and 50% respectively. The Duty of these crops at the head of water course are 1000 hectare/cumecs and 1500 hectare/cumecs respectively. Find the discharge required if the peak demand is 125% of the average requirement.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2022_79_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2022_79_q7_s1",
+          "subNumber": "a",
+          "text": "What is meant by canal lining and also discuss its advantages?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2022_79_q7_s2",
+          "subNumber": "b",
+          "text": "A watershed has five non-recording rain gauges, installed in its area. The amount of rainfall recorded for one of the years is given below:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2022_79_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2022_79_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the forces acting on the gravity dam.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2022_79_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the causes and effects of waterlogging.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2022_79_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2022_79_q9_s1",
+          "subNumber": "a",
+          "text": "Discuss in detail the application of unit hydrograph.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2022_79_q9_s2",
+          "subNumber": "b",
+          "text": "Following are the ordinates of a storm hydrograph of a river draining a catchment area of \\( 423 \\, Km^2 \\) due to a 6-h isolated storm. Derive the ordinates of a 6-h unit hydrograph for the catchment.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

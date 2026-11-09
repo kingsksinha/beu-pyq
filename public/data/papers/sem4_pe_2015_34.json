@@ -1,0 +1,330 @@
+{
+  "id": "sem4_pe_2015_34",
+  "semester": 4,
+  "subject_code": "pe",
+  "subject_name": "Power Electronics",
+  "year": "2015",
+  "exam_code": "031609",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam., 2015 POWER ELECTRONICS Time: 03 Hours Code: 031609 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_pe_2015_34_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2015_34_q1_s1",
+          "subNumber": "a",
+          "text": "When an SCR is reverse biased",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "two junctions are reverse biased and one junction is forward biased",
+            "all the three junctions are reverse biased",
+            "one junction is reverse biased and two junctions are forward biased",
+            "Any of the above depending on the magnitude of reverse bias"
+          ]
+        },
+        {
+          "id": "sem4_pe_2015_34_q1_s2",
+          "subNumber": "b",
+          "text": "An R-C snubber circuit is used to protect a thyristor against",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "false triggering",
+            "failure to turn on",
+            "switching transients",
+            "failure to commutate"
+          ]
+        },
+        {
+          "id": "sem4_pe_2015_34_q1_s3",
+          "subNumber": "c",
+          "text": "A single-phase semiconverter is feeding a highly inductive load and has free-wheeling diode across the load. The waveshapes of output voltage and output current",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "are similar",
+            "are not similar",
+            "may be similar or dissimilar",
+            "are similar only if firing angle is zero"
+          ]
+        },
+        {
+          "id": "sem4_pe_2015_34_q1_s4",
+          "subNumber": "d",
+          "text": "A single-phase half-wave rectifier is feeding a resistive load. Input voltage \\( v = V_m \\sin \\omega t \\). The output d.c. voltage is \\( V_{dc} \\) and output r.m.s. voltage is \\( V_{r.m.s.} \\). If firing angle is \\( 180^{\\circ} \\), \\( V_{dc} \\) and \\( V_{r.m.s.} \\) respectively are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0 and 0",
+            "\\( \\frac{V_m}{\\pi} \\) and \\( \\frac{V_m}{\\sqrt{2}} \\)",
+            "0 and \\( -V_m \\)",
+            "\\( -\\frac{V_m}{\\pi} \\) and \\( -\\frac{V_m}{2} \\)"
+          ]
+        },
+        {
+          "id": "sem4_pe_2015_34_q1_s5",
+          "subNumber": "e",
+          "text": "In a step-down chopper using pulse-width modulation \\( T_{on} = 3 \\times 10^{-3} \\text{ s} \\) and \\( T_{off} = 1 \\times 10^{-3} \\text{ s} \\). The chopping frequency is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "333.33",
+            "500",
+            "250",
+            "1000"
+          ]
+        },
+        {
+          "id": "sem4_pe_2015_34_q1_s6",
+          "subNumber": "f",
+          "text": "In a three-phase full-wave regulator feeding a star-connected resistance load the input voltage is 400 V line to line. The firing angle is \\( 160^{\\circ} \\). The line to line output voltage would be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "400 V",
+            "about 20 V",
+            "about 100 V",
+            "zero"
+          ]
+        },
+        {
+          "id": "sem4_pe_2015_34_q1_s7",
+          "subNumber": "g",
+          "text": "Assertion (A): An inverter does not require forced commutation. Reason (R): A series inverter is a forced commutation inverter.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Both A and R are correct and R is correct explanation of A",
+            "Both A and R are correct but R is not correct explanation of A",
+            "A is correct but R is wrong",
+            "A is wrong but R is correct"
+          ]
+        },
+        {
+          "id": "sem4_pe_2015_34_q1_s8",
+          "subNumber": "h",
+          "text": "A three-phase bridge inverter is fed by 400 V battery. The load is star-connected and has a resistance of \\( 10~\\Omega \\) per phase. The peak value of load current is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "8 A",
+            "20 A",
+            "10 A",
+            "5 A"
+          ]
+        },
+        {
+          "id": "sem4_pe_2015_34_q1_s9",
+          "subNumber": "i",
+          "text": "The waveshape of output voltage of half-bridge inverter is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "sinusoidal",
+            "square",
+            "triangular",
+            "Either (i) or (ii)"
+          ]
+        },
+        {
+          "id": "sem4_pe_2015_34_q1_s10",
+          "subNumber": "j",
+          "text": "In dielectric heating, the thyristor circuits consist of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "rectifier-chopper combination",
+            "a.c. regulator",
+            "controlled rectifier",
+            "rectifier-inverter combination"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2015_34_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2015_34_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss some of the advantages and disadvantages of power electronic converters.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2015_34_q2_s2",
+          "subNumber": "b",
+          "text": "Define latching and holding currents as applicable to an SCR. Show these on the V-I characteristics.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2015_34_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2015_34_q3_s1",
+          "subNumber": "a",
+          "text": "Why are \\( dv/dt \\) and \\( di/dt \\) protections in case of thyristor important?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2015_34_q3_s2",
+          "subNumber": "b",
+          "text": "An SCR operating from a peak supply voltage of 400 V has the following specifications: Repetitive peak current \\( I_p = 200 \\text{ A} \\), \\( (di/dt)_{max} = 50 \\text{ A}/\\mu\\text{s} \\), \\( (dv/dt)_{max} = 200 \\text{ V}/\\mu\\text{s} \\). Choosing a factor of safety of 2 for \\( I_p \\), \\( (di/dt)_{max} \\) and \\( (dv/dt)_{max} \\), design a suitable snubber circuit. The minimum value of load resistance is 10 ohms.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2015_34_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2015_34_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the principle of phase control with suitable diagram and waveform.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2015_34_q4_s2",
+          "subNumber": "b",
+          "text": "Discuss in detail three-phase full converter with R-L-E load with suitable diagram and waveform.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2015_34_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2015_34_q5_s1",
+          "subNumber": "a",
+          "text": "What is inverter? List a few industrial applications of inverter.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_pe_2015_34_q5_s2",
+          "subNumber": "b",
+          "text": "Discuss in detail three-phase 120 degree mode voltage source inverter.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2015_34_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2015_34_q6_s1",
+          "subNumber": "a",
+          "text": "Describe the principle of d.c. chopper operation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2015_34_q6_s2",
+          "subNumber": "b",
+          "text": "Derive an expression for its average d.c. output voltage.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2015_34_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2015_34_q7_s1",
+          "subNumber": "a",
+          "text": "Describe integral cycle control type a.c. voltage controller.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2015_34_q7_s2",
+          "subNumber": "b",
+          "text": "Enumerate the merits and demerits of a.c. voltage controller.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2015_34_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2015_34_q8_s1",
+          "subNumber": "a",
+          "text": "Draw the basic integrated structure and the V-I characteristics of a TRIAC and briefly explain its principle of working.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2015_34_q8_s2",
+          "subNumber": "b",
+          "text": "Briefly explain the working of an oscillator employing a UJT. Derive the expressions for the frequency of triggering firing angle delay in terms of \\( \\eta \\), and the charging resistance values.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2015_34_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2015_34_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

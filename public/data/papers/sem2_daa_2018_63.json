@@ -1,0 +1,302 @@
+{
+  "id": "sem2_daa_2018_63",
+  "semester": 2,
+  "subject_code": "daa",
+  "subject_name": "Design and Analysis of Algorithms",
+  "year": "2018",
+  "exam_code": "051506",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Exam., 2018 Design and Analysis of Algorithms Time: 03 Hours Code: 051506 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 21,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "All questions carry equal marks.",
+    "There are NINE questions in this paper.",
+    "Attempt any FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_daa_2018_63_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2018_63_q1_s1",
+          "subNumber": "a",
+          "text": "Which algorithm is better for sorting between bubble sort and quicksort?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Bubble sort",
+            "Quicksort",
+            "Both are equally good",
+            "These cannot be compared"
+          ]
+        },
+        {
+          "id": "sem2_daa_2018_63_q1_s2",
+          "subNumber": "b",
+          "text": "An algorithm which uses the past results and uses them to find the new results is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "brute force",
+            "divide and conquer",
+            "dynamic programming algorithm",
+            "None of the mentioned"
+          ]
+        },
+        {
+          "id": "sem2_daa_2018_63_q1_s3",
+          "subNumber": "c",
+          "text": "Out of the following which property of algorithm does not share?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Input",
+            "Finiteness",
+            "Generality",
+            "Constancy"
+          ]
+        },
+        {
+          "id": "sem2_daa_2018_63_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following standard algorithms is not a greedy algorithm?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Dijkstra's shortest path algorithm",
+            "Kruskal algorithm",
+            "Bellmen Ford shortest path algorithm",
+            "Prim's algorithm"
+          ]
+        },
+        {
+          "id": "sem2_daa_2018_63_q1_s5",
+          "subNumber": "e",
+          "text": "What is the time complexity of Huffman coding?",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "\\( O(N) \\)",
+            "\\( O(N \\log N) \\)",
+            "\\( O(N(\\log N)^2) \\)",
+            "\\( O(N^2) \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2018_63_q1_s6",
+          "subNumber": "f",
+          "text": "How many comparisons are required to sort the list 1, 2, 3... n using insertion sort?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( (n^2+n+2)/2 \\)",
+            "\\( (n^3+n-2)/2 \\)",
+            "\\( (n^2+n-2)/2 \\)",
+            "\\( (n^2-n-2)/2 \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2018_63_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following is true about Huffman coding?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Huffman coding may become lossy in some cases",
+            "Huffman codes may not be optimal lossless codes in some cases",
+            "In Huffman coding, no code is prefix of any other code",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_daa_2018_63_q1_s8",
+          "subNumber": "h",
+          "text": "A complexity of algorithm depends upon",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "time only",
+            "space only",
+            "both time and space",
+            "None of the mentioned"
+          ]
+        },
+        {
+          "id": "sem2_daa_2018_63_q1_s9",
+          "subNumber": "i",
+          "text": "A text is made up of the characters a, b, c, d, e each occurring with the probability 0.11, 0.40, 0.16, 0.09 and 0.24 respectively. The optimal Huffman coding technique will have the average length of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2.40",
+            "2.16",
+            "2.26",
+            "2.15"
+          ]
+        },
+        {
+          "id": "sem2_daa_2018_63_q1_s10",
+          "subNumber": "j",
+          "text": "Build heap is used in heap sort as a first step for sorting. What is the time complexity of build heap operation?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( O(n \\log n) \\)",
+            "\\( O(n^2) \\)",
+            "\\( O(\\log n) \\)",
+            "\\( O(n) \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2018_63_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2018_63_q2_s1",
+          "subNumber": "a",
+          "text": "Solve the following recurrence by successive substitution method:<br/> \\( f(1) = 1 \\), if \\( n=1 \\)<br/> \\( f(n) = 3f(n/2) + 6 \\), if \\( n&gt;1 \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2018_63_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2018_63_q3_s1",
+          "subNumber": "a",
+          "text": "COUNTING SORT algorithm assumes that each of the n input elements is an integer in the range 0 to k, for some integer k. When \\( k=O(n) \\), the sort runs in \\( \\Theta(n) \\) time. Change COUNTING SORT algorithm for the numbers lying in the range p to q where \\( (q-p) \\) is still \\( O(n) \\). Also analyze the new complexity.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2018_63_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2018_63_q4_s1",
+          "subNumber": "a",
+          "text": "Consider a directed acyclic graph with non-negative edge costs and with a given start vertex s. Write an algorithm to compute distances from source s in \\( O(E+V) \\) time. Justify why your algorithm is correct.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2018_63_q4_s2",
+          "subNumber": "b",
+          "text": "Explain, with an example, why Dijkstra's algorithm might take \\( \\Omega(V \\log V) \\) time.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2018_63_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2018_63_q5_s1",
+          "subNumber": "a",
+          "text": "Consider the two standard representations of directed graphs: the adjacency-list representation and the adjacency-matrix representation. Find a problem that can be solved more efficiently in the adjacency-list representation than in the adjacency-matrix representation, and another problem that can be solved more efficiently in the adjacency-matrix representation than in the adjacency-list representation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2018_63_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2018_63_q6_s1",
+          "subNumber": "a",
+          "text": "Differentiate between the following: Fractional Knapsack vs. 0/1 Knapsack.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_daa_2018_63_q6_s2",
+          "subNumber": "b",
+          "text": "Differentiate between the following: Kruskal's vs. Prim's Algorithm.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2018_63_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2018_63_q7_s1",
+          "subNumber": "a",
+          "text": "What are NP-complete problems? Write some problems which are P, NP and NP-hard. Explain any NP-hard problem in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2018_63_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2018_63_q8_s1",
+          "subNumber": "a",
+          "text": "Explain quicksort and its asymptotic complexities. Take some distinct numbers and perform quicksort over it.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2018_63_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2018_63_q9_s1",
+          "subNumber": "a",
+          "text": "Explain travelling salesman problem using Greedy method.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_daa_2018_63_q9_s2",
+          "subNumber": "b",
+          "text": "Explain travelling salesman problem using Dynamic programming method.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

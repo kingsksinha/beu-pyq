@@ -1,0 +1,337 @@
+{
+  "id": "sem1_eme_2025_4",
+  "semester": 1,
+  "subject_code": "eme",
+  "subject_name": "Elements of Mechanical Engineering",
+  "year": "2025",
+  "exam_code": "100204",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 Elements of Mechanical Engineering Time: 03 Hours Code: 100204 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 7,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eme_2025_4_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2025_4_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is a renewable source of energy?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Coal",
+            "Petroleum",
+            "Solar energy",
+            "Natural gas"
+          ]
+        },
+        {
+          "id": "sem1_eme_2025_4_q1_s2",
+          "subNumber": "b",
+          "text": "Which gas is primarily produced in a biogas plant?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Carbon dioxide",
+            "Methane",
+            "Hydrogen",
+            "Nitrogen"
+          ]
+        },
+        {
+          "id": "sem1_eme_2025_4_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is an extensive property of a thermodynamic system?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Pressure",
+            "Temperature",
+            "Volume",
+            "Density"
+          ]
+        },
+        {
+          "id": "sem1_eme_2025_4_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following statements is TRUE about internal energy?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It depends only on pressure",
+            "It depends only on temperature",
+            "It depends on both temperature and molecular structure",
+            "It is independent of state"
+          ]
+        },
+        {
+          "id": "sem1_eme_2025_4_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following represents a cyclic process?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The system returns to its initial state after the process",
+            "The system undergoes irreversible changes",
+            "Heat transfer is zero",
+            "Work transfer is zero"
+          ]
+        },
+        {
+          "id": "sem1_eme_2025_4_q1_s6",
+          "subNumber": "f",
+          "text": "In a vapour compression refrigeration cycle, the refrigerant absorbs heat in which component?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Condenser",
+            "Compressor",
+            "Evaporator",
+            "Expansion valve"
+          ]
+        },
+        {
+          "id": "sem1_eme_2025_4_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following is the main advantage of vapour absorption refrigeration over vapour compression refrigeration?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Lower initial cost",
+            "No need for heat source",
+            "Uses mechanical energy instead of thermal energy",
+            "Can operate without electricity (uses thermal energy)"
+          ]
+        },
+        {
+          "id": "sem1_eme_2025_4_q1_s8",
+          "subNumber": "h",
+          "text": "In a simple steam turbine, the energy conversion primarily occurs from",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Heat energy to mechanical energy",
+            "Mechanical energy to heat energy",
+            "Electrical energy to mechanical energy",
+            "Chemical energy to electrical energy"
+          ]
+        },
+        {
+          "id": "sem1_eme_2025_4_q1_s9",
+          "subNumber": "i",
+          "text": "In a thermal power plant, the working fluid used in the Rankine cycle is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Air",
+            "Steam/Water",
+            "Water only",
+            "Gasoline"
+          ]
+        },
+        {
+          "id": "sem1_eme_2025_4_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following is a ferrous metal?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Copper",
+            "Aluminum",
+            "Cast Iron",
+            "Brass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2025_4_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2025_4_q2_s1",
+          "subNumber": "a",
+          "text": "Describe biogas and biomass energy. Mention their merits, demerits, and major applications.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2025_4_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the origin and forms of renewable energy sources such as solar and wind energy.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2025_4_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2025_4_q3_s1",
+          "subNumber": "a",
+          "text": "What are non-renewable or conventional sources of energy? Explain fossil fuels with examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2025_4_q3_s2",
+          "subNumber": "b",
+          "text": "Compare renewable and non-renewable energy sources in terms of availability, environmental impact, and sustainability.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2025_4_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2025_4_q4_s1",
+          "subNumber": "a",
+          "text": "Define a thermodynamic system. Explain its types with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2025_4_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the concepts of state, process, and cycle in thermodynamics with diagrams.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2025_4_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2025_4_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the principle of operation of a vapour compression refrigeration system with the help of a neat sketch.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_eme_2025_4_q5_s2",
+          "subNumber": "b",
+          "text": "Compare vapour absorption and vapour compression refrigeration systems in terms of energy source efficiency and applications.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2025_4_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2025_4_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the working principle of a simple steam turbine with a neat sketch.",
+          "freq": 7,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_eme_2025_4_q6_s2",
+          "subNumber": "b",
+          "text": "Compare SI (Spark Ignition) and CI (Compression Ignition) engines in terms of fuel used, ignition method, and applications.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2025_4_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2025_4_q7_s1",
+          "subNumber": "a",
+          "text": "Describe the main components and working of hydel power plant.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_eme_2025_4_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss the principle of nuclear power generation. What are its advantages and disadvantages compared to thermal power plants?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2025_4_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2025_4_q8_s1",
+          "subNumber": "a",
+          "text": "Define ferrous and non-ferrous metals with examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2025_4_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the mechanical properties of engineering materials such as strength, hardness, and resilience with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2025_4_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2025_4_q9_s1",
+          "subNumber": "a",
+          "text": "What is quenching? Discuss the types of quenching media and their influence on steel hardness.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2025_4_q9_s2",
+          "subNumber": "b",
+          "text": "Define case-hardening. Explain its methods and applications in engineering components.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

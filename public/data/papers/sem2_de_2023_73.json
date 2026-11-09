@@ -1,0 +1,228 @@
+{
+  "id": "sem2_de_2023_73",
+  "semester": 2,
+  "subject_code": "de",
+  "subject_name": "Digital Electronics",
+  "year": "2023",
+  "exam_code": "100403",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna Special Examination - 2023 Digital Electronics Time: 03 Hours Code: 100403 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 19,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_de_2023_73_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_73_q1_s1",
+          "subNumber": "a",
+          "text": "Define Dynamic RAM.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_de_2023_73_q1_s2",
+          "subNumber": "b",
+          "text": "The resolution of a 10-bit AD converter for an input range of 10 V is approximately _________",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_73_q1_s3",
+          "subNumber": "c",
+          "text": "The parameter through which 16 distinct values can be represented is known as _________",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_73_q1_s4",
+          "subNumber": "d",
+          "text": "Define Multiplexing.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_de_2023_73_q1_s5",
+          "subNumber": "e",
+          "text": "Write the significance of Truth table.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_de_2023_73_q1_s6",
+          "subNumber": "f",
+          "text": "Write the differences between Combinational and Sequential circuit.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_73_q1_s7",
+          "subNumber": "g",
+          "text": "A hexadecimal odometer displays F52F. The next reading will be _________",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_de_2023_73_q1_s8",
+          "subNumber": "h",
+          "text": "The basic property of Sequential circuit is _________",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_de_2023_73_q1_s9",
+          "subNumber": "i",
+          "text": "How many entries will be in the truth table of a 4-input NAND gate?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_de_2023_73_q1_s10",
+          "subNumber": "j",
+          "text": "What is Dual Slope ADC?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_73_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_73_q2_s1",
+          "subNumber": "a",
+          "text": "What are weighted, non-weighted, cyclic and self-complementary codes? Explain each with examples.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_73_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_73_q3_s1",
+          "subNumber": "a",
+          "text": "Design a BCD to 7-segment display decoder circuit using logic gates.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_73_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_73_q4_s1",
+          "subNumber": "a",
+          "text": "Design a 3-bit parallel comparator A/D convertor that provides output in 2's complement format.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_73_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_73_q5_s1",
+          "subNumber": "a",
+          "text": "Design full adder using 8:1 mux.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_de_2023_73_q5_s2",
+          "subNumber": "b",
+          "text": "Design full adder using 4:1 mux.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_73_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_73_q6_s1",
+          "subNumber": "a",
+          "text": "What is binary shift register? Write down their application.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_73_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_73_q7_s1",
+          "subNumber": "a",
+          "text": "Minimize the following expression using k-map<br/> \\( f(P,Q,R,S) = \\Sigma m(0,1,4,5,7,12,13) \\)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_73_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_73_q8_s1",
+          "subNumber": "a",
+          "text": "Describe the procedure to design Mod-6 counter.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_73_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_73_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

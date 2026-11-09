@@ -1,0 +1,277 @@
+{
+  "id": "sem4_trans_2023_86",
+  "semester": 4,
+  "subject_code": "trans",
+  "subject_name": "Transportation Engineering",
+  "year": "2023",
+  "exam_code": "101507",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Examination, 2023 Transportation Engineering Time: 03 Hours Code: 101507 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_trans_2023_86_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (any seven questions only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2023_86_q1_s1",
+          "subNumber": "a",
+          "text": "What is the maximum value of CBR and minimum value of G I of any material, respectively",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q1_s2",
+          "subNumber": "b",
+          "text": "Which one of the following methods is used in the design of rigid pavement?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q1_s3",
+          "subNumber": "c",
+          "text": "As per latest IRC guidelines for designing flexible pavement of CBR method, the load parameter required is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q1_s4",
+          "subNumber": "d",
+          "text": "Bituminous material is used in highway construction primarily because of them",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q1_s5",
+          "subNumber": "e",
+          "text": "The maximum number of cities and towns are connected by which type of highway?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q1_s6",
+          "subNumber": "f",
+          "text": "The surveys of highway alignment are completed in how many stages?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q1_s7",
+          "subNumber": "g",
+          "text": "The motor vehicle act was revised in",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q1_s8",
+          "subNumber": "h",
+          "text": "The total conflict points at a junction on both two-way roads are?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q1_s9",
+          "subNumber": "i",
+          "text": "Which type of board should be installed if the speed limit is 100kmph?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q1_s10",
+          "subNumber": "j",
+          "text": "Choose correct order (ascending) according to width is",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2023_86_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2023_86_q2_s1",
+          "subNumber": "a",
+          "text": "What are the salient features of the Bombay Road development Plan? How it differs from Nagpur Plan?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss the Various failure of Rigid and Flexible Pavement",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2023_86_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2023_86_q3_s1",
+          "subNumber": "a",
+          "text": "List and explain the desirable properties of road aggregate. State the test conducted for each property?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_trans_2023_86_q3_s2",
+          "subNumber": "b",
+          "text": "With a neat sketch, explain impact test?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2023_86_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2023_86_q4_s1",
+          "subNumber": "a",
+          "text": "Find out OSD required for a design speed of 80 kmph for a 2-lane and 2-way traffic road. Assume \\( a=1.6 \\text{ kmph/sec} \\) calculate and draw sketch showing overtaking zone. Explain with a neat sketch sight distance criteria at an uncontrolled intersection.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2023_86_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2023_86_q5_s1",
+          "subNumber": "a",
+          "text": "What are the various gradients used in Highway? What do you understand by Grade compensation?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q5_s2",
+          "subNumber": "b",
+          "text": "Explain factors affecting sight distance on a road and also explain PIEV theory briefly",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2023_86_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2023_86_q6_s1",
+          "subNumber": "a",
+          "text": "Javakar committee",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q6_s2",
+          "subNumber": "b",
+          "text": "Webster method",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q6_s3",
+          "subNumber": "c",
+          "text": "Aggregate Crushing test",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q6_s4",
+          "subNumber": "d",
+          "text": "Testing of Bitumen",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2023_86_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2023_86_q7_s1",
+          "subNumber": "a",
+          "text": "With the help of neat sketches, explain mud-Pumping in cement concrete pavement.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q7_s2",
+          "subNumber": "b",
+          "text": "What are the factors affecting the design of rigid pavement?",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2023_86_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2023_86_q8_s1",
+          "subNumber": "a",
+          "text": "Design the thickness of pavement layer, base course, Sub-Base course are to be provided having 'E' value \\( 400 \\text{ kg/cm}^2 \\) and \\( 200 \\text{ kg/cm}^2 \\). Assuming the pavement consists of a single layer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2023_86_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2023_86_q9_s1",
+          "subNumber": "a",
+          "text": "What is a power shovel? With a neat sketch, Explain its operation and application.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2023_86_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the preparation and specification of stability test by Marshall method.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": "sem1_pps_2024_37",
+  "semester": 1,
+  "subject_code": "pps",
+  "subject_name": "Programming For Problem Solving",
+  "year": "2024",
+  "exam_code": "100104",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 (Old) Programming for Problem Solving Time: 03 Hours Code: 100104 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 13,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_pps_2024_37_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option for the following questions (Answer any seven only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_37_q1_s1",
+          "subNumber": "a",
+          "text": "Where is a program stored and executed?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Hard Disk",
+            "Main Memory (RAM)",
+            "Cache",
+            "ROM"
+          ]
+        },
+        {
+          "id": "sem1_pps_2024_37_q1_s2",
+          "subNumber": "b",
+          "text": "What is the output of a compiler?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Source code",
+            "Flowchart",
+            "Executable code",
+            "Algorithm"
+          ]
+        },
+        {
+          "id": "sem1_pps_2024_37_q1_s3",
+          "subNumber": "c",
+          "text": "Which storage class has the default value of a variable as zero?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "auto",
+            "extern",
+            "static",
+            "register"
+          ]
+        },
+        {
+          "id": "sem1_pps_2024_37_q1_s4",
+          "subNumber": "d",
+          "text": "What is the result of 5% 2 in C?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2.5",
+            "1",
+            "2",
+            "0"
+          ]
+        },
+        {
+          "id": "sem1_pps_2024_37_q1_s5",
+          "subNumber": "e",
+          "text": "What type of array is used to store string?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "int",
+            "float",
+            "char",
+            "double"
+          ]
+        },
+        {
+          "id": "sem1_pps_2024_37_q1_s6",
+          "subNumber": "f",
+          "text": "Binary search works only on:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Unsorted list",
+            "Doubly linked list",
+            "Sorted list",
+            "Any list"
+          ]
+        },
+        {
+          "id": "sem1_pps_2024_37_q1_s7",
+          "subNumber": "g",
+          "text": "Which operator is used to access members of a structure using a pointer?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            ".",
+            "-&gt;",
+            "*",
+            "&amp;"
+          ]
+        },
+        {
+          "id": "sem1_pps_2024_37_q1_s8",
+          "subNumber": "h",
+          "text": "What is the output of \\( *(\\&amp;x) \\) in C?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Address of x",
+            "Error",
+            "Value of x",
+            "Nothing"
+          ]
+        },
+        {
+          "id": "sem1_pps_2024_37_q1_s9",
+          "subNumber": "i",
+          "text": "Which function is used to open a file in C?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "fopen()",
+            "file()",
+            "openfile()",
+            "fcreate()"
+          ]
+        },
+        {
+          "id": "sem1_pps_2024_37_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following problems can be solved using recursion?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Fibonacci",
+            "GCD",
+            "Factorial",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_37_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_37_q2_s1",
+          "subNumber": "a",
+          "text": "Draw a flowchart to find the largest of three numbers.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_pps_2024_37_q2_s2",
+          "subNumber": "b",
+          "text": "Explain different storage classes in C.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_37_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_37_q3_s1",
+          "subNumber": "a",
+          "text": "What is type casting in programming? Differentiate between implicit and explicit type conversion with examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_37_q3_s2",
+          "subNumber": "b",
+          "text": "Explain operator precedence and associativity with examples.",
+          "freq": 13,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_37_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_37_q4_s1",
+          "subNumber": "a",
+          "text": "Write the differences between if, if-else, and switch statements with examples.",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2024_37_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the concept of pointer to pointer with a code example. What is a self-referential structure?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_37_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_37_q5_s1",
+          "subNumber": "a",
+          "text": "How are arrays declared and initialized in C? What is bound checking? Why is it important in array programming?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_pps_2024_37_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the different modes of opening a file in C. Give examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_37_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_37_q6_s1",
+          "subNumber": "a",
+          "text": "Write a program to perform linear search in an array.",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2024_37_q6_s2",
+          "subNumber": "b",
+          "text": "Describe the bubble sort algorithm and write its implementation in C.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_37_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_37_q7_s1",
+          "subNumber": "a",
+          "text": "What is the difference between call by value and call by reference? Explain with examples.",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2024_37_q7_s2",
+          "subNumber": "b",
+          "text": "What is the scope of a variable? Explain local and global scope with examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_37_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_37_q8_s1",
+          "subNumber": "a",
+          "text": "What is recursion? Write a recursive function to compute the nth Fibonacci number.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_pps_2024_37_q8_s2",
+          "subNumber": "b",
+          "text": "What is the difference between structure and union? Explain with an example.",
+          "freq": 13,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2024_37_q9",
+      "number": 9,
+      "title": "Q.9 Write Short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2024_37_q9_s1",
+          "subNumber": "a",
+          "text": "Self-Referential Structure",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_37_q9_s2",
+          "subNumber": "b",
+          "text": "Compiler and Linker",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_37_q9_s3",
+          "subNumber": "c",
+          "text": "Syntax and logical errors",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2024_37_q9_s4",
+          "subNumber": "d",
+          "text": "Bitwise Operator",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

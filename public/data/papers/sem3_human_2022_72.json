@@ -1,0 +1,221 @@
+{
+  "id": "sem3_human_2022_72",
+  "semester": 3,
+  "subject_code": "human",
+  "subject_name": "Human Resource Development and Organizational Behaviour",
+  "year": "2022",
+  "exam_code": "100407",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 4th Semester Exam., 2022 HUMAN RESOURCE DEVELOPMENT AND ORGANIZATIONAL BEHAVIOUR Time: 03 Hours Code: 100407 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_human_2022_72_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2022_72_q1_s1",
+          "subNumber": "a",
+          "text": "What is retraining?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_human_2022_72_q1_s2",
+          "subNumber": "b",
+          "text": "Define recruitment.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_human_2022_72_q1_s3",
+          "subNumber": "c",
+          "text": "What do you understand by performance management?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_human_2022_72_q1_s4",
+          "subNumber": "d",
+          "text": "Define negotiation.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_human_2022_72_q1_s5",
+          "subNumber": "e",
+          "text": "What is induction?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_human_2022_72_q1_s6",
+          "subNumber": "f",
+          "text": "List any two functions of a trade union.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_human_2022_72_q1_s7",
+          "subNumber": "g",
+          "text": "What is off-the-job training? Give two examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_human_2022_72_q1_s8",
+          "subNumber": "h",
+          "text": "Define competency management.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_human_2022_72_q1_s9",
+          "subNumber": "i",
+          "text": "What is HR planning?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_human_2022_72_q1_s10",
+          "subNumber": "j",
+          "text": "Explain job satisfaction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2022_72_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2022_72_q2_s1",
+          "subNumber": "a",
+          "text": "What is the significance of HR in today's global environment? Discuss the role of HR manager in today's organizations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2022_72_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2022_72_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss the errors that may take place in assessing employee performance.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2022_72_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2022_72_q4_s1",
+          "subNumber": "a",
+          "text": "What is the need for workers' participation in management? Explain any three methods through which workers can participate in management.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2022_72_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2022_72_q5_s1",
+          "subNumber": "a",
+          "text": "Discuss the evolution of organizational behaviour.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2022_72_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2022_72_q6_s1",
+          "subNumber": "a",
+          "text": "What is organizational politics? Discuss the factors contributing to organizational politics.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2022_72_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2022_72_q7_s1",
+          "subNumber": "a",
+          "text": "What is personality? What factors determine personality?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2022_72_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2022_72_q8_s1",
+          "subNumber": "a",
+          "text": "Elaborate the bargaining strategies in negotiation process.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_human_2022_72_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_human_2022_72_q9_s1",
+          "subNumber": "a",
+          "text": "Discuss the role of the State in industrial relations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

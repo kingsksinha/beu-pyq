@@ -1,0 +1,372 @@
+{
+  "id": "sem4_mats_2013_15",
+  "semester": 4,
+  "subject_code": "mats",
+  "subject_name": "Material Science and Engineering",
+  "year": "2013",
+  "exam_code": "021305",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech. 3rd Semester Examination, 2013 Material Science Time: 03 Hours Code: 021305 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 31,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mats_2013_15_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2013_15_q1_s1",
+          "subNumber": "a",
+          "text": "Which is closest to the purest form of iron?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Cast iron",
+            "Wrought iron",
+            "Grey iron",
+            "Mild steel"
+          ]
+        },
+        {
+          "id": "sem4_mats_2013_15_q1_s2",
+          "subNumber": "b",
+          "text": "The process of isothermal transformation to form bainite in steel, is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "austempering",
+            "austeniting",
+            "barkerising",
+            "polymerization"
+          ]
+        },
+        {
+          "id": "sem4_mats_2013_15_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is not a permanent magnetic material?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Chromium steel",
+            "Silicon iron",
+            "Cobalt steel",
+            "Alnico"
+          ]
+        },
+        {
+          "id": "sem4_mats_2013_15_q1_s4",
+          "subNumber": "d",
+          "text": "Which one of the following materials is viscoelastic in nature?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Nylon",
+            "Glass",
+            "Rubber",
+            "Graphite"
+          ]
+        },
+        {
+          "id": "sem4_mats_2013_15_q1_s5",
+          "subNumber": "e",
+          "text": "If the structure of a sample consists of pearlite, cementite and free carbon, the sample may be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "cast iron",
+            "alloy steel",
+            "dead mild steel",
+            "eutectoid steel"
+          ]
+        },
+        {
+          "id": "sem4_mats_2013_15_q1_s6",
+          "subNumber": "f",
+          "text": "Pearlite is obtained when steel is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "quenched in oil",
+            "cooled in still air",
+            "slowly cooled in furnace",
+            "quenched in water"
+          ]
+        },
+        {
+          "id": "sem4_mats_2013_15_q1_s7",
+          "subNumber": "g",
+          "text": "A material having different properties in different directions, is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "isotropic",
+            "amorphous",
+            "austenitic",
+            "anisotropic"
+          ]
+        },
+        {
+          "id": "sem4_mats_2013_15_q1_s8",
+          "subNumber": "h",
+          "text": "Temperating of hardened steel is done to increase its",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "ductility",
+            "grain size",
+            "surface condition",
+            "carbon content"
+          ]
+        },
+        {
+          "id": "sem4_mats_2013_15_q1_s9",
+          "subNumber": "i",
+          "text": "The fatigue strength of materials increases",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "with temperature",
+            "by providing scratches on the surface",
+            "by providing notches",
+            "by under-stressing the material"
+          ]
+        },
+        {
+          "id": "sem4_mats_2013_15_q1_s10",
+          "subNumber": "j",
+          "text": "The capacity of a metal to exhibit considerable elastic recovery upon release, is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "toughness",
+            "resilience",
+            "hardness",
+            "stiffness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2013_15_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2013_15_q2_s1",
+          "subNumber": "a",
+          "text": "Give the classification of ceramic materials, organic materials, electrical materials and magnetic materials with their properties and applications.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2013_15_q2_s2",
+          "subNumber": "b",
+          "text": "Write short notes on: (i) Nanomaterials (ii) Biomaterials (iii) Optical fibre",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2013_15_q3",
+      "number": 3,
+      "title": "Q.3 Solve these questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2013_15_q3_s1",
+          "subNumber": "a",
+          "text": "What is a 'phase diagram'? How is it classified? What useful information does it provide?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2013_15_q3_s2",
+          "subNumber": "b",
+          "text": "State Gibbs' phase rule. What is the minimum and maximum number of phases which could exist in a pure metal?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2013_15_q3_s3",
+          "subNumber": "c",
+          "text": "Discuss the Hume-Rothery rules for alloy formation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2013_15_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2013_15_q4_s1",
+          "subNumber": "a",
+          "text": "Draw the iron-carbon phase diagram and discuss briefly the structure and properties of steel having 0.83% and 0.40% carbon when cooled from \\( 1000^\\circ\\text{C} \\) to room temperature.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2013_15_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2013_15_q5_s1",
+          "subNumber": "a",
+          "text": "Draw a TTT diagram of eutectoid steel. Discuss all the transformation with the rate of cooling.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2013_15_q5_s2",
+          "subNumber": "b",
+          "text": "Why continuous cooling of plain carbon steel does not show bainite in its microstructure?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2013_15_q6",
+      "number": 6,
+      "title": "Q.6 Solve these questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2013_15_q6_s1",
+          "subNumber": "a",
+          "text": "What effect does a change in heating or cooling rate have upon the transformation temperature in steel?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2013_15_q6_s2",
+          "subNumber": "b",
+          "text": "Calculate the thickness of micro-constituents present in pearlite if density of ferrite and cementite is \\( 7.76 \\text{ gm/cc} \\) and \\( 7.66 \\text{ gm/cc} \\) respectively.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2013_15_q6_s3",
+          "subNumber": "c",
+          "text": "A steel contains 40% ferrite and 60% pearlite at room temperature. Determine the amount of total ferrite and cementite present in the alloy.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2013_15_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2013_15_q7_s1",
+          "subNumber": "a",
+          "text": "What are the various types of annealing? Where are they used?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2013_15_q7_s2",
+          "subNumber": "b",
+          "text": "What is the major difference in the purpose of annealing and normalizing?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2013_15_q7_s3",
+          "subNumber": "c",
+          "text": "\"Hardening of steel is always followed by tempering.\" Is it true or false? If true, give reasons.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2013_15_q8",
+      "number": 8,
+      "title": "Q.8 Solve these questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2013_15_q8_s1",
+          "subNumber": "a",
+          "text": "What are the different types of composite materials available? Give their suitable examples with applications.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mats_2013_15_q8_s2",
+          "subNumber": "b",
+          "text": "What are the most important rules for designing composite parts?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mats_2013_15_q8_s3",
+          "subNumber": "c",
+          "text": "Write the applications of cemented carbide composite.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mats_2013_15_q9",
+      "number": 9,
+      "title": "Q.9 Distinguish the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mats_2013_15_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Plain carbon steel and Alloy steel",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mats_2013_15_q9_s2",
+          "subNumber": "b",
+          "text": "(b) White cast iron and Malleable cast iron",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mats_2013_15_q9_s3",
+          "subNumber": "c",
+          "text": "(c) Grey cast iron and Spheroidal grey iron",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mats_2013_15_q9_s4",
+          "subNumber": "d",
+          "text": "(d) Eutectics and Eutectoids",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

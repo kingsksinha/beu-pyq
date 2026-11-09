@@ -1,0 +1,280 @@
+{
+  "id": "sem2_ai_2019_10",
+  "semester": 2,
+  "subject_code": "ai",
+  "subject_name": "Artificial Intelligence",
+  "year": "2019",
+  "exam_code": "051717",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 7th Semester Exam., 2019 Artificial Intelligence Time: 03 Hours Code: 051717 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_ai_2019_10_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2019_10_q1_s1",
+          "subNumber": "a",
+          "text": "What is meant by Turing test?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_ai_2019_10_q1_s2",
+          "subNumber": "b",
+          "text": "Mention the criteria for the evaluation of search strategy.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2019_10_q1_s3",
+          "subNumber": "c",
+          "text": "What are the two types of memory bounded heuristic algorithms?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2019_10_q1_s4",
+          "subNumber": "d",
+          "text": "Define satisfiability of a sentence.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2019_10_q1_s5",
+          "subNumber": "e",
+          "text": "Why does uncertainty arise?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2019_10_q1_s6",
+          "subNumber": "f",
+          "text": "What is an atomic event?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2019_10_q1_s7",
+          "subNumber": "g",
+          "text": "What is the need for utility theory in uncertainty?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2019_10_q1_s8",
+          "subNumber": "h",
+          "text": "Write any two differences between traditional computer system programs and expert systems.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2019_10_q1_s9",
+          "subNumber": "i",
+          "text": "What is meant by belief network?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_ai_2019_10_q1_s10",
+          "subNumber": "j",
+          "text": "Define meta-knowledge in expert system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2019_10_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2019_10_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss the applications area of Artificial Intelligence.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2019_10_q2_s2",
+          "subNumber": "b",
+          "text": "Explain \\( AO^* \\) algorithm with an example.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2019_10_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2019_10_q3_s1",
+          "subNumber": "a",
+          "text": "What are the steps to convert first order logic or predicate logic sentence to normal form. Explain each step.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2019_10_q3_s2",
+          "subNumber": "b",
+          "text": "Describe constraint satisfaction problem in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2019_10_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2019_10_q4_s1",
+          "subNumber": "a",
+          "text": "Consider this knowledge-base (KB) for an instance of the Blocks World problem:<br/> Query: \\( \\exists w \\text{ above } (w, B)? \\)<br/> KB for Blocks World problem:<br/> 1. on (A, C)<br/> 2. on (D, B)<br/> 3. on (E, D)<br/> 4. on (x, y) \\( \\Rightarrow \\) above (x, y)<br/> 5. on (x, z) \\( \\land \\) above (z, y) \\( \\Rightarrow \\) above (x, y)<br/><br/> Use backward chaining (with Generalized Modus Ponens rule) to answer the query \\( \\exists w \\text{ above } (w, B) \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/255.jpg"
+          ]
+        },
+        {
+          "id": "sem2_ai_2019_10_q4_s2",
+          "subNumber": "b",
+          "text": "Draw the complete AND-OR proof tree showing all the answers to the query.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2019_10_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2019_10_q5_s1",
+          "subNumber": "a",
+          "text": "Define prior probability and conditional probability. State Bayes's theorem. How is it useful for decision making under uncertainty?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_ai_2019_10_q5_s2",
+          "subNumber": "b",
+          "text": "Explain logics for non-monotonic reasoning.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2019_10_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2019_10_q6_s1",
+          "subNumber": "a",
+          "text": "Write down the difference between Forward reasoning and Backward reasoning.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2019_10_q6_s2",
+          "subNumber": "b",
+          "text": "Discuss the role of Probabilistic reasoning in handling uncertainty.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2019_10_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2019_10_q7_s1",
+          "subNumber": "a",
+          "text": "What is the meaning of the word 'Heuristics' in the context of search strategies? What conditions on \\( A^* \\) search is required to guarantee completeness and optimality? Prove admissibility of \\( A^* \\) search strategy.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2019_10_q7_s2",
+          "subNumber": "b",
+          "text": "Why is MYCIN considered important in the development of expert systems and how did it lead to EMYCIN?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2019_10_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2019_10_q8_s1",
+          "subNumber": "a",
+          "text": "Explain Expert system shell.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_ai_2019_10_q8_s2",
+          "subNumber": "b",
+          "text": "Explain Semantic network with suitable example.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_ai_2019_10_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_ai_2019_10_q9_s1",
+          "subNumber": "a",
+          "text": "What are the steps in Natural language processing? List and explain them briefly.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_ai_2019_10_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the application of Natural language processing in AI.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    }
+  ]
+}

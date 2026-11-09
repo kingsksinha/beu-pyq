@@ -1,0 +1,253 @@
+{
+  "id": "sem1_mechanics_2020_79",
+  "semester": 1,
+  "subject_code": "mechanics",
+  "subject_name": "Engineering Mechanics",
+  "year": "2020",
+  "exam_code": "101101",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Special Exam., 2020 Physics (Mechanics) Time: 3 hours Code: 101101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Symbols used (if any) have their usual meanings."
+  ],
+  "questions": [
+    {
+      "id": "sem1_mechanics_2020_79_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2020_79_q1_s1",
+          "subNumber": "a",
+          "text": "The position of a particle of mass m under the influence of a free particle is given by \\( \\vec{r} = A \\sin \\omega t \\, i + B \\cos \\omega t \\, j \\). Find the expression for its momentum.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q1_s2",
+          "subNumber": "b",
+          "text": "Express \\( \\vec{r} \\) of spherical coordinate system into unit vectors of Cartesian coordinate system.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q1_s3",
+          "subNumber": "c",
+          "text": "Give two examples of non-conservative forces.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q1_s4",
+          "subNumber": "d",
+          "text": "Define Euler angles.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q1_s5",
+          "subNumber": "e",
+          "text": "Consider a cloud of point particles interacting through gravitational forces and having a distribution of kinetic energy. What is the conditioner potential energy under which this cloud will contract?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q1_s6",
+          "subNumber": "f",
+          "text": "How long will it take the plane of oscillation of a Foucault pendulum to make one complete revolution if the pendulum is rotated at north pole?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q1_s7",
+          "subNumber": "g",
+          "text": "The natural frequency of a mass vibrating on a spring is 20 Hz while its frequency with damping is 16 Hz. Find logarithmic decrement.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q1_s8",
+          "subNumber": "h",
+          "text": "If in an electric circuit \\( L = 10^{-2} \\, H \\) and \\( C = 20 \\times 10^{-6} \\, F \\), deduce its frequency of oscillations.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q1_s9",
+          "subNumber": "i",
+          "text": "Write down the expression for moment of inertia of a ring, axis passing through the centre and perpendicular to its plane.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q1_s10",
+          "subNumber": "j",
+          "text": "Define angular velocity vector.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2020_79_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2020_79_q2_s1",
+          "subNumber": "a",
+          "text": "A particle moves in a circle of radius \\( b \\) with angular velocity \\( \\theta = at \\), where \\( a \\) (rad / sec²) is a constant. Describe the particle's velocity in polar coordinates.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q2_s2",
+          "subNumber": "b",
+          "text": "Three freight cars of mass \\( M \\) are pulled with force \\( F \\) by a locomotive. Priction is negligible. Find the forces on each car.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2020_79_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2020_79_q3_s1",
+          "subNumber": "a",
+          "text": "Derive length, area and volume elements in spherical coordinate system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q3_s2",
+          "subNumber": "b",
+          "text": "The motion of a particle is observed for 10 seconds and is found to be in accordance with the following equation : \\( r = R \\) (constant), \\( \\theta = \\left( \\frac{\\pi}{12} \\right)t \\) and \\( \\phi = \\pi t \\). What will be its velocity?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2020_79_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2020_79_q4_s1",
+          "subNumber": "a",
+          "text": "A force is said to be conservative if \\( \\oint \\vec{F} \\cdot d \\vec{r} = 0 \\). Show that this condition can also be written as curl \\( F = 0 \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q4_s2",
+          "subNumber": "b",
+          "text": "Prove that the electrostatic forces between two charges are conservative.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2020_79_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2020_79_q5_s1",
+          "subNumber": "a",
+          "text": "What do you mean by equipotential surfaces? Find out the gravitational potential due to a thin spherical shell.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2020_79_q5_s2",
+          "subNumber": "b",
+          "text": "Find the spherical surface of zero potential due to +2q and -3q charges fixed at \\( \\{4, 0, 0\\} \\) and \\( \\{9, 0, 0\\} \\) respectively.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2020_79_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2020_79_q6_s1",
+          "subNumber": "a",
+          "text": "Write and solve equation of motion of a mass executing simple harmonic oscillator in the presence of a damping force. Also, discuss the cases of overdamping, critically-damping and underdamping oscillations.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2020_79_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2020_79_q7_s1",
+          "subNumber": "a",
+          "text": "Derive Euler's equations of rigid body motion. Consider a uniform rod mounted on a horizontal frictionless axle through its centre. The axle is carried on a turntable revolving with constant angular velocity \\( \\Omega \\) with the centre of the rod over the axis of the turntable. Let \\( \\theta \\) be the angle shown in the sketch. Using Euler's equations, show that the motion of the rod is simple harmonic.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/20em7.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2020_79_q8",
+      "number": 8,
+      "title": "Q.8 Write short notes on any two of the following :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2020_79_q8_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2020_79_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2020_79_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

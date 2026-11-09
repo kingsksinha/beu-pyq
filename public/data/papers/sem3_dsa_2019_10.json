@@ -1,0 +1,323 @@
+{
+  "id": "sem3_dsa_2019_10",
+  "semester": 3,
+  "subject_code": "dsa",
+  "subject_name": "Data Structure and Algorithms",
+  "year": "2019",
+  "exam_code": "100304",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2019 (New Course) Data Structures and Algorithms Time: 03 Hours Code: 100304 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_dsa_2019_10_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of any seven of the following questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2019_10_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following points is/are true about linked list data structure when it is compared with array?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Arrays have better cache locality that can make them better in terms of performance.",
+            "It is easy to insert and delete elements in linked list.",
+            "The size of array has to be pre-decided, linked lists can change their size any time.",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2019_10_q1_s2",
+          "subNumber": "b",
+          "text": "What is the functionality of the following code?<br/> \\( public\\ void\\ function(Node\\ node)\\ \\{ \\)<br/> \\( \\quad if(size==0)\\ head=node; \\)<br/> \\( \\quad else\\ \\{ \\)<br/> \\( \\quad \\quad Node\\ temp,\\ cur; \\)<br/> \\( \\quad \\quad for(cur=head; (temp=cur.getNext())! \\) \\(=null; cur=temp); \\)<br/> \\( \\quad \\quad cur.setNext(node); \\)<br/> \\( \\quad \\} \\)<br/> \\( \\quad size++; \\)<br/> \\( \\} \\)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Inserting a node at the beginning of the list",
+            "Deleting a node at the beginning of the list",
+            "Inserting a node at the end of the list",
+            "Deleting a node at the end of the list"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2019_10_q1_s3",
+          "subNumber": "c",
+          "text": "What is the space complexity for deleting a linked list?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( O(1) \\)",
+            "\\( O(n) \\)",
+            "Either \\( O(1) \\) or \\( O(n) \\)",
+            "\\( O(\\log n) \\)"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2019_10_q1_s4",
+          "subNumber": "d",
+          "text": "The situation when in a linked list START=NULL is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "underflow",
+            "overflow",
+            "housefull",
+            "saturated"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2019_10_q1_s5",
+          "subNumber": "e",
+          "text": "What would be the asymptotic time complexity to add a node at the end of singly linked list, if the pointer is initially pointing to the head of the list?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( O(1) \\)",
+            "\\( O(n) \\)",
+            "\\( \\Theta(n) \\)",
+            "\\( \\Theta(1) \\)"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2019_10_q1_s6",
+          "subNumber": "f",
+          "text": "What kind of linked list is best to answer question like \"What is the item at position n\"?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Singly linked list",
+            "Doubly linked list",
+            "Circular linked list",
+            "Array implementation of linked list"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2019_10_q1_s7",
+          "subNumber": "g",
+          "text": "A variation of linked list is circular linked list, in which the last node in the list points to first node of the list. One problem with this type of list is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "it wastes memory space since the pointer head already points to the first node and thus the list node does not need to point to the first node",
+            "it is not possible to add a node at the end of the list",
+            "it is difficult to traverse the list as the pointer of the last node is now not NULL",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2019_10_q1_s8",
+          "subNumber": "h",
+          "text": "Each node in a linked list must contain at least",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "three fields",
+            "two fields",
+            "four fields",
+            "five fields"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2019_10_q1_s9",
+          "subNumber": "i",
+          "text": "A linear list in which the last node points to the first node is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "singly linked list",
+            "circular linked list",
+            "doubly linked list",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2019_10_q1_s10",
+          "subNumber": "j",
+          "text": "In a linked list, insertion can be done at",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "beginning",
+            "end",
+            "middle",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2019_10_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2019_10_q2_s1",
+          "subNumber": "a",
+          "text": "What is a Hash Table, and what is the average case and worst-case time for each of its operations? How can we use this structure to find all anagrams in a dictionary?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2019_10_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2019_10_q3_s1",
+          "subNumber": "a",
+          "text": "Describe insertion in max heap tree with example from the following list of numbers: 33, 42, 67, 23, 44, 49, 74",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2019_10_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2019_10_q4_s1",
+          "subNumber": "a",
+          "text": "Sort the given values using quicksort and write time complexity of algorithm: 65, 70, 75, 80, 85, 60, 55, 50, 45",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2019_10_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2019_10_q5_s1",
+          "subNumber": "a",
+          "text": "Insert the following sequence of elements into an AVL tree, starting with an empty tree: 10, 20, 15, 25, 30, 16, 18, 19",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2019_10_q5_s2",
+          "subNumber": "b",
+          "text": "Delete 30 in the AVL tree that you got.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2019_10_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2019_10_q6_s1",
+          "subNumber": "a",
+          "text": "Write algorithm for quicksort and mention time and space complexity in each case.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_dsa_2019_10_q6_s2",
+          "subNumber": "b",
+          "text": "Define collision in hashing. What are the different methodologies to resolve collision? Explain briefly.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2019_10_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2019_10_q7_s1",
+          "subNumber": "a",
+          "text": "Construct binary search tree and write pre- and post-order traversals of this tree: 8, 3, 1, 10, 6, 14, 4, 7, 13, 22, 5",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2019_10_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2019_10_q8_s1",
+          "subNumber": "a",
+          "text": "Write algorithm to count leaf node in binary tree and check whether tree is balanced or not.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_dsa_2019_10_q8_s2",
+          "subNumber": "b",
+          "text": "Write a recursive and iterative version of insertion sort algorithm and mention time complexity.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2019_10_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2019_10_q9_s1",
+          "subNumber": "a",
+          "text": "BFS",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2019_10_q9_s2",
+          "subNumber": "b",
+          "text": "DFS",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2019_10_q9_s3",
+          "subNumber": "c",
+          "text": "Binary search tree",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2019_10_q9_s4",
+          "subNumber": "d",
+          "text": "Balance factor",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

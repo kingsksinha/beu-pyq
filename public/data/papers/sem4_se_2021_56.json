@@ -1,0 +1,337 @@
+{
+  "id": "sem4_se_2021_56",
+  "semester": 4,
+  "subject_code": "se",
+  "subject_name": "Software Engineering",
+  "year": "2021",
+  "exam_code": "105504",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Examination, 2021 (New Course) Software Engineering Time: 03 Hours Code: 105504 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_se_2021_56_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer from any seven of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2021_56_q1_s1",
+          "subNumber": "a",
+          "text": "The incremental model is a result of combination of elements of which two models?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Build and FIX model and waterfall model",
+            "Linear model and RAD model",
+            "Waterfall model and RAD model",
+            "Linear model and Prototyping model"
+          ]
+        },
+        {
+          "id": "sem4_se_2021_56_q1_s2",
+          "subNumber": "b",
+          "text": "The CMM model is a technique to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "automatically maintain software reliability",
+            "improve the software process",
+            "test the software",
+            "All of the mentioned"
+          ]
+        },
+        {
+          "id": "sem4_se_2021_56_q1_s3",
+          "subNumber": "c",
+          "text": "Maintenance testing is performed using which methodology?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Retesting",
+            "Sanity testing",
+            "Breadth test and depth test",
+            "Confirmation testing"
+          ]
+        },
+        {
+          "id": "sem4_se_2021_56_q1_s4",
+          "subNumber": "d",
+          "text": "Boundary value analysis belongs to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "white box testing",
+            "black box testing",
+            "white box and black box testing",
+            "None of the mentioned"
+          ]
+        },
+        {
+          "id": "sem4_se_2021_56_q1_s5",
+          "subNumber": "e",
+          "text": "\"An ordering system may be adapted to cope with a centralized ordering process in one company and a distributed process in another.\" Which category the example belongs to?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Process specialization",
+            "Platform specialization",
+            "Environment specialization",
+            "Functional specialization"
+          ]
+        },
+        {
+          "id": "sem4_se_2021_56_q1_s6",
+          "subNumber": "f",
+          "text": "... is a measure of the degree of interdependence between modules.",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "Cohesion",
+            "Coupling",
+            "None of the mentioned",
+            "All of the mentioned"
+          ]
+        },
+        {
+          "id": "sem4_se_2021_56_q1_s7",
+          "subNumber": "g",
+          "text": "... and ... are the two issues of requirement analysis.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Performance, design",
+            "Stakeholder, developer",
+            "Functional, non-functional",
+            "None of the mentioned"
+          ]
+        },
+        {
+          "id": "sem4_se_2021_56_q1_s8",
+          "subNumber": "h",
+          "text": "Which granularity level of testing checks the behavior of module cooperation?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Unit testing",
+            "Integration testing",
+            "Acceptance testing",
+            "Regression testing"
+          ]
+        },
+        {
+          "id": "sem4_se_2021_56_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following states that work expands to fill the time available?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "CASE tool",
+            "Pricing to win",
+            "Parkinson's law",
+            "Expert judgment"
+          ]
+        },
+        {
+          "id": "sem4_se_2021_56_q1_s10",
+          "subNumber": "j",
+          "text": "A company needs to develop digital signal processing software for one of its newest inventions. The software is expected to have 40000 lines of code. The company needs to determine the effort in person-months needed to develop this software using the basic COCOMO model. The multiplicative factor for this model is given as 2.8 for the software development on embedded systems, while the exponentiation factor is given as 1.20. What is the estimated effort in person-months?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "234.25",
+            "932.50",
+            "287.80",
+            "122.40"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2021_56_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2021_56_q2_s1",
+          "subNumber": "a",
+          "text": "Give the full form of CASE. Draw CASE diagram showing all components. Describe each component briefly.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_se_2021_56_q2_s2",
+          "subNumber": "b",
+          "text": "Draw the first two levels of DFDs for an 'Online Examination System'. Make necessary assumptions.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2021_56_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2021_56_q3_s1",
+          "subNumber": "a",
+          "text": "Prepare SRS for an 'Inventory Management System' for a retail medical store. Also explain the risk assessment and management in brief. Make necessary assumptions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_se_2021_56_q3_s2",
+          "subNumber": "b",
+          "text": "Explain cohesion and coupling. How are the concepts of coupling and cohesion useful in arriving at good software design?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2021_56_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2021_56_q4_s1",
+          "subNumber": "a",
+          "text": "What is software quality assurance? Explain different quality matrices.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_se_2021_56_q4_s2",
+          "subNumber": "b",
+          "text": "What is cyclomatic complexity? How is it computed? Calculate cyclomatic complexity for the program to find the smallest of three numbers.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2021_56_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2021_56_q5_s1",
+          "subNumber": "a",
+          "text": "What are project metrices? Explain different types of project metrics with an example for each.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_se_2021_56_q5_s2",
+          "subNumber": "b",
+          "text": "What are the main objectives of software verification and validation? Explain different verification and validation techniques.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2021_56_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2021_56_q6_s1",
+          "subNumber": "a",
+          "text": "Explain any two of the risk management techniques with suitable examples. With a neat diagram, explain the different levels of CMM in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_se_2021_56_q6_s2",
+          "subNumber": "b",
+          "text": "List and explain different categories of tools that can be used for testing.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2021_56_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2021_56_q7_s1",
+          "subNumber": "a",
+          "text": "Explain Agile process with its advantage. Explain any one Agile process model.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_se_2021_56_q7_s2",
+          "subNumber": "b",
+          "text": "Write the structure of SRS as per IEEE standards.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2021_56_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2021_56_q8_s1",
+          "subNumber": "a",
+          "text": "What are the different methods used for estimating cost and effort required for completing a project successfully? Explain any one method in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_se_2021_56_q8_s2",
+          "subNumber": "b",
+          "text": "What is software quality? What are three dimensions of software quality? Explain briefly.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2021_56_q9",
+      "number": 9,
+      "title": "Q.9 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2021_56_q9_s1",
+          "subNumber": "a",
+          "text": "Explain function point based matrices with suitable example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_se_2021_56_q9_s2",
+          "subNumber": "b",
+          "text": "Write short notes on the following: (i) Project management (ii) Test case design (iii) Software reliability",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

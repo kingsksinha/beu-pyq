@@ -1,0 +1,270 @@
+{
+  "id": "sem2_analog_2023_12",
+  "semester": 2,
+  "subject_code": "analog",
+  "subject_name": "Analog Circuits",
+  "year": "2023",
+  "exam_code": "100302",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Examination, 2023 Analog Electronic Circuits Time: 03 Hours Code: 100302 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_analog_2023_12_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following questions (any seven only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_12_q1_s1",
+          "subNumber": "a",
+          "text": "Mention the advantages of Full Wave Rectifier.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_analog_2023_12_q1_s2",
+          "subNumber": "b",
+          "text": "Draw the pn junction diode VI characteristics.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q1_s3",
+          "subNumber": "c",
+          "text": "What are the different configurations of BJT?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_analog_2023_12_q1_s4",
+          "subNumber": "d",
+          "text": "What is stability factor?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q1_s5",
+          "subNumber": "e",
+          "text": "What is MOSFET? Classify the types of MOSFET",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q1_s6",
+          "subNumber": "f",
+          "text": "What is meant by pinchoff voltage?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q1_s7",
+          "subNumber": "g",
+          "text": "Define an operational amplifier.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q1_s8",
+          "subNumber": "h",
+          "text": "Define Slew rate.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q1_s9",
+          "subNumber": "i",
+          "text": "Mention some of the non-linear applications of op-amp.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q1_s10",
+          "subNumber": "j",
+          "text": "List the features of instrumentation amplifier.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_12_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_12_q2_s1",
+          "subNumber": "a",
+          "text": "What is a PN Junction? Explain the formation of depletion layer in a PN junction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q2_s2",
+          "subNumber": "b",
+          "text": "Draw the circuit diagram of half wave rectifier and explain its operation with the help of waveforms.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_12_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_12_q3_s1",
+          "subNumber": "a",
+          "text": "If the base current in a transistor is 20 \\( \\mu A \\) when the emitter current is 6.4mA, what are the values of \\( \\alpha \\) and \\( \\beta \\)? Also calculate the collector current.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q3_s2",
+          "subNumber": "b",
+          "text": "Why hybrid model is used for the analysis of BJT amplifier at low frequencies? Draw the hybrid model for CE transistor and derive the parameters.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_12_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_12_q4_s1",
+          "subNumber": "a",
+          "text": "With the help of neat diagram, explain the operation and characteristics of n-channel enhancement type MOSFET.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_analog_2023_12_q4_s2",
+          "subNumber": "b",
+          "text": "Draw and explain the small signal model of FET at low frequency.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_12_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_12_q5_s1",
+          "subNumber": "a",
+          "text": "What are the factors that affect the frequency stability of an oscillator? How can be improved in oscillators.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q5_s2",
+          "subNumber": "b",
+          "text": "Compare different configurations of differential amplifier.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_12_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_12_q6_s1",
+          "subNumber": "a",
+          "text": "Write the design steps of the first order low pass filter and draw its circuit.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q6_s2",
+          "subNumber": "b",
+          "text": "With the help of neat and clear sketch, explain the working of a MOS transistor as a switch.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_12_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_12_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the basic building block diagram of an op-amp. Write short note on input bias current, output bias current, slew rate and output offset voltage of an op-amp.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_12_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_12_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the working of series clipping circuit to clip the input sinusoidal signal above reference level. Draw the waveforms and transfer characteristics.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q8_s2",
+          "subNumber": "b",
+          "text": "Compare BJT and FET on different parameters.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_12_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_12_q9_s1",
+          "subNumber": "a",
+          "text": "Write Short notes on (i) Zero Crossing Detector (ii) Precision Rectifier",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2023_12_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the function of Square-wave and triangular-wave generators.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "id": "sem1_egd_2025_11",
+  "semester": 1,
+  "subject_code": "egd",
+  "subject_name": "Engineering Graphics & Design",
+  "year": "2025",
+  "exam_code": "100217",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 Engineering Graphics & Design Time: 03 Hours Code: 100217 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 19,
+  "max_freq": 5,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_egd_2025_11_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven questions only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_11_q1_s1",
+          "subNumber": "a",
+          "text": "When the drawing are drawn smaller than the actual size of object then the scale is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Reducing size scale",
+            "Full size scale",
+            "Enlarging size scale",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_11_q1_s2",
+          "subNumber": "b",
+          "text": "When the plane cuts the cone parallel to one of the generator the curve traced out by the section is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Ellipse",
+            "Parabola",
+            "Hyperbola",
+            "Involute"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_11_q1_s3",
+          "subNumber": "c",
+          "text": "When the front view of line having length less than the original length then which of the following is correct",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Line is inclined to H.P. and Parallel to V.P.",
+            "Line is inclined to V.P. and parallel to HP",
+            "Line is parallel to both H.P. and V.P.",
+            "Line is inclined to both H.P. and V.P."
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_11_q1_s4",
+          "subNumber": "d",
+          "text": "If a point is situated behind the V.P. it's top view will be",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "above the XY line",
+            "below the XY line",
+            "on the XY line",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_11_q1_s5",
+          "subNumber": "e",
+          "text": "If a circle whose surface is inclined to H.P. and perpendicular to V.P., Its Top view will be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "parabola",
+            "hyperbola",
+            "circle",
+            "ellipse"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_11_q1_s6",
+          "subNumber": "f",
+          "text": "In orthographic projection, visual rays or line of sight for a given view are to each other.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "perpendicular",
+            "parallel",
+            "normal",
+            "oblique"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_11_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following solids is a polyhedron",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "cone",
+            "cylinder",
+            "prism",
+            "sphere"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_11_q1_s8",
+          "subNumber": "h",
+          "text": "The angle between isometric axes is.......",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 120^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_11_q1_s9",
+          "subNumber": "i",
+          "text": "Which method of development is employed in case of pyramid?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Approximation development",
+            "Radial line development",
+            "Parallel line development",
+            "Triangulation development"
+          ]
+        },
+        {
+          "id": "sem1_egd_2025_11_q1_s10",
+          "subNumber": "j",
+          "text": "Which command is used to bevel the edges of objects?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "OFFSET command",
+            "ERASE command",
+            "TRIM command",
+            "CHAMFER command"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_11_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_11_q2_s1",
+          "subNumber": "a",
+          "text": "On map of Patna City 1cm represents 1km. Construct a scale to measure the distance between Bihar Engineering University and Patna University is 6 km. Also indicate on scale, the distance between Patna railway station and Rajendranagar Terminal which is 3 km and 7 hectometers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2025_11_q2_s2",
+          "subNumber": "b",
+          "text": "Construct the involute of a pentagonal of sides 25 mm. Draw the tangent and normal to the involute at a point 100 mm from the center of the pentagonal.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_11_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_11_q3_s1",
+          "subNumber": "a",
+          "text": "A wheel of motorcycle 60 mm in diameters roll on a straight horizontal road. Draw the locus of a point 'P' on the periphery of the wheel for one revolution of the wheel. Initially point P is farthest from road.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_11_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_11_q4_s1",
+          "subNumber": "a",
+          "text": "The front view of 85 mm long straight line AB measure 60 mm while its top view measure 70 mm. Draw the projection of AB if it's end A is 10 mm above HP and 20 mm behind VP, while it's end B is in first quadrant. Draw the projections of line and determine the inclination of line AB with the reference planes.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_11_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_11_q5_s1",
+          "subNumber": "a",
+          "text": "A semi-circular plate of 40 mm diameter has its straight edge in the V.P. and inclined at \\( 45^{\\circ} \\) to the H.P. The surface of the plate makes an angle \\( 30^{\\circ} \\) with the V.P draw its projections.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_11_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_11_q6_s1",
+          "subNumber": "a",
+          "text": "A pentagonal pyramid side of base 35 mm and axis length 70 mm kept on the VP on one of its base edges in such a way that the triangular face containing that base edge is perpendicular to V.P. and parallel to H.P. Draw the projections of the pyramid.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_11_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_11_q7_s1",
+          "subNumber": "a",
+          "text": "A square prism side of base 45 mm and axis length 90 mm has its axis vertical and rectangular faces equally inclined to V.P. A Square hole of sides 30 mm in drilled through the prism completely such that axis of hole is perpendicular to V.P. and bisects the axis of vertical square prism. The sides of a square hole are equally inclined to H.P. Draw the development of lateral surface with effect of hole.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_11_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_11_q8_s1",
+          "subNumber": "a",
+          "text": "Isometric view of an object is given. Draw the front view looking in the direction X, right-side view looking in the direction Y and top view of the object by first angle projection method.",
+          "freq": 5,
+          "stars": "★★★★★",
+          "images": [
+            "img/beu/diagram/25egd8.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2025_11_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2025_11_q9_s1",
+          "subNumber": "a",
+          "text": "The following figure shows two orthographic views of an object [refer to paper image]. Draw the isometric projection of the object.",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/25egd9.png"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": "sem4_os_2022_27",
+  "semester": 4,
+  "subject_code": "os",
+  "subject_name": "Operating System",
+  "year": "2022",
+  "exam_code": "105403",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2022 Operating Systems Time: 3 hours Code: 105403 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_os_2022_27_q1",
+      "number": 1,
+      "title": "Q.1 Answer/Choose the correct answer of the following (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2022_27_q1_s1",
+          "subNumber": "a",
+          "text": "What is the difference between a multiprocessor and a multicore system?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_os_2022_27_q1_s2",
+          "subNumber": "b",
+          "text": "What is multiprogramming?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q1_s3",
+          "subNumber": "c",
+          "text": "Define jacketing.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q1_s4",
+          "subNumber": "d",
+          "text": "What operations can be performed on a semaphore?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q1_s5",
+          "subNumber": "e",
+          "text": "What is the difference between a page and a frame?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_os_2022_27_q1_s6",
+          "subNumber": "f",
+          "text": "In contiguous memory allocation",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q1_s7",
+          "subNumber": "g",
+          "text": "If the size of logical address space is 2 to the power of \\( m \\), and a page size is 2 to the power of \\( n \\) addressing units, then the high order ___ bits of a logical address designate the page number, and the ___ low order bits designate the page offset.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q1_s8",
+          "subNumber": "h",
+          "text": "If the wait for graph contains a cycle, then",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q1_s9",
+          "subNumber": "i",
+          "text": "When the event for which a thread is blocked occurs?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q1_s10",
+          "subNumber": "j",
+          "text": "An I/O port typically consists of four registers status, control, ___ and ___ registers.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2022_27_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2022_27_q2_s1",
+          "subNumber": "a",
+          "text": "What is the purpose of interrupts? What are the differences between a trap and an interrupt? Can traps be generated intentionally by a user program? If so, for what purpose?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q2_s2",
+          "subNumber": "b",
+          "text": "Answer the following with full justifications:<br/>Does swapping improve or degrade the efficiency of system utilization? <br/>Can swapping be used in a multiprogramming system?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2022_27_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2022_27_q3_s1",
+          "subNumber": "a",
+          "text": "Including the initial parent process, how many processes are created by the program shown below?<br/>#include&lt;stdio.h&gt;<br/>#include&lt;unistd.h&gt;<br/>int main()<br/>{<br/>/* fork a child process */<br/>fork();<br/>/* fork another child process */<br/>fork();<br/>/* and fork another */<br/>fork();<br/>return 0;<br/>}",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q3_s2",
+          "subNumber": "b",
+          "text": "Describe the differences among short-term, medium-term, and long-term scheduling.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2022_27_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2022_27_q4_s1",
+          "subNumber": "a",
+          "text": "An airline reservation system, using a centralized database service, user requests concurrently. Is it preferable to use threads rather than processes in this system? Give reasons for your answer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q4_s2",
+          "subNumber": "b",
+          "text": "Consider a system running ten I/O-bound tasks and one CPU-bound task. Assume that the I/O-bound tasks issue an I/O operation once for every millisecond of CPU computing and that each I/O operation takes 10 milliseconds to complete. Also assume that the context-switching overhead is 0.1 millisecond and that all processes are long-running tasks. Describe the CPU utilization for a round-robin scheduler when-<br/>(i) the time quantum is 1 millisecond;<br/>(ii) the time quantum is 10 milliseconds.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2022_27_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2022_27_q5_s1",
+          "subNumber": "a",
+          "text": "Clearly justify why deadlocks cannot arise in a bounded buffer producers-consumers system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q5_s2",
+          "subNumber": "b",
+          "text": "Consider a system consisting of four resources of the same type that are shared by three processes, each of which needs at most two resources. Show that the system is deadlock-free.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2022_27_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2022_27_q6_s1",
+          "subNumber": "a",
+          "text": "Five batch jobs, A through E, arrive at a computer center at essentially the same time. They have an estimated running time of 15, 9, 3, 6 and 12 minutes, respectively. Their (externally defined) priorities are 6, 3, 1, 4 and 2, respectively, with a lower value corresponding to a higher priority. For each of the following scheduling algorithms, determine the waiting time for each process and the average waiting for all jobs. Ignore process switching overhead. Explain how you arrived at your answers. In the last three cases, assume that only one job at a time runs until it finishes and that all jobs are completely processor bound:<br/>(a) Priority scheduling<br/>(b) FCFS (run in order 15, 9, 3, 6 and 12)<br/>(c) Shortest job first",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2022_27_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2022_27_q7_s1",
+          "subNumber": "a",
+          "text": "A bridge on a busy highway is damaged by a flood. One-way traffic is to be instituted on the bridge by permitting vehicles traveling in opposite directions to use the bridge alternately. The following rules are formulated for use of the bridge:<br/>(a) At any time, the bridge is used by vehicle(s) traveling in one direction only.<br/>(b) If vehicles are waiting to cross the bridge at both ends, only one vehicle from one end is allowed to cross the bridge before a vehicle from the other end starts crossing the bridge.<br/>(c) If no vehicles are waiting at one end, then any numbers of vehicles from the other end are permitted to cross the bridge.<br/>Develop a concurrent system to implement these rules.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2022_27_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2022_27_q8_s1",
+          "subNumber": "a",
+          "text": "Consider a simple paging system with the following parameters:<br/>• \\( 232 \\) bytes of physical memory<br/>• Page size of \\( 210 \\) bytes<br/>• \\( 216 \\) pages of logical address space<br/>(i) How many bits are in a logical address?<br/>(ii) How many bytes are in a frame?<br/>(iii) How many bits in the physical address specify the frame?<br/>(iv) How many entries are in the page table?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q8_s2",
+          "subNumber": "b",
+          "text": "Given five memory partitions of 100 KB, 500 KB, 200 KB, 300 KB and 600 KB (in order). How would the first-fit, best-fit, and worst-fit algorithms place processes of 212 KB, 417 KB, 112 KB and 426 KB (in order)? Which algorithm makes the most efficient use of memory?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2022_27_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2022_27_q9_s1",
+          "subNumber": "a",
+          "text": "Consider a demand paging system with a paging disk that has an average access and transfer time of 20 milliseconds. Addresses are translated through a page table in main memory, with an access time of 1 microsecond. Thus, each memory reference through the page table takes two accesses. To improve this time, we have added an associative memory that reduces access time to one memory reference if the page-table entry is in the associative memory. Assume that 80 percent of the accesses are in the associative memory and that of those remaining 10 percent (or 2 percent of the total) cause page faults. What is the effective memory access time?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2022_27_q9_s2",
+          "subNumber": "b",
+          "text": "The open file table is used to maintain information about files that are currently open. Should the operating system maintain a separate table for each user or just maintain one table that contains references to files that are currently being accessed by all users? If the same file is being accessed by two different programs or users, should there be separate entries in the open-file table?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

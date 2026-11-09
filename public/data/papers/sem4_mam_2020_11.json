@@ -1,0 +1,213 @@
+{
+  "id": "sem4_mam_2020_11",
+  "semester": 4,
+  "subject_code": "mam",
+  "subject_name": "Microprocessors and Microcontrollers",
+  "year": "2020",
+  "exam_code": "1045",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Examination, 2020 (New Course) Microprocessor and Microcontroller Time: 3 hours Code: 1045 Full Marks: 70",
+  "question_count": 8,
+  "total_subquestions": 18,
+  "max_freq": 1,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are EIGHT questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mam_2020_11_q1",
+      "number": 1,
+      "title": "Q.1 Differentiate between the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mam_2020_11_q1_s1",
+          "subNumber": "a",
+          "text": "Microcontroller and Microprocessor",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mam_2020_11_q1_s2",
+          "subNumber": "b",
+          "text": "High level language and Low level language",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mam_2020_11_q1_s3",
+          "subNumber": "c",
+          "text": "RISC Processor and CISC Processor",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mam_2020_11_q1_s4",
+          "subNumber": "d",
+          "text": "I/O-Mapped I/O and Memory-Mapped I/O",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mam_2020_11_q1_s5",
+          "subNumber": "e",
+          "text": "Assembler and Cross-Assembler",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mam_2020_11_q1_s6",
+          "subNumber": "f",
+          "text": "CALL and JMP",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mam_2020_11_q1_s7",
+          "subNumber": "g",
+          "text": "STAX and LDAX",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mam_2020_11_q1_s8",
+          "subNumber": "h",
+          "text": "XTHL and PCHL",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mam_2020_11_q1_s9",
+          "subNumber": "i",
+          "text": "RIM and SIM",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mam_2020_11_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mam_2020_11_q2_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the architecture of 8086. Describe the function of queue in 8086. How does the queue speed up processing?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mam_2020_11_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss the addressing technique used in 8086 and explain the various addressing modes of 8086.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mam_2020_11_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mam_2020_11_q3_s1",
+          "subNumber": "a",
+          "text": "Draw the block diagram of 8254 PPI and explain the various modes in which 8254 can operate and write down the control word for each mode. Specify the conditions to start the timer of 8254 PPI.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mam_2020_11_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mam_2020_11_q4_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the pin diagram of 8051 microcontroller and explain the memory mapping of 8051.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mam_2020_11_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the interfacing of 16 K EPROM and 8 K RAM to 8051 microcontroller.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mam_2020_11_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mam_2020_11_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the different interrupts available in 8085 processor. What are the purpose of the instructions RIM and SIM? How is the status of pending interrupts checked? Assuming the microprocessor is completing an RST 7.5 interrupt request, check to see if RST 6.5 is pending. If it is pending, enable RST 6.5 without affecting any other interrupts; otherwise, return to the main program.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mam_2020_11_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mam_2020_11_q6_s1",
+          "subNumber": "a",
+          "text": "A set of ten packed BCD numbers is stored in the memory location. Write a program to add these numbers in BCD, if carry is generated save it in register B, and adjust it for BCD. Write a subroutine to unpack the stored BCD sum and store it in two consecutive memory locations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mam_2020_11_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mam_2020_11_q7_s1",
+          "subNumber": "a",
+          "text": "Two sets of three readings each are stored in memory. Write a program and draw the flowchart to sort the readings in descending order, assuming that the two sets are separated by the word FFH.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mam_2020_11_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mam_2020_11_q8_s1",
+          "subNumber": "a",
+          "text": "Write a program to insert a string of four characters from the tenth location in the given array of 50 characters.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

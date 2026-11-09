@@ -1,0 +1,267 @@
+{
+  "id": "sem1_eng_2021_70",
+  "semester": 1,
+  "subject_code": "eng",
+  "subject_name": "Communicative English",
+  "year": "2021",
+  "exam_code": "100106",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam, 2021 English Time: 3 hours Code: 100106 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 8,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eng_2021_70_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_70_q1_s1",
+          "subNumber": "a",
+          "text": "Give one word for the following:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Government by the nobles",
+            "People living at the same time",
+            "Fit to eat or consume",
+            "Set free by law"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_70_q1_s2",
+          "subNumber": "b",
+          "text": "Transform the sentences as directed:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "She is one of the wisest women of her colony. (Positive)",
+            "No other metal is as precious as gold. (Comparative)",
+            "Why should we lament any loss? (Assertive)",
+            "There is no rose without a thorn. (Affirmative)"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_70_q1_s3",
+          "subNumber": "c",
+          "text": "Write the antonyms of the following:",
+          "freq": 6,
+          "stars": "★★★★★",
+          "options": [
+            "Beneficial",
+            "Cheerful",
+            "Ambiguous",
+            "Civilized"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_70_q1_s4",
+          "subNumber": "d",
+          "text": "Write the synonyms of the following:",
+          "freq": 6,
+          "stars": "★★★★★",
+          "options": [
+            "Conceal",
+            "Abstain",
+            "Corrupt",
+            "Contribute"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_70_q1_s5",
+          "subNumber": "e",
+          "text": "Write the meanings of the foreign expressions:",
+          "freq": 8,
+          "stars": "★★★★★",
+          "options": [
+            "Ad verbatim",
+            "In camera"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_70_q1_s6",
+          "subNumber": "f",
+          "text": "Write the meanings of the following:",
+          "freq": 8,
+          "stars": "★★★★★",
+          "options": [
+            "To get into hot water",
+            "To keep an eye"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_70_q1_s7",
+          "subNumber": "g",
+          "text": "Frame sentences with the following homophones to bring out the difference in their meanings:",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Compliment, Complement",
+            "Cannon, Canon"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_70_q1_s8",
+          "subNumber": "h",
+          "text": "Correct the following sentences:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Rahul gave me some advices.",
+            "Let him to go just now.",
+            "Many soldiers lost their life at Kargil.",
+            "All his family members are engineers."
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_70_q1_s9",
+          "subNumber": "i",
+          "text": "Frame sentences with the following idioms:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Far and wide",
+            "End in smoke"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_70_q1_s10",
+          "subNumber": "j",
+          "text": "Write four sentences on 'Student Unrest'.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_70_q2",
+      "number": 2,
+      "title": "Q.2 Write an essay in about 250 words on any one of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_70_q2_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_70_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_70_q3_s1",
+          "subNumber": "a",
+          "text": "Write a letter of complaint to the Editor about the problem of sanitation in your area.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_70_q4",
+      "number": 4,
+      "title": "Q.4 Write notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_70_q4_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_70_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_70_q5_s1",
+          "subNumber": "a",
+          "text": "Write in detail the essentials of report writing.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_70_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_70_q6_s1",
+          "subNumber": "a",
+          "text": "Write in detail any seven personality traits to be evaluated in a group discussion.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_70_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_70_q7_s1",
+          "subNumber": "a",
+          "text": "Assuming other details, write your resume for a job application by giving suitable examples for your eligibility in Computer Science.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_70_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_70_q8_s1",
+          "subNumber": "a",
+          "text": "Write a letter of order for your new office. Assume other details.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_70_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_70_q9_s1",
+          "subNumber": "a",
+          "text": "In not more than 150 words, write about 'Corruption in India'.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    }
+  ]
+}

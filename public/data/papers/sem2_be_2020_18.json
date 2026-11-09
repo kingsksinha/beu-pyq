@@ -1,0 +1,356 @@
+{
+  "id": "sem2_be_2020_18",
+  "semester": 2,
+  "subject_code": "be",
+  "subject_name": "Basic Electronics",
+  "year": "2020",
+  "exam_code": "104301",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2020 (New Course) BASIC ELECTRONICS Time: 03 Hours Code: 104301 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_be_2020_18_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_18_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following expressions represents the correct formula for the density of electrons occupying the donor level?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( n_d = N_d - N_d^+ \\)",
+            "\\( n_d = N_d - N_d \\)",
+            "\\( n_d = N_d + N_d^+ \\)",
+            "\\( n_d = N_d + N_d^- \\)"
+          ]
+        },
+        {
+          "id": "sem2_be_2020_18_q1_s2",
+          "subNumber": "b",
+          "text": "What is the ripple factor of a half-wave rectifier?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.31",
+            "0.48",
+            "0.707",
+            "1.21"
+          ]
+        },
+        {
+          "id": "sem2_be_2020_18_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is true about the resistance of a Zener diode?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It has an incremental resistance",
+            "It has dynamic resistance",
+            "The value of the resistance is the inverse of the slope of the i-v characteristics of the Zener diode",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_be_2020_18_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following is true in construction of a transistor?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The collector dissipates lesser power",
+            "The emitter supplies minority carriers",
+            "The collector is made physically larger than the emitter region",
+            "The collector collects minority charge carriers"
+          ]
+        },
+        {
+          "id": "sem2_be_2020_18_q1_s5",
+          "subNumber": "e",
+          "text": "Consider the following statements: A clamper circuit<br/> 1. adds or subtracts a d.c. voltage to a waveform<br/> 2. does not change the waveform<br/> 3. amplifies the waveform<br/> Which are correct?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1, 2",
+            "1, 3",
+            "1, 2, 3",
+            "2, 3",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_be_2020_18_q1_s6",
+          "subNumber": "f",
+          "text": "For what kind of amplifications can the active region of the common-emitter configuration be used?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Voltage",
+            "Current",
+            "Power",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_be_2020_18_q1_s7",
+          "subNumber": "g",
+          "text": "How does the FET operate before the pinch-off region with small value of drain-to-source voltage in accordance to the control of drain-to-source resistance by the bias voltage?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "As a voltage controlled resistor",
+            "As a voltage dependent resistor",
+            "As a voltage variable resistor",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_be_2020_18_q1_s8",
+          "subNumber": "h",
+          "text": "A Junction FET can operate in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "depletion mode only",
+            "enhancement mode only",
+            "depletion and enhancement modes",
+            "neither depletion nor enhancement mode"
+          ]
+        },
+        {
+          "id": "sem2_be_2020_18_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following is not a property of an ideal operational amplifier?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Zero input impedance",
+            "Infinite bandwidth",
+            "Infinite open-loop gain",
+            "Zero common-mode gain or conversely infinite common mode-rejection"
+          ]
+        },
+        {
+          "id": "sem2_be_2020_18_q1_s10",
+          "subNumber": "j",
+          "text": "Which among the following is the major responsible reason for the cause of 'slew rate'?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Current limiting",
+            "Saturation of internal stages due to application of high frequency and amplitude signal",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_18_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_18_q2_s1",
+          "subNumber": "a",
+          "text": "Draw potential energy diagrams for a forward as well as a reverse-biased p-n junction and explain the flow of currents in both the cases.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_18_q2_s2",
+          "subNumber": "b",
+          "text": "The p-silicon has resistivity of \\( 100 \\text{ }\\Omega\\text{ cm} \\). The other parameters for silicon are: Intrinsic carrier density, \\( n_i = 10^{10} \\text{ cm}^{-3} \\), Hole mobility, \\( \\mu_p = 500 \\text{ cm}^2/\\text{V.s} \\) and Electron mobility, \\( \\mu_n = 1200 \\text{ cm}^2/\\text{V.s} \\). Calculate the number of electrons for every 5000 million holes in the semiconductor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_18_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_18_q3_s1",
+          "subNumber": "a",
+          "text": "Determine \\( v_0 \\) and the required PIV rating of each diode for the configuration of the following figure. In addition, determine the maximum current through each diode.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/241.jpg"
+          ]
+        },
+        {
+          "id": "sem2_be_2020_18_q3_s2",
+          "subNumber": "b",
+          "text": "The circuit shown below uses a 9V Zener diode. If the load resistance \\( R_L \\) is equal to \\( 1.5 \\text{ k}\\Omega \\) and the d.c. source equals 24 V, find the maximum value of resistor R required to maintain constant voltage of 9 V across the load.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/237.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_18_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_18_q4_s1",
+          "subNumber": "a",
+          "text": "Draw the cross-sectional view of an n-p-n transistor and explain its operation in active region of operation. What are the different current components of the transistor? How can one use a transistor as amplifier?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_18_q4_s2",
+          "subNumber": "b",
+          "text": "Define \\( \\alpha_{dc} \\) and \\( \\beta_{dc} \\). Derive the relationship between \\( \\alpha_{dc} \\) and \\( \\beta_{dc} \\). If the base current in a transistor is \\( 30 \\text{ }\\mu\\text{A} \\) when the emitter current is 7.2 mA, what are the values of \\( \\alpha_{dc} \\) and \\( \\beta_{dc} \\)? Also, calculate the collector current.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_18_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_18_q5_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the input and output characteristics of CB configuration. Where can we use the CB configuration in a transistor circuit? Explain with proper justification.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_18_q5_s2",
+          "subNumber": "b",
+          "text": "Design a collector to base bias circuit shown in the figure below for the specified conditions: \\( V_{CC} = 15\\text{V} \\), \\( V_{CE} = 5\\text{V} \\), \\( I_C = 5 \\text{ mA} \\), \\( \\beta = 150 \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/240.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_18_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_18_q6_s1",
+          "subNumber": "a",
+          "text": "Draw the structure of JFET and discuss its working. What is pinch-off voltage? How to get its value experimentally?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_18_q6_s2",
+          "subNumber": "b",
+          "text": "For the voltage-divider configuration of the figure shown below, determine: (i) \\( I_{DQ} \\) and \\( V_{GSQ} \\) (ii) \\( V_D \\) and \\( V_S \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/239.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_18_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_18_q7_s1",
+          "subNumber": "a",
+          "text": "Define an ideal operational amplifier. Draw the approximate block diagram of an OPAMP giving various stages of the amplifier.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_18_q7_s2",
+          "subNumber": "b",
+          "text": "Find the output voltage of the following OPAMP circuit.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/236.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_18_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_18_q8_s1",
+          "subNumber": "a",
+          "text": "Draw the gain-frequency response of an RC coupled amplifier. Discuss fall in gain at very low and at very high frequencies.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2020_18_q8_s2",
+          "subNumber": "b",
+          "text": "Common emitter (CE) amplifier shown in the figure has voltage gain of 150 when \\( R_E = 0 \\). Stability is brought through negative feedback by adding resistor \\( R_E \\). Calculate the value of resistor \\( R_E \\) using feedback concepts so that final voltage gain \\( (=A_{FB}) \\) is equal to 100.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/238.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2020_18_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2020_18_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the construction and working principle of a photo diode (PD).",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_be_2020_18_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the construction and working principle of an SCR. Write the applications utilizing SCR.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    }
+  ]
+}

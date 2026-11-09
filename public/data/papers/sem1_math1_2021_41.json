@@ -1,0 +1,330 @@
+{
+  "id": "sem1_math1_2021_41",
+  "semester": 1,
+  "subject_code": "math1",
+  "subject_name": "Engineering Mathematics-1",
+  "year": "2021",
+  "exam_code": "102102",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam., 2021 Mathematics—I (Calculus and Linear Algebra) Time: 03 Hours Code: 102102 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 13,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_math1_2021_41_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven) :",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2021_41_q1_s1",
+          "subNumber": "a",
+          "text": "If \\( Y = \\int_0^a t^4 e^{-2t^2} dt \\), then the value of \\( Y \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{\\sqrt{2\\pi}}{64} \\)",
+            "\\( \\frac{3\\sqrt{\\pi}}{64} \\)",
+            "\\( \\frac{5\\sqrt{2\\pi}}{64} \\)",
+            "\\( \\frac{3\\sqrt{2\\pi}}{64} \\)"
+          ]
+        },
+        {
+          "id": "sem1_math1_2021_41_q1_s2",
+          "subNumber": "b",
+          "text": "The maximum area of a sector whose perimeter is \\( k \\) is given by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{k^2}{16} \\)",
+            "\\( \\frac{k^2}{8} \\)",
+            "\\( \\frac{k^2}{4} \\)",
+            "\\( \\frac{k^2}{1} \\)"
+          ]
+        },
+        {
+          "id": "sem1_math1_2021_41_q1_s3",
+          "subNumber": "c",
+          "text": "The function \\( f(x) = \\begin{cases} x^2, &amp; 0 \\leq x \\leq \\frac{1}{2} \\\\ x, &amp; \\frac{1}{2} &lt; x \\leq 1 \\end{cases} \\), then \\( \\lim_{x \\to \\frac{1}{2}} f(x) \\)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "has the value \\( \\frac{1}{2} \\)",
+            "has the value 1",
+            "has the value 2",
+            "does not exist"
+          ]
+        },
+        {
+          "id": "sem1_math1_2021_41_q1_s4",
+          "subNumber": "d",
+          "text": "If \\( \\alpha, \\beta \\) are the roots of the equation \\( ax^2 + bx + c = 0 \\), then \\( \\lim_{x \\to \\alpha} \\frac{1 - \\cos(\\alpha x^2 + bx + c)}{(x - \\alpha)^2} \\) is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{a^2}{2} (\\alpha - \\beta)^2 \\)",
+            "\\( -\\frac{a^2}{2} (\\alpha - \\beta)^2 \\)",
+            "\\( \\frac{a^2}{2} (\\alpha - \\beta)^2 \\)",
+            "0"
+          ]
+        },
+        {
+          "id": "sem1_math1_2021_41_q1_s5",
+          "subNumber": "e",
+          "text": "The series \\( x - \\frac{x^2}{2} + \\frac{x^3}{3} - \\frac{x^4}{4} + ... \\) converges for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( (-1 &lt; x \\leq 1) \\)",
+            "\\( |x| &lt; 1 \\) only",
+            "\\( |x| \\leq 1 \\)",
+            "all real values of \\( x \\)"
+          ]
+        },
+        {
+          "id": "sem1_math1_2021_41_q1_s6",
+          "subNumber": "f",
+          "text": "If \\( u_n = \\sqrt{n+1} - \\sqrt{n}, \\quad v_n = \\sqrt{n^4 + 1} - n^2 \\), then",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\sum_{n=1}^{\\infty} u_n \\) converges but \\( \\sum_{n=1}^{\\infty} v_n \\) diverges",
+            "\\( \\sum_{n=1}^{\\infty} u_n \\) diverges but \\( \\sum_{n=1}^{\\infty} v_n \\) converges",
+            "\\( \\sum_{n=1}^{\\infty} u_n \\) and \\( \\sum_{n=1}^{\\infty} v_n \\) both converge",
+            "\\( \\sum_{n=1}^{\\infty} u_n \\) and \\( \\sum_{n=1}^{\\infty} v_n \\) both diverge"
+          ]
+        },
+        {
+          "id": "sem1_math1_2021_41_q1_s7",
+          "subNumber": "g",
+          "text": "\\( \\lim_{(x, y) \\to (0, 0)} \\frac{1 - x - y}{x^2 + y^2} \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "0",
+            "1",
+            "-1",
+            "Does not exist"
+          ]
+        },
+        {
+          "id": "sem1_math1_2021_41_q1_s8",
+          "subNumber": "h",
+          "text": "The gradient of the function \\( f(x, y, z) = \\log (x^2 + y^2 + z^2) \\) at \\( (3, -4, 5) \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{1}{\\sqrt{3}} (i + j + k) \\)",
+            "\\( \\frac{1}{3} (i + j + k) \\)",
+            "\\( \\frac{1}{25} (3i^2 - 4j + 5k) \\)",
+            "\\( \\frac{1}{25} (3i^2 + 4j + 5k) \\)"
+          ]
+        },
+        {
+          "id": "sem1_math1_2021_41_q1_s9",
+          "subNumber": "i",
+          "text": "If \\( A \\) and \\( B \\) are any two square matrices of order \\( 2 \\times 2 \\), then \\( (A + B)^2 \\) is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( A^2 + 2AB + B^2 \\)",
+            "\\( A^2 + AB - BA + B^2 \\)",
+            "\\( A^2 + AB + BA + B^2 \\)",
+            "\\( A^2 + 2BA + B^2 \\)"
+          ]
+        },
+        {
+          "id": "sem1_math1_2021_41_q1_s10",
+          "subNumber": "j",
+          "text": "The system of equations \\( x - y + 3z = 4, x + z = 2, x + y - z = 0 \\) has",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "infinitely many solutions",
+            "finitely many solutions",
+            "a unique solution",
+            "no solution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2021_41_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2021_41_q2_s1",
+          "subNumber": "a",
+          "text": "Evaluate \\( \\int_{0}^{\\infty} x^{m} e^{-ax^n} dx \\).",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_math1_2021_41_q2_s2",
+          "subNumber": "b",
+          "text": "Find the surface of the solid formed by the revolution about the axis of \\( y \\), of the part of the curve \\( ay^2 = x^3 \\) from \\( x = 0 \\) to \\( x = 4a \\), which is above the \\( x \\)-axis.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2021_41_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2021_41_q3_s1",
+          "subNumber": "a",
+          "text": "Verify the Rolle's theorem for the function \\( f(x) = 2x^3 + x^2 - 4x - 2 \\).",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_math1_2021_41_q3_s2",
+          "subNumber": "b",
+          "text": "Find \\( \\lim_{x \\to \\frac{\\pi}{2}} (\\sin x)^{\\tan x} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2021_41_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2021_41_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss the convergence of the sequence whose \\( n \\) th term is \\( a_n = \\frac{1}{\\log n} \\).",
+          "freq": 8,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math1_2021_41_q4_s2",
+          "subNumber": "b",
+          "text": "Test the convergence of the following series : \\( 1 + \\frac{x}{1} + \\frac{1}{2} \\cdot \\frac{x^3}{3} + \\frac{1 \\cdot 3 \\cdot x^5}{2 \\cdot 4 \\cdot 5} + \\frac{1 \\cdot 3 \\cdot 5 \\cdot x^7}{2 \\cdot 4 \\cdot 5 \\cdot 6 \\cdot 7} + \\cdots \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2021_41_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2021_41_q5_s1",
+          "subNumber": "a",
+          "text": "Find the Fourier series expansion of the function \\( f(x) = \\{ \\pi + x \\}, -\\pi \\leq x \\leq \\pi \\). Hence deduce that \\( \\frac{\\pi}{4} = 1 - \\frac{1}{3} + \\frac{1}{5} - \\frac{1}{7} + \\cdots \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2021_41_q5_s2",
+          "subNumber": "b",
+          "text": "Find the Fourier cosine series and Fourier sine series of the following function in given interval : \\( f(x) = \\{ x + x^2 \\}, 0 &lt; x &lt; 1 \\)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2021_41_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2021_41_q6_s1",
+          "subNumber": "a",
+          "text": "Discuss continuity of the following function at the point \\( (-1, c) \\) : \\( f(x, y) = \\begin{cases} \\frac{x^2 y}{(1 + x)}, &amp; x \\neq -1 \\\\ y, &amp; (x, y) = (-1, c) \\end{cases} \\)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_math1_2021_41_q6_s2",
+          "subNumber": "b",
+          "text": "Find the extreme value of \\( xyz \\), when \\( x + y + z = a, a &gt; 0 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2021_41_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2021_41_q7_s1",
+          "subNumber": "a",
+          "text": "Find the maximum value of the function \\( f(x) = \\frac{1}{x} \\).",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_math1_2021_41_q7_s2",
+          "subNumber": "b",
+          "text": "Find the equation of the tangent plane to the surface \\( xy + yz + zx = -1 \\), at the point \\( (1, -1, 2) \\).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2021_41_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2021_41_q8_s1",
+          "subNumber": "a",
+          "text": "Find the eigenvalues and eigenvectors of the following matrix : \\( \\begin{bmatrix} -2 &amp; 2 &amp; -3 \\\\ 2 &amp; 1 &amp; -6 \\\\ -1 &amp; -2 &amp; 0 \\end{bmatrix} \\)",
+          "freq": 13,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2021_41_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2021_41_q9_s1",
+          "subNumber": "a",
+          "text": "Verify Cayley-Hamilton theorem for the matrix \\( \\begin{bmatrix} 0 &amp; c &amp; b \\\\ -c &amp; 0 &amp; a \\\\ b &amp; -a &amp; 0 \\end{bmatrix} \\)",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math1_2021_41_q9_s2",
+          "subNumber": "b",
+          "text": "Determine the range of the following linear transformation. Also find the rank of \\( T \\), where it exists, \\( T: V_3 \\rightarrow V_3 \\), defined by \\( T(x_1, x_2, x_3) = \\left( \\frac{1}{2} x_1 + x_2 + x_3, \\, x_1 - \\frac{1}{3} x_2, \\, x_3 \\right) \\)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

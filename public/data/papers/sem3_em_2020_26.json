@@ -1,0 +1,359 @@
+{
+  "id": "sem3_em_2020_26",
+  "semester": 3,
+  "subject_code": "em",
+  "subject_name": "Engineering Mechanics",
+  "year": "2020",
+  "exam_code": "ESC-202",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Special Exam., 2020 (New Course) Engineering Mechanics Time: 03 Hours Code: ESC-202 (100309) Full Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_em_2020_26_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_26_q1_s1",
+          "subNumber": "a",
+          "text": "The resultant of two forces P and Q acting at an angle \\( \\theta \\) is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\sqrt{(P^2+Q^2+2PQ\\sin\\theta)} \\)",
+            "\\( \\sqrt{(P^2+Q^2+2PQ\\cos\\theta)} \\)",
+            "\\( \\sqrt{(P^2+Q^2-2PQ\\sin\\theta)} \\)",
+            "\\( \\sqrt{(P^2+Q^2-2PQ\\cos\\theta)} \\)"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q1_s2",
+          "subNumber": "b",
+          "text": "The moment of a force about any point is geometrically equal to ___ area of the triangle whose base is the line representing the force and vertex is the point about which the moment is taken.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "half",
+            "same",
+            "twice",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q1_s3",
+          "subNumber": "c",
+          "text": "A circular hole of radius (r) is cut out from a circular disc of radius (2r) in such a way that the diagonal of the hole is the radius of the disc. The centre of gravity of the section lies at",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the centre of a disc",
+            "the centre of the hole",
+            "somewhere in the disc",
+            "somewhere in the hole"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q1_s4",
+          "subNumber": "d",
+          "text": "The moment of inertia of a triangular section of base (b) and height (h) about an axis passing through its vertex and parallel to the base is ___ as that passing through its CG and parallel to the base.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "twelve times",
+            "nine times",
+            "six times",
+            "four times"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following statements is correct?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The force of friction does not depend upon the area of contact.",
+            "The magnitude of limiting friction bears a constant ratio to the normal reaction between the two surfaces.",
+            "The static friction is slightly less than the limiting friction.",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q1_s6",
+          "subNumber": "f",
+          "text": "The efficiency of a screw jack is maximum when the helix angle is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 45^{\\circ} + \\frac{\\phi}{2} \\)",
+            "\\( 45^{\\circ} - \\frac{\\phi}{2} \\)",
+            "\\( \\frac{\\phi}{2} + 30^{\\circ} \\)",
+            "\\( \\frac{\\phi}{2} - 30^{\\circ} \\)"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q1_s7",
+          "subNumber": "g",
+          "text": "The time of flight of a projectile on an upward inclined plane depends upon",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "angle of projection",
+            "angle of inclination of the plane",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q1_s8",
+          "subNumber": "h",
+          "text": "The relationship between linear velocity and angular velocity of a cycle",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "exists under all conditions",
+            "does not exist under all conditions",
+            "exists only when it does not slip",
+            "exists only when it moves on horizontal plane"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q1_s9",
+          "subNumber": "i",
+          "text": "The loss of kinetic energy due to direct impact of two bodies depends on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the mass of two bodies",
+            "the initial velocities of two bodies",
+            "the final velocities of two bodies",
+            "Both (i) and (ii)"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q1_s10",
+          "subNumber": "j",
+          "text": "In order to increase the acceleration of a mass rolling down on a rough inclined plane (without slipping), we have to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "increase the mass of the rolling body",
+            "increase the inclination of the plane",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_26_q2",
+      "number": 2,
+      "title": "Q.2 Solve all three questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_26_q2_s1",
+          "subNumber": "a",
+          "text": "What is meant by moment of a force? How will you explain it mathematically?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2020_26_q2_s2",
+          "subNumber": "b",
+          "text": "State the Varignon's principle of moments.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2020_26_q2_s3",
+          "subNumber": "c",
+          "text": "A force F of magnitude 50 N is exerted on the automobile parking-brake lever at the position \\( x=250\\text{ mm} \\) (Fig. 1). Replace the force by an equivalent force-couple system at the pivot point O.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/147.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_26_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_26_q3_s1",
+          "subNumber": "a",
+          "text": "It is known that a force with a moment of 950 N-m about D is required to straighten the fence post CD (Fig. 2). If \\( d=2.70\\text{ m} \\), determine the tension that must be developed in the cable of winch puller AB to create the required moment about point D.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/144.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q3_s2",
+          "subNumber": "b",
+          "text": "Describe the method of finding the line of action of the resultant of a system of parallel forces.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_26_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_26_q4_s1",
+          "subNumber": "a",
+          "text": "Two cylinders P and Q rest in a channel as shown in Fig. 3. The cylinder P has diameter of 100 mm and weighs 200 N, whereas the cylinder Q has diameter of 180 mm and weighs 500 N. If the bottom width of the box is 180 mm, with one side vertical and the other inclined at \\( 60^{\\circ} \\), determine the pressures at all the four points of contact.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/146.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q4_s2",
+          "subNumber": "b",
+          "text": "Show that if three coplanar forces, acting at a point be in equilibrium, then each force is proportional to the sine of the angle between the other two.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_26_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_26_q5_s1",
+          "subNumber": "a",
+          "text": "A truss of 9 m span is loaded as shown in Fig. 4. Find the reactions at the two supports.",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/145.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q5_s2",
+          "subNumber": "b",
+          "text": "State the laws of friction and explain the term angle of friction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_26_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_26_q6_s1",
+          "subNumber": "a",
+          "text": "A rectangular hole is made in triangular section as shown in Fig. 5. Determine the moment of inertia of the section about X-X axis passing through its centre of gravity and the base BC.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/143.jpg"
+          ]
+        },
+        {
+          "id": "sem3_em_2020_26_q6_s2",
+          "subNumber": "b",
+          "text": "Prove the parallel axis theorem in the determination of moment of inertia of areas with the help of a neat sketch.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_26_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_26_q7_s1",
+          "subNumber": "a",
+          "text": "A body of weight 50 N is hauled along a rough horizontal plane by a pull of 18 N acting at an angle of \\( 14^{\\circ} \\) with the horizontal. Find the coefficient of friction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2020_26_q7_s2",
+          "subNumber": "b",
+          "text": "Explain the application of the principle of virtual work in case of lifting machines.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_26_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_26_q8_s1",
+          "subNumber": "a",
+          "text": "The equation of motion of an engine is given by \\( s = 2t^3 - 6t^2 - 5 \\), where s is in metres and t in seconds. Calculate (i) displacement and acceleration when velocity is zero and (ii) displacement and velocity when acceleration is zero.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2020_26_q8_s2",
+          "subNumber": "b",
+          "text": "Obtain an equation for the trajectory of a projectile and show that it is a parabola.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2020_26_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2020_26_q9_s1",
+          "subNumber": "a",
+          "text": "A ball of mass 1 kg moving with a velocity of \\( 2\\text{ m/s} \\) impinges directly on a ball of mass 2 kg at rest. The first ball, after impinging, comes to rest. Find the velocity of the second ball after the impact and the coefficient of restitution.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_em_2020_26_q9_s2",
+          "subNumber": "b",
+          "text": "A bullet of mass 30 g is fired into a body of mass 10 kg, which is suspended by a string 0.8 m long. Due to this impact, the body swings through an angle \\( 30^{\\circ} \\). Find the velocity of the bullet.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

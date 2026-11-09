@@ -1,0 +1,134 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --bg-main: #f8fafc;
+    --card-main: #ffffff;
+    --border-main: #e2e8f0;
+    --text-primary: #0f172a;
+    --text-secondary: #64748b;
+    --accent: #4f46e5;
+  }
+
+  .dark {
+    --bg-main: #0f172a;
+    --card-main: #1e293b;
+    --border-main: #334155;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --accent: #818cf8;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+    min-height: 100vh;
+  }
+
+  #root {
+    width: 100%;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.3);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.6);
+}
+
+/* Dedicated A4 Portrait Print Stylesheet */
+@page {
+  size: A4 portrait;
+  margin: 12mm 14mm 16mm 14mm;
+}
+
+@media print {
+  header,
+  aside,
+  nav,
+  .print\:hidden,
+  button,
+  .no-print {
+    display: none !important;
+  }
+
+  html, body, #root {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt !important;
+    line-height: 1.4 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+  }
+
+  main {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  #printable-paper,
+  #printable-paper * {
+    background: transparent !important;
+    color: #000000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    border-color: #cbd5e1 !important;
+  }
+
+  .question-block,
+  .bg-white,
+  .dark\:bg-zinc-900,
+  .dark\:bg-slate-900,
+  .dark\:bg-slate-800 {
+    break-inside: auto !important;
+    page-break-inside: auto !important;
+    border: 1px solid #cbd5e1 !important;
+    margin-bottom: 12px !important;
+    padding: 10px 14px !important;
+  }
+
+  .katex {
+    color: #000000 !important;
+  }
+
+  /* By Love By FBi Print Footer Mark */
+  .print-fbi-footer {
+    display: block !important;
+    border-top: 1.5px solid #000000 !important;
+    margin-top: 25px !important;
+    padding-top: 8px !important;
+    text-align: center !important;
+    font-size: 9pt !important;
+    font-weight: 700 !important;
+    color: #000000 !important;
+    letter-spacing: 0.05em !important;
+  }
+}

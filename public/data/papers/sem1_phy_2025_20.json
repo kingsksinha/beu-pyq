@@ -1,0 +1,289 @@
+{
+  "id": "sem1_phy_2025_20",
+  "semester": 1,
+  "subject_code": "phy",
+  "subject_name": "Engineering Physics",
+  "year": "2025",
+  "exam_code": "105201",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 (Old Course) Physics (Semiconductor Physics) Time: 03 Hours Code: 105201 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 5,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_phy_2025_20_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_20_q1_s1",
+          "subNumber": "a",
+          "text": "Source for Optical fibre communication can be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "LED",
+            "Ordinary light",
+            "LASER",
+            "Both (i) &amp; (ii)"
+          ]
+        },
+        {
+          "id": "sem1_phy_2025_20_q1_s2",
+          "subNumber": "b",
+          "text": "A light emitting diode is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Lightly doped",
+            "Heavily doped",
+            "Zener Diode",
+            "Intrinsic Semiconductor"
+          ]
+        },
+        {
+          "id": "sem1_phy_2025_20_q1_s3",
+          "subNumber": "c",
+          "text": "What are phonons?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2025_20_q1_s4",
+          "subNumber": "d",
+          "text": "Give an example of indirect bandgap semiconductor.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2025_20_q1_s5",
+          "subNumber": "e",
+          "text": "Fermi level of Potassium is 2.1 eV. Calculate the speed of electron at Fermi level. (mass of electron \\( = 9.1 \\times 10^{-31} kg \\))",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2025_20_q1_s6",
+          "subNumber": "f",
+          "text": "Write down any two characteristics of wave function.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2025_20_q1_s7",
+          "subNumber": "g",
+          "text": "Write down time-independent Schrödinger's wave equation in 1-dimension.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_phy_2025_20_q1_s8",
+          "subNumber": "h",
+          "text": "The de Broglie wavelength of a particle moving with a velocity 200 m/s is 14.14 Å. What will be de Broglie wavelength if kinetic energy is doubled?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2025_20_q1_s9",
+          "subNumber": "i",
+          "text": "State Heisenberg's uncertainty principle.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2025_20_q1_s10",
+          "subNumber": "j",
+          "text": "Define mobility of a charge carrier. Give its S.I. Unit.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_20_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_20_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss Kronig-Penney model for the motion of an electron in a periodic potential and the existence of allowed and forbidden energy bands.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_phy_2025_20_q2_s2",
+          "subNumber": "b",
+          "text": "Find out the energy level in Sodium for which the probability of occupation at 300K is 0.50. (Given Fermi energy for Sodium is 3.13 eV. Planck's constant \\( = 1.38 \\times 10^{-23} \\) in S.I. Units)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_20_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_20_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss the structure and working of semiconductor LASER. Draw and explain its energy band diagram.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_phy_2025_20_q3_s2",
+          "subNumber": "b",
+          "text": "What is population inversion? What is its importance in Lasing action?",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_20_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_20_q4_s1",
+          "subNumber": "a",
+          "text": "Derive an expression for effective mass of an electron.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_phy_2025_20_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the significance of negative effective mass.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_20_q5",
+      "number": 5,
+      "title": "Q.5 Write short notes on :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_20_q5_s1",
+          "subNumber": "a",
+          "text": "Advantages and Disadvantages of solar cell",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2025_20_q5_s2",
+          "subNumber": "b",
+          "text": "Photodetectors and its application",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_20_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_20_q6_s1",
+          "subNumber": "a",
+          "text": "Derive the expression for the equilibrium concentration of electrons in the conduction band.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2025_20_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the effect of temperature on Fermi level.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_20_q7",
+      "number": 7,
+      "title": "Q.7 Write notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_20_q7_s1",
+          "subNumber": "a",
+          "text": "Pumping mechanisms in LASER",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2025_20_q7_s2",
+          "subNumber": "b",
+          "text": "Bloch Theorem",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2025_20_q7_s3",
+          "subNumber": "c",
+          "text": "Dependence of Fermi energy on carrier concentration",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_20_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_20_q8_s1",
+          "subNumber": "a",
+          "text": "What are LEDs? Sketch the relative eye response as a function of wavelength. Describe device structure and materials used for LED with its characteristics.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_20_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_20_q9_s1",
+          "subNumber": "a",
+          "text": "Discuss the structure, working principle and characteristics of PIN and Avalanche Photodiodes.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2025_20_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the effect of temperature on Fermi level.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

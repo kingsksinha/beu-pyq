@@ -1,0 +1,330 @@
+{
+  "id": "sem4_math3_2022_3",
+  "semester": 4,
+  "subject_code": "math3",
+  "subject_name": "Engineering Mathematics - III",
+  "year": "2022",
+  "exam_code": "100311",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2022 Mathematics-III (Differential Calculus) Time: 03 Hours Code: 100311 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 6,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_math3_2022_3_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2022_3_q1_s1",
+          "subNumber": "a",
+          "text": "The value of \\( \\lim_{x \\to 0} \\left(\\frac{\\sin x}{x}\\right)^{1/x} \\) is",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "0",
+            "1",
+            "e",
+            "\\( 1/e \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2022_3_q1_s2",
+          "subNumber": "b",
+          "text": "The value of the integral \\( \\int_c \\{yz dx + (xz+1)dy + xy dz\\} \\) where C is any path from (1, 0, 0) to (2, 1, 4) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ]
+        },
+        {
+          "id": "sem4_math3_2022_3_q1_s3",
+          "subNumber": "c",
+          "text": "The maximum value of \\( \\sin x + \\cos x \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "2",
+            "\\( \\sqrt{2} \\)",
+            "0"
+          ]
+        },
+        {
+          "id": "sem4_math3_2022_3_q1_s4",
+          "subNumber": "d",
+          "text": "The value of \\( \\nabla^2 [(1-x)(1-2x)] \\) is equal to",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ]
+        },
+        {
+          "id": "sem4_math3_2022_3_q1_s5",
+          "subNumber": "e",
+          "text": "The degree of the differential equation \\( y\\frac{dx}{dy} - \\left(\\frac{dx}{dy}\\right)^2 - \\sin y \\left(\\frac{dx}{dy}\\right)^3 - \\cos x = 0 \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "Cannot be determined"
+          ]
+        },
+        {
+          "id": "sem4_math3_2022_3_q1_s6",
+          "subNumber": "f",
+          "text": "If \\( f = \\tan^{-1}\\left(\\frac{y}{x}\\right) \\), then div (grad \\( f \\)) is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "-1",
+            "0",
+            "2"
+          ]
+        },
+        {
+          "id": "sem4_math3_2022_3_q1_s7",
+          "subNumber": "g",
+          "text": "If \\( P_n \\) is the Legendre polynomial of first kind, then the value of \\( \\int_{-1}^1 x P_n P_n' dx \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( \\frac{2}{(2n+1)} \\)",
+            "\\( \\frac{2n}{(2n+1)} \\)",
+            "\\( \\frac{2}{(2n+3)} \\)",
+            "\\( \\frac{2n}{(2n+3)} \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2022_3_q1_s8",
+          "subNumber": "h",
+          "text": "If \\( J_n \\) is the Bessel's function of first kind, then the value of \\( J_{-1/2} \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( \\sqrt{\\frac{2}{\\pi x}}\\left(\\frac{\\cos x}{x} - \\sin x\\right) \\)",
+            "\\( \\sqrt{\\frac{2}{\\pi x}}\\left(\\frac{\\sin x}{x} - \\cos x\\right) \\)",
+            "\\( \\sqrt{\\frac{2}{\\pi x}}\\sin x \\)",
+            "\\( \\sqrt{\\frac{2}{\\pi x}}\\cos x \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2022_3_q1_s9",
+          "subNumber": "i",
+          "text": "The solution of \\( p \\tan x + q \\tan y = \\tan z \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( \\sin x / \\sin y = \\varphi(\\sin y/\\sin z) \\)",
+            "\\( \\sin x \\cdot \\sin y = \\varphi(\\sin y/\\sin z) \\)",
+            "\\( \\sin x / \\sin y = \\varphi(\\sin y, \\sin z) \\)",
+            "\\( \\sin x / \\sin y = \\varphi(\\sin y \\cdot \\sin z) \\)"
+          ]
+        },
+        {
+          "id": "sem4_math3_2022_3_q1_s10",
+          "subNumber": "j",
+          "text": "The vector \\( \\vec{v} = e^x \\sin y \\hat{i} + e^x \\cos y \\hat{j} \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Solenoidal",
+            "irrational",
+            "rotational",
+            "cannot be found"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2022_3_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2022_3_q2_s1",
+          "subNumber": "a",
+          "text": "Form the partial differential equation \\( (x-a)^2 + (y-b)^2 + z^2 = 1 \\).",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_math3_2022_3_q2_s2",
+          "subNumber": "b",
+          "text": "Solve \\( xp + yq = 3z \\).",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2022_3_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2022_3_q3_s1",
+          "subNumber": "a",
+          "text": "Find the directional derivative of \\( \\phi = z^2yz + 4xz^2 \\) at the point (1, -2, 1) in the direction of the vector \\( 2\\hat{i} - \\hat{j} - 2\\hat{k} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2022_3_q3_s2",
+          "subNumber": "b",
+          "text": "Find a unit vector normal to the surface \\( x^3 + y^3 + 3xyz = 3 \\) at the point (1, 2, -1).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2022_3_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2022_3_q4_s1",
+          "subNumber": "a",
+          "text": "Solve partial differential equation \\( \\frac{y^2 z}{x}p + xzq = y^2 \\).",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_math3_2022_3_q4_s2",
+          "subNumber": "b",
+          "text": "Show that the function \\( f(x,y) = \\begin{cases} \\frac{xy}{\\sqrt{x^2+y^2}}, &amp; (x,y) \\neq (0,0) \\\\ 0, &amp; (x,y) = (0,0) \\end{cases} \\) is continuous at origin.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2022_3_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2022_3_q5_s1",
+          "subNumber": "a",
+          "text": "If \\( f = (x^2+y^2+z^2)^{-n} \\) then find div grad \\( f \\) and determine n, if div grad \\( f = 0 \\).",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_math3_2022_3_q5_s2",
+          "subNumber": "b",
+          "text": "Verify Green's theorem for \\( \\int_C \\{(xy+y^2)dx + x^2 dy\\} \\) Where C is bounded by \\( y=x \\), \\( y=x^2 \\).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2022_3_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2022_3_q6_s1",
+          "subNumber": "a",
+          "text": "Evaluate the integral by changing the order of integration \\( \\int_0^\\infty \\int_0^x x e^{-\\frac{x^2}{y}} dy dx \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2022_3_q6_s2",
+          "subNumber": "b",
+          "text": "Solve the differential equation \\( (x^2+y^2+x)dx - (2x^2+2y^2-y)dy = 0 \\).",
+          "freq": 6,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2022_3_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2022_3_q7_s1",
+          "subNumber": "a",
+          "text": "Verify the stokes' theorem for \\( \\vec{A} = (y-z+2)\\hat{i} + (yz+4)\\hat{j} - xz\\hat{k} \\) Where S is the surface of the cube \\( x=0, y=0, z=0, x=2, y=2 \\) and \\( z=2 \\) above the xy-plane.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2022_3_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2022_3_q8_s1",
+          "subNumber": "a",
+          "text": "Prove that \\( 2nJ_n(x) = x(J_{n-1}(x) + J_{n+1}(x)) \\).",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_math3_2022_3_q8_s2",
+          "subNumber": "b",
+          "text": "Prove that \\( \\sum_{n=0}^\\infty \\frac{x^{n+1}}{n+1} P_n(1) = \\frac{1}{2} \\log\\left(\\frac{1+x}{1-x}\\right) \\).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2022_3_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2022_3_q9_s1",
+          "subNumber": "a",
+          "text": "Using Green's theorem, evaluate \\( \\int_C [(y-\\sin x)dx + \\cos x dy] \\) where C is the plane triangle enclosed by the lines \\( y=0, x=\\frac{\\pi}{2} \\) and \\( y=\\frac{2x}{\\pi} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2022_3_q9_s2",
+          "subNumber": "b",
+          "text": "Prove that div\\( (r^n \\vec{r}) = (n+3)r^n \\). Hence show that div \\( \\left(\\frac{\\vec{r}}{r^3}\\right) \\) is solenoidal.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

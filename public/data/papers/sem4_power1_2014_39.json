@@ -1,0 +1,298 @@
+{
+  "id": "sem4_power1_2014_39",
+  "semester": 4,
+  "subject_code": "power1",
+  "subject_name": "Power Systems - I",
+  "year": "2014",
+  "exam_code": "031404",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech. 4th Semester Examination, 2014 POWER SYSTEM-I Time: 03 Hours Code: 031404 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 20,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_power1_2014_39_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer on any seven from the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2014_39_q1_s1",
+          "subNumber": "a",
+          "text": "The electric power can be transmitted by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "overhead system",
+            "underground system",
+            "either (i) or (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_power1_2014_39_q1_s2",
+          "subNumber": "b",
+          "text": "In a transmission system, the weight of copper used is proportional to",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( E^2 \\)",
+            "\\( E \\)",
+            "\\( \\frac{1}{E^2} \\)",
+            "\\( \\frac{1}{E} \\)"
+          ]
+        },
+        {
+          "id": "sem4_power1_2014_39_q1_s3",
+          "subNumber": "c",
+          "text": "ACSR conductors have",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "all conductors made of aluminium",
+            "outer conductors made of aluminium",
+            "inner conductors made of aluminium",
+            "no conductors made of aluminium"
+          ]
+        },
+        {
+          "id": "sem4_power1_2014_39_q1_s4",
+          "subNumber": "d",
+          "text": "Stranded conductors usually have a central wire around which there are successive layers of 6, 12, 18, 24 wires. For n-layers, the total number of individual wires is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 3n(n+1) \\)",
+            "\\( 2n(n+1) \\)",
+            "\\( 3n(n+1)+1 \\)",
+            "\\( 2n(n+1)+1 \\)"
+          ]
+        },
+        {
+          "id": "sem4_power1_2014_39_q1_s5",
+          "subNumber": "e",
+          "text": "The inductance of two-wire power transmission line per km gets doubled when the",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "distance between the wires is doubled",
+            "distance between the wires is increased four-fold",
+            "distance between the wires is increased as square of the original distance",
+            "radius of the wire is doubled"
+          ]
+        },
+        {
+          "id": "sem4_power1_2014_39_q1_s6",
+          "subNumber": "f",
+          "text": "120 km long transmission line is considered as a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "short line",
+            "median line",
+            "long line",
+            "either (i) or (ii)"
+          ]
+        },
+        {
+          "id": "sem4_power1_2014_39_q1_s7",
+          "subNumber": "g",
+          "text": "Percentage regulation of a transmission line is given by the expression",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{V_R - V_S}{V_R} \\times 100 \\)",
+            "\\( \\frac{V_R - V_S}{V_S} \\times 100 \\)",
+            "\\( \\frac{V_S - V_R}{V_R} \\times 100 \\)",
+            "\\( \\frac{V_S - V_R}{V_S} \\times 100 \\)"
+          ]
+        },
+        {
+          "id": "sem4_power1_2014_39_q1_s8",
+          "subNumber": "h",
+          "text": "Sheaths are used in cables to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "provide proper insulation",
+            "provide mechanical strength",
+            "prevent ingress of moisture",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_power1_2014_39_q1_s9",
+          "subNumber": "i",
+          "text": "The charging current drawn by the cable",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "lags behind the voltage by \\( 90^{\\circ} \\)",
+            "leads the voltage by \\( 90^{\\circ} \\)",
+            "leads the voltage by \\( 180^{\\circ} \\)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_power1_2014_39_q1_s10",
+          "subNumber": "j",
+          "text": "Transmission line constants are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "resistance",
+            "inductance",
+            "capacitance",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2014_39_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2014_39_q2_s1",
+          "subNumber": "a",
+          "text": "Derive the Kelvin's law for most economical size of conductor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2014_39_q2_s2",
+          "subNumber": "b",
+          "text": "The cost per km for each of the copper conductor of a section a sq. cm for a transmission line is \\( Rs.(2800a + 1300) \\). The load factor of the load current is 80% and the load factor for the losses is 65%. The rate of interest and depreciation is 10% and the cost of energy is 5 paisa per kW-h. Find the most economical current density for the transmission line by the use of Kelvin's law. Given \\( \\rho = 1.78 \\times 10^{-8} \\Omega-m \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2014_39_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2014_39_q3_s1",
+          "subNumber": "a",
+          "text": "The following data refers to a 50 Hz, 1-\\(\\phi\\) transmission line: Length = 20 km. Load delivered at receiving end 5 MW at 118. Resistance of each conductor = 0.02 \\( \\Omega/km \\). Inductance of conductor = 0.65 mH/km. The voltage at the receiving end is required to be kept at 10 kV. Find (a) sending end voltage and voltage regulation of the line; (b) the value of capacitors to be placed parallel with the load such that regulation is reduced to 50% of the obtained in (a). Compare the transmission efficiencies in parts (a) and (b).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2014_39_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2014_39_q4_s1",
+          "subNumber": "a",
+          "text": "Prove that the vol. gradient at surface of conductor in the cable will be minimum when \\( \\frac{R}{r} = e \\) where r is the radius of conductor and R is the inner radius of sheath.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2014_39_q4_s2",
+          "subNumber": "b",
+          "text": "Enumerate the different types of losses in a cable. Also, derive the expression for dielectric loss.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2014_39_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2014_39_q5_s1",
+          "subNumber": "a",
+          "text": "A single-core lead covered cable is to be designed for 66 kV to earth. Its conductor radius is 0.5 cm and its three insulating materials A, B and C have relative permittivities 4, 2.5 and 4 with maximum permissible stresses of 50, 30 and 40 kV/cm respectively. Determine the minimum internal diameter of lead sheath. Discuss the arrangement of insulating materials.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2014_39_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2014_39_q6_s1",
+          "subNumber": "a",
+          "text": "Derive the expression for tension and sag in conductors if supports of equal height are used.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2014_39_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2014_39_q7_s1",
+          "subNumber": "a",
+          "text": "A transmission line conductor consists of hard drawn copper conductor 120 \\( mm^2 \\) cross-section, the conductor used is 37/2 mm having weight of 1118 kg/km and has a span of 200 meters. The supporting structures being level. The conductor has an ultimate tensile stress of 122 \\( kg/mm^2 \\) and allowable tension is not to exceed 1/4th of ultimate strength. Find (a) sag in still air, (b) sag with wind pressure of 60 \\( kg/m^2 \\), (c) sag with the wind pressure in part b and an ice coating of 10 mm. Also, find the vertical sag under this condition. Assume density of ice as 0.915 gm/cc.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2014_39_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2014_39_q8_s1",
+          "subNumber": "a",
+          "text": "Determine the inductance of the double circuit line shown in figure below. The self GMD of the conductor is 0.0069 meter.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/67.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2014_39_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2014_39_q9_s1",
+          "subNumber": "a",
+          "text": "Prove that the capacitance of a 3-\\(\\phi\\) unsymmetrically spaced transposed transmission line is given by \\( c = \\frac{2\\pi\\epsilon_0}{\\ln \\frac{\\sqrt[3]{abc}}{r}} \\) F/meter where a, b, c are the spacing between the conductors of different phases and r is radius of conductor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "id": "sem1_iwd_2025_13",
+  "semester": 1,
+  "subject_code": "iwd",
+  "subject_name": "Introduction to Web Design",
+  "year": "2025",
+  "exam_code": "100219",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 Introduction to Web Design Time: 03 Hours Code: 100219 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_iwd_2025_13_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_iwd_2025_13_q1_s1",
+          "subNumber": "a",
+          "text": "Which protocol is used for transferring web pages?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "SNMP"
+          ]
+        },
+        {
+          "id": "sem1_iwd_2025_13_q1_s2",
+          "subNumber": "b",
+          "text": "HTML stands for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Hyper Text Making Language",
+            "High Text Markup Language",
+            "Hyper Text Markup Language",
+            "Hyperlinking Text Management Language"
+          ]
+        },
+        {
+          "id": "sem1_iwd_2025_13_q1_s3",
+          "subNumber": "c",
+          "text": "Which tag is used for creating hyperlinks?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "&lt;link&gt;",
+            "&lt;a&gt;",
+            "&lt;href&gt;",
+            "&lt;hyper&gt;"
+          ]
+        },
+        {
+          "id": "sem1_iwd_2025_13_q1_s4",
+          "subNumber": "d",
+          "text": "Which tag is used to create a form?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "&lt;form&gt;",
+            "&lt;input&gt;",
+            "&lt;textarea&gt;",
+            "&lt;fieldset&gt;"
+          ]
+        },
+        {
+          "id": "sem1_iwd_2025_13_q1_s5",
+          "subNumber": "e",
+          "text": "Which attribute is used to send form data to a server?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "name",
+            "Value",
+            "action",
+            "Id"
+          ]
+        },
+        {
+          "id": "sem1_iwd_2025_13_q1_s6",
+          "subNumber": "f",
+          "text": "Inline CSS is applied using",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "&lt;style&gt; tag in head",
+            "style attribute in HTML tag",
+            "External stylesheet",
+            "None"
+          ]
+        },
+        {
+          "id": "sem1_iwd_2025_13_q1_s7",
+          "subNumber": "g",
+          "text": "JavaScript runs on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Server",
+            "Client",
+            "Database",
+            "Compiler"
+          ]
+        },
+        {
+          "id": "sem1_iwd_2025_13_q1_s8",
+          "subNumber": "h",
+          "text": "To repeat code a fixed number of times, we use",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "If",
+            "switch",
+            "for loop",
+            "Break"
+          ]
+        },
+        {
+          "id": "sem1_iwd_2025_13_q1_s9",
+          "subNumber": "i",
+          "text": "The default value of uninitialized variables in Java Script is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "NULL",
+            "undefined",
+            "False"
+          ]
+        },
+        {
+          "id": "sem1_iwd_2025_13_q1_s10",
+          "subNumber": "j",
+          "text": "On click is an example of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Style property",
+            "JavaScript Method",
+            "Event handler",
+            "None"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_iwd_2025_13_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_iwd_2025_13_q2_s1",
+          "subNumber": "a",
+          "text": "Define the Internet and the World Wide Web (WWW). Explain the fundamental difference between these two terms using a simple analogy.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_iwd_2025_13_q2_s2",
+          "subNumber": "b",
+          "text": "What is a Website and a Homepage? Describe the role of a homepage in a typical website and give an example of the information it commonly contains?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_iwd_2025_13_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_iwd_2025_13_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the difference between Web Browser and Web Server?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_iwd_2025_13_q3_s2",
+          "subNumber": "b",
+          "text": "What is a URL? Write a sample URL and label its three main parts (Protocol, Domain Name, and Path)?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_iwd_2025_13_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_iwd_2025_13_q4_s1",
+          "subNumber": "a",
+          "text": "What is an HTML Element? Describe the structure of an HTML element with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_iwd_2025_13_q4_s2",
+          "subNumber": "b",
+          "text": "Create an HTML webpage to display the following table showing Name, Age, and Country of three persons.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_iwd_2025_13_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_iwd_2025_13_q5_s1",
+          "subNumber": "a",
+          "text": "Design an HTML webpage to show your semester subjects. Use a Nested List, where the main list contains semester numbers (Semester 1, Semester 2) and each semester contains the subjects offered in that semester.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_iwd_2025_13_q5_s2",
+          "subNumber": "b",
+          "text": "Write the difference between HTML and XHTML?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_iwd_2025_13_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_iwd_2025_13_q6_s1",
+          "subNumber": "a",
+          "text": "Write a short note on: (i) Inline CSS (ii) Internal CSS",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_iwd_2025_13_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the use of &lt;div&gt; and &lt;span&gt; tags in CSS styling.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_iwd_2025_13_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_iwd_2025_13_q7_s1",
+          "subNumber": "a",
+          "text": "Write an HTML program using CSS to demonstrate various text and font properties such as font-family, font-size, font-style, font-weight, text-align, text-decoration, text-transform, and line-height.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_iwd_2025_13_q7_s2",
+          "subNumber": "b",
+          "text": "Why do we need JavaScript in Web Development?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_iwd_2025_13_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_iwd_2025_13_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss arithmetic and logical Operators in JavaScript with program?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_iwd_2025_13_q8_s2",
+          "subNumber": "b",
+          "text": "Write a JavaScript program to calculate the sum of the first 10 natural numbers using any looping structure.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_iwd_2025_13_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_iwd_2025_13_q9_s1",
+          "subNumber": "a",
+          "text": "What is Event Handling in JavaScript? Explain with a program?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_iwd_2025_13_q9_s2",
+          "subNumber": "b",
+          "text": "Discuss Form Validation in JavaScript with example program?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

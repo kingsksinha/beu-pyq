@@ -1,0 +1,291 @@
+{
+  "id": "sem1_che_2021_61",
+  "semester": 1,
+  "subject_code": "che",
+  "subject_name": "Engineering Chemistry",
+  "year": "2021",
+  "exam_code": "100203",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2021 Chemistry Time: 3 hours Code: 100203 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_che_2021_61_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven questions in brief:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_61_q1_s1",
+          "subNumber": "a",
+          "text": "State de Broglie's principle.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q1_s2",
+          "subNumber": "b",
+          "text": "What is an orbital?",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q1_s3",
+          "subNumber": "c",
+          "text": "What are the shapes of \\( \\text{BF}_3 \\) and \\( \\text{ClF}_3 \\) molecules?",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q1_s4",
+          "subNumber": "d",
+          "text": "Out of \\( \\text{NH}_3 \\), \\( \\text{PH}_3 \\), \\( \\text{AsH}_2 \\) and \\( \\text{SbH}_2 \\), which possesses largest bond angle? Give reason.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q1_s5",
+          "subNumber": "e",
+          "text": "Out of \\( \\text{Cr}^{2+} \\) and \\( \\text{Cr}^{3+} \\), which one is stable in aqueous solution?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q1_s6",
+          "subNumber": "f",
+          "text": "\\( \\text{Cu}^+ \\) is colourless but \\( \\text{Cu}^{2+} \\) is coloured. Why?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q1_s7",
+          "subNumber": "g",
+          "text": "What is selection rule?",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q1_s8",
+          "subNumber": "h",
+          "text": "A gas expands against vacuum. What is the work done on it?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q1_s9",
+          "subNumber": "i",
+          "text": "What is the condition for a reaction to be in equilibrium?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q1_s10",
+          "subNumber": "j",
+          "text": "The presence of \\( \\text{CO}_2 \\) in boiler feed water should be avoided. Why?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_61_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_61_q2_s1",
+          "subNumber": "a",
+          "text": "A water sample had the following constituents per litre:",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q2_s2",
+          "subNumber": "b",
+          "text": "In an experiment to determine the hardness of a sample of water, 50 mL of \\( N/50 \\, \\text{Na}_2\\text{CO}_3 \\) solution was added to 200 mL of water sample. After complete precipitation of insoluble carbonate, the unreacted \\( \\text{Na}_2\\text{CO}_3 \\) was titrated against \\( N/50 \\, \\text{H}_2\\text{SO}_4 \\) solution, when 20 mL of acid was required. Calculate the hardness and comment on the nature of hardness so determined.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_61_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_61_q3_s1",
+          "subNumber": "a",
+          "text": "Write short notes on the following:",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q3_s2",
+          "subNumber": "b",
+          "text": "How many photons of light having a wavelength of 3000 Å are necessary to provide 1 J of energy? \\( (h = 6 \\cdot 626 \\times 10^{-34} \\, \\text{J-s}) \\)",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_61_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_61_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the behaviour of CO as ligand with different metal ions using molecular orbital theory.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_61_q4_s2",
+          "subNumber": "b",
+          "text": "Draw the MO energy-level diagram for NO molecule. Using this diagram, calculate and explain bond order and magnetic behaviour of (i) NO, (ii) \\( \\text{NO}^+ \\) and (iii) \\( \\text{NO}^- \\).",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_61_q5",
+      "number": 5,
+      "title": "Q.5 Solve all parts :",
+      "marks": "[6+4+4=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_61_q5_s1",
+          "subNumber": "a",
+          "text": "Which type of electronic transition(s) is/are observed in UV-visible spectrum of aniline in the range 200 nm to 900 nm? Justify your answer with suitable figure.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q5_s2",
+          "subNumber": "b",
+          "text": "The internuclear distance of NaCl is \\( 2 \\cdot 36 \\times 10^{-10} \\, \\text{m} \\). Calculate the reduced mass and moment of inertia of NaCl. (Atomic mass of Cl = \\( 35 \\times 10^{-3} \\, \\text{kg mol}^{-1} \\) and Na = \\( 23 \\times 10^{-3} \\, \\text{kg mol}^{-1} \\))",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q5_s3",
+          "subNumber": "c",
+          "text": "Calculate the force constant for CO, if it absorbs at \\( 2 \\cdot 143 \\times 10^{5} \\, \\text{m}^{-1} \\). (Atomic mass of C = \\( 12 \\times 10^{-3} \\, \\text{kg mol}^{-1} \\) and O = \\( 16 \\times 10^{-3} \\, \\text{kg mol}^{-1} \\))",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_61_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_61_q6_s1",
+          "subNumber": "a",
+          "text": "How many types of \\( ^{1}\\text{H} \\) NMR signals are expected for (i) \\( \\text{CH}_3\\text{COOCH}_2\\text{CH}_3 \\) and (ii) \\( \\text{CH}_3\\text{CHCl}_2 \\)? Mention the relative intensity ratio for the signal(s) observed for (i) and (ii).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2021_61_q6_s2",
+          "subNumber": "b",
+          "text": "0-6 mol of \\( \\text{NH}_3 \\) at 25°C occupies a volume of 3 dm³. Calculate the pressure using van der Waals equation \\( (a = 0.417 \\, \\text{N m}^4 \\, \\text{mol}^{-2} \\) and \\( b = 0.037 \\times 10^{-3} \\, \\text{m}^3 \\, \\text{mol}^{-1}) \\). Compare the above result with the pressure calculated using ideal gas equation.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_61_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_61_q7_s1",
+          "subNumber": "a",
+          "text": "7 mol of a monatomic ideal gas are compressed reversibly and adiabatically. The initial volume is 15 dm³ and the final volume is 9 dm³. The initial temperature is 27 °C. (i) What would be the final temperature in this process? (ii) Calculate w, q and ΔU for the process. Given, \\( C_v = 20 \\cdot 91 \\, \\text{J K}^{-1} \\, \\text{mol}^{-1} \\) and \\( \\gamma = 1 \\cdot 4 \\).",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q7_s2",
+          "subNumber": "b",
+          "text": "Write a cell representation (in proper cell representation) whose cell reaction is \\( \\text{AgCl} \\rightarrow \\text{Ag}^+ + \\text{Cl}^- \\), using the following standard electrode potentials at 298 K:",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_61_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_61_q8_s1",
+          "subNumber": "a",
+          "text": "Write notes on the following:",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q8_s2",
+          "subNumber": "b",
+          "text": "Differentiate between the following:",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2021_61_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2021_61_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the following:",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q9_s2",
+          "subNumber": "b",
+          "text": "Arrange the following carbocations in order of increasing stability with suitable reasons:",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2021_61_q9_s3",
+          "subNumber": "c",
+          "text": "Write short notes on the following:",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "id": "sem4_power2_2018_42",
+  "semester": 4,
+  "subject_code": "power2",
+  "subject_name": "Power Systems – II",
+  "year": "2018",
+  "exam_code": "031508",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2018 POWER SYSTEM-II Time: 03 Hours Code: 031508 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 30,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Assume appropriately where data is missing."
+  ],
+  "questions": [
+    {
+      "id": "sem4_power2_2018_42_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2018_42_q1_s1",
+          "subNumber": "a",
+          "text": "In thermal power plant, the dust of flue gas is trapped by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "precipitator",
+            "economiser",
+            "superheater",
+            "air preheater"
+          ]
+        },
+        {
+          "id": "sem4_power2_2018_42_q1_s2",
+          "subNumber": "b",
+          "text": "The pulverized coal is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "coal free from ash",
+            "non-smoking coal",
+            "coal which burns for long time",
+            "coal broken into fine particle"
+          ]
+        },
+        {
+          "id": "sem4_power2_2018_42_q1_s3",
+          "subNumber": "c",
+          "text": "On which one of the following cycles, does a modern steam power plant work?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Carnot cycle",
+            "Bell-Coleman cycle",
+            "Otto cycle",
+            "Rankine cycle"
+          ]
+        },
+        {
+          "id": "sem4_power2_2018_42_q1_s4",
+          "subNumber": "d",
+          "text": "In a system if the base load is the same as the maximum demand, the load factor will be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "one",
+            "zero",
+            "infinity",
+            "one percent"
+          ]
+        },
+        {
+          "id": "sem4_power2_2018_42_q1_s5",
+          "subNumber": "e",
+          "text": "The daily energy produced in a thermal power station is 720 MWh at a load factor of 0.8. What is the maximum demand of the station?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "576 MW",
+            "30 MW",
+            "37.5 MW",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_power2_2018_42_q1_s6",
+          "subNumber": "f",
+          "text": "The positive sequence component of voltage at the point of fault becomes zero when it is a",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "three-phase fault",
+            "double-line to ground fault",
+            "double-line fault",
+            "single-line to ground fault"
+          ]
+        },
+        {
+          "id": "sem4_power2_2018_42_q1_s7",
+          "subNumber": "g",
+          "text": "A balanced three-phase system consists of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "zero sequence current only",
+            "positive sequence current only",
+            "negative sequence current only",
+            "positive, negative and zero sequence current"
+          ]
+        },
+        {
+          "id": "sem4_power2_2018_42_q1_s8",
+          "subNumber": "h",
+          "text": "The line current of a three-phase power supply is \\( I_R = 3+j5 A \\), \\( I_Y = 2+j2 A \\), \\( I_B = -2-j1 A \\). The zero sequence current will be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 1+j2 A \\)",
+            "\\( 5+j7 A \\)",
+            "\\( 1+j4 A \\)",
+            "\\( -2-j1 A \\)"
+          ]
+        },
+        {
+          "id": "sem4_power2_2018_42_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following faults is most severe?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Single-line to ground fault",
+            "Double-line to ground fault",
+            "Three-phase fault",
+            "Line-to-line fault"
+          ]
+        },
+        {
+          "id": "sem4_power2_2018_42_q1_s10",
+          "subNumber": "j",
+          "text": "What is the value of transient stability limit?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Higher than steady-state stability limit",
+            "Lower than steady-state stability limit",
+            "Depending on the severity of the load",
+            "Equal to the steady-state stability limit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2018_42_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2018_42_q2_s1",
+          "subNumber": "a",
+          "text": "What are the factors to be considered for selection of site for a hydro power plant?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power2_2018_42_q2_s2",
+          "subNumber": "b",
+          "text": "Classify hydro power plant.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2018_42_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2018_42_q3_s1",
+          "subNumber": "a",
+          "text": "What do you mean by base load and peak load substation?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2018_42_q3_s2",
+          "subNumber": "b",
+          "text": "Explain the term two-part tariff.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_power2_2018_42_q3_s3",
+          "subNumber": "c",
+          "text": "A consumer has an annual consumption of 70080 kWh. The charge is 100 per kW of maximum demand plus 5 paise per kWh. Find the annual bill and the overall cost per kWh if the load factor is 40%. Also calculate the annual bill and overall cost per kWh if consumption is increased by 50% with the same load factor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2018_42_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2018_42_q4_s1",
+          "subNumber": "a",
+          "text": "Derive the total complex power in a three-phase circuit in terms of symmetrical components.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2018_42_q4_s2",
+          "subNumber": "b",
+          "text": "Show that the zero sequence line current is zero in the absence of neutral current.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2018_42_q4_s3",
+          "subNumber": "c",
+          "text": "Calculate the three-phase voltages from the positive, negative and zero sequence voltage \\( (312.34+j101.74)V \\), \\( (-25.80-j163.63)V \\), \\( (-86.54+j61.89)V \\). Phase sequence is abc.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2018_42_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2018_42_q5_s1",
+          "subNumber": "a",
+          "text": "Define negative and zero sequence component.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_power2_2018_42_q5_s2",
+          "subNumber": "b",
+          "text": "Draw the positive, negative and zero sequence network of a star-connected synchronous machine.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2018_42_q5_s3",
+          "subNumber": "c",
+          "text": "One line diagram of a small power system is given below. Draw the zero sequence networks: Generator 1 = \\( X_{10} \\), Generator 2 = \\( X_{20} \\), Line NU = \\( X_{L0} \\), Transformer T1 = \\( X_{t10} \\), Transformer T2 = \\( X_{t20} \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/65.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2018_42_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2018_42_q6_s1",
+          "subNumber": "a",
+          "text": "For a three-phase unloaded alternator having neutral grounded through impedance \\( Z_n \\) and fault impedance \\( Z_f \\) draw the phase and sequence network under single-line to ground fault. Also derive the expression for positive, negative and zero sequence current in a three-phase unloaded alternator.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2018_42_q6_s2",
+          "subNumber": "b",
+          "text": "A 50 MVA, 11 kV, three-phase alternator was subjected to different types of faults. The fault currents were: Three-phase fault current: 1800 A; Line-to-line fault current: 2500 A; Single-line to ground fault current: 4000 A. The alternator is solidly grounded. Find the per unit value of three-sequence reactance of the alternator. Neglect resistance.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2018_42_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2018_42_q7_s1",
+          "subNumber": "a",
+          "text": "Derive the expression for swing equation of a synchronous machine.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2018_42_q7_s2",
+          "subNumber": "b",
+          "text": "A 50 Hz, 2-pole turbo generator rated 50 MVA, 13.2 kV has an inertia constant of \\( H=5 \\text{ MJ/MVA} \\). Determine the kinetic energy stored in the rotor at synchronous speed. Determine the acceleration if the input less the rotational losses is 65000 HP and the electric power developed is 40 MW. If the acceleration computed for the generator is constant for a period of 10 cycles, find the change in torque angle in that period and rotor speed in revolution per minute at the end of this period. Assume that the generator is synchronized with a large system and has no accelerating torque before the 10 cycle period begins. (1 HP = 735 watt).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2018_42_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2018_42_q8_s1",
+          "subNumber": "a",
+          "text": "In a solidly grounded three-phase alternator, double-line to ground fault takes place between phase b and phase c with zero fault impedance. Determine the positive, negative and zero sequence component of the current. Also find the value of neutral current.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2018_42_q8_s2",
+          "subNumber": "b",
+          "text": "A 25 MVA, 13.2 kV alternator with solidly grounded neutral has sub-transient reactance of 0.25 per unit. The negative and zero sequence reactances are 0.35 and 0.1 per unit respectively. Determine the fault current and line-to-line voltages at the fault when a double-line to ground fault occurs at the terminals of the alternators.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2018_42_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2018_42_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Coal handling in thermal power plant.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power2_2018_42_q9_s2",
+          "subNumber": "b",
+          "text": "(b) Steady-state stability",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_power2_2018_42_q9_s3",
+          "subNumber": "c",
+          "text": "(c) Power angle curve",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

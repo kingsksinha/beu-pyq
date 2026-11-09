@@ -1,0 +1,330 @@
+{
+  "id": "sem4_math3_2023_1",
+  "semester": 4,
+  "subject_code": "math3",
+  "subject_name": "Engineering Mathematics - III",
+  "year": "2023",
+  "exam_code": "100312",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 3rd Semester Examination, 2023 Mathematics III (PDE, Probability & Statistics) Time: 03 Hours Code: 100312 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_math3_2023_1_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2023_1_q1_s1",
+          "subNumber": "a",
+          "text": "The order of the PDE obtained by eliminating \\( f \\) from \\( z = f(x^2 + y^2) \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "First",
+            "Second",
+            "Third",
+            "Fourth"
+          ]
+        },
+        {
+          "id": "sem4_math3_2023_1_q1_s2",
+          "subNumber": "b",
+          "text": "Who was the first person to develop the heat equation?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Galileo Galilee",
+            "Joseph Fourier",
+            "Daniel Gabriel",
+            "none of these"
+          ]
+        },
+        {
+          "id": "sem4_math3_2023_1_q1_s3",
+          "subNumber": "c",
+          "text": "The linear partial differential equation of order one is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Lagrange's linear PDE",
+            "Cauchy's linear PDE",
+            "Charpit's linear PDE",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "sem4_math3_2023_1_q1_s4",
+          "subNumber": "d",
+          "text": "Poisson distribution is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Discrete",
+            "Continuous",
+            "Normal",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem4_math3_2023_1_q1_s5",
+          "subNumber": "e",
+          "text": "The total area under the normal curve above the x-axis is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "1",
+            "0.5",
+            "-1"
+          ]
+        },
+        {
+          "id": "sem4_math3_2023_1_q1_s6",
+          "subNumber": "f",
+          "text": "Two unbiased coins are tossed simultaneously. The probability of getting less than 3 tails is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "1",
+            "1/2",
+            "1/4"
+          ]
+        },
+        {
+          "id": "sem4_math3_2023_1_q1_s7",
+          "subNumber": "g",
+          "text": "The median for the series: 4, 6, 9, 4, 10 is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "1.5"
+          ]
+        },
+        {
+          "id": "sem4_math3_2023_1_q1_s8",
+          "subNumber": "h",
+          "text": "The relation between mean, median and mode is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Mode = 3 Median - 2 Mean",
+            "Mode = 2 Median - 3 Mean",
+            "Mean = 3 Median - Mode",
+            "none of these"
+          ]
+        },
+        {
+          "id": "sem4_math3_2023_1_q1_s9",
+          "subNumber": "i",
+          "text": "If the regression coefficients are 0.8 &amp; 0.2, what would be the value of coefficient of correlation?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.6",
+            "0.5",
+            "0.4",
+            "0.3"
+          ]
+        },
+        {
+          "id": "sem4_math3_2023_1_q1_s10",
+          "subNumber": "j",
+          "text": "The expected value of the number of heads in 15 tosses of a coin is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "15",
+            "30",
+            "7.5",
+            "8.5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2023_1_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2023_1_q2_s1",
+          "subNumber": "a",
+          "text": "Form partial differential equation by eliminating the function \\( f \\) from \\( Z = e^{ax+by}f(ax-by) \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2023_1_q2_s2",
+          "subNumber": "b",
+          "text": "Solve the linear partial differential equation: \\( \\frac{\\partial^2 z}{\\partial x^2} + 2\\frac{\\partial^2 z}{\\partial x \\partial y} + \\frac{\\partial^2 z}{\\partial y^2} = \\sin(2x+3y) \\).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2023_1_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2023_1_q3_s1",
+          "subNumber": "a",
+          "text": "Obtain the general solution of heat flow equation \\( k\\left(\\frac{\\partial^2 u}{\\partial x^2}\\right) = \\frac{\\partial u}{\\partial t} \\) by the method of separation of variables.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_math3_2023_1_q3_s2",
+          "subNumber": "b",
+          "text": "Show that a general solution of wave equation \\( c^2\\left(\\frac{\\partial^2 \\varphi}{\\partial x^2}\\right) = \\frac{\\partial^2 \\varphi}{\\partial t^2} \\) is \\( \\varphi = f(x+ct) + g(x-ct) \\).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2023_1_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2023_1_q4_s1",
+          "subNumber": "a",
+          "text": "Obtain solution of Laplace's Equation in cylindrical polar coordinates.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2023_1_q4_s2",
+          "subNumber": "b",
+          "text": "Determine whether the following equation is hyperbolic, parabolic, and elliptic? \\( x\\frac{\\partial^2 u}{\\partial t^2} + t\\frac{\\partial^2 u}{\\partial x \\partial t} + \\frac{\\partial^2 z}{\\partial t^2} = 0 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2023_1_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2023_1_q5_s1",
+          "subNumber": "a",
+          "text": "If X is a random variable such that \\( E[X] = 3 \\) and \\( E[X^2] = 13 \\), use the Chebyshev's inequality to determine the lower bound for \\( P[-2 &lt; X &lt; 8] \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2023_1_q5_s2",
+          "subNumber": "b",
+          "text": "Two integers are selected at random from 1 to 11. If the sum is even, find the probability that both the numbered are odd.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2023_1_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2023_1_q6_s1",
+          "subNumber": "a",
+          "text": "State and prove Baye's theorem.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2023_1_q6_s2",
+          "subNumber": "b",
+          "text": "Find the mean number of heads in three tosses of a coin.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2023_1_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2023_1_q7_s1",
+          "subNumber": "a",
+          "text": "The first four moments of a distribution about \\( x = 2 \\) are 1, 2.5, 5.5 and 16. Calculate moments about the mean.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2023_1_q7_s2",
+          "subNumber": "b",
+          "text": "The following table gives the number of aircraft accidents that occurred during the various days of the week. Find whether the accidents are uniformly distributed over the week. (The tabulated value of Chi-square at 5% level for 6 degree of freedom is 12.59).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2023_1_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2023_1_q8_s1",
+          "subNumber": "a",
+          "text": "A random sample of 5 college students is selected and their grades in Mathematics &amp; Statistics are found to be:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_math3_2023_1_q8_s2",
+          "subNumber": "b",
+          "text": "By the method of least square, find the straight line that best fits the following data:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_math3_2023_1_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_math3_2023_1_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

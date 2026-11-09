@@ -1,0 +1,304 @@
+{
+  "id": "sem4_solid_2017_64",
+  "semester": 4,
+  "subject_code": "solid",
+  "subject_name": "Solid Mechanics",
+  "year": "2017",
+  "exam_code": "011406",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 4th Semester Examination, 2017 Mechanics of Solid-I Time: 3 hours Code: 011406 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 20,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are Nine Questions in this Paper.",
+    "Attempt Five questions in all.",
+    "Question No. 1 is Compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_solid_2017_64_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2017_64_q1_s1",
+          "subNumber": "a",
+          "text": "For mild steel, the ratio of modulus of elasticity in tension and compression is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.25",
+            "0.5",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "id": "sem4_solid_2017_64_q1_s2",
+          "subNumber": "b",
+          "text": "For an isotropic elastic material, the number of independent elastic constant is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "sem4_solid_2017_64_q1_s3",
+          "subNumber": "c",
+          "text": "The Plane of maximum shear stress at any point are inclined to the principal planes through that point at an angle of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "45\\(^{\\circ}\\)",
+            "90\\(^{\\circ}\\)",
+            "180\\(^{\\circ}\\)"
+          ]
+        },
+        {
+          "id": "sem4_solid_2017_64_q1_s4",
+          "subNumber": "d",
+          "text": "In the same loading Condition, if the diameter of the circular sectional beam is doubled, its deflection is reduced by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2 times",
+            "4 times",
+            "8 times",
+            "16 times"
+          ]
+        },
+        {
+          "id": "sem4_solid_2017_64_q1_s5",
+          "subNumber": "e",
+          "text": "A simply supported beam carries a couple at a point on its span, the shear force",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "is constant throughout",
+            "varies linearly",
+            "varies by parabolic law",
+            "varies by cubic law"
+          ]
+        },
+        {
+          "id": "sem4_solid_2017_64_q1_s6",
+          "subNumber": "f",
+          "text": "The stress in a beam is less if its section modulus is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Zero",
+            "low",
+            "high",
+            "none of above"
+          ]
+        },
+        {
+          "id": "sem4_solid_2017_64_q1_s7",
+          "subNumber": "g",
+          "text": "For two shafts joined is parallel, the _____ is each shaft in the same.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Shear stress",
+            "angle of twist",
+            "torque",
+            "none of these"
+          ]
+        },
+        {
+          "id": "sem4_solid_2017_64_q1_s8",
+          "subNumber": "h",
+          "text": "An element of a stressed body is subjected to only two normal stresses of equal value but opposite sign in two perpendicular directions. The maximum shear stress in the element is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "zero",
+            "\\( \\frac{\\sigma}{2} \\)",
+            "\\( \\sigma \\)",
+            "\\( 2\\sigma \\)"
+          ]
+        },
+        {
+          "id": "sem4_solid_2017_64_q1_s9",
+          "subNumber": "i",
+          "text": "Complementary shear stresses are _____ is magnitude and are of _____ sign.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "equal, opposite",
+            "unequal, same",
+            "equal, same",
+            "unequal, opposite"
+          ]
+        },
+        {
+          "id": "sem4_solid_2017_64_q1_s10",
+          "subNumber": "j",
+          "text": "A prismatic bar of length \\( l \\), Cross-sectional area A and Young's modulus E is subjected to an axial load P, its strain energy is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{Pl}{2At} \\)",
+            "\\( \\frac{Pl^2}{2AE} \\)",
+            "\\( \\frac{P^2 l}{2AE} \\)",
+            "\\( \\frac{P^2 l}{2AE} \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2017_64_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2017_64_q2_s1",
+          "subNumber": "a",
+          "text": "Differentiate between Engineering stress and true stress.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2017_64_q2_s2",
+          "subNumber": "b",
+          "text": "A reinforced Concrete column 200 mm is diameter is designed to carry on axial compressive load of 300 kN, Determine the required area of the reinforcing steel if the allowable stresses are 6 MPa and 120 MPa for the concrete and steel respectively. \\( E_{concrete} \\) = 14 GPa, \\( E_{steel} \\) = 200 GPa.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2017_64_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2017_64_q3_s1",
+          "subNumber": "a",
+          "text": "A steel rail is 32 m long and is laid at a temperature of 24\\(^{\\circ}\\)C. Determine: (i) the stress in the rails at 80\\(^{\\circ}\\)C when there is no allowance for expansion, (ii) the stress in the rails at 80\\(^{\\circ}\\)C when there is an expansion allowance of 8 mm per rail, (iii) the expansion allowance for no stress in the rails at 80\\(^{\\circ}\\)C and (iv) the maximum temperature for not stress in the rails when expansion allowance is 8 mm. Co-efficient of linear expansion \\( \\alpha = 11 \\times 10^{-6} / ^{\\circ}C \\) and E = 205 GPa.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2017_64_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2017_64_q4_s1",
+          "subNumber": "a",
+          "text": "In a biaxial stress system, the stresses at a point are shown in fig. 1. Find: (i) Principal stresses and their position. (ii) Maximum shear stresses and their position. and (iii) The stresses on a plane inclined at 30\\(^{\\circ}\\) to the vertical.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/57.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2017_64_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2017_64_q5_s1",
+          "subNumber": "a",
+          "text": "Draw the shear force and Bending moment diagram for the beam shown in figure (2). Also locate the point of contra flexure if any?",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/56.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2017_64_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2017_64_q6_s1",
+          "subNumber": "a",
+          "text": "The tension flange of a Cast iron I-section beam is 240 mm wide and 50 mm deep, the compression flange is 100 mm and 20 mm deep whereas the web is 300 mm x 30 mm. Find the load per m run which can be carried over a 4 m span by a simply supported beam if the maximum permissible stresses are 90 MPa in compression and 24 MPa in tension.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2017_64_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2017_64_q7_s1",
+          "subNumber": "a",
+          "text": "A beam, simply supported at ends A and B is loaded with two point loads of 60 kN and 50 kN at a distance 1 metre and 3 metre respectively from end A. Determine the position and magnitude of maximum deflection and slope.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2017_64_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2017_64_q8_s1",
+          "subNumber": "a",
+          "text": "The solid circular shaft as shown in fig.3 is used to transmit power of given values. Compute the maximum shear stress and angle of twist between two ends. At point A 50 hp is input and at B and C 30 hp and 20 hp respectively are taken off. (Neglect bending effect) \\( G = 8.5 \\times 10^{10} N/m^2 \\), N = 530 rpm, Diameter of shaft = 40 mm.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/55.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2017_64_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2017_64_q9_s1",
+          "subNumber": "a",
+          "text": "State and prove Castiglione's first theorem.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_solid_2017_64_q9_s2",
+          "subNumber": "b",
+          "text": "Find the slope and deflection at the free end of a cantilever which carries a uniformly distributed load and a point at the free end.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "sem2_coa_2017_50",
+  "semester": 2,
+  "subject_code": "coa",
+  "subject_name": "Computer Organization & Architecture",
+  "year": "2017",
+  "exam_code": "051402",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2017 Computer Architecture Time: 3 hours Code: 051402 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 17,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_coa_2017_50_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following questions (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2017_50_q1_s1",
+          "subNumber": "a",
+          "text": "Write the range of decimal integer can be represented by n-bit 2's complement representation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2017_50_q1_s2",
+          "subNumber": "b",
+          "text": "Justify the statement \"Stack computer consists of an operation code only with no address field\".",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2017_50_q1_s3",
+          "subNumber": "c",
+          "text": "What do you mean by Arithmetic shift left operation?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_coa_2017_50_q1_s4",
+          "subNumber": "d",
+          "text": "What do you mean by locality of reference?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_coa_2017_50_q1_s5",
+          "subNumber": "e",
+          "text": "What are the properties of an ideal instruction set computer.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_coa_2017_50_q1_s6",
+          "subNumber": "f",
+          "text": "Define the term hardware polling.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2017_50_q1_s7",
+          "subNumber": "g",
+          "text": "What do you mean by data hazards in pipelining?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2017_50_q1_s8",
+          "subNumber": "h",
+          "text": "Explain indirect address mode, and how the effective address in calculated in this case.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2017_50_q1_s9",
+          "subNumber": "i",
+          "text": "Explain the use of subroutine with the help of suitable example.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2017_50_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2017_50_q2_s1",
+          "subNumber": "a",
+          "text": "Why is read and write control lines in a DMA controller bidirectional? Under what condition and for what purpose are they used as inputs?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2017_50_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2017_50_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the concept of virtual memory with the help of diagram. Explain how virtual address in mapped to actual physical address.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2017_50_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2017_50_q4_s1",
+          "subNumber": "a",
+          "text": "What is meant by Addressing Mode? Explain at least five different Addressing Modes with an example.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2017_50_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2017_50_q5_s1",
+          "subNumber": "a",
+          "text": "What are the different conflicts that will arise in pipeline (elaborate)? How do you remove the conflicts?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2017_50_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2017_50_q6_s1",
+          "subNumber": "a",
+          "text": "Explain Von Neumann Architecture. What are its drawbacks?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2017_50_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2017_50_q7_s1",
+          "subNumber": "a",
+          "text": "What is a page fault? What does a page fault signify? Explain the different page replacement algorithms which determine the page to be removed in case of full memory.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2017_50_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2017_50_q8_s1",
+          "subNumber": "a",
+          "text": "Why does I/O interrupt make more efficient use of the CPU? Explain the sequence of operations that take place in an interrupt driven I/O transfer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2017_50_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2017_50_q9_s1",
+          "subNumber": "a",
+          "text": "How many ROM chips are required to produce a memory capacity of 4096 bytes? How many address lines are required to access the 4096 bytes? How many of these addresses will be common to all these chips?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

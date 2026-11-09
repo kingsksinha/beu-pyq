@@ -1,0 +1,324 @@
+{
+  "id": "sem2_cem_2023_30",
+  "semester": 2,
+  "subject_code": "cem",
+  "subject_name": "Construction Engineering & Management",
+  "year": "2023",
+  "exam_code": "101602",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam-2023 Construction Engineering and Management Time: 03 Hours Code: 101602 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Symbols used (if any) have their usual meanings."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cem_2023_30_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven question of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2023_30_q1_s1",
+          "subNumber": "a",
+          "text": "An activity is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The beginning or end of a specified job",
+            "An element of work entailed in the project",
+            "The movement of heavy vehicle from one place to another",
+            "The progress of work upto a certain limit"
+          ]
+        },
+        {
+          "id": "sem2_cem_2023_30_q1_s2",
+          "subNumber": "b",
+          "text": "The probabilistic time is given by (Where \\( t_o = \\) optimistic time, \\( t_p = \\) pessimistic time and, \\( t_n = \\) Most likely time)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( (t_o + t_p + t_n)/3 \\)",
+            "\\( (t_o + 2t_p + t_n)/4 \\)",
+            "\\( (t_o + 4t_p + t_n)/5 \\)",
+            "\\( (t_o + 4t_n + t_p)/6 \\)"
+          ]
+        },
+        {
+          "id": "sem2_cem_2023_30_q1_s3",
+          "subNumber": "c",
+          "text": "Pert requires",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Single time estimate",
+            "Double time estimate",
+            "Triple time estimate",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem2_cem_2023_30_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following is a dummy activity?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Excavation foundation",
+            "Laying the foundation concrete",
+            "Awaiting the arrival of concrete material",
+            "Curing the foundation concrete"
+          ]
+        },
+        {
+          "id": "sem2_cem_2023_30_q1_s5",
+          "subNumber": "e",
+          "text": "A Gantt chart indicates",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Balance of work to be done",
+            "Efficiency of project work",
+            "Comparison of actual process with the scheduled progress",
+            "Progress cost of project"
+          ]
+        },
+        {
+          "id": "sem2_cem_2023_30_q1_s6",
+          "subNumber": "f",
+          "text": "Negative slack occurs",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "When latest allowable time is greater than earliest expected time",
+            "When events stick to their schedule",
+            "When deficiency of resource exist",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem2_cem_2023_30_q1_s7",
+          "subNumber": "g",
+          "text": "PERT calculation yield a project length of 60 week with a variance of 9 week. Probability factor corresponding to 95% is 1.647; then the number of week required to complete the project with a probability of 95% is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "60.94",
+            "62.94",
+            "64.94",
+            "66.9417"
+          ]
+        },
+        {
+          "id": "sem2_cem_2023_30_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following earth moving machines has the shortest cycle time",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Drag line",
+            "Hoe",
+            "Clam shell",
+            "Dipper shovel"
+          ]
+        },
+        {
+          "id": "sem2_cem_2023_30_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following data is not required to prepare an estimate?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Amplitude",
+            "Drawings",
+            "Specifications",
+            "Rates"
+          ]
+        },
+        {
+          "id": "sem2_cem_2023_30_q1_s10",
+          "subNumber": "j",
+          "text": "Force majeure can be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Act of god",
+            "Fire on explosion",
+            "Wars on hostilities",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2023_30_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2023_30_q2_s1",
+          "subNumber": "a",
+          "text": "(a) Describe various phases of project management.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cem_2023_30_q2_s2",
+          "subNumber": "b",
+          "text": "(b) Discuss in brief the basics of slip forming for tall structure.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2023_30_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2023_30_q3_s1",
+          "subNumber": "a",
+          "text": "Following table shows details of activities of a small project: (i) Prepare AON network (ii) Prepare AOA network (iii) Identify critical path and duration of project (iv) Work out total, Free and independent floats",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2023_30_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2023_30_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the application of BIM in project management. What are the safety measures to be considered in the construction site?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cem_2023_30_q4_s2",
+          "subNumber": "b",
+          "text": "A target date of completion is to be forecast based on the following information: Item A take 7 weeks for completion; Item B takes 5 weeks; Item C depend on the completion of both A and B, and requires 3 weeks; Item D follow up of item C and requires 2 weeks. Prepare a Gantt chart for scheduling the completion date.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2023_30_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2023_30_q5_s1",
+          "subNumber": "a",
+          "text": "(a) Compare and contrast CPM and PERT. Under what circumstance would you use PERT as opposed to CPM in project management?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cem_2023_30_q5_s2",
+          "subNumber": "b",
+          "text": "(b) Discuss the objectives of network analysis.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2023_30_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2023_30_q6_s1",
+          "subNumber": "a",
+          "text": "(a) What are the factors must be taken into account before selection of construction equipment.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cem_2023_30_q6_s2",
+          "subNumber": "b",
+          "text": "(b) calculate the output per day of a concrete mixture of 200 litres. Assume all data reasonably for the purpose.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2023_30_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2023_30_q7_s1",
+          "subNumber": "a",
+          "text": "(a) Discuss various rules for providing dummies in a network. What are redundant dummies?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cem_2023_30_q7_s2",
+          "subNumber": "b",
+          "text": "(b) What are the methods used for manufacture of precast concrete elements? Explain briefly",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2023_30_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2023_30_q8_s1",
+          "subNumber": "a",
+          "text": "(a) Explain duties and responsibilities of parties involved in a contract.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cem_2023_30_q8_s2",
+          "subNumber": "b",
+          "text": "(b) Differentiate between conventional and mechanized methods of construction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2023_30_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2023_30_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

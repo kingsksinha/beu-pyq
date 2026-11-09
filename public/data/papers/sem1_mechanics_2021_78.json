@@ -1,0 +1,270 @@
+{
+  "id": "sem1_mechanics_2021_78",
+  "semester": 1,
+  "subject_code": "mechanics",
+  "subject_name": "Engineering Mechanics",
+  "year": "2021",
+  "exam_code": "101101",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam., 2021 Physics (Mechanics) Time: 3 hours Code: 101101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Symbols used (if any) have their usual meanings."
+  ],
+  "questions": [
+    {
+      "id": "sem1_mechanics_2021_78_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following questions :",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2021_78_q1_s1",
+          "subNumber": "a",
+          "text": "The position of a particle of mass \\( m \\) under the influence of a free particle is given by \\( \\vec{r} = A \\sin \\omega t \\hat{i} + B \\cos \\omega t \\hat{j} \\). Find the expression for its force.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q1_s2",
+          "subNumber": "b",
+          "text": "Express \\( \\vec{s} \\) of cylindrical coordinate system into unit vectors of Cartesian coordinate system.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q1_s3",
+          "subNumber": "c",
+          "text": "Give two examples of conservative forces.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q1_s4",
+          "subNumber": "d",
+          "text": "Define Euler angles.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q1_s5",
+          "subNumber": "e",
+          "text": "Consider a cloud of point particles interacting through gravitational forces and having a distribution of kinetic energy. What is the condition of potential energy under which this cloud will expand?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q1_s6",
+          "subNumber": "f",
+          "text": "Why is a Foucault pendulum situated at the equator will not detect the rotation of the earth about its axis?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q1_s7",
+          "subNumber": "g",
+          "text": "A condenser of capacity \\( 1 \\, \\mu F \\), an inductance \\( 0 \\cdot 2 \\, H \\) and a resistance of \\( 100 \\, \\Omega \\) are in series. Is the circuit oscillator? Why?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q1_s8",
+          "subNumber": "h",
+          "text": "A pendulum is of length 50 cm. Find its period when it is suspended in (i) a stationary lift and (ii) a lift falling at a constant velocity of 5 m/s.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q1_s9",
+          "subNumber": "i",
+          "text": "Write down the expression for moment of inertia of a solid circular disk, axis perpendicular to its plane and passing through the centre.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q1_s10",
+          "subNumber": "j",
+          "text": "Fill in the blank : Gradient of scalar field is ______ to the equipotential surfaces.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2021_78_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2021_78_q2_s1",
+          "subNumber": "a",
+          "text": "A particle moves with \\( \\dot{\\theta} = \\omega = \\) constant and \\( r = r_0 e^{\\beta t} \\), where \\( r_0 \\) and \\( \\beta \\) are constants. For what values of \\( \\beta \\), the radial part of acceleration vanishes?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q2_s2",
+          "subNumber": "b",
+          "text": "A point is observed to have velocity \\( V_A \\) relative to coordinate system \\( A \\). What is its velocity relative to coordinate system \\( B \\), which is displaced from system \\( A \\) by a distance \\( R \\)? (\\( R \\) can change in time.)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2021_78_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2021_78_q3_s1",
+          "subNumber": "a",
+          "text": "A truck at rest has one door fully open, as shown below. The truck accelerates forward at constant rate \\( A \\), and the door begins to swing shut. The door is uniform and solid, has total mass \\( M \\), height \\( h \\), and width \\( w \\). Neglect air resistance. Find the instantaneous angular velocity of the door about its hinges when it has swung through \\( 90^{\\circ} \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/21em3a.png"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q3_s2",
+          "subNumber": "b",
+          "text": "Using cylindrical coordinate system, find out the volume of a cylinder of radius \\( R \\) and height \\( H \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2021_78_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2021_78_q4_s1",
+          "subNumber": "a",
+          "text": "What are conservative and non-conservative forces? Show that the electrostatic force between two charges \\( q_1 \\) and \\( q_2 \\) placed at a distance of \\( r \\) are conservative. Also, obtain an expression for the potential energy of two charges.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2021_78_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2021_78_q5_s1",
+          "subNumber": "a",
+          "text": "State and discuss Kepler's law. Show that the Newton's law can be deduced from Kepler's law.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q5_s2",
+          "subNumber": "b",
+          "text": "Discuss the energy equation in the centre of mass system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2021_78_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2021_78_q6_s1",
+          "subNumber": "a",
+          "text": "Derive Euler's equations of rigid body motion and discuss their necessity in describing rigid body.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q6_s2",
+          "subNumber": "b",
+          "text": "Explain, why flying saucers make better spacecraft than do flying cigars.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2021_78_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2021_78_q7_s1",
+          "subNumber": "a",
+          "text": "Discuss three-dimensional rigid body motion describing angular velocity and moment of inertia tensor.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q7_s2",
+          "subNumber": "b",
+          "text": "A thin hoop of mass \\( M \\) and radius \\( R \\) rolls without slipping about the z-axis. It is supported by an axle of length \\( R \\) through its centre. The hoop circles around the z-axis with angular speed \\( \\Omega \\). What is the instantaneous angular velocity of the hoop? Given, the moment of inertia of a hoop for an axis along its diameter is \\( \\frac{1}{2} MR^2 \\).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2021_78_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2021_78_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss three-dimensional rigid body motion describing angular velocity and moment of inertia tensor.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_mechanics_2021_78_q8_s2",
+          "subNumber": "b",
+          "text": "A thin hoop of mass M and radius R rolls without slipping about the z-axis. It is supported by an axle of length R through its centre, as shown below: The hoop circles around the z-axis with angular speed \\(\\omega \\). What is the instantaneous angular velocity of the hoop? Given, the moment of inertia of a hoop for an axis along its diameter is\\((1/2) MR^2 \\).",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/21em8b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2021_78_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2021_78_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    }
+  ]
+}

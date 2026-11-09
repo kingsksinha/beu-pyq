@@ -1,0 +1,364 @@
+{
+  "id": "sem4_solid_2022_61",
+  "semester": 4,
+  "subject_code": "solid",
+  "subject_name": "Solid Mechanics",
+  "year": "2022",
+  "exam_code": "101405",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 4th Semester Examination, 2022 Introduction to Solid Mechanics Time: 03 Hours Code: 101405 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_solid_2022_61_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2022_61_q1_s1",
+          "subNumber": "a",
+          "text": "The maximum stress produced in a bar of tapering section is at",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "smaller end",
+            "larger end",
+            "middle",
+            "anywhere"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q1_s2",
+          "subNumber": "b",
+          "text": "The energy stored in a body when strained within elastic limit is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "resilience",
+            "proof resilience",
+            "strain energy",
+            "impact energy"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q1_s3",
+          "subNumber": "c",
+          "text": "Strain energy is the",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "energy stored in a body when strained within elastic limits",
+            "energy stored in a body when strained up to the breaking of a specimen",
+            "maximum strain energy which can be stored in a body",
+            "proof resilience per unit volume of a material"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q1_s4",
+          "subNumber": "d",
+          "text": "A vertical column has two moments of inertia (i.e. \\( I_{xx} \\) and \\( I_{yy} \\)). The column will tend to buckle in the direction of the",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "axis of load",
+            "perpendicular to the axis of load",
+            "maximum moment of inertia",
+            "minimum moment of inertia"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q1_s5",
+          "subNumber": "e",
+          "text": "The neutral axis of the cross-section of a beam is that axis at which the bending stress is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "zero",
+            "minimum",
+            "maximum",
+            "infinity"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q1_s6",
+          "subNumber": "f",
+          "text": "Euler's formula holds good",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "only for short columns",
+            "only for long columns",
+            "both for short and long columns",
+            "for weak columns"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q1_s7",
+          "subNumber": "g",
+          "text": "The object of caulking in a riveted joint is to make the joint",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "free from corrosion",
+            "stronger in tension",
+            "free from stresses",
+            "leak-proof"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q1_s8",
+          "subNumber": "h",
+          "text": "In the torsion equation \\( \\frac{T}{J} = \\frac{\\tau}{R} = \\frac{C\\theta}{L} \\), the term \\( J/R \\) is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "shear modulus",
+            "section modulus",
+            "polar modulus",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q1_s9",
+          "subNumber": "i",
+          "text": "Strain resetters are used to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "measure shear strain",
+            "measure linear strain",
+            "measure volumetric strain",
+            "relieve strain"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q1_s10",
+          "subNumber": "j",
+          "text": "If the depth is kept constant for a beam of uniform strength, then its width will vary in proportional to (where M = Bending moment)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "M",
+            "M\\(^2\\)",
+            "M\\(^3\\)",
+            "M\\(^4\\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2022_61_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2022_61_q2_s1",
+          "subNumber": "a",
+          "text": "Two cylindrical rods one of steel (Est = 200 GPa) and other of brass (Ebr = 105 GPa) are joined together at point C shown in Fig. 1 and are restrained by rigid supports A and E. Determine (i) reactions at supports A and E, (ii) stresses in both rods and (iii) displacement at point C.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/49.jpg"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q2_s2",
+          "subNumber": "b",
+          "text": "A 250 mm long aluminium tube (E = 70 GPa) of 36 mm outer diameter and 28 mm inner diameter may be closed at both ends by means of single-threaded screw of 1.5 mm pitch on covers. A solid brass rod (Ebr = 105 GPa) of 25 mm diameter is placed inside the tube with one cover screwed on tight while the second cover is not placed. The rod is slightly longer than tube and thus cover must be forced against rod by rotating it one quarter of a turn to close it. Determine stresses and deformations in the tube and the rod shown in Fig. 2.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/51.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2022_61_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2022_61_q3_s1",
+          "subNumber": "a",
+          "text": "Fig. 3 shows assembly of a circular aluminium shell (Eal = 70 GPa, \\( \\alpha_{al} \\) = 23.6 x 10\\(^{-6}\\)/\\(^{\\circ}\\)C) with fully bonded steel circular core rod inside (Est = 200 GPa, \\( \\alpha_{st} \\) = 11.7 x 10\\(^{-6}\\)/\\(^{\\circ}\\)C) which is unstressed at a temperature of 20\\(^{\\circ}\\)C. Determine the stresses in the aluminium shell and the steel core when the temperature is raised to 180\\(^{\\circ}\\)C. Consider only axial deformations.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/48.jpg"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q3_s2",
+          "subNumber": "b",
+          "text": "The 45\\(^{\\circ}\\) strain rosette is mounted on a machine element shown in Fig. 4 and provides the following readings from each gauge: \\( \\epsilon_a = -650 \\times 10^{-6} \\), \\( \\epsilon_b = -300 \\times 10^{-6} \\), \\( \\epsilon_c = -480 \\times 10^{-6} \\), \\( \\nu = 0.33 \\). (i) Determine in-plane principal strains. (ii) Determine maximum in-plane shear strain and associated average normal strain. (iii) Represent the deformed element.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/47.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2022_61_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2022_61_q4_s1",
+          "subNumber": "a",
+          "text": "A steel pipe (E = 200 GPa) of length L is held by two fixed supports shown in Fig. 5. When mounted, the temperature of the pipe was 20\\(^{\\circ}\\)C. In use, however the cold fluid moves through the pipe causing it to cool considerably. The pipe has a uniform temperature of -15\\(^{\\circ}\\)C in use. The coefficient of linear expansion of the material is 12 x 10\\(^{-6}\\)/\\(^{\\circ}\\)C for the working temperature range. Determine the state of stress and strain at central portion of the pipe as a result of this cooling. Neglect the local end effects near the end supports, body force and drag forces in the pipe.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/50.jpg"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q4_s2",
+          "subNumber": "b",
+          "text": "Collar D is released from rest and slides without friction downward from a distance of h = 300 mm where it strikes a head fixed to the end of compound rod ABC shown in Fig. 6. Rod segment AB is made of aluminium (E1 = 70 GPa) and it has a length of L1 = 800 mm and a diameter of d1 = 12 mm. Rod segment (BC) is made of bronze (E2 = 105 GPa) and it has a length of L2 = 1300 mm and a diameter of d2 = 16 mm. What is the allowable mass for collar D if the maximum normal stress in the aluminium rod segment must be limited to 200 MPa?",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/46.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2022_61_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2022_61_q5_s1",
+          "subNumber": "a",
+          "text": "A bar ABC revolves in a horizontal plane about a vertical axis at the midpoint C shown in Fig. 7. The bar, which has length 2L and cross-sectional area A, revolves at constant angular speed \\( \\omega \\). Each half of the bar (AC and BC) has weight W1 and supports a weight W2 at its end. Derive the following formula for the elongation of one-half of the bar (that is, the elongation of either AC or BC): \\( \\frac{L^2 \\omega^2}{3 g E A} (W_1 + 3W_2) = \\delta_{AC} = \\delta_{BC} \\), where E is the modulus of elasticity of the material of the bar and g is the gravitational acceleration.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/258.jpeg"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q5_s2",
+          "subNumber": "b",
+          "text": "A rectangular plate of dimensions 250 mm x 100 mm is formed by welding two triangular plates shown in Fig. 8. The plate is subjected to a compressive stress of 2.5 MPa along the long dimension and a tensile stress of 12 MPa along the short dimension. Determine the (i) normal stress acting perpendicular to the line of the weld and the shear acting parallel to the weld; (ii) maximum principal stress and the orientation of principal plane; (iii) maximum absolute shear stress and the orientation of plane.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/259.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2022_61_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2022_61_q6_s1",
+          "subNumber": "a",
+          "text": "A cylindrical tank with hemispherical heads is constructed of steel sections that are welded circumferentially. The tank diameter is 1.25 m, the wall thickness is 22 mm and the internal pressure is 1750 kPa, shown in Fig. 9. Determine the (i) maximum tensile stress in the heads of the tank; (ii) maximum tensile stress in the cylindrical part of the tank; (iii) tensile stress acting perpendicular to the welded joints; (iv) maximum shear stress in the heads of the tank; (v) maximum shear stress in the cylindrical part of the tank.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/257.jpeg"
+          ]
+        },
+        {
+          "id": "sem4_solid_2022_61_q6_s2",
+          "subNumber": "b",
+          "text": "Consider the state of stress in a bar subjected to compression in the axial direction. Lateral expansion is restrained to half the amount it would ordinarily be if the lateral faces were load free. Find the effective modulus of elasticity.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2022_61_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2022_61_q7_s1",
+          "subNumber": "a",
+          "text": "Compare typical stress-strain curves of mild steel and aluminium (using appropriate figures). Frame your discussion using the following characteristics: Proportional limit, yield point, strain hardening, ultimate strength and breaking stress.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2022_61_q7_s2",
+          "subNumber": "b",
+          "text": "Using Mohr's circle, determine the principal stress and the planes. Show the same on element separately.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2022_61_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2022_61_q8_s1",
+          "subNumber": "a",
+          "text": "Derive an expression for deformation of tapering bar (circular cross-section).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2022_61_q8_s2",
+          "subNumber": "b",
+          "text": "State the assumptions and derive general torsional equation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2022_61_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2022_61_q9_s1",
+          "subNumber": "a",
+          "text": "A machine belt is threaded through a tubular sleeve of length 15 cm and the nut is turned up just tight by hand. Using wrenches, the nut is then turned further, the bolt being put in tension and the sleeve in compression. If the bolt has 5 threads per cm, and the nut is given an extra quarter turn 90\\(^{\\circ}\\) by the wrenches, estimate the tensile force in both the bolt and sleeve which are of steel and the cross-sectional areas are: Bolt area = 6 cm\\(^2\\), sleeve area = 4 cm\\(^2\\), E = 210 GPa.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2022_61_q9_s2",
+          "subNumber": "b",
+          "text": "Define thick and thin cylinder. Also derive an expression for circumferential stress in a thin cylinder.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

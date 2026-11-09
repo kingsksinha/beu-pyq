@@ -1,0 +1,221 @@
+{
+  "id": "sem1_pps_2019_50",
+  "semester": 1,
+  "subject_code": "pps",
+  "subject_name": "Programming For Problem Solving",
+  "year": "2019",
+  "exam_code": "100104",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam., 2019 (New Course) Programming for Problem Solving Time: 3 hours Code: 100104 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 6,
+  "has_mcq": false,
+  "instructions": [
+    "All questions carry equal marks.",
+    "There are <strong>NINE questions</strong> in this paper.",
+    "Attempt <strong>FIVE questions</strong> in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_pps_2019_50_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_50_q1_s1",
+          "subNumber": "a",
+          "text": "Let x be an integer which can take a value of 0 or 1. The statement if (x == 0)x = 1; else x = 0; is equivalent to which one of the following?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_50_q1_s2",
+          "subNumber": "b",
+          "text": "A program attempts to generate as many permutations as possible of the string, 'abcd' by pushing the characters a, b, c, d in the same order onto a stack, but it may pop off the top character at any time. Which one of the following strings cannot be generated using this program?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_50_q1_s3",
+          "subNumber": "c",
+          "text": "Suppose a C program has floating constant 1.414, what is the best way to convert this 'float' data type?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_50_q1_s4",
+          "subNumber": "d",
+          "text": "What is the output of the following program?<br/> void main(){<br/> int a;<br/> a=1;<br/> while(a&lt;=1)<br/> if(a%2)<br/> printf(\"%d\", a++);<br/> else<br/> printf(\"%d\", ++a);<br/> printf(\"%d\", a+10);<br/> }",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_pps_2019_50_q1_s5",
+          "subNumber": "e",
+          "text": "What is the output of this C code?<br/> #include&lt;stdio.h&gt;<br/> void main()<br/> {<br/> int a = 5 * 3 + 2 - 4;<br/> printf(\"%d\", a);<br/> }",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2019_50_q1_s6",
+          "subNumber": "f",
+          "text": "What is the output of this C code?<br/> #include&lt;stdio.h&gt;<br/> void main()<br/> {<br/> int b = 6;<br/> int c = 7;<br/> int a = ++b+c--;<br/> printf(\"%d\", a);<br/> }",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2019_50_q1_s7",
+          "subNumber": "g",
+          "text": "What is the output of this C code?<br/> #include&lt;stdio.h&gt;<br/> void foo(int*);<br/> int main()<br/> {<br/> int i = 10;<br/> foo((&amp;i)++);<br/> }<br/> void foo(int* p)<br/> {<br/> printf(\"%d \", *p);<br/> }",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2019_50_q1_s8",
+          "subNumber": "h",
+          "text": "User-defined data type can be derived by",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_50_q1_s9",
+          "subNumber": "i",
+          "text": "As per C language standard, which of the following is/are not keyword(s)? Pick the best statement:<br/>auto, make, main, sizeof, elseif",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_50_q1_s10",
+          "subNumber": "j",
+          "text": "What is the output of this C code (when 1 is entered)?<br/> #include&lt;stdio.h&gt;<br/> void main()<br/> {<br/> double ch;<br/> printf (\"enter a value between 1 to 2:\");<br/> scanf(\"%lf\", &amp;ch);<br/> switch (ch)<br/> {<br/> case 1:<br/> printf(\"1\");<br/> break;<br/> case 2:<br/> printf(\"2\");<br/> break;<br/> }<br/> }",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_50_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_50_q2_s1",
+          "subNumber": "a",
+          "text": "What do you mean by pre-processor? Also explain the use of %i format specifier w.r.t, scanf() function.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_50_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_50_q3_s1",
+          "subNumber": "a",
+          "text": "Write a C program to Perform binary search on a set of given sorted numbers.",
+          "freq": 6,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_50_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_50_q4_s1",
+          "subNumber": "a",
+          "text": "Write a C program to find the number of lines in a text file.",
+          "freq": 6,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_50_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_50_q5_s1",
+          "subNumber": "a",
+          "text": "Explain pointer arithmetic with the help of suitable diagrams.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_50_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_50_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the following bitwise operators:<br/> (a) Bitwise AND<br/> (b) Bitwise OR<br/> (c) Bitwise XOR<br/> (d) Bitwise Left Shift",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_50_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_50_q7_s1",
+          "subNumber": "a",
+          "text": "What do you mean by 'call by reference'? Explain with the help of a function which swaps two numbers.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_50_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_50_q8_s1",
+          "subNumber": "a",
+          "text": "Write a C program of the following:<br/> (a) Reverse a string without using strrev().<br/> (b) Concatenate two strings without using strcat()",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_50_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_50_q9_s1",
+          "subNumber": "a",
+          "text": "Write a 'recursive' C program to print the following:<br/> (a) GCD of two numbers<br/> (b) Merge-sort of a set of given numbers",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    }
+  ]
+}

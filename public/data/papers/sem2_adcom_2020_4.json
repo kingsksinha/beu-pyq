@@ -1,0 +1,277 @@
+{
+  "id": "sem2_adcom_2020_4",
+  "semester": 2,
+  "subject_code": "adcom",
+  "subject_name": "Analog & Digital Communication System",
+  "year": "2020",
+  "exam_code": "110501",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Examination, 2020 Analog and Digital Communication System Time: 03 Hours Code: 110501 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_adcom_2020_4_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2020_4_q1_s1",
+          "subNumber": "a",
+          "text": "What is the criterion for Carson's bandwidth calculation?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q1_s2",
+          "subNumber": "b",
+          "text": "List the advantages of DSB-FC modulation scheme.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_adcom_2020_4_q1_s3",
+          "subNumber": "c",
+          "text": "A signal has frequency component from 300 Hz to 1.8 kHz. What is the minimum possible rate at which the signal has to be sampled?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q1_s4",
+          "subNumber": "d",
+          "text": "Define the numerical aperture of step index fiber.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q1_s5",
+          "subNumber": "e",
+          "text": "What is the need of cladding?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q1_s6",
+          "subNumber": "f",
+          "text": "What are the advantages of geostationary satellite?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_adcom_2020_4_q1_s7",
+          "subNumber": "g",
+          "text": "Mention the uses of frequency discriminator in FM demodulation.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_adcom_2020_4_q1_s8",
+          "subNumber": "h",
+          "text": "Write the advantages of hand-off process.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q1_s9",
+          "subNumber": "i",
+          "text": "What do you mean by baseband signal?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q1_s10",
+          "subNumber": "j",
+          "text": "Compare the spectrum occupancy of PSK and FSK schemes.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2020_4_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2020_4_q2_s1",
+          "subNumber": "a",
+          "text": "What is the basic limitation of SSB modulation scheme? How is it eliminated by VSB modulation?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q2_s2",
+          "subNumber": "b",
+          "text": "Draw the block diagram of super heterodyne AM receiver and explain the function of IF amplifier.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2020_4_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2020_4_q3_s1",
+          "subNumber": "a",
+          "text": "80 micrometer core diameter single-mode fiber has a core refractive index of 2, relative refractive index difference of 0.3% and operating wavelength of 1.55 micrometer. Determine critical radius of curvature. Explain bending losses.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss the Armstrong's method of indirect FM generation in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2020_4_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2020_4_q4_s1",
+          "subNumber": "a",
+          "text": "What is ISI? Explain how ISI can be removed by employing a raised cosine filter.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q4_s2",
+          "subNumber": "b",
+          "text": "Derive the output SNR of AM envelop detector. Also calculate its figure of merit.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2020_4_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2020_4_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the convolution codes, their advantages and disadvantages.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q5_s2",
+          "subNumber": "b",
+          "text": "A sinusoidal message signal of peak voltage 20 V and peak frequency of 5 kHz is transmitted through 256 levels PCM system. The sampling rate is 25% higher than Nyquist rate Calculate the sampling frequency, bit rate, bandwidth, step size, maximum quantization error and SNR in dB.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2020_4_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2020_4_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the sampling process of a signal mathematically. Write how to generate PPM from PWM signal?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_adcom_2020_4_q6_s2",
+          "subNumber": "b",
+          "text": "Derive the power calculation of AM signal.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2020_4_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2020_4_q7_s1",
+          "subNumber": "a",
+          "text": "What is the probability of error in presence of white noise for BPSK system? We are required to transmit \\( 2.08 \\times 10^6 \\) binary digits per second with \\( P_b \\le 10^{-7} \\). The channel noise PSD is \\( Sn(f)=10^{-8} \\). Determine the transmission bandwidth and signal power required in binary.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q7_s2",
+          "subNumber": "b",
+          "text": "What are the noise considerations in PCM? Explain the TDM-PAM concept.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2020_4_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2020_4_q8_s1",
+          "subNumber": "a",
+          "text": "An angle modulated signal with carrier frequency \\( \\omega_c = 2\\pi \\times 10^5 \\text{ rad/sec} \\) is given as follow: \\( \\phi_{FM}(t) = 10 \\cos(\\omega_c t + 5 \\sin(3000t) + 10 \\sin(2000t)) \\). (i) Find power of modulated signal. (ii) Find the maximum frequency deviation. (iii) Find the maximum phase deviation. (iv) Estimate the bandwidth of FM signal.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the different types of diversity technique used in wireless communication system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2020_4_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2020_4_q9_s1",
+          "subNumber": "a",
+          "text": "Explain telemetry, tracking and command control system in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2020_4_q9_s2",
+          "subNumber": "b",
+          "text": "Explain Snell's law. What is total internal reflection? Explain with suitable diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

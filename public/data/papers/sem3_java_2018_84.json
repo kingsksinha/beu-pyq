@@ -1,0 +1,292 @@
+{
+  "id": "sem3_java_2018_84",
+  "semester": 3,
+  "subject_code": "java",
+  "subject_name": "OOPs (JAVA) / Java Programming Language",
+  "year": "2018",
+  "exam_code": "051529",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2018 INTRODUCTION TO JAVA PROGRAMMING LANGUAGE Time: 3 hours Code: 051529 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_java_2018_84_q1",
+      "number": 1,
+      "title": "Q.1 Answer/Fill in the blank/Choose the correct option (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2018_84_q1_s1",
+          "subNumber": "a",
+          "text": "Java is an example of ________ language.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "compiled",
+            "interpreted",
+            "hybrid",
+            "script"
+          ]
+        },
+        {
+          "id": "sem3_java_2018_84_q1_s2",
+          "subNumber": "b",
+          "text": "The mother tongue of a computer is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "assembly language",
+            "machine language",
+            "BASIC language",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_java_2018_84_q1_s3",
+          "subNumber": "c",
+          "text": "You have the following code in a file called Test.java:<br/> <pre style=\"font-size: 10px;\">class Base{ public static void main(String[] args){ System.out.println(\"Hello\"); } } public class Test extends Base{}</pre> What will happen if you try to compile and run this?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It will fail to compile",
+            "Runtime error",
+            "Compiles and runs with no output",
+            "Compiles and runs printing \"Hello\""
+          ]
+        },
+        {
+          "id": "sem3_java_2018_84_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following are valid declarations? (Note: None of the literals used here contain the character O, they are all zeroes.)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "int i = 0XCAFE;",
+            "boolean b = 0;",
+            "byte b = 128;",
+            "char c = 'A';"
+          ]
+        },
+        {
+          "id": "sem3_java_2018_84_q1_s5",
+          "subNumber": "e",
+          "text": "What is the result of trying to compile and run this program?<br/> <pre style=\"font-size: 10px;\">public class Test{ public static void main(String[] args){ int[] a = {1}; Test t = new Test(); t.increment(a); System.out.println(a[a.length-1]); } void increment(int[] i){ i[i.length - 1]++; } }</pre>",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Compiler error",
+            "Compiles and runs printing out 2",
+            "Compiles and runs printing out 1",
+            "An ArrayIndexOutOfBoundsException at runtime"
+          ]
+        },
+        {
+          "id": "sem3_java_2018_84_q1_s6",
+          "subNumber": "f",
+          "text": "Is this legal?<br/> <pre style=\"font-size: 10px;\">long longArr[]; int intArr[] = {7, 8, 9}; longArr = intArr;</pre>",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "id": "sem3_java_2018_84_q1_s7",
+          "subNumber": "g",
+          "text": "What is the result of attempting to compile and run this?<br/> <pre style=\"font-size: 10px;\">interface A{ void aMethod(); } public class Test implements A{ void aMethod(){ System.out.println(\"hello\"); } public static void main(String[] args){ Test t = new Test(); t.aMethod(); } }</pre>",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The code will not compile",
+            "Runtime exception",
+            "Compiles and runs printing out \"hello\""
+          ]
+        },
+        {
+          "id": "sem3_java_2018_84_q1_s8",
+          "subNumber": "h",
+          "text": "What are the class variables?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2018_84_q1_s9",
+          "subNumber": "i",
+          "text": "Explain the following code sample:<br/><pre style=\"font-size: 10px;\">result = someCondition ? value1 : value2;</pre>",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2018_84_q1_s10",
+          "subNumber": "j",
+          "text": "Character strings are represented by the class java.lang.String.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2018_84_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2018_84_q2_s1",
+          "subNumber": "a",
+          "text": "Why is Java called machine independent language? Explain the functionality of JVM.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2018_84_q2_s2",
+          "subNumber": "b",
+          "text": "What is the main difference between an application and applet?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2018_84_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2018_84_q3_s1",
+          "subNumber": "a",
+          "text": "What are the wrapper classes? Explain their uses.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2018_84_q3_s2",
+          "subNumber": "b",
+          "text": "What does a dynamic Billboard Applet do? What are the three main classes that the applet contain?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2018_84_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2018_84_q4_s1",
+          "subNumber": "a",
+          "text": "What is the difference between process-based and thread-based multitasking? Give the two ways by which a thread can be created using Java.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2018_84_q4_s2",
+          "subNumber": "b",
+          "text": "What is RMI? What is the difference between Naming.bind and Naming.rebind methods? Write a short code to invoke a remote method using Java RMI.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2018_84_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2018_84_q5_s1",
+          "subNumber": "a",
+          "text": "Write an Applet (Use swings) to display the outputs:",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/107.jpg",
+            "img/beu/diagram/2nd3rd/106.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2018_84_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2018_84_q6_s1",
+          "subNumber": "a",
+          "text": "What are the characteristics of JDBC? What are the various steps for using JDBC? Write a program to demonstrate these steps.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_java_2018_84_q6_s2",
+          "subNumber": "b",
+          "text": "What is the main purpose of a container component in swing?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2018_84_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2018_84_q7_s1",
+          "subNumber": "a",
+          "text": "Design a class named Fan to represent a fan. The class contains:<br/> • Three constants named SLOW, MEDIUM and FAST with values 1, 2 and 3 to denote the fan speed.<br/> • A private int data field named speed that specifies the speed of the fan (default SLOW).<br/> • A private boolean data field named on that specifies whether the fan is on (default false).<br/> • A private double data field named radius that specifies the radius of the fan (default 5).<br/> • A string data field named colour that specifies the colour of the fan (default blue).<br/> • The accessor and mutator methods for all four data fields.<br/> • A no-arg constructor that creates a default fan.<br/> • A method named toString() that returns a string description for the fan. If the fan is on, the method returns the fan speed, colour, and radius in one combined string. If the fan is not on, the method returns fan colour and radius along with the string \"fan is off\" in one combined string.<br/><br/> Implement the class. Write a test program that creates two Fan objects. Assign maximum speed, radius 10, colour yellow, and turn it onto the first object. Assign medium speed, radius 5, colour blue, and turn it off to the second object. Display the objects by invoking their toString method.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2018_84_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2018_84_q8_s1",
+          "subNumber": "a",
+          "text": "Write a program in Java to demonstrate communication using TCP/IP i.e., using sockets. Write a separate code for a server and client program. The program should display the contents of the file specified in a server onto the client.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_java_2018_84_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_java_2018_84_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

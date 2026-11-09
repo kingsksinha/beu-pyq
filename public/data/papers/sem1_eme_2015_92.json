@@ -1,0 +1,351 @@
+{
+  "id": "sem1_eme_2015_92",
+  "semester": 1,
+  "subject_code": "eme",
+  "subject_name": "Elements of Mechanical Engineering",
+  "year": "2015",
+  "exam_code": "021201",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2015 ELEMENTS OF MECHANICAL ENGINEERING Time: 3 hours Code: 021201 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 7,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eme_2015_92_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option (any seven):",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_92_q1_s1",
+          "subNumber": "a",
+          "text": "As differentials, heat and work would be described mathematically as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "inexact",
+            "exact",
+            "discontinuous",
+            "point function"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_92_q1_s2",
+          "subNumber": "b",
+          "text": "The first law of thermodynamics refers to conservation of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "mass",
+            "momentum",
+            "energy",
+            "heat"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_92_q1_s3",
+          "subNumber": "c",
+          "text": "Heat transferred in constant pressure process is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "work done",
+            "change in enthalpy",
+            "change in internal energy",
+            "change in entropy"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_92_q1_s4",
+          "subNumber": "d",
+          "text": "The heat energy released by the complete fusion of 1 kg of U\\(^{235}\\) is equal to the heat energy obtained by burning of high grade coal of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "4000 tons",
+            "2000 tons",
+            "4500 tons",
+            "1000 tons"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_92_q1_s5",
+          "subNumber": "e",
+          "text": "The power developed inside the cylinder of an engine is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "indicated power",
+            "horsepower",
+            "brake power",
+            "friction power"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_92_q1_s6",
+          "subNumber": "f",
+          "text": "Heat addition to water in a boiler takes place at",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "constant temperature",
+            "constant volume",
+            "constant entropy",
+            "constant pressure"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_92_q1_s7",
+          "subNumber": "g",
+          "text": "How many degrees the crankshaft rotates in one complete cycle of four-stroke engine?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "90°",
+            "180°",
+            "360°",
+            "720°"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_92_q1_s8",
+          "subNumber": "h",
+          "text": "The evaporator coil in the refrigerating chamber",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "rejects the heat",
+            "absorbs the heat",
+            "compresses the refrigerant",
+            "expands the refrigerant"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_92_q1_s9",
+          "subNumber": "i",
+          "text": "The percentage of carbon in cast iron varies between",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.02-0.8",
+            "0.8-2.0",
+            "2.0-4.5",
+            "4.5-6.67"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_92_q1_s10",
+          "subNumber": "j",
+          "text": "The ability of a material to resist deformation under the action of external load is called",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "strength",
+            "hardness",
+            "toughness",
+            "brittleness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_92_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_92_q2_s1",
+          "subNumber": "a",
+          "text": "Distinguish between conventional and non-conventional sources of energy. Give suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_92_q2_s2",
+          "subNumber": "b",
+          "text": "What are the advantages and disadvantages of liquid fuels over solid fuels?",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_92_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_92_q3_s1",
+          "subNumber": "a",
+          "text": "Define the following:<br/>(i) Closed, open and isolated systems<br/>(ii) Intensive and extensive property",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_92_q3_s2",
+          "subNumber": "b",
+          "text": "Air weighing 2.5 kg, occupying 0.8 m\\(^3\\), had a temperature of 25 °C. It was then heated at constant volume until its temperature becomes 205 °C. How much heat was transferred to the air and what was its final pressure? [\\(C_v\\) = 0.719 kJ/kg K, R = 0.287 kJ/kg K]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_92_q4",
+      "number": 4,
+      "title": "Q.4 Solve all parts :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_92_q4_s1",
+          "subNumber": "a",
+          "text": "What are the special features of good boilers?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_92_q4_s2",
+          "subNumber": "b",
+          "text": "Why are water-tube boilers more preferred for steam power plants?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_92_q4_s3",
+          "subNumber": "c",
+          "text": "Explain the working of economizer with suitable sketch.",
+          "freq": 7,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_92_q5",
+      "number": 5,
+      "title": "Q.5 Solve all parts :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_92_q5_s1",
+          "subNumber": "a",
+          "text": "What are the advantages of steam turbine over steam engine?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_eme_2015_92_q5_s2",
+          "subNumber": "b",
+          "text": "Why is steam turbine compounded? Give reasons.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_92_q5_s3",
+          "subNumber": "c",
+          "text": "Differentiate between open-cycle gas turbine and closed-cycle gas turbine.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_92_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_92_q6_s1",
+          "subNumber": "a",
+          "text": "Differentiate between SI engine and CI engine.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_eme_2015_92_q6_s2",
+          "subNumber": "b",
+          "text": "Derive an expression for air standard efficiency of Brayton cycle.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_92_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_92_q7_s1",
+          "subNumber": "a",
+          "text": "Explain with a neat sketch the working of hydel power plant. What are the functions of surge tank and draft tube?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_92_q7_s2",
+          "subNumber": "b",
+          "text": "What are the functions of moderators and control rod in nuclear power plant?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_92_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_92_q8_s1",
+          "subNumber": "a",
+          "text": "Define the following:<br/>(i) Refrigeration effect<br/>(ii) Tonne of refrigeration<br/>(iii) COP",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_92_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the working of vapour absorption system of refrigeration indicating all components.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_92_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_92_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the following properties of material:<br/>(i) Ductility<br/>(ii) Hardness<br/>(iii) Toughness<br/>(iv) Resilience",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_92_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the heat treatment process of annealing. What are its advantages?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "sem4_mains_2024_9",
+  "semester": 4,
+  "subject_code": "mains",
+  "subject_name": "Measurements and Instrumentation",
+  "year": "2024",
+  "exam_code": "110601",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Examination, 2024 Measurements and Instrumentation Time: 03 Hours Code: 110601 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mains_2024_9_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2024_9_q1_s1",
+          "subNumber": "a",
+          "text": "Which system analyzes brain wave activity?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "EOG",
+            "EMG",
+            "ECG",
+            "EEG"
+          ]
+        },
+        {
+          "id": "sem4_mains_2024_9_q1_s2",
+          "subNumber": "b",
+          "text": "Which type of sensor is used to measure flow?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Potentiometer",
+            "Venturi tube",
+            "Hall effect sensor",
+            "Thermocouple"
+          ]
+        },
+        {
+          "id": "sem4_mains_2024_9_q1_s3",
+          "subNumber": "c",
+          "text": "What does \"Six Sigma\" focus on?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Enhancing resolution",
+            "Improving precision",
+            "Reducing defects in processes",
+            "Minimizing systematic errors"
+          ]
+        },
+        {
+          "id": "sem4_mains_2024_9_q1_s4",
+          "subNumber": "d",
+          "text": "What is the mean of the following data set: 4, 6, 8, 10?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "6",
+            "2",
+            "8",
+            "9"
+          ]
+        },
+        {
+          "id": "sem4_mains_2024_9_q1_s5",
+          "subNumber": "e",
+          "text": "Which instrument is used for ultrasonic diagnostic measurement?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Thermocouple",
+            "Oscilloscope",
+            "Ultrasound transducer",
+            "Megger"
+          ]
+        },
+        {
+          "id": "sem4_mains_2024_9_q1_s6",
+          "subNumber": "f",
+          "text": "What is an example of a non-invasive Cardiac output measurement diagnosis?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Temperature measurement",
+            "Blood pressure measurement",
+            "ECG",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_mains_2024_9_q1_s7",
+          "subNumber": "g",
+          "text": "What is the function of a transducer in bio-medical instruments?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Convert electrical signals into light",
+            "Measure electric current",
+            "Measure pressure",
+            "Convert biological signals into electrical signals"
+          ]
+        },
+        {
+          "id": "sem4_mains_2024_9_q1_s8",
+          "subNumber": "h",
+          "text": "What does a Megger measure?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Current",
+            "Insulation resistance",
+            "Capacitance",
+            "Voltage"
+          ]
+        },
+        {
+          "id": "sem4_mains_2024_9_q1_s9",
+          "subNumber": "i",
+          "text": "What does a digital multi-meter measure?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Only current",
+            "Only resistance",
+            "Only voltage",
+            "Voltage, current, and resistance"
+          ]
+        },
+        {
+          "id": "sem4_mains_2024_9_q1_s10",
+          "subNumber": "j",
+          "text": "What type of instrument is used to measure inductance?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Ohmmeter",
+            "LCR meter",
+            "Ammeter",
+            "Voltmeter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2024_9_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2024_9_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss the use of instrument transformers for current and voltage measurement in power systems.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2024_9_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the working principle of Maxwell's bridge with phasor diagram.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2024_9_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2024_9_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the Hall effect and its application in Hall sensors for current and voltage measurements.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2024_9_q3_s2",
+          "subNumber": "b",
+          "text": "Describe the working principle of a Digital Storage Oscilloscope (DSO).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2024_9_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2024_9_q4_s1",
+          "subNumber": "a",
+          "text": "Define and differentiate between true value, accuracy, and precision in measurement systems.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2024_9_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the concept of True RMS measurement. Why is it important for accurate AC voltage and current measurements?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2024_9_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2024_9_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the Six-Sigma approach to quality control in industrial processes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2024_9_q5_s2",
+          "subNumber": "b",
+          "text": "Describe the working principles of temperature transducers thermocouples and RTD.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2024_9_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2024_9_q6_s1",
+          "subNumber": "a",
+          "text": "Explain hysteresis and dead-band in measurement systems. How do they influence the performance of transducers?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2024_9_q6_s2",
+          "subNumber": "b",
+          "text": "Explain how bio-electric signals like ECG, EEG, and EMG are generated and measured.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2024_9_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2024_9_q7_s1",
+          "subNumber": "a",
+          "text": "Discuss the types of errors that occur in measurements. Explain the difference between systematic and random errors with practical examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2024_9_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss non-invasive diagnostic measurements used in healthcare.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2024_9_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2024_9_q8_s1",
+          "subNumber": "a",
+          "text": "Describe the role of sensitivity in measurement systems. How is sensitivity calculated, and what are the consequences of low or high sensitivity in sensors?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mains_2024_9_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the use of Meggers in insulation resistance testing. Why is insulation testing crucial in high-voltage systems?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mains_2024_9_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mains_2024_9_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

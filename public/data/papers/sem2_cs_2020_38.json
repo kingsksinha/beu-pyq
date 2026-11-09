@@ -1,0 +1,310 @@
+{
+  "id": "sem2_cs_2020_38",
+  "semester": 2,
+  "subject_code": "cs",
+  "subject_name": "Control Systems",
+  "year": "2020",
+  "exam_code": "100502",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University B.Tech 5th Semester Exam., 2020 (New Course) CONTROL SYSTEMS Time: 03 Hours Code: 100502 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cs_2020_38_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2020_38_q1_s1",
+          "subNumber": "a",
+          "text": "(a) Define tracking control using an example.<br/>",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q1_s2",
+          "subNumber": "b",
+          "text": "(b) Define transfer function and relate with impulse response function.<br/>",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q1_s3",
+          "subNumber": "c",
+          "text": "(c) Define underdamped, overdamped and critically damped systems.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q1_s4",
+          "subNumber": "d",
+          "text": "(d) Find sensitivity of overall transfer function with respect to forward path transfer function.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cs_2020_38_q1_s5",
+          "subNumber": "e",
+          "text": "(e) Define and find the slope of Bode plot in case of complex poles.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q1_s6",
+          "subNumber": "f",
+          "text": "(f) Find sensitivity of overall transfer function with respect to feedback path transfer function.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cs_2020_38_q1_s7",
+          "subNumber": "g",
+          "text": "(g) Explain absolute and relative stability and name two methods for each.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q1_s8",
+          "subNumber": "h",
+          "text": "(h) Define similarity transformation. Why is it used?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q1_s9",
+          "subNumber": "i",
+          "text": "( (i) What is state transition matrix? Explain its significance.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q1_s10",
+          "subNumber": "j",
+          "text": "(j) Define phase-plane technique.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2020_38_q2",
+      "number": 2,
+      "title": "Q.2 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2020_38_q2_s1",
+          "subNumber": "a",
+          "text": "Derive the transfer function of the network shown below:",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/214.jpg"
+          ]
+        },
+        {
+          "id": "sem2_cs_2020_38_q2_s2",
+          "subNumber": "b",
+          "text": "Find the modelling equations of the system shown below:",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/213.jpg"
+          ]
+        },
+        {
+          "id": "sem2_cs_2020_38_q2_s3",
+          "subNumber": "c",
+          "text": "Explain Mason's gain formula.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2020_38_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2020_38_q3_s1",
+          "subNumber": "a",
+          "text": "Derive peak-time. Find J and D for the system shown in the figure given below to yield 25% peak overshoot and a settling time of 2.2 seconds (for 2% error band) for a step input of torque \\( T(t) \\):",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/216.jpg"
+          ]
+        },
+        {
+          "id": "sem2_cs_2020_38_q3_s2",
+          "subNumber": "b",
+          "text": "Consider the figure given below with \\( R_{L}=10 \\text{ k}\\Omega \\), \\( r_{p}=4 \\text{ k}\\Omega \\) and find:<br/> (i) the value of K for 4% overall system sensitivity due to variation of \\( \\mu \\) with \\( H=0.3 \\), \\( \\mu=12 \\);<br/> (ii) the value of K for 3% overall system sensitivity due to variation of H with \\( H=0.25 \\), \\( \\mu=18 \\).<br/>",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/215.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2020_38_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2020_38_q4_s1",
+          "subNumber": "a",
+          "text": "A unity feedback servo driven instrument has open-loop transfer function \\( G(s)=\\frac{10}{s(s+2)} \\), find the following:<br/> (i) The time domain response for a unit step input<br/> (ii) The natural frequency of oscillation<br/> (iii) Maximum overshoot and peak time<br/> (iv) Steady-state error to an input \\( 1+4t \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q4_s2",
+          "subNumber": "b",
+          "text": "Using generalized error series, calculate the steady-state error of a unity feedback system having \\( G(s)=\\frac{15}{s(s+5)} \\) for the following excitations:<br/> (i) \\( r(t)=4 \\)<br/> (ii) \\( r(t)=4t+5 \\)<br/> (iii) \\( r(t)=t^{2}/3+9 \\)<br/> (iv) \\( r(t)=1+8t+5t^{2}/2 \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2020_38_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2020_38_q5_s1",
+          "subNumber": "a",
+          "text": "Consider a unity feedback system with forward path transfer function \\( G[s]=\\frac{K[s+2]}{s^{3}+ps^{2}+3s+2} \\) having the oscillation of \\( 2.5 \\text{ rad/sec} \\). Determine the values of \\( K_{marginal} \\) and p. There are no poles in RHP.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q5_s2",
+          "subNumber": "b",
+          "text": "Draw root locus for the system having \\( G(s)=\\frac{K}{s(s+2)(s+3)} \\) and find the gain K for damping ratio \\( \\xi=0.341 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2020_38_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2020_38_q6_s1",
+          "subNumber": "a",
+          "text": "For \\( G(s)H(s)=\\frac{K}{s(s+1)(s+5)} \\), draw the Nyquist plot and hence calculate the range of values of K for stability.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q6_s2",
+          "subNumber": "b",
+          "text": "Draw Bode plot for the transfer function \\( G[s]=\\frac{49[1+0\\cdot8s]}{s^{2}(1+0\\cdot05s](l+0\\cdot01s)} \\) and from Bode plot, determine-<br/> (i) phase crossover frequency;<br/> (ii) gain crossover frequency;<br/> (iii) gain margin;<br/> (iv) phase margin.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2020_38_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2020_38_q7_s1",
+          "subNumber": "a",
+          "text": "The open-loop transfer function with unity feedback is given by \\( G(s)=\\frac{K}{s(1+s)(4+s)} \\). Design a suitable lead-lag compensator to achieve the following: Static velocity error constant \\( = 20 \\text{ s}^{-1} \\), phase margin \\( = 50^{\\circ} \\), gain margin \\( \\ge 15 \\text{ dB} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q7_s2",
+          "subNumber": "b",
+          "text": "Find K and \\( \\alpha \\) for a feedback system with forward path transfer function \\( G(s)=\\frac{K}{s(s+\\alpha)} \\) so that resonant peak is 2.8 and resonant frequency is \\( 25 \\text{ rad/s} \\). Also determine the settling time and bandwidth of the system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2020_38_q8",
+      "number": 8,
+      "title": "Q.8 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2020_38_q8_s1",
+          "subNumber": "a",
+          "text": "Find the transfer function of the given state-space model<br/> \\( \\dot{x} = \\begin{bmatrix} -2 &amp; 0 &amp; 1 \\\\ 1 &amp; -2 &amp; 0 \\\\ 1 &amp; 1 &amp; -1 \\end{bmatrix} x + \\begin{bmatrix} 1 &amp; 0 \\\\ 0 &amp; 1 \\\\ 1 &amp; 0 \\end{bmatrix} u \\),<br/> \\( y = \\begin{bmatrix} 2 &amp; 1 &amp; -1 \\\\ 0 &amp; 1 &amp; 0 \\end{bmatrix} x \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q8_s2",
+          "subNumber": "b",
+          "text": "Consider the state-space model of an LTI system with matrices<br/> \\( A = \\begin{bmatrix} 0 &amp; 1 \\\\ -6 &amp; -5 \\end{bmatrix} \\), \\( B = \\begin{bmatrix} 0 \\\\ 8 \\end{bmatrix} \\)<br/> Find the state transition matrix.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q8_s3",
+          "subNumber": "c",
+          "text": "Consider the LTI system<br/> \\( \\dot{x} = \\begin{bmatrix} 0 &amp; 1 \\\\ -5 &amp; -9 \\end{bmatrix} \\begin{bmatrix} x_{1} \\\\ x_{2} \\end{bmatrix} + \\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix} u \\)<br/> Find the non-homogeneous solution if \\( x_{1}(0)=4 \\), \\( x_{2}(0)=0 \\) and u is a unit step function.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cs_2020_38_q9",
+      "number": 9,
+      "title": "Q.9 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cs_2020_38_q9_s1",
+          "subNumber": "a",
+          "text": "Define an optimal control problem. Describe performance index for each case.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the concept of absolute stability in non-linear system. Also state and explain the Popov criterion of stability.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cs_2020_38_q9_s3",
+          "subNumber": "c",
+          "text": "Derive the describing function of saturation non-linearity.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

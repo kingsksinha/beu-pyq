@@ -1,0 +1,310 @@
+{
+  "id": "sem4_mte_2023_78",
+  "semester": 4,
+  "subject_code": "mte",
+  "subject_name": "Materials, Testing & Evaluation",
+  "year": "2023",
+  "exam_code": "101406",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B. Tech. End Semester Examination - 2023 Materials, Testing and Evaluation Time: 03 Hours Code: 101406 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mte_2023_78_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven Question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2023_78_q1_s1",
+          "subNumber": "a",
+          "text": "The rapid hardening Portland cement has a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Lower heat of hydration",
+            "Higher heat of hydration",
+            "Lower shrinkage coefficient",
+            "Higher shrinkage coefficient"
+          ]
+        },
+        {
+          "id": "sem4_mte_2023_78_q1_s2",
+          "subNumber": "b",
+          "text": "The purpose of seasoning of timber is to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Change the direction of grains",
+            "Remove voids",
+            "Reduce moisture content",
+            "All of these"
+          ]
+        },
+        {
+          "id": "sem4_mte_2023_78_q1_s3",
+          "subNumber": "c",
+          "text": "The chief ingredient of a paint is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Alcohol",
+            "Drier",
+            "Oil",
+            "Pigment"
+          ]
+        },
+        {
+          "id": "sem4_mte_2023_78_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following is not a fatigue fracture?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Zone of crack nucleation",
+            "Fatigue Zone",
+            "Elastic zone",
+            "Final fracture"
+          ]
+        },
+        {
+          "id": "sem4_mte_2023_78_q1_s5",
+          "subNumber": "e",
+          "text": "The slope of the stress-strain curve in the plastic range is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Bauschinger effect",
+            "Resolved shear stress",
+            "True strain",
+            "Rate of strain hardening"
+          ]
+        },
+        {
+          "id": "sem4_mte_2023_78_q1_s6",
+          "subNumber": "f",
+          "text": "Which of following is an example of a thermo plastic?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Melamine",
+            "Epoxide",
+            "Urethane",
+            "Acetal"
+          ]
+        },
+        {
+          "id": "sem4_mte_2023_78_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following is a characteristic of asbestos minerals?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Heat resistance",
+            "Poor strength",
+            "Reacts with acids",
+            "Poor bonding"
+          ]
+        },
+        {
+          "id": "sem4_mte_2023_78_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following is not a method of fabrications of rubber?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Vacuum forming",
+            "Buffing",
+            "Calendaring",
+            "Compression molding"
+          ]
+        },
+        {
+          "id": "sem4_mte_2023_78_q1_s9",
+          "subNumber": "i",
+          "text": "Fire brick is an important row material of refractory metals, which is made from",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Brick",
+            "Concrete",
+            "Fire clay",
+            "Wood"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2023_78_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2023_78_q2_s1",
+          "subNumber": "a",
+          "text": "Enumerate the laboratory tests for cement and describe any one of them.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mte_2023_78_q2_s2",
+          "subNumber": "b",
+          "text": "What are the qualities of good timber? Explain in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2023_78_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2023_78_q3_s1",
+          "subNumber": "a",
+          "text": "What are the characteristics of an ideal paint? Discuss briefly.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mte_2023_78_q3_s2",
+          "subNumber": "b",
+          "text": "Differentiate between cup shakes and heart shakes with neat sketches.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2023_78_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2023_78_q4_s1",
+          "subNumber": "a",
+          "text": "What are the various market forms of rolled sections steel. Discuss each with neat sketches.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2023_78_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2023_78_q5_s1",
+          "subNumber": "a",
+          "text": "Table shows the details of weights of sample retained on various sieves. The total weight of the coarse aggregate is 10 kg and the fine aggregate is 1 kg. Determine the fineness modulus of the coarse and fine aggregate.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mte_2023_78_q5_s2",
+          "subNumber": "b",
+          "text": "Define maturity of concrete. How the compressive strength of concrete varies with maturity? Explain segregation. Bleeding and laitance in green concrete. Explain elongation index and flakiness index of aggregates.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2023_78_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2023_78_q6_s1",
+          "subNumber": "a",
+          "text": "Discuss the various and uses of plastics in the construction industry.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mte_2023_78_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the properties and uses of glass as a construction material.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2023_78_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2023_78_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the factors governing the choice of Building Material.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mte_2023_78_q7_s2",
+          "subNumber": "b",
+          "text": "Explain the various constituents of paint.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2023_78_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2023_78_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss about factors affecting the Acoustic design of buildings.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mte_2023_78_q8_s2",
+          "subNumber": "b",
+          "text": "What are the various forms of bitumen. Discuss in detail.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2023_78_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2023_78_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

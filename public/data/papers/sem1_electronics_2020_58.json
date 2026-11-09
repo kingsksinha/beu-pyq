@@ -1,0 +1,295 @@
+{
+  "id": "sem1_electronics_2020_58",
+  "semester": 1,
+  "subject_code": "electronics",
+  "subject_name": "Basic Electronics",
+  "year": "2020",
+  "exam_code": "100303",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2020 BASIC ELECTRONICS ENGINEERING Time: 3 hours Code: 100303 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_electronics_2020_58_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following questions (any seven):",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_58_q1_s1",
+          "subNumber": "a",
+          "text": "Why is negative feedback desired in amplifier application?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q1_s2",
+          "subNumber": "b",
+          "text": "Draw the voltage transfer curve of op-amp.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q1_s3",
+          "subNumber": "c",
+          "text": "State the Barkhausen's criteria for electronic system to oscillate with feedback.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q1_s4",
+          "subNumber": "d",
+          "text": "How is amplifier different from the oscillator?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_electronics_2020_58_q1_s5",
+          "subNumber": "e",
+          "text": "Why is the reception in the case of amplitude modulation usually noisy?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q1_s6",
+          "subNumber": "f",
+          "text": "What is cell splitting and how does it increase the capacity of cellular network?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q1_s7",
+          "subNumber": "g",
+          "text": "Justify that BJT is current controlled while FET is voltage-controlled device.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q1_s8",
+          "subNumber": "h",
+          "text": "Name the breakdown mechanism in the lightly doped P-N junction diode under reverse biased condition.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_electronics_2020_58_q1_s9",
+          "subNumber": "i",
+          "text": "Why is Gray code also called as reflected code? Convert \\((396)_{10}\\) to Gray code.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q1_s10",
+          "subNumber": "j",
+          "text": "For the logical circuit shown in the figure, derive the simplified Boolean expression for output Y.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/203be1j.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_58_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_58_q2_s1",
+          "subNumber": "a",
+          "text": "Draw the waveform of output \\(V_{0}\\) and explain the operation of circuit with AC source \\(V_i\\), Resistor R, Parallel diode clippers with bias voltages \\(V_{R1}\\) and \\(V_{R2}\\).",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/203be2a.png"
+          ]
+        },
+        {
+          "id": "sem1_electronics_2020_58_q2_s2",
+          "subNumber": "b",
+          "text": "In the given circuit, calculate the load current \\(I_{L}\\) and Zener diode current \\(I_{Z}\\) with 20V source, 1k\\(\\Omega\\) resistor, 5V Zener diode, 1.2k\\(\\Omega\\) Load \\(R_L\\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/203be2b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_58_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_58_q3_s1",
+          "subNumber": "a",
+          "text": "Calculate the maximum DC voltage and DC current available from a half-wave rectifier. What is the PIV of the diode used in the rectifier?",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/203be3a.png"
+          ]
+        },
+        {
+          "id": "sem1_electronics_2020_58_q3_s2",
+          "subNumber": "b",
+          "text": "Calculate the value of \\(R_{1}\\) in the biasing circuit, so that the Q-point is fixed at \\(I_{C}=8~mA\\) and \\(V_{CE}=3~V\\) with \\(-V_{CC} = -9V\\), 250\\(\\Omega\\) collector resistor, 500\\(\\Omega\\) emitter resistor, \\(\\beta=80\\).",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/203be3b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_58_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_58_q4_s1",
+          "subNumber": "a",
+          "text": "Minimize the given Boolean function F using K map in SOP and implement using NAND gate: \\(F(A,B,C,D)=AB\\overline{C}D+\\overline{A}BCD+\\overline{A}\\overline{B}\\overline{C} \\) + \\( \\overline{A}\\overline{B}\\overline{D}+A\\overline{C}+A\\overline{B}C+\\overline{B}C\\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q4_s2",
+          "subNumber": "b",
+          "text": "The circuit given is the basic application of op-amp to perform the addition operation. Explain the operation of circuit and derive the expression of output voltage.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/203be4b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_58_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_58_q5_s1",
+          "subNumber": "a",
+          "text": "Design the voltage follower using op-amp and explain the operation.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_electronics_2020_58_q5_s2",
+          "subNumber": "b",
+          "text": "Draw the circuit diagram of voltage-shunt feedback amplifier and derive the expression of closed-loop voltage gain.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_58_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_58_q6_s1",
+          "subNumber": "a",
+          "text": "Draw the block diagram of cellular network and briefly explain its operation.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_electronics_2020_58_q6_s2",
+          "subNumber": "b",
+          "text": "Draw the functional block diagram of AM transmitter and receiver.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_58_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_58_q7_s1",
+          "subNumber": "a",
+          "text": "Design Schmitt trigger using IC 555 timer and explain its operation with the help of functional diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q7_s2",
+          "subNumber": "b",
+          "text": "If \\(R_{1}=R_{2}=R_{3}=450~k\\Omega\\) and \\(C_{1}=C_{2}=C_{3}=60pF\\), determine the frequency of oscillation in phase-shift oscillator. Draw the basic circuit of an R-C phase-shift oscillator and explain its operation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_58_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_58_q8_s1",
+          "subNumber": "a",
+          "text": "A new clocked X-Y flip-flop is defined with inputs X and Y in addition to the clock input. The flip-flop functions are as follows:<br/>If XY=00 the flip-flop changes state with each clock pulse.<br/>If XY=01 the flip-flop state Q becomes 1 with the next clock pulse.<br/>If XY=10, the flip-flop state Q becomes 0 with the next clock pulse.<br/>If XY=11, no change of state occurs with the clock pulse.<br/>Write the truth table and excitation table of X-Y flip-flop. Implement the X-Y flip-flop using a J-K flip-flop.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q8_s2",
+          "subNumber": "b",
+          "text": "What is the race around condition in J-K flip-flop? What are the methods to resolve the race around condition in J-K flip-flop? Explain each method with the help of example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_58_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_58_q9_s1",
+          "subNumber": "a",
+          "text": "What are the problems with normal encoder? How can these problems be solved by the priority decoder? Design 2 to 4 lines priority encoder.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_58_q9_s2",
+          "subNumber": "b",
+          "text": "Draw the block diagram of micro-controller and briefly explain each block.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "sem3_lint_2020_89",
+  "semester": 3,
+  "subject_code": "lint",
+  "subject_name": "Linear Integrated Circuits and Applications",
+  "year": "2020",
+  "exam_code": "104504",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2020 (New Course) Linear Integrated Circuits and Applications Time: 03 Hours Code: 104504 Full Marks: 70",
+  "question_count": 8,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are EIGHT questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_lint_2020_89_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following short answer-type questions :",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_lint_2020_89_q1_s1",
+          "subNumber": "a",
+          "text": "Write two requirements to be met for a good current source.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q1_s2",
+          "subNumber": "b",
+          "text": "Why VCO is also called as v-to-f converter?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q1_s3",
+          "subNumber": "c",
+          "text": "What is a switched capacitor filter?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_lint_2020_89_q1_s4",
+          "subNumber": "d",
+          "text": "What output voltage would be produced by a D/A converter whose output range is 0 to 10 V and whose input binary number is 0110 for a 4-bit DAC?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q1_s5",
+          "subNumber": "e",
+          "text": "What is a power amplifier?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_lint_2020_89_q1_s6",
+          "subNumber": "f",
+          "text": "What is the purpose of connecting a capacitor at the input and the output side of an IC voltage regulator?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q1_s7",
+          "subNumber": "g",
+          "text": "Mention any two applications of PLL.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q1_s8",
+          "subNumber": "h",
+          "text": "For an n-bit flash-type A/D converter, how many comparators are required?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q1_s9",
+          "subNumber": "i",
+          "text": "What is meant by frequency synthesizing?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q1_s10",
+          "subNumber": "j",
+          "text": "Why are integrators preferred over differentiators?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_lint_2020_89_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_lint_2020_89_q2_s1",
+          "subNumber": "a",
+          "text": "With suitable circuit diagram, explain the operation of voltage reference circuit using temperature compensation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q2_s2",
+          "subNumber": "b",
+          "text": "What are the different methods used in fabrication of integrated resistors? Explain any one method with suitable diagrams.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_lint_2020_89_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_lint_2020_89_q3_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the circuit of a voltage to current converter if the load is (i) floating and (ii) grounded.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q3_s2",
+          "subNumber": "b",
+          "text": "Define and explain slew rate. What is full-power bandwidth? Also explain the methods to improve the slew rate.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_lint_2020_89_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_lint_2020_89_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the working of a anti logarithmic amplifier using suitable op-amp circuit diagram and supporting equations.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q4_s2",
+          "subNumber": "b",
+          "text": "Draw the functional diagram of 723 regulators and explain its working.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_lint_2020_89_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_lint_2020_89_q5_s1",
+          "subNumber": "a",
+          "text": "Draw the block diagram and explain the principle of working, characteristic and applications of a frequency shift keying (FSK) demodulator.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the operation of frequency to voltage converter with suitable circuit diagram.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_lint_2020_89_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_lint_2020_89_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the working of R-2R ladder D/A converter with circuit diagram.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_lint_2020_89_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the oversampling A/D converter with functional block diagram.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_lint_2020_89_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_lint_2020_89_q7_s1",
+          "subNumber": "a",
+          "text": "Explain with block diagram how PLL is used as frequency modulation (FM) detector.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q7_s2",
+          "subNumber": "b",
+          "text": "Design a VCO having the maximum range of 1 kHz. Assume power supply \\( V_{cc} = 15 \\text{ V} \\). Required pulse width should not exceed 100 \\( \\mu\\text{s} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_lint_2020_89_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_lint_2020_89_q8_s1",
+          "subNumber": "a",
+          "text": "Design an astable multivibrator circuit which will flash the electric bulb such that its on time will be 4 seconds and off time will be 2 seconds.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_lint_2020_89_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the working of Schmitt trigger using 555 timer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

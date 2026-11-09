@@ -1,0 +1,265 @@
+{
+  "id": "sem1_eng_2022_67",
+  "semester": 1,
+  "subject_code": "eng",
+  "subject_name": "Communicative English",
+  "year": "2022",
+  "exam_code": "100206",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam, 2022 English Time: 3 hours Code: 100206 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 8,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eng_2022_67_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_67_q1_s1",
+          "subNumber": "a",
+          "text": "Give one word for the following:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "List of items to be discussed in a meeting",
+            "An assembly of listeners",
+            "A life history written by someone else",
+            "Government by the nobles"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_67_q1_s2",
+          "subNumber": "b",
+          "text": "Fill in the blanks with prepositions:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "He swam _____ the lake.",
+            "I walked _____ the street.",
+            "We located the key _____ the lock.",
+            "The car went _____ the tunnel."
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_67_q1_s3",
+          "subNumber": "c",
+          "text": "Write antonyms of the following:",
+          "freq": 6,
+          "stars": "★★★★★",
+          "options": [
+            "Distress",
+            "Deficit",
+            "Demand",
+            "Dynamic"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_67_q1_s4",
+          "subNumber": "d",
+          "text": "Write synonyms of the following:",
+          "freq": 6,
+          "stars": "★★★★★",
+          "options": [
+            "Destination",
+            "Destroy",
+            "Disaster",
+            "Disgrace"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_67_q1_s5",
+          "subNumber": "e",
+          "text": "Write the meanings of the following foreign expressions:",
+          "freq": 8,
+          "stars": "★★★★★",
+          "options": [
+            "Modus operandi",
+            "Persona non grata"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_67_q1_s6",
+          "subNumber": "f",
+          "text": "Write the meanings of the following:",
+          "freq": 8,
+          "stars": "★★★★★",
+          "options": [
+            "Castles in the air",
+            "Call a spade a spade"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_67_q1_s7",
+          "subNumber": "g",
+          "text": "Frame sentences with the following homophones to bring out the difference in their meanings:",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Ceiling, Sealing",
+            "Check, Cheque"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_67_q1_s8",
+          "subNumber": "h",
+          "text": "Write the suffix of the following words:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Probable",
+            "Abandon"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_67_q1_s9",
+          "subNumber": "i",
+          "text": "Write the prefix of the following words:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Term",
+            "Sight"
+          ]
+        },
+        {
+          "id": "sem1_eng_2022_67_q1_s10",
+          "subNumber": "j",
+          "text": "Write four sentences on 'New India'.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_67_q2",
+      "number": 2,
+      "title": "Q.2 Write an essay in about 250 words on any one of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_67_q2_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_67_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_67_q3_s1",
+          "subNumber": "a",
+          "text": "Write a letter of complaint to the editor about the problem of electric supply in your area.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_67_q4",
+      "number": 4,
+      "title": "Q.4 Write notes on any two of the following:",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_67_q4_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_67_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_67_q5_s1",
+          "subNumber": "a",
+          "text": "Write in detail the essentials of writing minutes of meeting.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_67_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_67_q6_s1",
+          "subNumber": "a",
+          "text": "\"Group Discussion is a way to assess your personality.\" Discuss.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_67_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_67_q7_s1",
+          "subNumber": "a",
+          "text": "Assuming other details, write your resume for a job application as a Team Leader.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_67_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_67_q8_s1",
+          "subNumber": "a",
+          "text": "Write a letter asking for quotations to set up your office. Assume other details.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2022_67_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2022_67_q9_s1",
+          "subNumber": "a",
+          "text": "In not more than 150 words, write about 'Water is Life'.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    }
+  ]
+}

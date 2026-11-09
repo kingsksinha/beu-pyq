@@ -1,0 +1,309 @@
+{
+  "id": "sem1_egd_2024_25",
+  "semester": 1,
+  "subject_code": "egd",
+  "subject_name": "Engineering Graphics & Design",
+  "year": "2024",
+  "exam_code": "100104",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 Engineering Graphics & Design Time: 03 Hours Code: 100104 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 20,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Use the First Angle of Projection Method.",
+    "All dimensions are in mm."
+  ],
+  "questions": [
+    {
+      "id": "sem1_egd_2024_25_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_25_q1_s1",
+          "subNumber": "a",
+          "text": "What is the most important part of a print?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Title Block",
+            "Zones",
+            "Drawing",
+            "Notes"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_25_q1_s2",
+          "subNumber": "b",
+          "text": "Which set of lead grades has a grade out of sequence?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "H, HB, B, 3B",
+            "7B, H, F, 3H",
+            "6B, B, H, 4H",
+            "9H, HB, B, 2B"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_25_q1_s3",
+          "subNumber": "c",
+          "text": "An area of 36 square kilometer is represented by 144 square centimeters on a map. What is the R.F.?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1/2",
+            "1/5000",
+            "1/4",
+            "1/50000"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_25_q1_s4",
+          "subNumber": "d",
+          "text": "A cube is resting on the H.P. with a solid diagonal perpendicular to it. The top view will appear as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Square",
+            "Irregular hexagon",
+            "Regular hexagon",
+            "Rectangle"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_25_q1_s5",
+          "subNumber": "e",
+          "text": "The trace of a hexagonal plane may be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A square",
+            "A hexagon",
+            "A point",
+            "An equilateral triangle"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_25_q1_s6",
+          "subNumber": "f",
+          "text": "In inclined lettering, the stem is inclined to the left at",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "15°",
+            "45°",
+            "35°",
+            "75°"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_25_q1_s7",
+          "subNumber": "g",
+          "text": "The line joining the front and top views of a point is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Reference line",
+            "Connector",
+            "Projector",
+            "Locus"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_25_q1_s8",
+          "subNumber": "h",
+          "text": "The recommended symbol for indicating the angle of projection shows two views of the frustum of a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Square pyramid",
+            "Triangular pyramid",
+            "Cone",
+            "Hexagonal Pyramid"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_25_q1_s9",
+          "subNumber": "i",
+          "text": "Which coordinate system is stationary and cannot be translated or rotated",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "WCS",
+            "UCS",
+            "CCS",
+            "LCS"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_25_q1_s10",
+          "subNumber": "j",
+          "text": "How many points do you need to define for the rectangle command?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "One",
+            "Three",
+            "Two",
+            "Four"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_25_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_25_q2_s1",
+          "subNumber": "a",
+          "text": "Write the following sentence using free hand Vertical Capital letters in lettering B (h=7) usually using single stroke.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2024_25_q2_s2",
+          "subNumber": "b",
+          "text": "Using the provided AutoCAD commands below, create the final drawing on your sheet.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_25_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_25_q3_s1",
+          "subNumber": "a",
+          "text": "Construct a hypocycloid, rolling circle 50 mm diameter and directing circle 175 mm diameter. Draw a tangent and a normal to it at a point 50 mm from the centre of the directing circle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_25_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_25_q4_s1",
+          "subNumber": "a",
+          "text": "Figure 1 shows two touching circles placed in the corner made by two lines which are perpendicular to one another. Draw the view shown and state the diameter of the smaller circle. Your construction must show clearly the method of obtaining the centre of the smaller circle.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/24egd4a.png"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_25_q4_s2",
+          "subNumber": "b",
+          "text": "Construct a regular heptagon within a circle, radius 60 mm. The corners of the heptagon must lie on the circumference of the circle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_25_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_25_q5_s1",
+          "subNumber": "a",
+          "text": "Draw the development of the lateral surface for the hexagonal pyramid as shown in Fig. 2.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/24egd5.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_25_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_25_q6_s1",
+          "subNumber": "a",
+          "text": "Figure 3 shows the projected elevation of a line AB which has a true length of 100 mm. End B of the line is 12 mm in front of the VP; end A is also in front of the VP. Draw the plan a, b and elevation of this line and determine and indicate its VT and HT. Measure, state and indicate the angle of inclination of the line to the HP.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/24egd6.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_25_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_25_q7_s1",
+          "subNumber": "a",
+          "text": "A hollow square prism, base 50 mm side (outside), length 75 mm and thickness 9 mm is lying on the H.P. on one of its rectangular faces, with the axis inclined at 30° to the V.P. A section plane, parallel to the V.P. cuts the prism, intersecting the axis at a point 25 mm from one of its ends. Draw the top view and sectional front view of the prism.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_25_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_25_q8_s1",
+          "subNumber": "a",
+          "text": "Construct an isometric scale and use it to make a true isometric view of the casting shown in Fig. 4. Corner X is to be the lowest corner of your drawing.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/24egd84.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_25_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_25_q9_s1",
+          "subNumber": "a",
+          "text": "Construct a diagonal scale of \\( R.F. = 1/4000 \\) to show meters and long enough to measure up to 500 meters. Show the length of 394 metres on it.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

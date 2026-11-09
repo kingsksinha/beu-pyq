@@ -1,0 +1,309 @@
+{
+  "id": "sem3_doss_2018_5",
+  "semester": 3,
+  "subject_code": "doss",
+  "subject_name": "Design of Steel Structure",
+  "year": "2018",
+  "exam_code": "011620",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam., 2018 Design of Steel Structure Time: 03 Hours Code: 011620 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_doss_2018_5_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_doss_2018_5_q1_s1",
+          "subNumber": "a",
+          "text": "In plastic analysis, the shape factor for circular sections is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1.5",
+            "1.6",
+            "1.697",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_doss_2018_5_q1_s2",
+          "subNumber": "b",
+          "text": "A beam is defined as a structural member subjected to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "axial loading",
+            "transverse loading",
+            "axial and transverse loading",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_doss_2018_5_q1_s3",
+          "subNumber": "c",
+          "text": "The failure of a web plate takes place by yielding if the ratio of the clear depth to thickness of the web is less than",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "45",
+            "60",
+            "55",
+            "82"
+          ]
+        },
+        {
+          "id": "sem3_doss_2018_5_q1_s4",
+          "subNumber": "d",
+          "text": "The most economical section for a column is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "rectangular",
+            "solid round",
+            "flat strip",
+            "tubular section"
+          ]
+        },
+        {
+          "id": "sem3_doss_2018_5_q1_s5",
+          "subNumber": "e",
+          "text": "The distance between c.g. of compression and c.g. of tension flanges of a plate girder is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "overall depth",
+            "clear depth",
+            "effective depth",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_doss_2018_5_q1_s6",
+          "subNumber": "f",
+          "text": "The allowable stress, in axial tension for rolled I-sections and channels, is taken as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 1420 kg/cm^2 \\)",
+            "\\( 1500 kg/cm^2 \\)",
+            "\\( 2125 kg/cm^2 \\)",
+            "\\( 1810 kg/cm^2 \\)"
+          ]
+        },
+        {
+          "id": "sem3_doss_2018_5_q1_s7",
+          "subNumber": "g",
+          "text": "If d is the distance between the flange angles, the vertical stiffeners in plate girders are spaced not greater than",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "d",
+            "1.25d",
+            "1.5d",
+            "1.75d"
+          ]
+        },
+        {
+          "id": "sem3_doss_2018_5_q1_s8",
+          "subNumber": "h",
+          "text": "The cross-section of a standard fillet is a triangle whose base angles are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 45^{\\circ} \\) and \\( 45^{\\circ} \\)",
+            "\\( 30^{\\circ} \\) and \\( 60^{\\circ} \\)",
+            "\\( 40^{\\circ} \\) and \\( 50^{\\circ} \\)",
+            "\\( 20^{\\circ} \\) and \\( 70^{\\circ} \\)"
+          ]
+        },
+        {
+          "id": "sem3_doss_2018_5_q1_s9",
+          "subNumber": "i",
+          "text": "A second horizontal stiffener is always placed at the neutral axis of the girder if the thickness of the web is less than",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( d/250 \\) for structural steel",
+            "\\( d/225 \\) for high tensile steel",
+            "Both (i) and (ii)",
+            "Neither (i) nor (ii)"
+          ]
+        },
+        {
+          "id": "sem3_doss_2018_5_q1_s10",
+          "subNumber": "j",
+          "text": "The thickness t of a single flat lacing should not be less than",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 1/30^{th} \\) length between inner end rivets",
+            "\\( 1/40^{th} \\) length between inner end rivets",
+            "\\( 1/50^{th} \\) length between inner end rivets",
+            "\\( 1/60^{th} \\) length between inner end rivets"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_doss_2018_5_q2",
+      "number": 2,
+      "title": "Q.2 Explain the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_doss_2018_5_q2_s1",
+          "subNumber": "a",
+          "text": "Local and lateral buckling of beam",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_doss_2018_5_q2_s2",
+          "subNumber": "b",
+          "text": "Checks required for beam design",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_doss_2018_5_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_doss_2018_5_q3_s1",
+          "subNumber": "a",
+          "text": "Calculate the design compressive load for a column made up of ISHB 350 @ 710.2 N/m and 3.5 m high. The column is restrained in direction and position at both the ends. Use steel of grade Fe 410.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_doss_2018_5_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_doss_2018_5_q4_s1",
+          "subNumber": "a",
+          "text": "Design a simply supported beam of span 4.2 m carrying reinforce concrete floor in which top compression flange is embedded. Beam is carrying 20 kN/m dead load and 20 kN/m imposed load, resume Fe 410 grade steel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_doss_2018_5_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_doss_2018_5_q5_s1",
+          "subNumber": "a",
+          "text": "Design a suitable angle section to carry tensile force of 250 kN. Use welded connection.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_doss_2018_5_q6",
+      "number": 6,
+      "title": "Q.6 Discuss the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_doss_2018_5_q6_s1",
+          "subNumber": "a",
+          "text": "Prying action",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_doss_2018_5_q6_s2",
+          "subNumber": "b",
+          "text": "Advantage of fillet weld over butt weld",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_doss_2018_5_q6_s3",
+          "subNumber": "c",
+          "text": "Comparison of welded joints with bolted joints",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_doss_2018_5_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_doss_2018_5_q7_s1",
+          "subNumber": "a",
+          "text": "Explain some of the common defects in the welds.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_doss_2018_5_q7_s2",
+          "subNumber": "b",
+          "text": "Write the advantage of welded joints over bolted joints.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_doss_2018_5_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_doss_2018_5_q8_s1",
+          "subNumber": "a",
+          "text": "Design a tension member to carry a pull of 830 kN. The member is 3.2 m between c/c of intersections. Design the member using channel section.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_doss_2018_5_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_doss_2018_5_q9_s1",
+          "subNumber": "a",
+          "text": "A tie member of truss consists of double angle section each 80 mm x 80 mm x 8 mm welded on the opposite side of a 12 mm thick gusset plate. Design a fillet weld for making connection in the workshop. The factored tensile force in the member is 300 kN.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

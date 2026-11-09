@@ -1,0 +1,359 @@
+{
+  "id": "sem1_phy_2023_44",
+  "semester": 1,
+  "subject_code": "phy",
+  "subject_name": "Engineering Physics",
+  "year": "2023",
+  "exam_code": "102101",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 1st Semester Examination, 2023 Physics (Electromagnetism) Time: 03 Hours Code: 102101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Symbols used (if any) have their usual meanings."
+  ],
+  "questions": [
+    {
+      "id": "sem1_phy_2023_44_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_44_q1_s1",
+          "subNumber": "a",
+          "text": "The curl of electric field is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "always zero",
+            "never zero",
+            "sometimes zero",
+            "undefined"
+          ]
+        },
+        {
+          "id": "sem1_phy_2023_44_q1_s2",
+          "subNumber": "b",
+          "text": "Faraday cage protects from lightning strike because the cage material is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "very strong",
+            "conducting so it grounds the electricity",
+            "conducting so it shields electromagnetic waves",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "sem1_phy_2023_44_q1_s3",
+          "subNumber": "c",
+          "text": "Magnetic monopoles do not exist because",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "they are extremely difficult to find",
+            "the magnetic field is solenoidal",
+            "monopoles become stable at extremely low temperatures",
+            "electric field is much stronger than magnetic field"
+          ]
+        },
+        {
+          "id": "sem1_phy_2023_44_q1_s4",
+          "subNumber": "d",
+          "text": "Ampere’s law is incomplete because",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "it was discovered many years ago",
+            "it is incompatible with the law of conservation of charge",
+            "it is valid only for time dependent currents",
+            "it is incompatible with the solenoidal nature of magnetic field"
+          ]
+        },
+        {
+          "id": "sem1_phy_2023_44_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following is true",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Maxwell’s equations are valid only for electrostatics",
+            "The divergence of magnetic field is zero only in magnetostatics",
+            "Maxwell’s equations hold only in empty space",
+            "Maxwell’s equations are valid under all circumstances"
+          ]
+        },
+        {
+          "id": "sem1_phy_2023_44_q1_s6",
+          "subNumber": "f",
+          "text": "For a constant magnetic field \\( \\vec{B} = B_0 \\vec{k} \\) the vector potential \\( \\vec{A} \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "\\( B_0 (-y \\hat{i} + x \\hat{j})/2 \\)",
+            "\\( B_0 (y \\hat{i} + x \\hat{j})/2 \\)",
+            "\\( B_0 (x \\hat{i} + y \\hat{j})/2 \\)"
+          ]
+        },
+        {
+          "id": "sem1_phy_2023_44_q1_s7",
+          "subNumber": "g",
+          "text": "If you put a Dielectric slab between the plates of a parallel plate capacitor",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The electric field inside increases",
+            "The capacitance increases",
+            "The capacitance decreases",
+            "The potential difference between plates increases"
+          ]
+        },
+        {
+          "id": "sem1_phy_2023_44_q1_s8",
+          "subNumber": "h",
+          "text": "Magnetic susceptibility of diamagnetic material is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "None of above"
+          ]
+        },
+        {
+          "id": "sem1_phy_2023_44_q1_s9",
+          "subNumber": "i",
+          "text": "Lenz’s law is consequence of the law of conservation of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Charge",
+            "Energy",
+            "Momentum",
+            "Mass"
+          ]
+        },
+        {
+          "id": "sem1_phy_2023_44_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following is not true about the electromagnetic waves",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "They are transverse in nature",
+            "Electric field is perpendicular to magnetic field",
+            "Electric field is parallel to propagation vector \\(\\mathbf{K}\\)",
+            "Magnetic field is perpendicular to propagation vector \\(\\mathbf{K}\\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_44_q2",
+      "number": 2,
+      "title": "Q.2 Solve all parts :",
+      "marks": "[6+4+4=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_44_q2_s1",
+          "subNumber": "a",
+          "text": "Show that (i) electrostatic field is always normal to the surface of a conductor and (ii) electrostatic potential is always constant inside conductor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q2_s2",
+          "subNumber": "b",
+          "text": "If \\( \\vec{E} = a (y\\hat{\\mathbf{i}} - x\\hat{\\mathbf{j}}) \\) show if this electrostatic field can exist or not.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q2_s3",
+          "subNumber": "c",
+          "text": "The electric field E in the x-y plane is given by \\( \\vec{E} = 2cx\\hat{\\mathbf{i}} + ay\\hat{\\mathbf{j}} \\), where c and a are constant, what is the charge density responsible for this field?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_44_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_44_q3_s1",
+          "subNumber": "a",
+          "text": "A spherical conductor contain a uniform surface charge density \\(\\sigma\\) determine the field and potential due to charge distribution.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q3_s2",
+          "subNumber": "b",
+          "text": "State Gauss’s law of electrostatics. Derive differential form of Gauss’s law.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_44_q4",
+      "number": 4,
+      "title": "Q.4 Solve all parts :",
+      "marks": "[6+2+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_44_q4_s1",
+          "subNumber": "a",
+          "text": "Obtain detailed boundary conditions on the electric field and electric displacement.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q4_s2",
+          "subNumber": "b",
+          "text": "What is electric dipole? Define its dipole moment.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q4_s3",
+          "subNumber": "c",
+          "text": "Find expression for the field and potential due to electric dipole.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_44_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_44_q5_s1",
+          "subNumber": "a",
+          "text": "Write brief technical notes on ferromagnetic, paramagnetic and diamagnetic material.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q5_s2",
+          "subNumber": "b",
+          "text": "What is magnetic vector potential? A current distribution gives rise to magnetic vector potential, \\(\\vec{A}(x,y,z) = x^2y\\hat{\\mathbf{i}} + y^2x\\hat{\\mathbf{j}} - xyz\\hat{k}\\), find the magnetic field at \\((-1,2,3)\\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_44_q6",
+      "number": 6,
+      "title": "Q.6 Solve all parts :",
+      "marks": "[6+4+4=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_44_q6_s1",
+          "subNumber": "a",
+          "text": "Derive the expression for the energy stored in a magnetic field.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q6_s2",
+          "subNumber": "b",
+          "text": "Starting from the Faraday’s law obtain its differential form. Establish the equivalence of Faraday’s law and motional emf.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q6_s3",
+          "subNumber": "c",
+          "text": "State and discuss Lenz’s law.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_44_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_44_q7_s1",
+          "subNumber": "a",
+          "text": "Obtain the continuity equation for charge and use it to modify Ampere’s law to include displacement current.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q7_s2",
+          "subNumber": "b",
+          "text": "State and derive Poynting’s theorem.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_44_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_44_q8_s1",
+          "subNumber": "a",
+          "text": "Derive the electromagnetic wave equation in vacuum. Prove the transverse nature of plane wave.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q8_s2",
+          "subNumber": "b",
+          "text": "For a plane wave given as \\( \\vec{E}(\\vec{x},t) = A \\sin(\\vec{k}.\\vec{\\mathbf{x}} - \\omega t)\\) find (i) the magnetic field (ii) direction of propagation (iii) Poynting vector and (iv) the energy density.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_44_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_44_q9_s1",
+          "subNumber": "a",
+          "text": "Starting with general Maxwell’s equation derive Maxwell’s equation in a linear medium with permittivity \\(\\epsilon\\) and permeability \\(\\mu\\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_44_q9_s2",
+          "subNumber": "b",
+          "text": "Write a technical note on the Method of Images. Mention the significance of uniqueness theorem as a basis for the method.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "id": "sem1_che_2024_34",
+  "semester": 1,
+  "subject_code": "che",
+  "subject_name": "Engineering Chemistry",
+  "year": "2024",
+  "exam_code": "100103",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 (Old) Chemistry Time: 03 Hours Code: 100103 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_che_2024_34_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_34_q1_s1",
+          "subNumber": "a",
+          "text": "According to Heisenberg's Uncertainty Principle, which of the following pairs cannot be simultaneously determined with high precision?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Energy and mass",
+            "Position and momentum",
+            "Velocity and acceleration",
+            "Force and time"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_34_q1_s2",
+          "subNumber": "b",
+          "text": "According to Crystal Field Theory, the splitting of d-orbitals in an octahedral field leads to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Equal energy for all five d orbitals",
+            "Splitting into two lower and three higher energy orbitals",
+            "Splitting into three lower and two higher energy orbitals",
+            "Two sets of equal energy"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_34_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following complexes will show geometrical isomerism?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( [Co(NH_{3})_{6}]^{3+} \\)",
+            "\\( [Pt(NH_{3})_{2}Cl_{2}] \\)",
+            "\\( [Cr(en)_{3}]^{3-} \\)",
+            "\\( [Fe(CN)_{6}]^{3-} \\)"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_34_q1_s4",
+          "subNumber": "d",
+          "text": "In IR spectroscopy, a vibration is IR active only if:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "There is a change in bond energy",
+            "The dipole moment changes during vibration",
+            "The bond length remains constant",
+            "The mass of atoms is equal"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_34_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following is not a van der Waals force?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Dipole-dipole",
+            "Hydrogen bonding",
+            "London dispersion",
+            "Ionic bond"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_34_q1_s6",
+          "subNumber": "f",
+          "text": "The spontaneity of a chemical process is indicated by:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\Delta G=0 \\)",
+            "\\( \\Delta G &lt; 0 \\)",
+            "\\( \\Delta G &gt; 0 \\)",
+            "\\( \\Delta S &lt; 0 \\)"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_34_q1_s7",
+          "subNumber": "g",
+          "text": "Temporary hardness of water is mainly due to:",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Calcium bicarbonate",
+            "Magnesium sulfate",
+            "Calcium chloride",
+            "Sodium carbonate"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_34_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following elements has the highest electronegativity?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Oxygen",
+            "Chlorine",
+            "Nitrogen",
+            "Fluorine"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_34_q1_s9",
+          "subNumber": "i",
+          "text": "Enantiomers differ in:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Boiling point",
+            "Refractive index",
+            "Optical rotation",
+            "Melting point"
+          ]
+        },
+        {
+          "id": "sem1_che_2024_34_q1_s10",
+          "subNumber": "j",
+          "text": "Diels-Alder reaction involves",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Electrophilic addition",
+            "Nucleophilic substitution",
+            "Cycloaddition between a diene and a dienophile",
+            "Radical chain mechanism"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_34_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_34_q2_s1",
+          "subNumber": "a",
+          "text": "State and explain Heisenberg's Uncertainty Principle. Discuss its significance in determining position and momentum of an electron.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_34_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the photoelectric effect and de Broglie hypothesis.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_34_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_34_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the formation of molecular orbitals using the linear combination of atomic orbitals (LCAO) approach. Differentiate between bonding and antibonding orbitals.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_34_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss the crystal field splitting of d-orbital in Tetrahedral complexes.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_34_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_34_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the principles of vibrational and rotational spectroscopy. What are the selection rules for rotational transitions in diatomic molecules?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_che_2024_34_q4_s2",
+          "subNumber": "b",
+          "text": "Derive van der Waal's equation for real gases.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_34_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_34_q5_s1",
+          "subNumber": "a",
+          "text": "Discuss the deviation of real gases from ideal behavior. Under what conditions is the deviation more significant?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_34_q5_s2",
+          "subNumber": "b",
+          "text": "Discuss the basic principle of Nuclear Magnetic Resonance (NMR) spectroscopy. How is it useful for structural elucidation of organic compounds?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_34_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_34_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the Nernst equation and its applications in calculating EMF of electrochemical cells.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_34_q6_s2",
+          "subNumber": "b",
+          "text": "What do you mean by Hardness of water. Discuss the EDTA method for estimation of hardness of water.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_34_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_34_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the HSAB (Hard and Soft Acids and Bases) principle with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_34_q7_s2",
+          "subNumber": "b",
+          "text": "Define ionization energy &amp; electron affinity, How do these vary in the periodic table as the atomic number increases.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_34_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_34_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss the relationship between hybridization and molecular geometry. Provide examples of common geometries like tetrahedral, linear, and trigonal planar.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_34_q8_s2",
+          "subNumber": "b",
+          "text": "Define stereoisomerism. Differentiate between structural isomers, enantiomers, and diastereomers with examples.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2024_34_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2024_34_q9_s1",
+          "subNumber": "a",
+          "text": "Describe the mechanism of epoxide ring opening reactions under acidic and basic conditions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2024_34_q9_s2",
+          "subNumber": "b",
+          "text": "Outline the synthesis of aspirin from salicylic acid. Include the reagents, reaction mechanism, and significance of the reaction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

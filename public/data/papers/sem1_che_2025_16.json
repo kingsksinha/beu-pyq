@@ -1,0 +1,337 @@
+{
+  "id": "sem1_che_2025_16",
+  "semester": 1,
+  "subject_code": "che",
+  "subject_name": "Engineering Chemistry",
+  "year": "2025",
+  "exam_code": "100203",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 (Old Course) Chemistry Time: 03 Hours Code: 100203 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_che_2025_16_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2025_16_q1_s1",
+          "subNumber": "a",
+          "text": "According to Planck's quantum theory, energy is emitted or absorbed",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Continuous waves",
+            "Discontinuously in small packets called quanta",
+            "Randomly",
+            "Magnetic waves"
+          ]
+        },
+        {
+          "id": "sem1_che_2025_16_q1_s2",
+          "subNumber": "b",
+          "text": "In photoelectric effect, the number of photoelectrons emitted is proportional to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Intensity of incident beam",
+            "Frequency of incident beam",
+            "Wavelength of incident beam",
+            "All of these"
+          ]
+        },
+        {
+          "id": "sem1_che_2025_16_q1_s3",
+          "subNumber": "c",
+          "text": "The mode of excitation of molecule in IR spectroscopy is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Electronic",
+            "Magnetic",
+            "Vibrational",
+            "Optical"
+          ]
+        },
+        {
+          "id": "sem1_che_2025_16_q1_s4",
+          "subNumber": "d",
+          "text": "Beer-Lambert's law relates absorbance (A) with",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Concentration and path length",
+            "Pressure and temperature",
+            "Energy and wavelength",
+            "Volume and mass"
+          ]
+        },
+        {
+          "id": "sem1_che_2025_16_q1_s5",
+          "subNumber": "e",
+          "text": "For an ideal gas, the compressibility factor (Z) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0",
+            "1",
+            "&gt; 1",
+            "&lt; 1"
+          ]
+        },
+        {
+          "id": "sem1_che_2025_16_q1_s6",
+          "subNumber": "f",
+          "text": "As one moves along a given row in the periodic table ionization energy",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Remains same",
+            "Decreases from left to right",
+            "First increases then decreases",
+            "Increases from left to right"
+          ]
+        },
+        {
+          "id": "sem1_che_2025_16_q1_s7",
+          "subNumber": "g",
+          "text": "Waterline corrosion in steel tank is an example of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Stress corrosion",
+            "Differential aeration corrosion",
+            "Pitting corrosion",
+            "Differential metal corrosion"
+          ]
+        },
+        {
+          "id": "sem1_che_2025_16_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following dissolved salts in water will cause the most hardness in water sample?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10 ppm \\( CaSO_{4} \\)",
+            "10 ppm \\( CaCO_{3} \\)",
+            "10 ppm \\( MgCl_2 \\)",
+            "10 ppm \\( Mg(OH)_2 \\)"
+          ]
+        },
+        {
+          "id": "sem1_che_2025_16_q1_s9",
+          "subNumber": "i",
+          "text": "Optically active stereoisomers that are not the mirror images are called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Enantiomers",
+            "Mesomers",
+            "Tautomers",
+            "Diastereomers"
+          ]
+        },
+        {
+          "id": "sem1_che_2025_16_q1_s10",
+          "subNumber": "j",
+          "text": "In a Diels-Alder reaction, a conjugated diene reacts with",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Another diene",
+            "A dienophile",
+            "An alkane",
+            "A halide ion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2025_16_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2025_16_q2_s1",
+          "subNumber": "a",
+          "text": "(i) State Heisenberg's uncertainty principle. What is uncertainty in the position of a particle, if the uncertainty in momentum is \\( 10^{-11} kg m/s \\)?<br/> (ii) Explain why classical Newtonian and Maxwell's wave mechanics theory failed to describe the behavior of microscopic (atomic and subatomic) particles.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2025_16_q2_s2",
+          "subNumber": "b",
+          "text": "(i) Explain the dual nature of matter and radiation. Describe de Broglie's hypothesis and briefly discuss its experimental verification.<br/> (ii) Explain the principles of combination of atomic orbitals to form molecular orbitals.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2025_16_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2025_16_q3_s1",
+          "subNumber": "a",
+          "text": "Draw the molecular orbital energy level diagrams for (i) \\( N_2 \\) and (ii) \\( O_{2} \\) molecules. Write their molecular orbital electronic configurations, calculate their bond orders, and explain their magnetic properties.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2025_16_q3_s2",
+          "subNumber": "b",
+          "text": "(i) What are the salient features of crystal field theory? Also explain the crystal field splitting in octahedral complexes with energy level diagram.<br/> (ii) Differentiate between the coordination number and oxidation number of a metal ion. Further, calculate the coordination number and oxidation number of Fe in \\( K_{4}[Fe(CN)_{6}] \\) and Ni in \\( Ni(CO)_4 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2025_16_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2025_16_q4_s1",
+          "subNumber": "a",
+          "text": "(i) State the principle of vibrational spectroscopy and derive the selection rule for vibrational transitions in diatomic molecules.<br/> (ii) Explain the mechanism of fluorescence and give its important applications.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2025_16_q4_s2",
+          "subNumber": "b",
+          "text": "Write informative notes on any two of the following:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2025_16_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2025_16_q5_s1",
+          "subNumber": "a",
+          "text": "(i) Derive the Van der Waals' equation of state for n moles of gas. Explain the significance of Van der Waals' constants.<br/> (ii) Describe the deviations of real gases from ideal behaviour and discuss their causes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2025_16_q5_s2",
+          "subNumber": "b",
+          "text": "(i) Explain ionic, dipolar, and van der Waals interactions with suitable examples.<br/> (ii) Differentiate among ionization energy, electron affinity, and electronegativity, highlighting their definitions and periodic trends.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2025_16_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2025_16_q6_s1",
+          "subNumber": "a",
+          "text": "(i) What is electronic configuration? Also give the electronic configuration of Cu, \\( Al^{3+} \\) and \\( Cl^- \\).<br/> (ii) Explain the variation of s, p, d, and f orbital energies across the periodic table.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2025_16_q6_s2",
+          "subNumber": "b",
+          "text": "What do you understand by hybridization? Giving suitable examples explain \\( sp^{3} \\), \\( sp^{3}d \\) and \\( sp^3d^2 \\) hybridization.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2025_16_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2025_16_q7_s1",
+          "subNumber": "a",
+          "text": "(i) Predict at what temperature would the following reaction be spontaneous, given that \\( \\Delta H=9.080~kJ/mol \\) and \\( \\Delta S=0.0357~kJ/(K \\cdot mol) \\).<br/> \\( 4NH_{3} + 5O_{2} \\rightarrow 4NO + 6H_{2}O \\)<br/> (ii) What is the Ellingham diagram and discuss its importance in metallurgical processes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2025_16_q7_s2",
+          "subNumber": "b",
+          "text": "(i) Derive Nernst equation and write its applications.<br/> (ii) A sample of water on analysis has been found to contain the following in ppm: \\( Ca(HCO_{3})_{2}=4.86 \\); \\( Mg(HCO_{3})_{2}=5.84 \\); \\( CaSO_{4}=6.80 \\); \\( MgSO_{4}=8.40 \\). Calculate the temporary and permanent hardness of the water.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2025_16_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2025_16_q8_s1",
+          "subNumber": "a",
+          "text": "(i) What is principle of EDTA titration? How is the permanent hardness of water is determined using EDTA method?<br/> (ii) What are the ion-exchange resins? How will you purify water by using the resins? What are the advantages of this method over other methods.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2025_16_q8_s2",
+          "subNumber": "b",
+          "text": "(i) What are the stereoisomers? How are they classified.<br/> (ii) Explain the term chirality. Discuss the optical isomerism of chiral organic compounds using the example of tartaric acid.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_che_2025_16_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_che_2025_16_q9_s1",
+          "subNumber": "a",
+          "text": "(i) Draw and describe the conformations of cyclohexane. Discuss the relative stability of conformers.<br/> (ii) What are the different types of reactive intermediates involved in organic reactions?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_che_2025_16_q9_s2",
+          "subNumber": "b",
+          "text": "(i) Discuss elimination and substitution reactions with examples.<br/> (ii) Give a brief note on the synthesis of aspirin.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

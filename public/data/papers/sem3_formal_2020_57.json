@@ -1,0 +1,328 @@
+{
+  "id": "sem3_formal_2020_57",
+  "semester": 3,
+  "subject_code": "formal",
+  "subject_name": "Formal Language & Automata Theory",
+  "year": "2020",
+  "exam_code": "105503",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2020 FORMAL LANGUAGES AND AUTOMATA THEORY Time: 03 Hours Code: 105503 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_formal_2020_57_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2020_57_q1_s1",
+          "subNumber": "a",
+          "text": "Definition of a language L with alphabet {a} is given as \\( L = \\{a^{nk} \\mid k &gt; 0 \\}, \\) and n is a positive integer constant. What is the minimum number of states needed in a DFA to recognize L?",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "\\( k + 1 \\)",
+            "\\( n + 1 \\)",
+            "\\( 2^{n+1} \\)",
+            "\\( 2^{k+1} \\)"
+          ]
+        },
+        {
+          "id": "sem3_formal_2020_57_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following versions of Unix came up with YACC first?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "V3",
+            "V5",
+            "CB UNIX",
+            "UNIX-RT"
+          ]
+        },
+        {
+          "id": "sem3_formal_2020_57_q1_s3",
+          "subNumber": "c",
+          "text": "A pushdown automata can be represented as \\( PDA = \\epsilon \\text{-} NFA + [\\text{stack}] \\).",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "id": "sem3_formal_2020_57_q1_s4",
+          "subNumber": "d",
+          "text": "A language accepted by deterministic pushdown automata is closed under which of the following?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Complement",
+            "Union",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2020_57_q1_s5",
+          "subNumber": "e",
+          "text": "A _____ is context free grammar with atmost one non-terminal in the right handside of the production.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "linear grammar",
+            "linear bounded grammar",
+            "regular grammar",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2020_57_q1_s6",
+          "subNumber": "f",
+          "text": "The lexical analysis for a modern language such as Java needs the power of which one of the following machine models in a necessary and sufficient sense?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Finite state automata",
+            "Deterministic pushdown automata",
+            "Non-deterministic pushdown automata",
+            "Turing machine"
+          ]
+        },
+        {
+          "id": "sem3_formal_2020_57_q1_s7",
+          "subNumber": "g",
+          "text": "Let \\( L = \\{w \\in (0+1)^* \\mid w \\text{ has even number of 1s}\\} \\), i.e., L is the set of all bit strings with even number of 1s. Which one of the regular expression below represents L?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( (0^*10^*1)^* \\)",
+            "\\( 0^*(10^*10^*)^* \\)",
+            "\\( 0^*(10^*1^*)^*0^* \\)",
+            "\\( 0^*1(10^*1)^*10^* \\)"
+          ]
+        },
+        {
+          "id": "sem3_formal_2020_57_q1_s8",
+          "subNumber": "h",
+          "text": "What is the minimum number of states in deterministic finite automata (DFA) for string starting with \\( ba^2 \\) and ending with a over alphabet {a, b}?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Ten",
+            "Nine",
+            "Eight",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2020_57_q1_s9",
+          "subNumber": "i",
+          "text": "The decision problem is the function from string to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "char",
+            "int",
+            "boolean",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2020_57_q1_s10",
+          "subNumber": "j",
+          "text": "A language L may not be accepted by a turing machine if",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "it is recursively enumerable",
+            "it is recursive",
+            "L can be enumerated by some turing machine",
+            "None of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2020_57_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2020_57_q2_s1",
+          "subNumber": "a",
+          "text": "Write the context-free grammar to create palindrome over {a, b}.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2020_57_q2_s2",
+          "subNumber": "b",
+          "text": "Construct a DFA which accepts the set of all binary strings that interpreted as binary representation of an unsigned decimal integer, is divisible by 5.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2020_57_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2020_57_q3_s1",
+          "subNumber": "a",
+          "text": "Design a turing machine to compute the sum of two positive integers m and n.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2020_57_q3_s2",
+          "subNumber": "b",
+          "text": "Design a NPDA for accepting the string \\( L = \\) set of all palindrome over {a, b} by the empty stack and by final state.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2020_57_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2020_57_q4_s1",
+          "subNumber": "a",
+          "text": "Construct finite automaton corresponding to the regular expression: \\( (a+b)^*c d^*e \\)",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_formal_2020_57_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the multi-tape version of turing machine and its significance.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2020_57_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2020_57_q5_s1",
+          "subNumber": "a",
+          "text": "Show given grammar over alphabet {a, b} verify whether it is ambiguous or unambiguous : \\( S \\rightarrow a / abSb / aAb \\), \\( A \\rightarrow bS / aAAb \\)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_formal_2020_57_q5_s2",
+          "subNumber": "b",
+          "text": "Show that \\( L = \\) palindrome over {a, b} is not regular.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2020_57_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2020_57_q6_s1",
+          "subNumber": "a",
+          "text": "Prove that if L is generated by a CFG, then L is accepted by a non-deterministic PDA by empty stack.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2020_57_q6_s2",
+          "subNumber": "b",
+          "text": "Design a pushdown automaton for the following context-free grammar: \\( S \\rightarrow aB \\mid bA \\), \\( A \\rightarrow aS \\mid bAA \\mid a \\), \\( B \\rightarrow bS \\mid aBB \\mid b \\)",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2020_57_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2020_57_q7_s1",
+          "subNumber": "a",
+          "text": "Design a turing machine that accepts all palindromes over \\( \\Sigma = \\{a, b\\} \\).",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_formal_2020_57_q7_s2",
+          "subNumber": "b",
+          "text": "Explain Myhill-Nerode theorem for minimization of automata with suitable example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2020_57_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2020_57_q8_s1",
+          "subNumber": "a",
+          "text": "Prove that if L is the language generated by an unrestricted grammar \\( G=(N,T,P,S) \\), then L is recognized by a turing machine.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2020_57_q8_s2",
+          "subNumber": "b",
+          "text": "Design a pushdown automata for accepting the string for the language \\( L = \\{WW^R \\mid W \\in (a,b)^*\\} \\) by the empty stack as well as final state.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2020_57_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2020_57_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

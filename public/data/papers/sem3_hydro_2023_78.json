@@ -1,0 +1,337 @@
+{
+  "id": "sem3_hydro_2023_78",
+  "semester": 3,
+  "subject_code": "hydro",
+  "subject_name": "Hydrology & Water Resources Engineering",
+  "year": "2023",
+  "exam_code": "101505",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 5th Semester Examination, 2023 Hydrology & Water Resources Engineering Time: 03 Hours Code: 101505 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_hydro_2023_78_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2023_78_q1_s1",
+          "subNumber": "a",
+          "text": "Precipitation that falls near the equator is most likely to fall with time is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Snow on the ocean",
+            "Rain on to land",
+            "Snow on to glacier",
+            "Rain on to the road"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2023_78_q1_s2",
+          "subNumber": "b",
+          "text": "The term base flow denotes",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Delayed groundwater flow reaching a stream",
+            "Delayed groundwater and snowmelt reaching a stream",
+            "Delayed groundwater and interflow",
+            "The annual minimum flow in a stream"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2023_78_q1_s3",
+          "subNumber": "c",
+          "text": "The total rainfall in a catchment of area \\( 1200 \\, km^2 \\) during 6-h storm is 16 cm and surface runoff due to the storm is \\( 1.2 \\times 10^5 \\, m^3 \\). The \\( \\phi \\)-index is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( 0.1 \\, cm/h \\)",
+            "\\( 0.2 \\, cm/h \\)",
+            "\\( 1.0 \\, cm/h \\)",
+            "Can't be estimated with the given data"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2023_78_q1_s4",
+          "subNumber": "d",
+          "text": "A \\( 90 \\, km^2 \\) catchment has the 4-h unit hydrograph which can be approximated as a triangle. If the peak ordinate of this hydrograph is \\( 10 \\, m^3/s \\) the time base is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "120 h",
+            "50 h",
+            "100 h",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2023_78_q1_s5",
+          "subNumber": "e",
+          "text": "The geologic formation which is neither porous nor permeable and hence no yield of ground water is termed as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "aquiclude",
+            "aquifer",
+            "aquitard",
+            "aquifuge"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2023_78_q1_s6",
+          "subNumber": "f",
+          "text": "The Probability of a 10-year flood to occur at least once in 6 years is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "35%",
+            "53%",
+            "41%",
+            "60%"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2023_78_q1_s7",
+          "subNumber": "g",
+          "text": "Darcy's law is valid in a porous media flow if the Reynolds number is less than unity, this Reynold number is defined as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(discharge velocity * maximum grain size) / \\( \\nu \\)",
+            "(discharge velocity * average grain size) / \\( \\nu \\)",
+            "(discharge velocity * pore size) / \\( \\nu \\)",
+            "(actual velocity * average grain size) / \\( \\nu \\)"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2023_78_q1_s8",
+          "subNumber": "h",
+          "text": "How that area will be irrigated with if looping is there in ridge line?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Side slope canal",
+            "Contour canal",
+            "Watershed canal",
+            "Field channel"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2023_78_q1_s9",
+          "subNumber": "i",
+          "text": "Kor-watering is the irrigation water supplied to a crop",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "at the time of its sowing",
+            "just before harvesting",
+            "about three weeks after sowing",
+            "about three weeks before harvesting"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2023_78_q1_s10",
+          "subNumber": "j",
+          "text": "The instrument to measure wind velocity is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "current meter",
+            "atmometer",
+            "aerometer",
+            "anemometer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2023_78_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2023_78_q2_s1",
+          "subNumber": "a",
+          "text": "Explain various methods of obtaining mean precipitation with equations.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2023_78_q2_s2",
+          "subNumber": "b",
+          "text": "The normal annual rainfall of stations A, B, C and D in a catchment are 809.7, 675.9, 762.8, 920.1 mm respectively. In the year 2023, the station D was inoperative while stations A, B, C recorded annual rainfall of 911.1, 722.3, 798.9 mm respectively. Use normal ratio method to estimate the missing rainfall data at D in the year 2023.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2023_78_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2023_78_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss various factors affecting evaporation. What are the possible sources of error in the measurement of the rainfall.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2023_78_q3_s2",
+          "subNumber": "b",
+          "text": "The following meteorological data pertain to a large reservoir with water spread area \\( 15 \\, km^2 \\). The data represents the average values for the day. Water temperature \\( = 24^\\circ C \\), Air Temperature \\( = 26^\\circ C \\), Atmospheric pressure 752 mm of mercury, wind speed at 0.5 m above G.L \\( = 25.3 \\, km/h \\), relative humidity \\( r = 46 \\% \\). Estimate average daily evaporation from the reservoir and evaporation loss from the reservoir for a period of one week using Meyer's and Rohwer's equations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2023_78_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2023_78_q4_s1",
+          "subNumber": "a",
+          "text": "What is runoff? Explain with sketch different types of catchments.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2023_78_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the rainfall-runoff relationship using regression analysis (any one method).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2023_78_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2023_78_q5_s1",
+          "subNumber": "a",
+          "text": "Define \"unit hydrograph\". What are the assumptions, uses and limitations of hydrograph theory?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2023_78_q5_s2",
+          "subNumber": "b",
+          "text": "A 6h storm produced rainfall intensity of 7, 18, 25, 12, 10 and 3 mm/h in successive one hour interval over a basin of 800 sq.km. The resulting runoff is observed to be 2640 hectare-metres. Determine the \\( \\phi \\)-index for the basin.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2023_78_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2023_78_q6_s1",
+          "subNumber": "a",
+          "text": "Explain with equations of various types of irrigation efficiencies.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2023_78_q6_s2",
+          "subNumber": "b",
+          "text": "The gross commanded area for an irrigation canal is 20,000 hectares out of which 75% is culturable CA. Intensity of irrigation is 40% for rabi and 10% for rice. If Kor period is 4 weeks for rabi and 2.5 weeks for rice, determine outlet discharge. Outlet factors for rabi and rice may be taken as 1800 ha/cumec and 775 ha/cumec respectively. Also calculate delta for each case.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2023_78_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2023_78_q7_s1",
+          "subNumber": "a",
+          "text": "What is canal? List its type and explain with neat sketch its classification based on alignment.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2023_78_q7_s2",
+          "subNumber": "b",
+          "text": "Explain different storage zones of reservoir with neat sketch.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2023_78_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2023_78_q8_s1",
+          "subNumber": "a",
+          "text": "Define the following: (i) Paleo Irrigation (ii) Kor Watering (iii) intensity of irrigation (iv) Time factor (v) capacity factor (vi) crop rotation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2023_78_q8_s2",
+          "subNumber": "b",
+          "text": "Design an irrigation channel in alluvial soil according to Lacy's silt theory for the following data: Full Supply discharge = 10 cumecs, Lacy's Silt Factor = 0.9, side slope of channel = \\( \\frac{1}{2}(H) : 1(V) \\). Also determine bed slope of the channel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2023_78_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2023_78_q9_s1",
+          "subNumber": "a",
+          "text": "Explain (i) Investigation for reservoir site (ii) Economic Height of Dam.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2023_78_q9_s2",
+          "subNumber": "b",
+          "text": "What are flow irrigation and lift irrigations? Explain types of flow irrigation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

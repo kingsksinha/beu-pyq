@@ -1,0 +1,322 @@
+{
+  "id": "sem4_mom_2023_19",
+  "semester": 4,
+  "subject_code": "mom",
+  "subject_name": "Mechanics of Materials",
+  "year": "2023",
+  "exam_code": "101506",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 5th Semester Examination, 2023 Mechanics of Materials Time: 03 Hours Code: 101506 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mom_2023_19_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2023_19_q1_s1",
+          "subNumber": "a",
+          "text": "When shear force at a point is zero, then bending moment at that point will be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "zero",
+            "Maximum",
+            "Minimum",
+            "infinity"
+          ]
+        },
+        {
+          "id": "sem4_mom_2023_19_q1_s2",
+          "subNumber": "b",
+          "text": "The maximum slope of a cantilever carrying a point load at its free end is at the",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Free end",
+            "Fixed end",
+            "Centre of span",
+            "Half-length distance from free end"
+          ]
+        },
+        {
+          "id": "sem4_mom_2023_19_q1_s3",
+          "subNumber": "c",
+          "text": "The total area under the stress-strain curve of a mild steel specimen tested to failure under tension is a measure of its:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Breaking strength",
+            "Toughness",
+            "Hardness",
+            "Stiffness"
+          ]
+        },
+        {
+          "id": "sem4_mom_2023_19_q1_s4",
+          "subNumber": "d",
+          "text": "If the section modulus of beam is reduced the bending stress will",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "decrease",
+            "increase",
+            "becomes zero",
+            "infinite"
+          ]
+        },
+        {
+          "id": "sem4_mom_2023_19_q1_s5",
+          "subNumber": "e",
+          "text": "Tensile test was performed on a round bar, after fracture it was found that the diameter remains approximately same at fracture. The material under test was",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Mild steel",
+            "Cast iron",
+            "Copper",
+            "Aluminium"
+          ]
+        },
+        {
+          "id": "sem4_mom_2023_19_q1_s6",
+          "subNumber": "f",
+          "text": "The tangential force per unit area is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Shear strain",
+            "Shear stress",
+            "Modulus of rigidity",
+            "Torsion"
+          ]
+        },
+        {
+          "id": "sem4_mom_2023_19_q1_s7",
+          "subNumber": "g",
+          "text": "A material in which rupture takes place with little or no plastic deformation is said to be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Ductile material",
+            "Elastic material",
+            "Plastic material",
+            "Brittle material"
+          ]
+        },
+        {
+          "id": "sem4_mom_2023_19_q1_s8",
+          "subNumber": "h",
+          "text": "Tangential stress in a cylinder is given by [symbols have their usual meanings].",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{PD}{2t} \\)",
+            "\\( \\frac{2PD}{t} \\)",
+            "\\( \\frac{PD}{4t} \\)",
+            "\\( \\frac{4PD}{t} \\)"
+          ]
+        },
+        {
+          "id": "sem4_mom_2023_19_q1_s9",
+          "subNumber": "i",
+          "text": "Torsional sectional modulus is also known as",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Polar Modulus",
+            "Sectional Modulus",
+            "Torsion Modulus",
+            "Torsional Rigidity"
+          ]
+        },
+        {
+          "id": "sem4_mom_2023_19_q1_s10",
+          "subNumber": "j",
+          "text": "Long axially loaded columns tends to deflect about",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Moment of Inertia",
+            "Effective Length",
+            "Core",
+            "Safe loading"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2023_19_q2",
+      "number": 2,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2023_19_q2_s1",
+          "subNumber": "a",
+          "text": "Differentiate between: (i) Statically determinate and statically indeterminate structures (ii) Bending stress and shear stress of beam",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mom_2023_19_q2_s2",
+          "subNumber": "b",
+          "text": "Determine the reactions, and draw the shear force and bending moment diagram for the beam loaded as shown in the Fig. 1",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/84.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2023_19_q3",
+      "number": 3,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2023_19_q3_s1",
+          "subNumber": "a",
+          "text": "An I-section has a depth of 200 mm, flange width of 120 mm, flange thickness of 15 mm and web thickness of 10 mm. Determine the percentage of the BM and SF are carried by the flange and web individually.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2023_19_q4",
+      "number": 4,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2023_19_q4_s1",
+          "subNumber": "a",
+          "text": "A rectangular block of material is subjected to a tensile stress of \\( 110 \\text{ N/mm}^2 \\) on one plane and a tensile stress of \\( 47 \\text{ N/mm}^2 \\) on the plane right angle to the former. Each of the above stresses is accompanied by a shear stress of \\( 63 \\text{ N/mm}^2 \\) and that associated with the former tensile stress tends to rotate the block anticlockwise. Find: (i) the direction and magnitude of the principal stress and (ii) the magnitude of the greatest shear stress.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mom_2023_19_q4_s2",
+          "subNumber": "b",
+          "text": "At a certain point in a strained material, the intensity of stresses on two planes right angle to each other are \\( 20 \\text{ N/mm}^2 \\) and \\( 10 \\text{ N/mm}^2 \\) both tensile. They are accompanied by shear stress of magnitude \\( 10 \\text{ N/mm}^2 \\). Find graphically or otherwise the location of principal planes and evaluate the principal stresses.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2023_19_q5",
+      "number": 5,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2023_19_q5_s1",
+          "subNumber": "a",
+          "text": "State the assumption of theory of pure bending and derive expression for bending stress in case of simple bending.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mom_2023_19_q5_s2",
+          "subNumber": "b",
+          "text": "Determine the member forces in AB, CH, BH and CG for the truss shown in Fig. 2",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/83.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2023_19_q6",
+      "number": 6,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2023_19_q6_s1",
+          "subNumber": "a",
+          "text": "A rectangular column of wood 3 m long carries a load of 300 kN. Determine whether or not section of size 200 mm X 150 mm will be able to carry this load if the factor of safety 3 is to be used, assume Euler's formula is applicable \\( E = 12.5 \\text{ GPa} \\) and the permissible stress is 12 MPa. If this section will not be able to carry this load, design a square section to do so.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2023_19_q7",
+      "number": 7,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2023_19_q7_s1",
+          "subNumber": "a",
+          "text": "A solid steel shaft 5 m long is stressed at 80 MPa when twisted through \\( 4^\\circ \\). Using \\( G = 83 \\text{ GPa} \\), compute the shaft diameter. What power can be transmitted by the shaft at 20 Hz?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mom_2023_19_q7_s2",
+          "subNumber": "b",
+          "text": "A cylindrical steel pressure vessel 400 mm in diameter with a wall thickness of 20 mm, is subjected to an internal pressure of 4.5 MN/m². (a) Calculate the tangential and longitudinal stresses in the steel. (b) To what value may the internal pressure be increased if the stress in the steel is limited to \\( 120 \\text{ MN/m}^2 \\)? (c) If the internal pressure were increased until the vessel burst, sketch the type of fracture that would occur.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2023_19_q8",
+      "number": 8,
+      "title": "Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2023_19_q8_s1",
+          "subNumber": "a",
+          "text": "Write the assumption made in Euler's Formula for column and its limitation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mom_2023_19_q8_s2",
+          "subNumber": "b",
+          "text": "Derive Multi-axial stress-strain relationships among shear stresses and strains for linear isotropic elastic materials.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2023_19_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2023_19_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Castigliano's theorem",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

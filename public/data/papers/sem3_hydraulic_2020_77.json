@@ -1,0 +1,323 @@
+{
+  "id": "sem3_hydraulic_2020_77",
+  "semester": 3,
+  "subject_code": "hydraulic",
+  "subject_name": "Hydraulic Engineering",
+  "year": "2020",
+  "exam_code": "101504",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 5th Semester Examination, 2020 Hydraulic Engineering Time: 03 Hours Code: 101504 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_hydraulic_2020_77_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2020_77_q1_s1",
+          "subNumber": "a",
+          "text": "In a hydraulic jump, occurring in a horizontal rectangular channel, the sequent depths are 0.25 m and 1.25 m. The energy loss in this jump is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.8 m",
+            "0.5 m",
+            "1.25 m",
+            "1.50 m"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q1_s2",
+          "subNumber": "b",
+          "text": "If the alternate depths for certain flow in a rectangular channel are 0.5 m and 3.0 m respectively, the critical depth for this channel is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "1.087 m",
+            "1.333 m",
+            "1.500 m",
+            "3.500 m"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q1_s3",
+          "subNumber": "c",
+          "text": "A streamline is a line",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "which is normal to the velocity vector at every point",
+            "which represents lines of constant velocity potential",
+            "which is normal to the lines of constant stream function",
+            "which is tangential to the velocity vector everywhere at a given instant"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q1_s4",
+          "subNumber": "d",
+          "text": "In a pipeline, the hydraulic grade line is above the pipe center line in the longitudinal section at point A and below the pipe center line at another point B. From this it can be inferred that",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "vacuum pressures prevail at B",
+            "vacuum pressures prevail at A",
+            "the flow is from A to B",
+            "the flow is from B to A"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q1_s5",
+          "subNumber": "e",
+          "text": "In a horizontal rectangular channel, a hydraulic jump with a sequent depth ratio of 5.0 is formed. This jump can be classified as",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "weak jump",
+            "oscillating jump",
+            "strong jump",
+            "steady jump"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q1_s6",
+          "subNumber": "f",
+          "text": "The term alternate depths in open-channel flow is used to designate the depths",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "at the beginning and end of a hydraulic jump",
+            "having the same kinetic energy for a given discharge",
+            "having the same specific energy for a given discharge",
+            "at the beginning and end of a gradually varied flow profile"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q1_s7",
+          "subNumber": "g",
+          "text": "An 8 cm diameter pipe is to carry water at a Reynolds number of \\( 10^5 \\). The entrance length required for the establishment of turbulent flow is about",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "4.0 m",
+            "560 cm",
+            "10.0 m",
+            "8.7 m"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q1_s8",
+          "subNumber": "h",
+          "text": "The drag on a very small sphere falling in a highly viscous liquid varies",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "inversely with the velocity",
+            "directly with the velocity",
+            "as the square root of the velocity",
+            "as the square of the velocity"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q1_s9",
+          "subNumber": "i",
+          "text": "Flow has Froude number less than one",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "if normal depth is less than critical depth",
+            "if normal depth is more than critical depth",
+            "if normal depth is equal to critical depth",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q1_s10",
+          "subNumber": "j",
+          "text": "Mach number is ratio of inertia forces to",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "pressure forces",
+            "elastic forces",
+            "surface tension forces",
+            "gravity forces"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2020_77_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2020_77_q2_s1",
+          "subNumber": "a",
+          "text": "Differentiate between structured and unstructured mesh.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the features of TDMA method.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2020_77_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2020_77_q3_s1",
+          "subNumber": "a",
+          "text": "Find the ratio of skin friction drag on the front-half and rear-half portions of a flat plate kept in a uniform stream of zero incidence. Assume the boundary layer to be turbulent over the entire plate.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q3_s2",
+          "subNumber": "b",
+          "text": "Find the ratio of skin friction drag on the front two-third and rear one-third of a flat plate kept in a uniform stream at zero incidence. Assume the boundary layer to be turbulent over the entire plate.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2020_77_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2020_77_q4_s1",
+          "subNumber": "a",
+          "text": "What do you understand by displacement thickness and momentum thickness?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q4_s2",
+          "subNumber": "b",
+          "text": "For the following velocity profiles in the boundary layer on a flat plate, calculate the displacement and momentum thickness in terms of the nominal boundary layer thickness \\( \\delta \\):<br/> (i) \\( u/U = \\eta \\)<br/> (ii) \\( u/U = 2\\eta - \\eta^2 \\)<br/> where \\( \\eta = y/\\delta \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2020_77_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2020_77_q5_s1",
+          "subNumber": "a",
+          "text": "A rectangular flume 2 m wide carries discharge at the rate of \\( 2 \\, m^3/s \\). The bed slope of the flume is 0.0004. At a certain section, the depth of flow is 1 m. Calculate the distance of the section downstream where the depth of flow is 0.9 m. Solve by single step method. Assume rugosity coefficient as 0.014. Is the slope of the channel mild or steep? How is this type of surface profile classified?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2020_77_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2020_77_q6_s1",
+          "subNumber": "a",
+          "text": "Derive Bernoulli's equation from Euler's equation of motion.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q6_s2",
+          "subNumber": "b",
+          "text": "A pipe 300 m long has a slope of 1 in 100 and tapers from 1.2 m diameter at the high end to 0.6 m diameter at the low end. Quantity of water flowing is 5400 litres per minute. If the pressure at the high end is 68.67 kPa \\( (0.7 \\text{ kg(f)/cm}^2) \\), find the pressure at the low end. Neglect losses.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2020_77_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2020_77_q7_s1",
+          "subNumber": "a",
+          "text": "Define and distinguish between (i) steady and unsteady flow, (ii) uniform and non-uniform flow and (iii) rotational and irrotational flow.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q7_s2",
+          "subNumber": "b",
+          "text": "An incompressible fluid flows steadily through two pipes of diameter 0.15 m and 0.2 m which combine to discharge in a pipe of 0.3 diameter. If the average velocities in the 0.15 m and 0.2 m diameter pipes are \\( 2 \\, m/s \\) and \\( 3 \\, m/s \\) respectively, then find the average velocity in the 0.3 m diameter pipe.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2020_77_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2020_77_q8_s1",
+          "subNumber": "a",
+          "text": "Show that for a trapezoidal channel of given area of flow, the condition of maximum flow requires that hydraulic mean depth is equal to one half the depth of flow.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydraulic_2020_77_q8_s2",
+          "subNumber": "b",
+          "text": "An irrigation channel of trapezoidal section, having side slopes 3 horizontal to 2 vertical, is to carry a flow of 10 cumec on a longitudinal slope of 1 in 5000. The channel is to be lined for which the value of friction coefficient in Manning's formula is \\( n=0.012 \\). Find the dimensions of the most economic section of the channel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2020_77_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2020_77_q9_s1",
+          "subNumber": "a",
+          "text": "The depth and velocity of flow in a rectangular channel are 1 m and \\( 1.5 \\, m/s \\) respectively. If the rate of inflow at the upstream end is suddenly doubled, what will be the height and absolute velocity of the resulting surge and the celerity of the wave?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

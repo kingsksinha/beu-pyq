@@ -1,0 +1,328 @@
+{
+  "id": "sem1_eme_2015_91",
+  "semester": 1,
+  "subject_code": "eme",
+  "subject_name": "Elements of Mechanical Engineering",
+  "year": "2015",
+  "exam_code": "021101",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam., 2015 ELEMENTS OF MECHANICAL ENGINEERING Time: 3 hours Code: 021101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 7,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eme_2015_91_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/Fill in the blanks of the following (any seven):",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_91_q1_s1",
+          "subNumber": "a",
+          "text": "Work done in a free expansion process, is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "positive",
+            "negative",
+            "zero",
+            "maximum",
+            "minimum"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_91_q1_s2",
+          "subNumber": "b",
+          "text": "Entropy change depends on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "heat transfer",
+            "mass transfer",
+            "change of temperature",
+            "thermodynamic state",
+            "change of pressure and volume"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_91_q1_s3",
+          "subNumber": "c",
+          "text": "In case of gas turbine, the gaseous fuel consumption guarantees are based on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "high heat value",
+            "low heat value",
+            "net calorific value",
+            "middle heat value",
+            "calorific value"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_91_q1_s4",
+          "subNumber": "d",
+          "text": "Mach number is defined as ______",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_91_q1_s5",
+          "subNumber": "e",
+          "text": "Equivalent evaporation of a boiler is defined as ______",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_91_q1_s6",
+          "subNumber": "f",
+          "text": "Cycle efficiency of a modern thermal power plant is approximately",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "29%",
+            "60%",
+            "80%",
+            "44%",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_91_q1_s7",
+          "subNumber": "g",
+          "text": "For supersonic flow, the converging duct is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "nozzle",
+            "diffuser",
+            "venture",
+            "duct in which velocity remains constant"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_91_q1_s8",
+          "subNumber": "h",
+          "text": "The ideal refrigeration cycle in aircraft is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "vapour compression cycle",
+            "vapour absorption cycle",
+            "steam jet refrigeration",
+            "reversed Brayton cycle"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_91_q1_s9",
+          "subNumber": "i",
+          "text": "The working substance in Rankine cycle",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "is gas",
+            "is vapour",
+            "can be gas or vapour"
+          ]
+        },
+        {
+          "id": "sem1_eme_2015_91_q1_s10",
+          "subNumber": "j",
+          "text": "The critical pressure of the steam is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10 bar",
+            "221.1 bar",
+            "100 bar",
+            "2212 bar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_91_q2",
+      "number": 2,
+      "title": "Q.2 Solve all parts :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_91_q2_s1",
+          "subNumber": "a",
+          "text": "What is wind power plant? Define the types of windmill.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_91_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the construction and working of a Janata Model Gobar Gas Plant.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_91_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_91_q3_s1",
+          "subNumber": "a",
+          "text": "A fluid system undergoes a non-flow frictionless process following the pressure-volume relation as \\(p = 5 / v + 1.5\\), where \\(p\\) is in bar and \\(v\\) is in m\\(^3\\). During the process, the volume changes from 0.15 m\\(^3\\) and the system rejects 45 kJ of heat. Determine the—<br/>(i) change in internal energy;<br/>(ii) change in enthalpy.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_91_q3_s2",
+          "subNumber": "b",
+          "text": "1 kg of steam at 8 bar, entropy 6.55 kJ/kg-K, is heated reversibly at constant pressure until the temperature is 200 °C. Calculate the heat supplied and show on a \\(T-S\\) diagram the area which represents the heat flow.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_91_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_91_q4_s1",
+          "subNumber": "a",
+          "text": "Explain boiler mountings and accessories. Sketch any two.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_91_q4_s2",
+          "subNumber": "b",
+          "text": "Enumerate the factors which should be considered while selecting a boiler.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_91_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_91_q5_s1",
+          "subNumber": "a",
+          "text": "A 4-cylinder two-stroke cycle petrol engine develops 30 kW at 2500 r.p.m. The mean effective pressure on each piston is 8 bar and mechanical efficiency is 80%. Calculate the diameter and stroke of each cylinder of stroke to bore ratio 1.5. Also calculate the fuel consumption of the engine, if brake efficiency is 28%. The calorific value is in J/kg.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_91_q5_s2",
+          "subNumber": "b",
+          "text": "What are the two basic types of internal combustion engines? What are the fundamental differences between the two?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_91_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_91_q6_s1",
+          "subNumber": "a",
+          "text": "Describe the working principle of thermal power plant with a neat sketch.",
+          "freq": 7,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_eme_2015_91_q6_s2",
+          "subNumber": "b",
+          "text": "Describe the working principle of nuclear power plant with a neat sketch.",
+          "freq": 7,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_91_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_91_q7_s1",
+          "subNumber": "a",
+          "text": "Differentiate clearly between open and closed air refrigeration systems.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_91_q7_s2",
+          "subNumber": "b",
+          "text": "Enumerate the main parts of the equipment in the air-conditioning cycle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_91_q8",
+      "number": 8,
+      "title": "Q.8 Solve all parts :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_91_q8_s1",
+          "subNumber": "a",
+          "text": "Name various ores of iron and explain the process of manufacturing pig iron from them.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_91_q8_s2",
+          "subNumber": "b",
+          "text": "Compare the construction and working of blast furnace and cupola. Explain the method of operation of cupola.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2015_91_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2015_91_q9_s1",
+          "subNumber": "a",
+          "text": "Compare recrystallization in steel caused by an allotropic change and recrystallization due to cold working.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2015_91_q9_s2",
+          "subNumber": "b",
+          "text": "Draw iron-carbon equilibrium diagram and show their salient features.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

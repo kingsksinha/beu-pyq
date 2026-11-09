@@ -1,0 +1,263 @@
+{
+  "id": "sem4_pe_2019_31",
+  "semester": 4,
+  "subject_code": "pe",
+  "subject_name": "Power Electronics",
+  "year": "2019",
+  "exam_code": "031609",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam., 2019 POWER ELECTRONICS Time: 03 Hours Code: 031609 Full Marks: 70",
+  "question_count": 8,
+  "total_subquestions": 23,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are EIGHT questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_pe_2019_31_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2019_31_q1_s1",
+          "subNumber": "a",
+          "text": "Draw the symbols of BJT, MOSFET and SITH.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2019_31_q1_s2",
+          "subNumber": "b",
+          "text": "The reverse recovery time of a diode is \\( t_{rr} = 3~\\mu s \\) and the rate of fall of the diode current is \\( di/dt = 30 \\text{ A}/\\mu s \\). Determine the stored charge \\( Q_{RR} \\) in reverse recovery zone.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2019_31_q1_s3",
+          "subNumber": "c",
+          "text": "What is the softness factor of diodes?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2019_31_q1_s4",
+          "subNumber": "d",
+          "text": "Explain forward-biased safe operating area (FBSOA) of BJT.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2019_31_q1_s5",
+          "subNumber": "e",
+          "text": "Define distortion factor (DF).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2019_31_q1_s6",
+          "subNumber": "f",
+          "text": "A step-up d.c.-d.c. converter has input voltage \\( V_s = 10 \\text{ V} \\), inductance \\( L = 1 \\text{ mH} \\), duty ratio \\( d = 0.5 \\) and time period \\( T = 1 \\text{ ms} \\). Find the peak-to-peak ripple current in inductor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2019_31_q1_s7",
+          "subNumber": "g",
+          "text": "The H-bridge inverter has an R-L-C load with \\( R = 10~\\Omega \\), \\( L = 31.5 \\text{ mH} \\) and \\( C = 112~\\mu F \\). The inverter frequency is \\( f_0 = 60 \\text{ Hz} \\) and d.c. input voltage is \\( V_s = 220 \\text{ V} \\). Find the output fundamental r.m.s. voltage.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_pe_2019_31_q1_s8",
+          "subNumber": "h",
+          "text": "Find the line-to-line r.m.s. voltage of three-phase inverter operating in \\( 180^{\\circ} \\) conduction mode if d.c. input voltage \\( V_s = 220 \\text{ V} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2019_31_q1_s9",
+          "subNumber": "i",
+          "text": "Explain dynamic current sharing in parallel operation of thyristors.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2019_31_q1_s10",
+          "subNumber": "j",
+          "text": "The full converter is connected to a 120 V, 60 Hz supply. The load current \\( I_a = 8 \\text{ A} \\) is continuous and its ripple content is negligible. If the delay angle is \\( \\alpha = \\pi/3 \\), calculate power factor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2019_31_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2019_31_q2_s1",
+          "subNumber": "a",
+          "text": "The three-phase bidirectional delta-connected controller has a resistive load of \\( R = 10~\\Omega \\). The line-to-line voltage is \\( V_s = 208 \\text{ V} \\) (r.m.s.), 60 Hz and the delay angle is \\( \\alpha = 2\\pi/3 \\). Determine the r.m.s. output voltage \\( V_0 \\), the input PF and the r.m.s. current of a thyristor \\( I_R \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/73.jpg"
+          ]
+        },
+        {
+          "id": "sem4_pe_2019_31_q2_s2",
+          "subNumber": "b",
+          "text": "Explain three-phase full-wave delta-connected controller with various waveforms.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2019_31_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2019_31_q3_s1",
+          "subNumber": "a",
+          "text": "A single-phase half-wave converter is operated from a 120 V, 60 Hz supply and the resistive load is \\( R = 10~\\Omega \\). If the average output voltage is 50% of the maximum possible output voltage, calculate the delay angle, the r.m.s. and average output currents.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/70.jpg"
+          ]
+        },
+        {
+          "id": "sem4_pe_2019_31_q3_s2",
+          "subNumber": "b",
+          "text": "Explain three-phase full converter with R-L load with various waveforms.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2019_31_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2019_31_q4_s1",
+          "subNumber": "a",
+          "text": "Explain two-transistor model of a thyristor.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_pe_2019_31_q4_s2",
+          "subNumber": "b",
+          "text": "A single-phase half-bridge inverter has resistive load of \\( R = 5~\\Omega \\) and the d.c. input voltage is \\( V_s = 100 \\text{ V} \\). Determine the r.m.s. output voltage at the fundamental frequency \\( V_{01} \\) and the output power \\( P_0 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2019_31_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2019_31_q5_s1",
+          "subNumber": "a",
+          "text": "A single-phase full-bridge inverter is operated at 1 kHz and uses a uniform PWM with four pulses per half-cycle for voltage control. Plot the fundamental component, distortion factor and THD against the modulation index M.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2019_31_q5_s2",
+          "subNumber": "b",
+          "text": "The bridge inverter has an R-L-C load with \\( R = 10~\\Omega \\), \\( L = 31.5 \\text{ mH} \\) and \\( C = 112~\\mu F \\). The inverter frequency is \\( f_o = 60 \\text{ Hz} \\) and d.c. input voltage is \\( V_s = 220 \\text{ V} \\). Calculate the r.m.s. load current at the fundamental frequency \\( I_{o1} \\) and the THD of the load current.",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/72.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2019_31_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2019_31_q6_s1",
+          "subNumber": "a",
+          "text": "The buck converter has d.c. input voltage \\( V_s = 110 \\text{ V} \\), average load voltage \\( V_a = 80 \\text{ V} \\) and average load current \\( I_a = 15 \\text{ A} \\). The chopping frequency is \\( f = 10 \\text{ kHz} \\). The peak-to-peak ripples are 5% for load voltage, 2.5% for load current and 10% for filter \\( L_e \\) current. Determine the values of \\( L_e \\), \\( L \\), \\( C_e \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/71.jpg"
+          ]
+        },
+        {
+          "id": "sem4_pe_2019_31_q6_s2",
+          "subNumber": "b",
+          "text": "Write on the steady state analysis of buck converter.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2019_31_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2019_31_q7_s1",
+          "subNumber": "a",
+          "text": "Explain briefly about Cuk-converter.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_pe_2019_31_q7_s2",
+          "subNumber": "b",
+          "text": "The buck-boost regulator has an input voltage of \\( V_s = 12 \\text{ V} \\). The duty cycle \\( k = 0.25 \\) and the switching frequency is 25 kHz. The inductance \\( L = 150~\\mu\\text{H} \\) and filter capacitance \\( C = 220~\\mu\\text{F} \\). The average load current \\( I_a = 1.25 \\text{ A} \\). Determine the peak-to-peak output voltage ripple \\( \\Delta V_c \\) and the peak-to-peak ripple current of inductor \\( \\Delta I_L \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/69.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_pe_2019_31_q8",
+      "number": 8,
+      "title": "Q.8 Write brief notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_pe_2019_31_q8_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

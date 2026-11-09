@@ -1,0 +1,344 @@
+{
+  "id": "sem1_wp_2022_81",
+  "semester": 1,
+  "subject_code": "wp",
+  "subject_name": "Workshop + Workshop Practices",
+  "year": "2022",
+  "exam_code": "100105",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam-2022 Workshop Manufacturing Practices Time: 03 Hours Code: 100105 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 14,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_wp_2022_81_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following: (any seven)",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2022_81_q1_s1",
+          "subNumber": "a",
+          "text": "Structural sections such as rails, angles, I-beams are made by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Hot rolling",
+            "Hot drawing",
+            "Hot piercing",
+            "Hot extrusion"
+          ]
+        },
+        {
+          "id": "sem1_wp_2022_81_q1_s2",
+          "subNumber": "b",
+          "text": "In arc welding, the electric arc is produced between the work and the electrode by",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Voltage",
+            "Flow of current",
+            "Contact resistance",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem1_wp_2022_81_q1_s3",
+          "subNumber": "c",
+          "text": "Blanking is a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Forging operation",
+            "Sheet metal operation",
+            "Bending operation",
+            "Rolling operation"
+          ]
+        },
+        {
+          "id": "sem1_wp_2022_81_q1_s4",
+          "subNumber": "d",
+          "text": "Mallet is a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Measuring tool",
+            "Marking tool",
+            "Holding tool",
+            "Striking tool"
+          ]
+        },
+        {
+          "id": "sem1_wp_2022_81_q1_s5",
+          "subNumber": "e",
+          "text": "The temperature at which the new grains are formed in the metal is called",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Eutectic temperature",
+            "Eutectoid temperature",
+            "Critical temperature",
+            "Recrystallization temperature"
+          ]
+        },
+        {
+          "id": "sem1_wp_2022_81_q1_s6",
+          "subNumber": "f",
+          "text": "In centrifugal casting",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Core is made of sand",
+            "Core is made of ferrous material",
+            "Core is made of non-ferrous material",
+            "No core is used"
+          ]
+        },
+        {
+          "id": "sem1_wp_2022_81_q1_s7",
+          "subNumber": "g",
+          "text": "Cutting and forming operations can be performed in a single operation in a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Simple die",
+            "Progressive die",
+            "Compound die",
+            "Combination die"
+          ]
+        },
+        {
+          "id": "sem1_wp_2022_81_q1_s8",
+          "subNumber": "h",
+          "text": "Loam sand is a mixture of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "20% sand and 80% clay",
+            "50% sand and 50% clay",
+            "70% sand and 30% clay",
+            "80% sand and 20% clay"
+          ]
+        },
+        {
+          "id": "sem1_wp_2022_81_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following welding processes uses non-consumable electrodes?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "TIG welding",
+            "MIG welding",
+            "Manual arc welding",
+            "Submerged arc welding"
+          ]
+        },
+        {
+          "id": "sem1_wp_2022_81_q1_s10",
+          "subNumber": "j",
+          "text": "A ring gauge is used to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Check the diameter of shafts or studs",
+            "Test the accuracy of holes",
+            "Check the clearance between two mating surfaces",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2022_81_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2022_81_q2_s1",
+          "subNumber": "a",
+          "text": "List any six forging defects.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2022_81_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2022_81_q3_s1",
+          "subNumber": "a",
+          "text": "List out the different types of files. Write the use of any three types of files with sketches.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_wp_2022_81_q3_s2",
+          "subNumber": "b",
+          "text": "Describe the working of spring hammer with neat sketch.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2022_81_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2022_81_q4_s1",
+          "subNumber": "a",
+          "text": "Write four advantages of hot working process. Explain the principle of hot rolling.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_wp_2022_81_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the following hot working processes: i. Extrusion ii. Drawing",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2022_81_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2022_81_q5_s1",
+          "subNumber": "a",
+          "text": "List out various fastening methods those are used in sheet metal and explain any two of them.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2022_81_q5_s2",
+          "subNumber": "b",
+          "text": "What is the difference between hem and seam?",
+          "freq": 14,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2022_81_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2022_81_q6_s1",
+          "subNumber": "a",
+          "text": "Write the specific application of any three measuring tools in carpentry. List out the different holding tools used in carpentry.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_wp_2022_81_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the following handsaws used in carpentry with neat sketch: i. Rip saw ii. Bow saw iii. Dovetail Saw iv. Keyhole saw",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2022_81_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2022_81_q7_s1",
+          "subNumber": "a",
+          "text": "Discuss different type of electrodes and why electrode is coating.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_wp_2022_81_q7_s2",
+          "subNumber": "b",
+          "text": "What are the welding defects occurs during welding. Explain any four.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2022_81_q8",
+      "number": 8,
+      "title": "Q.8 Solve all parts :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2022_81_q8_s1",
+          "subNumber": "a",
+          "text": "List any four materials used for pattern making.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_wp_2022_81_q8_s2",
+          "subNumber": "b",
+          "text": "Explain any four properties of moulding sand.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_wp_2022_81_q8_s3",
+          "subNumber": "c",
+          "text": "What is meant by sand binder? Name the types of sand binders.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2022_81_q9",
+      "number": 9,
+      "title": "Q.9 Solve all parts :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2022_81_q9_s1",
+          "subNumber": "a",
+          "text": "What is 3D printing? Write some important applications of 3D Printing.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2022_81_q9_s2",
+          "subNumber": "b",
+          "text": "Discuss Fused Deposition Modeling process of 3D printing.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2022_81_q9_s3",
+          "subNumber": "c",
+          "text": "Differentiate between Soldering and Brazing.",
+          "freq": 14,
+          "stars": "★★★★★"
+        }
+      ]
+    }
+  ]
+}

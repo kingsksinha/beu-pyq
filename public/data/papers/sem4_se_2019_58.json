@@ -1,0 +1,281 @@
+{
+  "id": "sem4_se_2019_58",
+  "semester": 4,
+  "subject_code": "se",
+  "subject_name": "Software Engineering",
+  "year": "2019",
+  "exam_code": "051614",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 6th Semester Examination, 2019 Software Engineering Time: 03 Hours Code: 051614 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_se_2019_58_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2019_58_q1_s1",
+          "subNumber": "a",
+          "text": "The spiral model was originally proposed by",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "IBM",
+            "Barry Boehm",
+            "Pressman",
+            "Royce"
+          ]
+        },
+        {
+          "id": "sem4_se_2019_58_q1_s2",
+          "subNumber": "b",
+          "text": "In what type of coupling, the complete data structure is passed from one module to another?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Control coupling",
+            "External coupling",
+            "Stamp coupling",
+            "Content coupling"
+          ]
+        },
+        {
+          "id": "sem4_se_2019_58_q1_s3",
+          "subNumber": "c",
+          "text": "Measure of reliability is given by",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "mean time between success",
+            "MTBF",
+            "mean reliable",
+            "MTTR"
+          ]
+        },
+        {
+          "id": "sem4_se_2019_58_q1_s4",
+          "subNumber": "d",
+          "text": "Which one of the following is not desired in a good Software Requirement Specifications (SRS) document?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Functional requirements",
+            "Goals of implementation",
+            "Non-functional requirements",
+            "Algorithms for software implementation"
+          ]
+        },
+        {
+          "id": "sem4_se_2019_58_q1_s5",
+          "subNumber": "e",
+          "text": "... is a measure of the degree of interdependence between modules.",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "Cohesion",
+            "Global variable",
+            "Coupling",
+            "Call sequence"
+          ]
+        },
+        {
+          "id": "sem4_se_2019_58_q1_s6",
+          "subNumber": "f",
+          "text": "If all tasks must be executed in the same time-span, what type of cohesion is being exhibited?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Functional",
+            "Spatial",
+            "Temporal",
+            "Sequential"
+          ]
+        },
+        {
+          "id": "sem4_se_2019_58_q1_s7",
+          "subNumber": "g",
+          "text": "Independent modules are easier to maintain and test because of",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "code modification is limited",
+            "reusable modules are possible",
+            "error propagation is reduced",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_se_2019_58_q1_s8",
+          "subNumber": "h",
+          "text": "From the following, which quality deals with maintaining the quality of the software product?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Quality assurance",
+            "Quality efficiency",
+            "Quality control",
+            "Quality calculation"
+          ]
+        },
+        {
+          "id": "sem4_se_2019_58_q1_s9",
+          "subNumber": "i",
+          "text": "Classes communicate with one another via",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "processed information",
+            "interfaces",
+            "messages",
+            "coupling"
+          ]
+        },
+        {
+          "id": "sem4_se_2019_58_q1_s10",
+          "subNumber": "j",
+          "text": "Software is not considered to be collection of executable programming code, associated libraries and documentations.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Statement is true",
+            "Software is only data structures with algorithms",
+            "Statement is false",
+            "Statement underestimates software"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2019_58_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2019_58_q2_s1",
+          "subNumber": "a",
+          "text": "What is SDLC? Write down the advantages of spiral model over basic waterfall model.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2019_58_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2019_58_q3_s1",
+          "subNumber": "a",
+          "text": "What do you mean by software cost estimation? Explain Boehm's COCOMO model in detail. Suppose an embedded project has 50 KLOC, calculate the development time to this software.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2019_58_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2019_58_q4_s1",
+          "subNumber": "a",
+          "text": "Give brief outlines of the software metrics using specific examples. Also, explain how object-oriented design metrics might be used to perform the quantitative assessment of software quality.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2019_58_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2019_58_q5_s1",
+          "subNumber": "a",
+          "text": "Software maintenance costs are influenced by a number of technical and non-technical factors. Some of the factors are-module independence, programming style, documentation, staff stability, hardware stability and software age. Which of the above factors can be controlled by software engineer while developing new software? For each of these 'controllable' factors, explain how a software engineer would attempt to minimize future maintenance costs.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2019_58_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2019_58_q6_s1",
+          "subNumber": "a",
+          "text": "It is believed that the quality of software is determined by the quality of its developers in terms of their knowledge, discipline and commitment. Explain the typical project manager's problem of people selection, motivation and team effectiveness in an IT department and discuss the extent to which the personal software process model can provide a solution.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2019_58_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2019_58_q7_s1",
+          "subNumber": "a",
+          "text": "Give the techniques and benefits of verification and validation activities during software development.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2019_58_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2019_58_q8_s1",
+          "subNumber": "a",
+          "text": "What do you mean by structured software design? Design level-1 DFD for cash ATM machine and explain it.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2019_58_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2019_58_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

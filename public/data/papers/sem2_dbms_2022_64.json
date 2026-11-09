@@ -1,0 +1,323 @@
+{
+  "id": "sem2_dbms_2022_64",
+  "semester": 2,
+  "subject_code": "dbms",
+  "subject_name": "Database Management Systems",
+  "year": "2022",
+  "exam_code": "105502",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 5th Semester Examination, 2022 Database Management System Time: 03 Hours Code: 105502 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_dbms_2022_64_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2022_64_q1_s1",
+          "subNumber": "a",
+          "text": "Four DML commands are:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "create, update, delete, select",
+            "insert, update, drop, select",
+            "create, alter, delete, select",
+            "insert, modify, delete, select"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2022_64_q1_s2",
+          "subNumber": "b",
+          "text": "View is a:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "temporary table",
+            "virtual table",
+            "dynamic table",
+            "permanent table"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2022_64_q1_s3",
+          "subNumber": "c",
+          "text": "The different levels of data abstraction are:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Physical level",
+            "Logical level",
+            "View level",
+            "all of the above"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2022_64_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following is true?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "a super-key is always a candidate key.",
+            "every 3NF schema is also a BCNF.",
+            "generalization is bottom-up approach.",
+            "none of these."
+          ]
+        },
+        {
+          "id": "sem2_dbms_2022_64_q1_s5",
+          "subNumber": "e",
+          "text": "What is the purpose of project operation:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It selects certain columns.",
+            "It selects certain rows.",
+            "It selects certain strings.",
+            "It selects certain integers."
+          ]
+        },
+        {
+          "id": "sem2_dbms_2022_64_q1_s6",
+          "subNumber": "f",
+          "text": "The weak entity set does not have sufficient attributes to form.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Primary key",
+            "Candidate key",
+            "Both (i) and (ii)",
+            "Super key"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2022_64_q1_s7",
+          "subNumber": "g",
+          "text": "Which normal form is considered adequate for normal relational database design?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2 NF",
+            "5 NF",
+            "4 NF",
+            "3 NF"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2022_64_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following is not a super key in R(V, W, X, Y, Z) with primary key VY?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "VXYZ",
+            "VWXZ",
+            "VWXY",
+            "VWXYZ"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2022_64_q1_s9",
+          "subNumber": "i",
+          "text": "Consider R (A, B, C, D, E) with following FDs:- \\( A \\rightarrow B \\), \\( A \\rightarrow C \\), \\( CD \\rightarrow E \\), \\( B \\rightarrow D \\), \\( E \\rightarrow A \\) which of the following FDs is not implied by above set?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( CD \\rightarrow AC \\)",
+            "\\( BD \\rightarrow CD \\)",
+            "\\( BC \\rightarrow CD \\)",
+            "\\( AC \\rightarrow BC \\)"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2022_64_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following is a concurrency control protocol.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Strict 2-phase locking protocol",
+            "Timestamp based protocol",
+            "Graph based protocol",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2022_64_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2022_64_q2_s1",
+          "subNumber": "a",
+          "text": "What is attribute closure \\( X^+ \\) of a set of attributes X with respect to a set of FDs F? Give the algorithm for commuting \\( X^+ \\) for X.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_dbms_2022_64_q2_s2",
+          "subNumber": "b",
+          "text": "Relation R (ABCDEFGH) contains only atomic values for all of its attributes. \\( F = \\{ CH \\rightarrow G, A \\rightarrow BC, B \\rightarrow CFH, E \\rightarrow A, F \\rightarrow EG \\} \\) is a set of functional dependencies (FDs) so that F is exactly the set of FDs that hold for R.<br/> (i) Find all the candidate keys the relation R have?<br/> (ii) Find the highest normal form with justification in which R exist?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2022_64_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2022_64_q3_s1",
+          "subNumber": "a",
+          "text": "Briefly explain the ACID properties of the transactions to ensure integrity of the data.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2022_64_q3_s2",
+          "subNumber": "b",
+          "text": "Consider the transactions T1, T2 and T3 and schedules S1 and S2 given below:<br/> T1: r1 (X); r1(Z); w1 (X); w1 (Z)<br/> T2: r2 (Y); r2 (Z); w2 (Z)<br/> T3: r3 (Y); r3 (X); w3 (Y)<br/> S1: r1 (X); r3(Y); r3(X); r2 (Y); r2(Z); w3(Y); w2 (Z); r1 (Z); w1(X); w1 (Z).<br/> S2: r1 (X); r3 (Y); r2(Y); r3(X); r1(Z); r2(Z); w3 (Y); w1 (X); w2(Z); w1 (Z).<br/> Determine which of the above schedules are conflict - serializable.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2022_64_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2022_64_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the reasons for the update, insertion and deletion anomalies.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2022_64_q4_s2",
+          "subNumber": "b",
+          "text": "With example discuss candidate key, super key, primary key and foreign key.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2022_64_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2022_64_q5_s1",
+          "subNumber": "a",
+          "text": "What are the typical phases of query processing? With a sketch, discuss these phases in high level query processing.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2022_64_q5_s2",
+          "subNumber": "b",
+          "text": "When is the decomposition of relation schema R into two relation schemes X and Y, said to be a loss-less-join decomposition? Why is this property so important? Explain with example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2022_64_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2022_64_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the terms partial functional dependency' and 'transitive dependency'. Define 2NF and 3 NF in relation with these terms.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2022_64_q6_s2",
+          "subNumber": "b",
+          "text": "Discuss the concept of generalization, specialization and aggregation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2022_64_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2022_64_q7_s1",
+          "subNumber": "a",
+          "text": "Consider the following employee database, primary keys are underlined.<br/> Employee (ename, street, city)<br/> Works (ename, cname, salary)<br/> Company (cname, city)<br/> Manages (cname, manager-name)<br/> Write SQL queries to:<br/> (i) Find the names of all the employees who work for XYZ.<br/> (ii) Find all employees who live in the same city as the company for which they work.<br/> (iii) Find all employees who live in the same cities and on the same streets as do their managers.<br/> (iv) Find all employees who earn more than the average salary of all employees of their company.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2022_64_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2022_64_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss the advantages and disadvantages of using DBMS as compared to a conventional file system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2022_64_q8_s2",
+          "subNumber": "b",
+          "text": "What is weak entity set? Explain with suitable example. How weak entities are represented as relational schemas.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2022_64_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2022_64_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

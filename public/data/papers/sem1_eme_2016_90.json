@@ -1,0 +1,352 @@
+{
+  "id": "sem1_eme_2016_90",
+  "semester": 1,
+  "subject_code": "eme",
+  "subject_name": "Elements of Mechanical Engineering",
+  "year": "2016",
+  "exam_code": "021201",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2016 ELEMENTS OF MECHANICAL ENGINEERING Time: 3 hours Code: 021201 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 7,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eme_2016_90_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following/Choose the correct option (any seven):",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2016_90_q1_s1",
+          "subNumber": "a",
+          "text": "Give two examples of secondary energy sources.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_eme_2016_90_q1_s2",
+          "subNumber": "b",
+          "text": "Which quality of coal is most suitable for thermal power plant?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Peat",
+            "Lignite",
+            "Bituminous",
+            "Anthracite"
+          ]
+        },
+        {
+          "id": "sem1_eme_2016_90_q1_s3",
+          "subNumber": "c",
+          "text": "Ice kept in a wall insulated thermos flask is an example of which system?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Closed system",
+            "Isolated system",
+            "Open system",
+            "Non-flow adiabatic system"
+          ]
+        },
+        {
+          "id": "sem1_eme_2016_90_q1_s4",
+          "subNumber": "d",
+          "text": "The long tube that carries water from the dam to the turbine is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "spillway",
+            "draft tube",
+            "surge tank",
+            "penstock"
+          ]
+        },
+        {
+          "id": "sem1_eme_2016_90_q1_s5",
+          "subNumber": "e",
+          "text": "The processes of generation of steam in the pressure cooker is an example of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "constant pressure process",
+            "constant volume process",
+            "constant enthalpy process",
+            "constant entropy process"
+          ]
+        },
+        {
+          "id": "sem1_eme_2016_90_q1_s6",
+          "subNumber": "f",
+          "text": "In a boiler, the air preheater is invariably located between",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "furnace and economiser",
+            "economiser and chimney",
+            "economiser and feed pump",
+            "furnace and feed pump"
+          ]
+        },
+        {
+          "id": "sem1_eme_2016_90_q1_s7",
+          "subNumber": "g",
+          "text": "In an aqua-ammonia absorption refrigeration system, the ammonia vapours are produced at high pressure in the",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "absorber",
+            "condenser",
+            "evaporator",
+            "generator"
+          ]
+        },
+        {
+          "id": "sem1_eme_2016_90_q1_s8",
+          "subNumber": "h",
+          "text": "The component which maintains a constant angular motion of the crank within a cycle is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "flywheel",
+            "governor",
+            "crankshaft",
+            "connecting rod"
+          ]
+        },
+        {
+          "id": "sem1_eme_2016_90_q1_s9",
+          "subNumber": "i",
+          "text": "In a four-stroke cycle diesel engine, during suction stroke",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "mixture of fuel and air is sucked in",
+            "only fuel is sucked in",
+            "only air is sucked in",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem1_eme_2016_90_q1_s10",
+          "subNumber": "j",
+          "text": "The property of material to resist fracture under impact loading is called",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "strength",
+            "hardness",
+            "brittleness",
+            "toughness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2016_90_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2016_90_q2_s1",
+          "subNumber": "a",
+          "text": "What are the advantages and disadvantages of renewable sources of energy?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_eme_2016_90_q2_s2",
+          "subNumber": "b",
+          "text": "What are the applications of solar energy? Discuss the working of a solar plate collector with the help of a suitable neat sketch.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2016_90_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2016_90_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the thermodynamic equilibrium.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2016_90_q3_s2",
+          "subNumber": "b",
+          "text": "Air initially at a pressure of 75 kPa and temperature of 1000 K and occupying a volume of 0·12 m\\(^3\\) is compressed isothermally until the volume is halved. Subsequently, the volume undergoes further compression at constant pressure till it is halved again. Calculate the work done.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2016_90_q4",
+      "number": 4,
+      "title": "Q.4 Solve all parts :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2016_90_q4_s1",
+          "subNumber": "a",
+          "text": "Define a boiler as per IBR. What are the purposes of steam generation?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2016_90_q4_s2",
+          "subNumber": "b",
+          "text": "What is natural and forced circulation boiler?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2016_90_q4_s3",
+          "subNumber": "c",
+          "text": "Explain the working of water level indicator with suitable diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2016_90_q5",
+      "number": 5,
+      "title": "Q.5 Solve all parts :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2016_90_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the working principle of reaction turbine.",
+          "freq": 7,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_eme_2016_90_q5_s2",
+          "subNumber": "b",
+          "text": "State the merits of gas turbine over IC engine.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_eme_2016_90_q5_s3",
+          "subNumber": "c",
+          "text": "What are the applications of gas turbine?",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2016_90_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2016_90_q6_s1",
+          "subNumber": "a",
+          "text": "How do you classify IC engines? Represent Otto and Diesel cycle on \\(p-v\\) and \\(T-S\\) plot.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2016_90_q6_s2",
+          "subNumber": "b",
+          "text": "Derive an expression for air standard efficiency of Otto cycle.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2016_90_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2016_90_q7_s1",
+          "subNumber": "a",
+          "text": "Give the complete layout of steam power plant showing the appropriate position of economiser, air preheater, cooling tower and feed pump.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2016_90_q7_s2",
+          "subNumber": "b",
+          "text": "What are the advantages and disadvantages of hydroelectric power plant?",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2016_90_q8",
+      "number": 8,
+      "title": "Q.8 Solve all parts :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2016_90_q8_s1",
+          "subNumber": "a",
+          "text": "What is the principle of refrigeration?",
+          "freq": 7,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_eme_2016_90_q8_s2",
+          "subNumber": "b",
+          "text": "Compare the vapour absorption refrigeration system with vapour compression refrigeration system.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_eme_2016_90_q8_s3",
+          "subNumber": "c",
+          "text": "Define air-conditioning.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eme_2016_90_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eme_2016_90_q9_s1",
+          "subNumber": "a",
+          "text": "What is heat treatment of metals? What is quenching?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eme_2016_90_q9_s2",
+          "subNumber": "b",
+          "text": "What are the classifications of plain carbon steel? What are their properties and applications?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

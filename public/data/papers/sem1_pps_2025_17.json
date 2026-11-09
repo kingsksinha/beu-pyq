@@ -1,0 +1,330 @@
+{
+  "id": "sem1_pps_2025_17",
+  "semester": 1,
+  "subject_code": "pps",
+  "subject_name": "Programming For Problem Solving",
+  "year": "2025",
+  "exam_code": "100204",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 (Old Course) Programming for Problem Solving Time: 03 Hours Code: 100204 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_pps_2025_17_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_17_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following cannot be a variable name in C?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "volatile",
+            "true",
+            "friend",
+            "export"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_17_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following typecasting is accepted by C language",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Widening conversions",
+            "Narrowing conversions",
+            "Widening &amp; Narrowing conversions",
+            "None of the mentioned"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_17_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is NOT possible with any 2 operators in C?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Different precedence, same associativity",
+            "Different precedence, different associativity",
+            "Same precedence, different associativity",
+            "All of the mentioned"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_17_q1_s4",
+          "subNumber": "d",
+          "text": "Functions can return enumeration constants in C?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "true",
+            "false",
+            "depends on the compiler",
+            "depends on the standard"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_17_q1_s5",
+          "subNumber": "e",
+          "text": "C preprocessors can have compiler specific features.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "True",
+            "False",
+            "Depends on the standard",
+            "Depends on the platform"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_17_q1_s6",
+          "subNumber": "f",
+          "text": "How many number of pointer (*) does C have against a pointer variable declaration?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "7",
+            "127",
+            "255",
+            "No limits"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_17_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following is not possible statically in C language?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Jagged Array",
+            "Rectangular Array",
+            "Cuboidal Array",
+            "Multidimensional Array"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_17_q1_s8",
+          "subNumber": "h",
+          "text": "What will be the value of the following assignment expression?<br/> (x = foo())!=1 considering foo() returns 2",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2",
+            "True",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_17_q1_s9",
+          "subNumber": "i",
+          "text": "Comment on the following C statement<br/> n=1; printf(\"%d, %d \", 3*n, n++);",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Output will be 3, 2",
+            "Output will be 3, 1",
+            "Output will be 6, 1",
+            "Output is compiler dependent"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_17_q1_s10",
+          "subNumber": "j",
+          "text": "What are the elements present in the array of the following C code?<br/> int array[5]={5};",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "5, 5, 5, 5, 5",
+            "5, 0, 0, 0, 0",
+            "5, NULL, NULL, NULL, NULL",
+            "5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_17_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_17_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the major components of a computer system. How does the operating system help in program execution?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2025_17_q2_s2",
+          "subNumber": "b",
+          "text": "Write an algorithm and flowchart to find the largest of three numbers.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_17_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_17_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the different arithmetic operators in C. Write the rules for evaluating arithmetic expressions with precedence and associativity.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2025_17_q3_s2",
+          "subNumber": "b",
+          "text": "Write a program to reverse a number using a loop. Explain the concept of an infinite loop with examples. Why do infinite loops occur?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_17_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_17_q4_s1",
+          "subNumber": "a",
+          "text": "Explain array declaration and initialization with examples for 1-D and 2-D arrays. Also explain the concept of bound checking.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2025_17_q4_s2",
+          "subNumber": "b",
+          "text": "Write a C program to perform Binary Search on a sorted array.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_17_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_17_q5_s1",
+          "subNumber": "a",
+          "text": "What is call by reference? How is passing an array to a function an example of call by reference? Explain with code.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2025_17_q5_s2",
+          "subNumber": "b",
+          "text": "Write a program that reads marks of 5 students into an array and uses a function to compute the average. Demonstrate passing an array to a function.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_17_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_17_q6_s1",
+          "subNumber": "a",
+          "text": "Define a structure Student with name, roll, marks. Write a C program to input data for 3 students and print it.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2025_17_q6_s2",
+          "subNumber": "b",
+          "text": "Write a note on accessing structure elements using (a) dot operator, (b) pointer-to-structure. Give examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_17_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_17_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the concept of pointers in C. How are pointers defined and used? Illustrate with a program that swaps two numbers using pointers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2025_17_q7_s2",
+          "subNumber": "b",
+          "text": "Write a C program using pointers to reverse an array in-place. Explain how pointers are used in the program.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_17_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_17_q8_s1",
+          "subNumber": "a",
+          "text": "Write a recursive C program to find the factorial of a number. Also explain base case and recursive case.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_pps_2025_17_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the Ackermann function. Write a recursive program for it. Why is it not suitable for large values?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_17_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_17_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

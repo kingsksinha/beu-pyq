@@ -1,0 +1,228 @@
+{
+  "id": "sem2_dom_2017_86",
+  "semester": 2,
+  "subject_code": "dom",
+  "subject_name": "Dynamics of Machinery",
+  "year": "2017",
+  "exam_code": "021513",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2017 Dynamics of Machinery Time: 03 Hours Code: 021513 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 19,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_dom_2017_86_q1",
+      "number": 1,
+      "title": "Q.1 Select the best answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2017_86_q1_s1",
+          "subNumber": "a",
+          "text": "A disc is spinning with an angular velocity \\( \\omega \\) rad/sec about the axis. The couple applied to the disc causing precession will be",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2017_86_q1_s2",
+          "subNumber": "b",
+          "text": "When the crank is at the inner dead centre, in a horizontal reciprocating engine, then the velocity of the piston will be",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2017_86_q1_s3",
+          "subNumber": "c",
+          "text": "The ratio of the maximum fluctuation of speed to the mean speed is called",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2017_86_q1_s4",
+          "subNumber": "d",
+          "text": "The size of a cam depends upon",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_dom_2017_86_q1_s5",
+          "subNumber": "e",
+          "text": "The cam follower generally used in automobile engine is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2017_86_q1_s6",
+          "subNumber": "f",
+          "text": "The primary unbalanced force is maximum when the angle of inclination of the crank with the line of stroke is",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_dom_2017_86_q1_s7",
+          "subNumber": "g",
+          "text": "The swaying couple is due to the",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2017_86_q1_s8",
+          "subNumber": "h",
+          "text": "When there is a reduction in amplitude over every cycle of vibration, then the body is said to have",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2017_86_q1_s9",
+          "subNumber": "i",
+          "text": "When a body is subjected to transverse vibrations, the stress induced in a body will be",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2017_86_q1_s10",
+          "subNumber": "j",
+          "text": "A shaft carrying two rotors as its ends will have",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2017_86_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2017_86_q2_s1",
+          "subNumber": "a",
+          "text": "A small connecting rod 220 mm long between centers has a mass of 2 kg and moment of inertia of \\( 2 \\times 10^4 kg-mm^2 \\) about its centre of gravity. Centre of gravity is located at a distance of 150 mm from the small end centre. Determine the dynamically two-mass system when one mass is located at the small end centre. If the connecting rod is replaced by two masses located at the two centers, find the correction couple that must be applied for complete dynamical equivalence of the system, when the angular acceleration of the connecting rod is 20000 rad/s² clockwise.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2017_86_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2017_86_q3_s1",
+          "subNumber": "a",
+          "text": "The torque exerted on the crankshaft of a two-stroke engine is given by the equation \\( T(Nm) = 7000 + 1000 \\sin 2\\theta - 2000 \\cos 2\\theta \\) where \\( \\theta \\) is the crank displacement from the inner dead centre. Assuming the resisting torque to be constant, determine- (a) the power developed when the engine speed is 300 r.p.m.; (b) the total fluctuation in speed in percentage; (c) the maximum retardation of the flywheel. The mass of flywheel is 500 kg and its radius of gyration is 750 mm.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2017_86_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2017_86_q4_s1",
+          "subNumber": "a",
+          "text": "A disc cam is to give SHM to a knife edge follower during out stroke of 50 mm. The angle of ascent is \\( 120^{\\circ} \\), dwell \\( 60^{\\circ} \\) and an angle of descent \\( 90^{\\circ} \\). The minimum radius of cam is 50 mm. Draw the profile of the cam when the axis of the follower passes through the axis of the camshaft. Also calculate the maximum velocity and acceleration during ascent and descent when the camshaft revolves at 240 r.p.m.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2017_86_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2017_86_q5_s1",
+          "subNumber": "a",
+          "text": "The following data refers to a circular arc cam working with a flat-faced reciprocating follower. Minimum radius of cam = 30 mm, total angle of cam rotation = \\( 120^{\\circ} \\), radius of circular arc = 80 mm and nose radius = 10 mm. Find (a) the distance of the centre of the nose circle from the cam axis, (b) the angle through which the cam turns when the point of contact moves from the junction of minimum radius arc and circular arc to the junction of nose arc and circular arc and (c) velocity and acceleration of the follower when the cam has turned through an angle of \\( 20^{\\circ} \\). The angular velocity of cam is 10 rad/sec.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2017_86_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2017_86_q6_s1",
+          "subNumber": "a",
+          "text": "The mass of a turbine rotor of a ship is 8000 kg and the radius of gyration is 0.75 m. It rotates at 1800 r.p.m. clockwise when viewed from the stern. Determine the gyroscopic effects in the following cases: <br/> (a) If the ship travelling at 100 km/hr steers to the left along a curve of 80 m radius. <br/> (b) If the ship is pitching and the bow is descending with maximum velocity, the pitching is with simple harmonic motion with periodic time of 20 s and the total angular movement between extreme positions is \\( 10^{\\circ} \\). <br/> (c) If the ship is rolling with an angular velocity of 0.03 rad/sec clockwise when looking from stern, in each case, determine the direction in which the ship tends to move.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2017_86_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2017_86_q7_s1",
+          "subNumber": "a",
+          "text": "The following data refer to an outside cylinder uncoupled locomotive: Rotating mass per cylinder = 300 kg, Reciprocating mass per cylinder = 330 kg, Distance between the wheels = 1.4 m, Distance between the cylinder centers = 0.6 m, Diameter of treads of the driving wheels = 1.8 m, Crank radius = 0.3 m, Radius of centre of the balance mass = 0.6 m, Speed of the locomotive = 45 km/h, Angle between the cylinder cranks = \\( 90^{\\circ} \\), Dead load on each wheel = 40 kN. Determine: (a) the balancing mass required in the planes of driving wheels if the complete revolving and 2/3rd of the reciprocating masses are to be balanced; (b) swaying couple; (c) variation in tractive effort; (d) maximum and minimum pressures on rails; (e) maximum speed of locomotive without lifting the wheels from the rails.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2017_86_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2017_86_q8_s1",
+          "subNumber": "a",
+          "text": "A shaft is simply supported at the ends and is of 20 mm in diameter and 600 mm in length. The shaft carries a load of 19.62 N at its centre. The weight of shaft per meter length is 248.2 N. Find the critical speed of the shaft. (Take Young's modulus = \\( 200 GN/m^2 \\))",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2017_86_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on the following:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2017_86_q9_s1",
+          "subNumber": "a",
+          "text": "Cam",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2017_86_q9_s2",
+          "subNumber": "b",
+          "text": "Dynamically equivalent system",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

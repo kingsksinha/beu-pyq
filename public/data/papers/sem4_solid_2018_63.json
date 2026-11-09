@@ -1,0 +1,245 @@
+{
+  "id": "sem4_solid_2018_63",
+  "semester": 4,
+  "subject_code": "solid",
+  "subject_name": "Solid Mechanics",
+  "year": "2018",
+  "exam_code": "011406",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 4th Semester Exam., 2018 Mechanics of Solid-I Time: 3 hours Code: 011406 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 21,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_solid_2018_63_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2018_63_q1_s1",
+          "subNumber": "a",
+          "text": "What are complementary shear stresses? Explain with diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q1_s2",
+          "subNumber": "b",
+          "text": "In a stressed body, at a point, on two perpendicular planes, normal stresses are +100 MPa and +60 MPa and the shear stress is on these planes. If the maximum principal stress at the point is 136 MPa, calculate the maximum shear stress at the point.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q1_s3",
+          "subNumber": "c",
+          "text": "The modulus of rigidity of material is 39 GPa. A 10 mm diameter rod of the material is subjected to an axial tensile force of 5 kN and the change in its diameter is 0.002 mm. Calculate the Poisson's ratio of the material.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q1_s4",
+          "subNumber": "d",
+          "text": "In a strained material at a point, the strains are \\( \\epsilon_{xx} = 600 \\mu \\) strain, \\( \\epsilon_{yy} = 200 \\mu \\) strain and \\( \\epsilon_{xy} = 300 \\mu \\) strain. What is the maximum principal strain at the point?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q1_s5",
+          "subNumber": "e",
+          "text": "Define Hooke's law.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q1_s6",
+          "subNumber": "f",
+          "text": "A solid circular shaft is subjected to a bending moment of 3 kN-m and a torque of 1 kN-m. The shaft is to be made in carbon steel for which the yield strength in tension and in shear is 480 MPa and 265 MPa respectively. Calculate the diameter of the shaft using distortion energy theory.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q1_s7",
+          "subNumber": "g",
+          "text": "A bar of 2 m length and 10 mm x 10 mm section is subjected to a bending moment of 20 kN-m. Find the strain energy stored, if E = 200 GPa.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q1_s8",
+          "subNumber": "h",
+          "text": "Write the maximum strain energy theory.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q1_s9",
+          "subNumber": "i",
+          "text": "Explain the terms section modulus and polar modulus.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q1_s10",
+          "subNumber": "j",
+          "text": "Using moment-area method, find the maximum deflection of a simply-supported beam loaded with UDL.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2018_63_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2018_63_q2_s1",
+          "subNumber": "a",
+          "text": "Determine the deflection at a point 1 m from the left-hand end of the beam loaded as shown in the following figure using Macaulay's method. Take EI = 0.65 MN-m\\(^2\\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/54.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2018_63_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2018_63_q3_s1",
+          "subNumber": "a",
+          "text": "A beam of T-section is subjected to a shear force of 50 kN. Draw the shear stress profile of the section having following three dimensions: Flange = 100 mm x 20 mm, Thickness of web = 20 mm, Overall depth = 100 mm.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2018_63_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2018_63_q4_s1",
+          "subNumber": "a",
+          "text": "A torque of 4 kN-m is applied on a shaft of diameter 60 mm. Calculate the shearing stress at a point just below the surface and at another point which is at distance of 20 mm from the axis. Consider the cylindrical region of radius 15 mm and calculate the torque carried by this cylinder.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2018_63_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2018_63_q5_s1",
+          "subNumber": "a",
+          "text": "A timber beam 80 mm wide and 160 mm deep is reinforced with two steel plates 5 mm thick and 60 mm wide on top and bottom. If bending moment of 800 N-m acts at section of this beam, calculate the magnitude of maximum fiber stresses in tensions and compression in wood and steel. Assume E\\(_{s}\\)/E\\(_{w}\\) = 15.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2018_63_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2018_63_q6_s1",
+          "subNumber": "a",
+          "text": "An element in a stressed material has tensile stress of 500 MN/m\\(^2\\) and a compressive stress of 350 MN/m\\(^2\\) acting on two mutually perpendicular plane and equal shear stress of 100 MN/m\\(^2\\) on these plane. Find principal stresses, maximum shearing stresses and position of principal plane using Mohr circle diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2018_63_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2018_63_q7_s1",
+          "subNumber": "a",
+          "text": "A 20 mm diameter bolt is subjected to a pull of 20 kN and a shear force of 5 kN. Calculate the maximum direct and shear stresses induced in the section and specify the position of the plane carrying these stresses with reference to the axis of the bolt. Also calculate the stress which acting alone will produce same maximum strain. Take \\( \\mu \\) = 0.25.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2018_63_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2018_63_q8_s1",
+          "subNumber": "a",
+          "text": "A simply-supported beam of length 9 m coupling two point loads 210 kN and 125 kN at 2 m and 6 m from left support respectively. The self-weight of beam is 26 kN/m. Find the slope at 4 m, deflection at centre and maximum deflection. Take EI constant.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_solid_2018_63_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_solid_2018_63_q9_s1",
+          "subNumber": "a",
+          "text": "Derive and discuss Castigliano's theorem.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_solid_2018_63_q9_s2",
+          "subNumber": "b",
+          "text": "Resilience and proof resilience.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q9_s3",
+          "subNumber": "c",
+          "text": "Strain energy.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_solid_2018_63_q9_s4",
+          "subNumber": "d",
+          "text": "Poisson's ratio.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

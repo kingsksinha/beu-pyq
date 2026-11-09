@@ -1,0 +1,319 @@
+{
+  "id": "sem3_formal_2018_59",
+  "semester": 3,
+  "subject_code": "formal",
+  "subject_name": "Formal Language & Automata Theory",
+  "year": "2018",
+  "exam_code": "051611",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam., 2018 FORMAL LANGUAGES AND AUTOMATA THEORY Time: 03 Hours Code: 051611 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_formal_2018_59_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer for any seven of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2018_59_q1_s1",
+          "subNumber": "a",
+          "text": "Regular expressions are closed under",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "union",
+            "intersection",
+            "Kleene star",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2018_59_q1_s2",
+          "subNumber": "b",
+          "text": "Extended transition function is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( Q \\times \\Sigma^* \\rightarrow Q \\)",
+            "\\( Q \\times \\Sigma^* \\rightarrow \\Sigma \\)",
+            "\\( Q \\times \\Sigma \\rightarrow Q \\)",
+            "\\( Q \\times \\Sigma \\rightarrow \\Sigma \\)"
+          ]
+        },
+        {
+          "id": "sem3_formal_2018_59_q1_s3",
+          "subNumber": "c",
+          "text": "From the options given below, the pair having different expressive powers is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "deterministic pushdown automata (DPDA) and non-deterministic pushdown automata (NPDA)",
+            "deterministic finite automata (DFA) and non-deterministic finite automata (NFA)",
+            "single-tape turing machine and multi-tape turing machine",
+            "deterministic single-tape turing machine and non-deterministic single-tape turing machine"
+          ]
+        },
+        {
+          "id": "sem3_formal_2018_59_q1_s4",
+          "subNumber": "d",
+          "text": "For the language \\( \\{a^p \\mid p \\text{ is a prime}\\} \\), the statement which holds true is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "it is not regular but context-free",
+            "it is regular but not context-free",
+            "it is neither regular nor context-free, but accepted by a turing machine",
+            "it is not accepted by turing machine"
+          ]
+        },
+        {
+          "id": "sem3_formal_2018_59_q1_s5",
+          "subNumber": "e",
+          "text": "Which one of the following statements is true?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The intersection of two context-free languages is context-free.",
+            "A context-free language can always be accepted by a deterministic push-down automaton.",
+            "The union of two context-free languages is context-free.",
+            "The complement of a context-free language is context-free."
+          ]
+        },
+        {
+          "id": "sem3_formal_2018_59_q1_s6",
+          "subNumber": "f",
+          "text": "A class of language that is closed under",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "union and complementation has to be closed under intersection",
+            "intersection and complement has to be closed under union",
+            "union and intersection has to be closed under complementation",
+            "Both (i) and (ii)"
+          ]
+        },
+        {
+          "id": "sem3_formal_2018_59_q1_s7",
+          "subNumber": "g",
+          "text": "CFG can be recognized by",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "a push-down automaton",
+            "a 2-way linear bounded automaton",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2018_59_q1_s8",
+          "subNumber": "h",
+          "text": "A given grammar is called ambiguous, if",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "two or more productions have the same non-terminal on the left-hand side",
+            "a derivation tree has more than one associated sentence",
+            "there is a sentence with more than one derivation tree corresponding to it",
+            "brackets are not present in the grammar"
+          ]
+        },
+        {
+          "id": "sem3_formal_2018_59_q1_s9",
+          "subNumber": "i",
+          "text": "The output of the Mealy machine depends",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "only on present state",
+            "only on current input symbol",
+            "both on present state and current input symbol",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2018_59_q1_s10",
+          "subNumber": "j",
+          "text": "The logic of pumping lemma is a good example of",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "pigeon-hole principle",
+            "divide-and-conquer technique",
+            "recursion",
+            "iteration"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2018_59_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2018_59_q2_s1",
+          "subNumber": "a",
+          "text": "For each of the following languages, construct a DFA that accepts the language. In all cases, the alphabet is {0, 1}:<br/> (i) {w : the length of w is divisible by three}<br/> (ii) {w : 110 is not a substring of w}<br/> (iii) {w : w contains at least five 1's}<br/> (iv) {w : w contains the substring 1011}<br/> (v) {w : w contains at least two 1's and at most two 0's}",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2018_59_q2_s2",
+          "subNumber": "b",
+          "text": "State and proof pumping lemma for regular languages.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2018_59_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2018_59_q3_s1",
+          "subNumber": "a",
+          "text": "Using pumping lemma, show that the language \\( A = \\{ww \\mid w \\in \\{0, 1\\}^*\\} \\) is not regular.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_formal_2018_59_q3_s2",
+          "subNumber": "b",
+          "text": "Let A be a non-empty regular language. Prove that there exists an NFA that accepts A and that has exactly one accept state.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2018_59_q3_s3",
+          "subNumber": "c",
+          "text": "Convert each of the following regular expressions to an NFA: (i) \\( (0 \\cup 1) 1^* 000 (0 \\cup 1)^* \\) (ii) \\( (((10)^*(001) \\cup 10))^* \\) (iii) \\( (baa + abb)^* \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2018_59_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2018_59_q4_s1",
+          "subNumber": "a",
+          "text": "(a) Prove the following two properties: (i) Regular sets are closed over the intersection operation. (ii) Regular sets are closed over the union operation.<br/> (b) Represent the language that contains strings over \\( \\Sigma = \\{0, 1\\} \\) and has even number of 0's.<br/> (c) Convert the following DFA to a regular expression:",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/114.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2018_59_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2018_59_q5_s1",
+          "subNumber": "a",
+          "text": "(a) Construct context-free grammars that generate the following languages. In all cases \\( \\Sigma = \\{a, b\\} \\): (i) \\( a^*b \\) (ii) \\( (ab)^* \\)<br/> (b) Construct a CFG for the set of non-negative odd integers.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2018_59_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2018_59_q6_s1",
+          "subNumber": "a",
+          "text": "Let A and B be context-free languages over the same alphabet \\( \\Sigma \\).<br/> (i) Prove that the union \\( A \\cup B \\) of A and B is also context-free.<br/> (ii) Prove that the concatenation AB of A and B is also context-free.<br/> (iii) Prove that the star \\( A^* \\) of A is also context-free.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2018_59_q6_s2",
+          "subNumber": "b",
+          "text": "Determine a CFG without unit production equivalent to the CFG given below: \\( S \\rightarrow a \\mid Xb \\mid aYa \\mid b \\mid aa \\), \\( X \\rightarrow Y \\), \\( Y \\rightarrow b \\mid X \\)",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2018_59_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2018_59_q7_s1",
+          "subNumber": "a",
+          "text": "(a) Find the CNF (Chomsky Normal Form) for the following CFG: \\( S \\rightarrow ABA \\), \\( A \\rightarrow aA \\mid \\epsilon \\), \\( B \\rightarrow bB \\mid \\epsilon \\)<br/> (b) Eliminate null productions from the following CFG: \\( S \\rightarrow Xa \\), \\( X \\rightarrow aX \\mid bX \\mid \\epsilon \\)<br/> (c) Convert the following grammar to GNF: \\( A_1 \\rightarrow A_2 A_3 \\), \\( A_2 \\rightarrow A_3 A_1 \\mid b \\), \\( A_3 \\rightarrow A_1 A_2 \\mid a \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2018_59_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2018_59_q8_s1",
+          "subNumber": "a",
+          "text": "Construct npda that accepts the following languages on \\( \\Sigma = \\{a, b, c\\} \\):<br/> (i) \\( L = \\{a^n b^{2n} : n \\ge 0\\} \\)<br/> (ii) \\( L = \\{wcw^R : w \\in \\{a,b\\}^*\\} \\)<br/> (iii) \\( L = \\{w : n_a(w) = 2n_b(w)\\} \\)",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_formal_2018_59_q8_s2",
+          "subNumber": "b",
+          "text": "Design a PDA that accepts the language \\( L = \\{a^n b^m a^n : m, n &gt; 0\\} \\)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2018_59_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2018_59_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Design a Turing machine that recognizes strings containing equal number of 0's and 1's.<br/> (b) Let \\( L_1 \\) be recursive and \\( L_2 \\) recursively enumerable. Show that \\( L_2 - L_1 \\) is necessarily recursively enumerable.<br/> (c) Define P, NP, NPH and NPC problems with example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

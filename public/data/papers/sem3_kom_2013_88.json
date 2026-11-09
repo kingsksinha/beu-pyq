@@ -1,0 +1,290 @@
+{
+  "id": "sem3_kom_2013_88",
+  "semester": 3,
+  "subject_code": "kom",
+  "subject_name": "Kinematics of Machinery",
+  "year": "2013",
+  "exam_code": "---",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech Semester Exam., 2013 Kinematics of Machinery Time: 03 Hours Code: --- Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Any missing data may be assumed suitably."
+  ],
+  "questions": [
+    {
+      "id": "sem3_kom_2013_88_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/ Fill in the blanks (any seven) :",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_kom_2013_88_q1_s1",
+          "subNumber": "a",
+          "text": "(a) Piston, piston rod and cross head of a steam engine",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(i) constitute one link",
+            "(ii) constitute two links",
+            "(iii) constitute three links",
+            "(iv) do not conform to the concept of the link"
+          ]
+        },
+        {
+          "id": "sem3_kom_2013_88_q1_s2",
+          "subNumber": "b",
+          "text": "(b) Which amongst the following constitutes higher pair?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(i) A ball and a socket joint",
+            "(ii) A toothed gearing",
+            "(iii) Universal joint",
+            "(iv) Cycle wheels turning on their axles"
+          ]
+        },
+        {
+          "id": "sem3_kom_2013_88_q1_s3",
+          "subNumber": "c",
+          "text": "(c) A ______ is an assemblage of resistant bodies having no relative motion between them.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_kom_2013_88_q1_s4",
+          "subNumber": "d",
+          "text": "(d) The total number of instantaneous centres for a mechanism with n links is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(i) n/2",
+            "(ii) n",
+            "(iii) (n-1)/2",
+            "(iv) n(n-1)/2"
+          ]
+        },
+        {
+          "id": "sem3_kom_2013_88_q1_s5",
+          "subNumber": "e",
+          "text": "(e) The direction of linear velocity of any point on a link with respect to another point on the same link is ______ to the line joining these points.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_kom_2013_88_q1_s6",
+          "subNumber": "f",
+          "text": "(f) The open-belt drive is used when the shafts are arranged ______ and are to rotate in the ______ directions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_kom_2013_88_q1_s7",
+          "subNumber": "g",
+          "text": "(g) Which one of the following is a spring-controlled centrifugal governor?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(i) Pickering governor",
+            "(ii) Porter governor",
+            "(iii) Proell governor",
+            "(iv) Watt governor"
+          ]
+        },
+        {
+          "id": "sem3_kom_2013_88_q1_s8",
+          "subNumber": "h",
+          "text": "(h) Two parallel and coplanar shafts are connected by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(i) spur gears",
+            "(ii) bevel gears",
+            "(iii) spiral gears",
+            "(iv) double-helical gears"
+          ]
+        },
+        {
+          "id": "sem3_kom_2013_88_q1_s9",
+          "subNumber": "i",
+          "text": "(i) A ______ is an imaginary circle which by pure rolling action gives the same motion as the actual gear.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_kom_2013_88_q1_s10",
+          "subNumber": "j",
+          "text": "(j) A system of several masses revolving in different planes of a shaft can be completely balanced by ______ masses in ______ planes.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_kom_2013_88_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_kom_2013_88_q2_s1",
+          "subNumber": "a",
+          "text": "(a) What do you mean by inversion of a mechanism? Draw any three inversions of a single-slider crank mechanism.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_kom_2013_88_q2_s2",
+          "subNumber": "b",
+          "text": "(b) \"Peaucellier mechanism is a straight line generating mechanism.\" Prove this.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_kom_2013_88_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_kom_2013_88_q3_s1",
+          "subNumber": "a",
+          "text": "The crank of a slider crank mechanism is 150 mm and the connecting rod is 600 mm long. The crank makes 300 r.p.m. in the clockwise direction. When it has turned 45 degree from inner dead centre position, determine— (a) acceleration of the midpoint of the connecting rod; (b) angular acceleration of the connecting rod. Use space diagram, velocity diagram and acceleration diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_kom_2013_88_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_kom_2013_88_q4_s1",
+          "subNumber": "a",
+          "text": "(a) What are meant by slip and creep in a belt drive?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_kom_2013_88_q4_s2",
+          "subNumber": "b",
+          "text": "(b) A rope drive is required to transmit 1100 kW from a pulley 1·05 m in diameter running at 360 r.p.m. The safe pull in each rope is 2·2 kN and the mass of rope per meter of length is 1·35 kg. The angle of lap is 150 degree, the groove angle is 45 degree and the coefficient of friction between the rope and the groove is 0·3. How many ropes will be required if allowance is made for the centrifugal stress?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_kom_2013_88_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_kom_2013_88_q5_s1",
+          "subNumber": "a",
+          "text": "(a) Describe with a neat sketch, the working of a single-plate friction clutch.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_kom_2013_88_q5_s2",
+          "subNumber": "b",
+          "text": "(b) A cone clutch is to transmit 7·5 kW at 850 r.p.m. The cone has a face angle of 11 degree. The width of the face is half of the mean radius and the normal pressure between the contact faces is not to exceed 0·09 N/mm². Assuming uniform wear and the coefficient of friction between contact faces as 0·2, find the main dimensions of the clutch and the axial force required to engage the clutch.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_kom_2013_88_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_kom_2013_88_q6_s1",
+          "subNumber": "a",
+          "text": "(a) State and prove the law of gearing. Show that involute profile satisfies the condition for correct gearing.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_kom_2013_88_q6_s2",
+          "subNumber": "b",
+          "text": "(b) Two involute gears of 20 degree pressure angle are in mesh. The number of teeth on pinion is 30 and the gear ratio is 2. The pitch expressed in module is 5 mm and the pitch line speed is 1.5 m/s. Assuming addendum on standard and equal to one module, find— (i) the angle turned through by pinion when one pair of teeth is in mesh; (ii) the maximum velocity of sliding.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_kom_2013_88_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_kom_2013_88_q7_s1",
+          "subNumber": "a",
+          "text": "(a) Explain with a sketch, the different types of gear trains depending upon the arrangement of wheels.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_kom_2013_88_q7_s2",
+          "subNumber": "b",
+          "text": "(b) An epicyclic gear consists of three wheels A, B and C as shown in figure below. Wheel A has 72 internal teeth, C has 32 external teeth. The wheel B gears with both A and C and is carried on an arm which rotates about the centre of A at 18 r.p.m. If the wheel A is fixed, determine the speed of wheels B and C.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/105.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_kom_2013_88_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_kom_2013_88_q8_s1",
+          "subNumber": "a",
+          "text": "All the arms of a Porter governor are 20 cm long. The lower and upper arms are pivoted to links of 4 cm and 3 cm respectively from the axis of rotation. Each ball weighs 4 kg and central load is 45 kg. If the force of friction of the mechanism corresponds to the weight of 3 kg of the sleeve and if the extreme radii of rotations are 10 cm and 12 cm, determine the range of speed of governor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_kom_2013_88_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_kom_2013_88_q9_s1",
+          "subNumber": "a",
+          "text": "A shaft carries four masses in parallel planes A, B, C and D in the order along its length. The masses at B and C are 18 kg and 12.5 kg respectively and each has an eccentricity of 60 mm. The masses at A and D have [...] [incomplete question]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

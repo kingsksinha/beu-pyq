@@ -1,0 +1,242 @@
+{
+  "id": "sem4_semi_2024_48",
+  "semester": 4,
+  "subject_code": "semi",
+  "subject_name": "Semiconductor Physics and Devices",
+  "year": "2024",
+  "exam_code": "104405",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2024 Semiconductor Physics and Devices Time: 03 Hours Code: 104405 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 21,
+  "max_freq": 1,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_semi_2024_48_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_semi_2024_48_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following best describes the energy band model of a semiconductor?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q1_s2",
+          "subNumber": "b",
+          "text": "In an extrinsic semiconductor at equilibrium, the Fermi level \\(E_F\\) shifts towards:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following phenomena describe the generation and recombination processes in semiconductors?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q1_s4",
+          "subNumber": "d",
+          "text": "What is the primary cause of the built-in potential in a PN junction diode?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following mechanisms is responsible for junction breakdown in a Zener diode?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q1_s6",
+          "subNumber": "f",
+          "text": "In which mode of operation does a Bipolar Junction Transistor (BJT) act as an amplifier?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q1_s7",
+          "subNumber": "g",
+          "text": "What is the expression for common-base current gain (\\(\\alpha\\)) of a BJT?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q1_s8",
+          "subNumber": "h",
+          "text": "In a Junction Field-Effect Transistor (JFET), the drain current (\\(I_D\\)) in the saturation region is primarily controlled by:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following correctly describes the threshold voltage (\\(V_{th}\\)) of a MOSFET?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following devices is primarily used for triggering other semiconductor devices like SCRs?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_semi_2024_48_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_semi_2024_48_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the concept of the bonding model and energy band model in semiconductors.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q2_s2",
+          "subNumber": "b",
+          "text": "Explain drift and diffusion current mechanisms in semiconductors. Derive the Einstein relation that connects diffusion coefficient and mobility.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_semi_2024_48_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_semi_2024_48_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss the different types of recombination mechanisms and their significance in semiconductor devices.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q3_s2",
+          "subNumber": "b",
+          "text": "Write and explain the continuity equation for charge carriers in semiconductors. Derive the minority carrier diffusion equation and discuss its importance in the operation of semiconductor devices.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_semi_2024_48_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_semi_2024_48_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the Ideal Diode Equation. Derive it quantitatively using the band model and boundary conditions, stating the assumptions made in the derivation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_semi_2024_48_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the working principles and applications of special diodes such as the Zener diode, Tunnel diode, Varactor diode and Schottky diode. How do their characteristics differ from a conventional PN junction diode?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_semi_2024_48_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_semi_2024_48_q5_s1",
+          "subNumber": "a",
+          "text": "Discuss the two primary mechanisms of junction breakdown in a PN junction diode- Avalanche breakdown and Zener breakdown. Compare their occurrence conditions and characteristics.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_semi_2024_48_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_semi_2024_48_q6_s1",
+          "subNumber": "a",
+          "text": "Describe the impact of base width modulation (Early effect) on BJT operation. How does it affect the common-emitter current gain and output characteristics? Include relevant equations in your explanation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_semi_2024_48_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_semi_2024_48_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the deviations from ideal MOS behaviour, including metal-semiconductor work function differences, fixed oxide charges, interface traps and threshold voltage shifts. How do these non-ideal effects influence MOSFET performance?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_semi_2024_48_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_semi_2024_48_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss the working principles and characteristics of different optoelectronic devices: PIN Photodiode, Avalanche Photodiode, Solar Cell and LED. Compare their applications.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_semi_2024_48_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_semi_2024_48_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the working of a solid-state laser diode. How does it differ from an LED in terms of construction, working principle, and applications? Discuss its advantages in optical communication.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

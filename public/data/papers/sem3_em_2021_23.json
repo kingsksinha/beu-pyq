@@ -1,0 +1,296 @@
+{
+  "id": "sem3_em_2021_23",
+  "semester": 3,
+  "subject_code": "em",
+  "subject_name": "Engineering Mechanics",
+  "year": "2021",
+  "exam_code": "100310",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2021 (New Course) Engineering Mechanics Time: 03 Hours Code: 100310 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_em_2021_23_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer from the following (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_23_q1_s1",
+          "subNumber": "a",
+          "text": "The CG of a plane lamina will not be at its geometrical centre in the case of",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "right-angled triangle",
+            "equilateral triangle",
+            "square",
+            "circle"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_23_q1_s2",
+          "subNumber": "b",
+          "text": "The coefficient of friction depends upon",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "nature of surfaces",
+            "area of contact",
+            "shape of the surfaces",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_23_q1_s3",
+          "subNumber": "c",
+          "text": "A body moves from rest with a constant acceleration of \\( 5\\text{ m/sec}^2 \\). The distance covered in 5 sec is most nearly",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "38 m",
+            "62.5 m",
+            "96 m",
+            "124 m"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_23_q1_s4",
+          "subNumber": "d",
+          "text": "A cable with a uniformly distributed load per horizontal meter run will take which of the following shapes?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Straight line",
+            "Parabola",
+            "Hyperbola",
+            "Elliptical"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_23_q1_s5",
+          "subNumber": "e",
+          "text": "The momentum of an isolated system",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "always remains constant",
+            "zero",
+            "high",
+            "low"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_23_q1_s6",
+          "subNumber": "f",
+          "text": "When a body of mass moment of inertia I (about a given axis) is rotated about that axis with an angular velocity \\( \\omega \\), then the kinetic energy of rotation is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 0.5 I / \\omega \\)",
+            "\\( I \\omega \\)",
+            "\\( 0.5 I \\cdot \\omega^2 \\)",
+            "\\( I \\cdot \\omega^2 \\)"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_23_q1_s7",
+          "subNumber": "g",
+          "text": "Point of contra-flexure is defined as the point where",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "bending moment changes its sign",
+            "shear force changes its sign",
+            "bending moment is maximum",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_23_q1_s8",
+          "subNumber": "h",
+          "text": "A particle is moving along a straight line through a fluid medium such that its speed is measured as \\( v = 2t\\text{ m/s} \\), where t is in seconds. If it is released from rest at \\( s=0 \\), determine its position (s) and acceleration (a), when \\( t=3 \\) sec.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( s=9\\text{ m} \\), \\( a=2\\text{ m/s}^2 \\)",
+            "\\( s=2\\text{ m} \\), \\( a=18\\text{ m/s}^2 \\)",
+            "\\( s=18\\text{ m} \\), \\( a=9\\text{ m/s}^2 \\)",
+            "\\( s=2\\text{ m} \\), \\( a=9\\text{ m/s}^2 \\)"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_23_q1_s9",
+          "subNumber": "i",
+          "text": "The angle of twist in case of torsion can be written as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "TL/J",
+            "GJ/TL",
+            "TL/GJ",
+            "T/J"
+          ]
+        },
+        {
+          "id": "sem3_em_2021_23_q1_s10",
+          "subNumber": "j",
+          "text": "The possible loading in various members of framed structures are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "compression or tension",
+            "buckling or shear",
+            "shear or tension",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_23_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_23_q2_s1",
+          "subNumber": "a",
+          "text": "Prove that the projection of the sum of vectors onto any axis equals the sum of the projections of the vectors onto the same axis.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_23_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_23_q3_s1",
+          "subNumber": "a",
+          "text": "Two smooth (frictionless) cylinders A and B of weight W and radius r each are kept in a horizontal channel of width (\\( b &lt; 4r \\)) as shown in Fig. 1. Find the reaction forces coming from the two sides and the bottom of the channel as well as the forces exerted by the cylinders to each other, assuming the channel walls also to be smooth. Take \\( r=250\\text{ mm} \\), \\( b=900\\text{ mm} \\) and \\( W=100\\text{ kN} \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/140.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_23_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_23_q4_s1",
+          "subNumber": "a",
+          "text": "Show that the sum of the moments of inertia of a body, \\( I_{xx} + I_{yy} + I_{zz} \\), is independent of the orientation of the x, y, z axes and thus depends only on the location of its origin.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_23_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_23_q5_s1",
+          "subNumber": "a",
+          "text": "Rod CD presses against AB, giving it an angular velocity. If the angular velocity of AB is maintained at \\( \\omega = 5\\text{ rad/s} \\), determine the required magnitude of the velocity v of CD as a function of the angle \\( \\theta \\) of rod AB (Fig. 2) .",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/142.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_23_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_23_q6_s1",
+          "subNumber": "a",
+          "text": "Determine the maximum shear stress developed in the 40 mm diameter shaft shown in Fig. 3 below .",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/141.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_23_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_23_q7_s1",
+          "subNumber": "a",
+          "text": "Determine the internal normal force, shear force and moment at points D and E in the compound beam. Point D is located just to the left of the 10 kN concentrated load. Assume the support at A is fixed and the connection at B is a pin (Fig. 4) .",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/139.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_23_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_23_q8_s1",
+          "subNumber": "a",
+          "text": "The coefficient of friction between the block (80 kg) and the inclined rail shown in Fig. 5 below are \\( \\mu_s = 0.25 \\) and \\( \\mu_k = 0.20 \\). Determine the smallest values of P required for the following conditions: (a) To start the block up the rail (b) To keep it moving (c) To prevent it moving down.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/138.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_em_2021_23_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on the following with suitable mathematical expressions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_em_2021_23_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

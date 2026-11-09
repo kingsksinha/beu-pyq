@@ -1,0 +1,263 @@
+{
+  "id": "sem1_bee_2023_85",
+  "semester": 1,
+  "subject_code": "bee",
+  "subject_name": "Basic Electrical Engineering",
+  "year": "2023",
+  "exam_code": "100101",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2023 Basic Electrical Engineering Time: 03 Hours Code: 100101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 7,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_bee_2023_85_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2023_85_q1_s1",
+          "subNumber": "a",
+          "text": "State Kirchoff's Current law and Kirchoff's Voltage Law.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q1_s2",
+          "subNumber": "b",
+          "text": "Define Network and Circuit.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q1_s3",
+          "subNumber": "c",
+          "text": "State Maximum Power Transfer Theorem.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2023_85_q1_s4",
+          "subNumber": "d",
+          "text": "State the steps to solve the super position theorem.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q1_s5",
+          "subNumber": "e",
+          "text": "Write two differences between Real Power and Reactive Power.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_bee_2023_85_q1_s6",
+          "subNumber": "f",
+          "text": "Define Resonance.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q1_s7",
+          "subNumber": "g",
+          "text": "Draw BH Characteristic of ferromagnetic material.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2023_85_q1_s8",
+          "subNumber": "h",
+          "text": "Write the types of DC Motor and Generator.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q1_s9",
+          "subNumber": "i",
+          "text": "Why Earthing is important for an electrical Circuit?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q1_s10",
+          "subNumber": "j",
+          "text": "What are the basic differences between generator and motor?",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2023_85_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2023_85_q2_s1",
+          "subNumber": "a",
+          "text": "Derive an expression for the current and impedance for a series RL and RC circuit excited by a Sinusoidally alternating voltage. Draw the Phasor diagrams.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q2_s2",
+          "subNumber": "b",
+          "text": "A series circuit consisting of a \\(10\\,\\Omega\\) resistor, a \\(100\\,\\mu\\mathrm{F}\\) capacitor and a \\(10\\,\\mathrm{mH}\\) inductor is driven by a 50 Hz a.c. voltage source of maximum value 100 volts. Calculate the equivalent impedance, Current in the circuit and the phase angle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2023_85_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2023_85_q3_s1",
+          "subNumber": "a",
+          "text": "A load resistance \\(R_L\\,\\Omega\\) is connected across the source \\(V_s\\) with internal resistance \\(R_{\\text{int}}\\) in series with source. Obtain the condition that the power transferred to load from source is maximum.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q3_s2",
+          "subNumber": "b",
+          "text": "A resistance \\(R\\) is connected in series with a parallel circuit comprising two resistances of \\(12\\,\\Omega\\) and \\(8\\,\\Omega\\) respectively. The total power dissipated in the circuit is 70 W when the applied voltage is 20V. Calculate \\(R\\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2023_85_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2023_85_q4_s1",
+          "subNumber": "a",
+          "text": "With neat diagram explain the construction and principle of a single-phase transformer. What are the characteristics of an ideal transformer?",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_bee_2023_85_q4_s2",
+          "subNumber": "b",
+          "text": "Derive the emf equation of a transformer.",
+          "freq": 6,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2023_85_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2023_85_q5_s1",
+          "subNumber": "a",
+          "text": "Draw a neat sketch of a DC generator and label the component parts. Name the material used for each component part.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the operating principle of Three phase Induction motor.",
+          "freq": 7,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2023_85_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2023_85_q6_s1",
+          "subNumber": "a",
+          "text": "With neat diagrams, explain various types of fuses used in electrical wiring systems.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q6_s2",
+          "subNumber": "b",
+          "text": "Write a detailed note on Fuse and circuit breaker.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2023_85_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2023_85_q7_s1",
+          "subNumber": "a",
+          "text": "State and Explain Thevenin's Theorem for a DC Circuit. Write applications, advantages and limitations of Thevenin's Theorem.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2023_85_q7_s2",
+          "subNumber": "b",
+          "text": "State Norton's theorem.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2023_85_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2023_85_q8_s1",
+          "subNumber": "a",
+          "text": "A three single phase balanced load connected in three phase three wires star form, with the help of phasor diagram, obtain the relationship between line and phase quantities of voltage and current.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2023_85_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2023_85_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

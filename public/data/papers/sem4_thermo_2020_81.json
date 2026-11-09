@@ -1,0 +1,337 @@
+{
+  "id": "sem4_thermo_2020_81",
+  "semester": 4,
+  "subject_code": "thermo",
+  "subject_name": "Thermodynamics",
+  "year": "2020",
+  "exam_code": "ME-201",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Special Examination, 2020 Thermodynamics Time: 03 Hours Code: ME-201 (102304) Full Marks:\n                    70",
+  "question_count": 8,
+  "total_subquestions": 27,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are EIGHT questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Students should be allowed to use the steam tables and Mollier diagram."
+  ],
+  "questions": [
+    {
+      "id": "sem4_thermo_2020_81_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2020_81_q1_s1",
+          "subNumber": "a",
+          "text": "In a cycle",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "end states are different",
+            "end states are identical",
+            "there is no connection between starting and end state",
+            "cyclic integral of any property is non-zero"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2020_81_q1_s2",
+          "subNumber": "b",
+          "text": "Zeroth law of thermodynamics forms the basis of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "enthalpy measurement",
+            "temperature measurement",
+            "entropy measurement",
+            "energy measurement"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2020_81_q1_s3",
+          "subNumber": "c",
+          "text": "The cyclic integral of which of the following is zero?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Temperature",
+            "Work transfer",
+            "Latent heat",
+            "Heat transfer"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2020_81_q1_s4",
+          "subNumber": "d",
+          "text": "Which one of the following parameters remains constant in a throttling process?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Pressure",
+            "Temperature",
+            "Enthalpy",
+            "Entropy"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2020_81_q1_s5",
+          "subNumber": "e",
+          "text": "An isentropic process is always",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "irreversible and adiabatic",
+            "reversible and adiabatic",
+            "frictionless and irreversible",
+            "reversible and isothermal"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2020_81_q1_s6",
+          "subNumber": "f",
+          "text": "A cyclic heat engine operates between a source temperature of \\( 927^\\circ\\text{C} \\) and a sink temperature of \\( 27^\\circ\\text{C} \\). What will be the maximum efficiency of the heat engine?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "97%",
+            "80%",
+            "75%",
+            "70%"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2020_81_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following expressions is true for Tds?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "dh - vdp",
+            "dh + vdp",
+            "dh - pdv",
+            "dh + pdv"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2020_81_q1_s8",
+          "subNumber": "h",
+          "text": "With increase in saturation pressure of water vapour",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the saturation temperature decreases",
+            "the enthalpy of evaporation decreases",
+            "the enthalpy of evaporation increases",
+            "the specific volume of phase change increases"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2020_81_q1_s9",
+          "subNumber": "i",
+          "text": "Availability function of a closed system is expressed as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( U + p_0V - T_0S \\)",
+            "\\( U + p_0dV - T_0dS \\)",
+            "\\( U + p_0V - T_0S \\)",
+            "\\( dU + p_0dV - T_0dS \\)"
+          ]
+        },
+        {
+          "id": "sem4_thermo_2020_81_q1_s10",
+          "subNumber": "j",
+          "text": "At a pressure of 4 MPa, the temperature at which liquid water boils is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 29^\\circ\\text{C} \\)",
+            "\\( 143.6^\\circ\\text{C} \\)",
+            "\\( 100^\\circ\\text{C} \\)",
+            "\\( 250.4^\\circ\\text{C} \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2020_81_q2",
+      "number": 2,
+      "title": "Q.2 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2020_81_q2_s1",
+          "subNumber": "a",
+          "text": "Explain what you understand by thermodynamic equilibrium.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2020_81_q2_s2",
+          "subNumber": "b",
+          "text": "Distinguish between the terms 'change of state', 'path' and 'process'.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2020_81_q2_s3",
+          "subNumber": "c",
+          "text": "One mol of air at 0.45 MPa and 450 K initially undergoes the processes- (i) heating at constant pressure till the volume gets doubled and (ii) expansion at constant temperature till the volume is five times of initial volume sequentially. Determine the work done by air.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2020_81_q3",
+      "number": 3,
+      "title": "Q.3 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2020_81_q3_s1",
+          "subNumber": "a",
+          "text": "Show that energy is a property of a system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2020_81_q3_s2",
+          "subNumber": "b",
+          "text": "Write the steady flow energy equation for a single stream entering and a single stream leaving a control volume.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2020_81_q3_s3",
+          "subNumber": "c",
+          "text": "In a gas turbine the gas enters at the rate of 5 kg/s with a velocity of 50 m/s and enthalpy of 900 kJ/kg and leaves the turbine with a velocity of 150 m/s and enthalpy of 400 kJ/kg. The loss of heat from the gases to the surroundings is 25 kJ/kg. Assume for gas \\( R = 0.285 \\text{ kJ/kgK} \\) and \\( c_p = 1.004 \\text{ kJ/kg-K} \\) and the inlet conditions to be at 100 kPa and \\( 27^\\circ\\text{C} \\). Determine the power output of the turbine and the diameter of the inlet pipe.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2020_81_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2020_81_q4_s1",
+          "subNumber": "a",
+          "text": "Establish the equivalence of Kelvin-Planck and Clausius statement.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_thermo_2020_81_q4_s2",
+          "subNumber": "b",
+          "text": "An engine has a heat input of 500 kJ at \\( 437^\\circ\\text{C} \\). It rejects 200 kJ at \\( 82^\\circ\\text{C} \\). The engine develops 250 kJ of work. Check whether such an engine is possible or not.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2020_81_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2020_81_q5_s1",
+          "subNumber": "a",
+          "text": "\"Two reversible adiabatic paths cannot intersect each other.\" Write True or False. Justify with proper explanation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2020_81_q5_s2",
+          "subNumber": "b",
+          "text": "A reversible engine operates between temperatures \\( T_1 \\) and \\( T \\), where \\( T_1 &gt; T \\). The energy rejected from this engine is received by a second reversible engine at the same temperature \\( T \\). The second engine rejects energy at temperature \\( T_2 \\), where \\( T_2 &lt; T_1 \\). Show that the temperature \\( T \\) is the arithmetic mean of temperatures \\( T_1 \\) and \\( T_2 \\) if the engines produce the same amount of work output.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2020_81_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2020_81_q6_s1",
+          "subNumber": "a",
+          "text": "Establish the inequality of Clausius.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_thermo_2020_81_q6_s2",
+          "subNumber": "b",
+          "text": "Steam flows in a pipeline at 1.5 MPa. After expanding to 0.1 MPa in a throttling calorimeter, the temperature is found to be \\( 120^\\circ\\text{C} \\). Find the quality of steam in the pipeline. What is the maximum moisture at 1.5 MPa that can be determined with this set-up if at least \\( 5^\\circ\\text{C} \\) of degree of superheat is required after throttling for accurate readings?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2020_81_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2020_81_q7_s1",
+          "subNumber": "a",
+          "text": "What is meant by availability?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2020_81_q7_s2",
+          "subNumber": "b",
+          "text": "Air expands through a turbine from 500 kPa, \\( 520^\\circ\\text{C} \\) to 100 kPa, \\( 300^\\circ\\text{C} \\). During expansion 10 kJ/kg of heat is lost to the surroundings which is at 98 kPa, \\( 20^\\circ\\text{C} \\). Neglecting the KE and PE changes, determine per kg of air (i) the decrease in availability, (ii) the maximum work and (iii) the irreversibility. For air, take \\( c_p = 1.005 \\text{ kJ/kg-K} \\), \\( h = c_pT \\) where \\( c_p \\) is constant.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_thermo_2020_81_q8",
+      "number": 8,
+      "title": "Q.8 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_thermo_2020_81_q8_s1",
+          "subNumber": "a",
+          "text": "Define the terms 'unsaturated air' and 'relative humidity'.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_thermo_2020_81_q8_s2",
+          "subNumber": "b",
+          "text": "With the help of a suitable diagram, explain the psychrometric chart.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_thermo_2020_81_q8_s3",
+          "subNumber": "c",
+          "text": "With the help of a suitable diagram, explain the process of cooling and dehumidification.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    }
+  ]
+}

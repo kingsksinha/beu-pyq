@@ -1,0 +1,330 @@
+{
+  "id": "sem4_mte_2024_77",
+  "semester": 4,
+  "subject_code": "mte",
+  "subject_name": "Materials, Testing & Evaluation",
+  "year": "2024",
+  "exam_code": "101406",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2024 Materials, Testing & Evaluation Time: 03 Hours Code: 101406 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mte_2024_77_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option / answer the following (Any seven question only):-",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2024_77_q1_s1",
+          "subNumber": "a",
+          "text": "Slump test for concrete is carried out to determine",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Strength",
+            "Durability",
+            "Workability",
+            "Water content"
+          ]
+        },
+        {
+          "id": "sem4_mte_2024_77_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is an example of a thermoplastic?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Melamine",
+            "Urethane",
+            "Epoxide",
+            "Acetal"
+          ]
+        },
+        {
+          "id": "sem4_mte_2024_77_q1_s3",
+          "subNumber": "c",
+          "text": "Consider the following statements regarding the advantages of plywood:<br/> A. It has good strength both along as well as across the grains.<br/> B. It will not shrink or swell across the grains.<br/> C. It can be curved into desired shapes.<br/> Which of the above statements is/are correct?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A and C",
+            "A and B",
+            "B and C",
+            "B only"
+          ]
+        },
+        {
+          "id": "sem4_mte_2024_77_q1_s4",
+          "subNumber": "d",
+          "text": "A cylindrical bar of 25 mm diameter and 1.2 m length is subjected to a longitudinal strain during a tensile test is four times the lateral strain, what is the value of shear modulus? (Take the modulus of elasticity as \\( 1.2 \\times 10^5 \\, N/mm^2 \\))",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 5.8 \\, kN/mm^2 \\)",
+            "\\( 4.8 \\, kN/mm^2 \\)",
+            "\\( 58 \\, kN/mm^2 \\)",
+            "\\( 48 \\, kN/mm^2 \\)"
+          ]
+        },
+        {
+          "id": "sem4_mte_2024_77_q1_s5",
+          "subNumber": "e",
+          "text": "Which one of the following statements is not correct for Aluminium?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It is less ductile than copper",
+            "It is harder than tin",
+            "It can be soldered",
+            "It can be welded"
+          ]
+        },
+        {
+          "id": "sem4_mte_2024_77_q1_s6",
+          "subNumber": "f",
+          "text": "The drawback of electrical seasoning of timber is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Checks",
+            "Splitting",
+            "Cracks",
+            "Reduced strength"
+          ]
+        },
+        {
+          "id": "sem4_mte_2024_77_q1_s7",
+          "subNumber": "g",
+          "text": "Gap grading is one",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "in which the particles fall within a narrow limit of size fractions",
+            "In which one or more intermediate fractions are absent",
+            "Which combines different fractions of fine and coarse aggregates",
+            "In which all the particles are of uniform size"
+          ]
+        },
+        {
+          "id": "sem4_mte_2024_77_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following class of engineering ceramics generally included lubricant materials?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Metalloids",
+            "Intermetallics",
+            "Sulphides",
+            "Carbides"
+          ]
+        },
+        {
+          "id": "sem4_mte_2024_77_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following is not a method of fabrication of rubber?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Vacuum forming",
+            "Buffing",
+            "Calendering",
+            "Compression molding"
+          ]
+        },
+        {
+          "id": "sem4_mte_2024_77_q1_s10",
+          "subNumber": "j",
+          "text": "Polymer materials become brittle below",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Critical temperature",
+            "Glass transition temperature",
+            "Melting point temperature",
+            "Room temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2024_77_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2024_77_q2_s1",
+          "subNumber": "a",
+          "text": "What is meant by the term refractories? Mention the desired properties of refractories. Also state the properties and uses of acidic, basic and neutral refractories.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mte_2024_77_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the tests to be conducted to check the suitability for the construction work.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2024_77_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2024_77_q3_s1",
+          "subNumber": "a",
+          "text": "Enumerate the laboratory tests for cement and describe any two of them.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mte_2024_77_q3_s2",
+          "subNumber": "b",
+          "text": "What are the objectives of preservation of timber? Describe the preservatives which are commonly used in the process of preservation of timber.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2024_77_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2024_77_q4_s1",
+          "subNumber": "a",
+          "text": "Describe manufacturing process of pig-iron by blast furnace.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mte_2024_77_q4_s2",
+          "subNumber": "b",
+          "text": "Enumerate various markets form of steel with neat sketches.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2024_77_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2024_77_q5_s1",
+          "subNumber": "a",
+          "text": "State the properties of aluminium and also discuss the importance of aluminium as structural material.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mte_2024_77_q5_s2",
+          "subNumber": "b",
+          "text": "How is coloured glass made? State the colouring substances which are used for getting different shades of colour of glass.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2024_77_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2024_77_q6_s1",
+          "subNumber": "a",
+          "text": "Explain briefly various testing procedure for reinforcing steel bars.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mte_2024_77_q6_s2",
+          "subNumber": "b",
+          "text": "What is fracture mechanics. How and why fracture toughness tests are performed in laboratory?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2024_77_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2024_77_q7_s1",
+          "subNumber": "a",
+          "text": "The results of sieve analysis of 600 gm oven dried soil sample are shown below:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mte_2024_77_q7_s2",
+          "subNumber": "b",
+          "text": "Explain factors affecting ductile to brittle transition temperature (DBTT).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2024_77_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2024_77_q8_s1",
+          "subNumber": "a",
+          "text": "Define structural integrity and discuss briefly various procedures for structural integrity assessment with examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mte_2024_77_q8_s2",
+          "subNumber": "b",
+          "text": "What is the difference between True stress-strain and Engineering stress-strain curve? Show with neat sketches. Which one is implemented in design codes and why?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mte_2024_77_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:-",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mte_2024_77_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

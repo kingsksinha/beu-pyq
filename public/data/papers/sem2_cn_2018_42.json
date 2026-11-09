@@ -1,0 +1,330 @@
+{
+  "id": "sem2_cn_2018_42",
+  "semester": 2,
+  "subject_code": "cn",
+  "subject_name": "Computer Networks",
+  "year": "2018",
+  "exam_code": "051513",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Exam., 2018 Computer Network Time: 3 hours Code: 051513 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "All questions carry equal marks.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cn_2018_42_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2018_42_q1_s1",
+          "subNumber": "a",
+          "text": "The IETF standard documents are called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "RFC",
+            "RCF",
+            "ID",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2018_42_q1_s2",
+          "subNumber": "b",
+          "text": "The ____ is the physical path over which a message travels.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "path",
+            "medium",
+            "protocol",
+            "route"
+          ]
+        },
+        {
+          "id": "sem2_cn_2018_42_q1_s3",
+          "subNumber": "c",
+          "text": "The structure or format of data is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "syntax",
+            "semantics",
+            "struct",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2018_42_q1_s4",
+          "subNumber": "d",
+          "text": "Transport layer is implemented in",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "end system",
+            "NIC",
+            "ethernet",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2018_42_q1_s5",
+          "subNumber": "e",
+          "text": "The functionalities of presentation layer includes",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "data compression",
+            "data encryption",
+            "data description",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2018_42_q1_s6",
+          "subNumber": "f",
+          "text": "Header of a frame generally contains",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "synchronization bytes",
+            "addresses",
+            "frame identifier",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2018_42_q1_s7",
+          "subNumber": "g",
+          "text": "Which one of the following is the multiple access protocol for channel access control?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "CSMA/CD",
+            "CSMA/CA",
+            "Both CSMA/CD and CSMA/CA",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2018_42_q1_s8",
+          "subNumber": "h",
+          "text": "User datagram protocol is called connectionless because",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "all UDP packets are treated independently by transport layer",
+            "it sends data as a stream of related packets",
+            "it is received in the same order as sent order",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2018_42_q1_s9",
+          "subNumber": "i",
+          "text": "Transport layer protocols deals with",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "application to application communication",
+            "process to process communication",
+            "node to node communication",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cn_2018_42_q1_s10",
+          "subNumber": "j",
+          "text": "Which one of the following is not a function of network layer?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Routing",
+            "Internetworking",
+            "Congestion control",
+            "None of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2018_42_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2018_42_q2_s1",
+          "subNumber": "a",
+          "text": "The ISO reference model defines seven protocol layers, each of which is responsible for a specific range of functions. By considering this model, explain the main functions performed by a protocol operating at- (a) the physical layer; (b) the transport layer; (c) the network layer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2018_42_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2018_42_q3_s1",
+          "subNumber": "a",
+          "text": "Based on the single-bit parity error-detection code devise a new code to detect and correct a single 1-bit error in 4 bytes of data. How many parity bits do you require? You may assume that parity bits are error-free.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2018_42_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2018_42_q4_s1",
+          "subNumber": "a",
+          "text": "In the context of Transmission Control Protocol (TCP), briefly describe the purpose of TCP as well as the layer of the TCP/IP protocol architecture where it is found.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2018_42_q4_s2",
+          "subNumber": "b",
+          "text": "TCP implements a mechanism called the three-way handshake. Indicate the purpose of such mechanism and using a diagram, give an example on how it works emphasising the values of the TCP flags used as well as the sequence number.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2018_42_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2018_42_q5_s1",
+          "subNumber": "a",
+          "text": "With the help of neat diagrams, explain the term 'exponential backoff' in reference to CSMA/CD.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2018_42_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2018_42_q6_s1",
+          "subNumber": "a",
+          "text": "List various congestion control mechanisms. Explain any one in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2018_42_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2018_42_q7_s1",
+          "subNumber": "a",
+          "text": "State the need for an IP address. Also, explain various classes of IP addressing scheme.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2018_42_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2018_42_q8_s1",
+          "subNumber": "a",
+          "text": "(a) Peer to peer networks",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2018_42_q8_s2",
+          "subNumber": "b",
+          "text": "(b) Distance vector routing algorithm",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2018_42_q8_s3",
+          "subNumber": "c",
+          "text": "(c) OSPF routing protocol",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2018_42_q8_s4",
+          "subNumber": "d",
+          "text": "(d) E-mail",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2018_42_q8_s5",
+          "subNumber": "e",
+          "text": "(e) ALOHA",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2018_42_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2018_42_q9_s1",
+          "subNumber": "a",
+          "text": "(a) TCP vs. UDP",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cn_2018_42_q9_s2",
+          "subNumber": "b",
+          "text": "(b) Static routing vs. Dynamic routing",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cn_2018_42_q9_s3",
+          "subNumber": "c",
+          "text": "(c) IMAP vs. PoP",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

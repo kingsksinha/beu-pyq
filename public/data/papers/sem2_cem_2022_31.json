@@ -1,0 +1,288 @@
+{
+  "id": "sem2_cem_2022_31",
+  "semester": 2,
+  "subject_code": "cem",
+  "subject_name": "Construction Engineering & Management",
+  "year": "2022",
+  "exam_code": "101602",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam., 2022 Construction Engineering and Management Time: 03 Hours Code: 101602 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Assume any data not given."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cem_2022_31_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2022_31_q1_s1",
+          "subNumber": "a",
+          "text": "For establishing and maintaining priorities among the various jobs of a project, the technique is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "critical ratio scheduling",
+            "event flow scheduling technique",
+            "slotting technique for scheduling",
+            "short interval scheduling"
+          ]
+        },
+        {
+          "id": "sem2_cem_2022_31_q1_s2",
+          "subNumber": "b",
+          "text": "In case of CPM, the performance of a specific task is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "dummy",
+            "event",
+            "contract",
+            "activity"
+          ]
+        },
+        {
+          "id": "sem2_cem_2022_31_q1_s3",
+          "subNumber": "c",
+          "text": "Military organization is also called as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "line organization",
+            "line and staff organization",
+            "functional organization",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cem_2022_31_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following is incorrect statement?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The activity is the time consuming part of a project.",
+            "The beginning and end of a job, are called events.",
+            "The activity which consumes maximum time, is called a node.",
+            "Logically and sequentially connected activities and events form a network."
+          ]
+        },
+        {
+          "id": "sem2_cem_2022_31_q1_s5",
+          "subNumber": "e",
+          "text": "Without affecting the start of succeeding activities, the time by which activity completion time can be delayed, is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "duration",
+            "interfering float",
+            "free float",
+            "total float"
+          ]
+        },
+        {
+          "id": "sem2_cem_2022_31_q1_s6",
+          "subNumber": "f",
+          "text": "In bar chart, the various activities of a project, are shown by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "vertical lines",
+            "horizontal lines",
+            "dots",
+            "crosses"
+          ]
+        },
+        {
+          "id": "sem2_cem_2022_31_q1_s7",
+          "subNumber": "g",
+          "text": "The time which is responsible for least possible construction cost of an activity, is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "normal time",
+            "crash time",
+            "standard time",
+            "slow time"
+          ]
+        },
+        {
+          "id": "sem2_cem_2022_31_q1_s8",
+          "subNumber": "h",
+          "text": "If an activity has its optimistic, most likely and pessimistic times as 2, 3 and 7 respectively, then its expected time and variance are respectively",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "3.5 and \\( (5/6) \\)",
+            "5 and \\( (25/36) \\)",
+            "3.5 and \\( (25/36) \\)",
+            "4 and \\( (5/6) \\)"
+          ]
+        },
+        {
+          "id": "sem2_cem_2022_31_q1_s9",
+          "subNumber": "i",
+          "text": "A critical ratio scheduling",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "determines the status of each activity",
+            "adjusts automatically changes in activity progress",
+            "is a dynamic system",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cem_2022_31_q1_s10",
+          "subNumber": "j",
+          "text": "A machine costs 20,000 and its useful life is 8 years. The money is borrowed at 8% interest per annum. The capital recovery factor at 8% interest per annum for 8 years is 0.174. The annual equipment cost of the machine will be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1,740",
+            "3,480",
+            "5,220",
+            "6,960"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2022_31_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2022_31_q2_s1",
+          "subNumber": "a",
+          "text": "Assess the present constructional infrastructure in India. Give the remedial measures keeping in mind the economic feasibility.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2022_31_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2022_31_q3_s1",
+          "subNumber": "a",
+          "text": "What is critical path method? Prepare the network as per the data given in the Table 1 and compute in a table their early start, early finish, late start and late finish times. Determine the critical path and find the total float and free float for all the activities:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2022_31_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2022_31_q4_s1",
+          "subNumber": "a",
+          "text": "What do you mean by PERT and what is its significance?",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/224.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2022_31_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2022_31_q5_s1",
+          "subNumber": "a",
+          "text": "Write the factors to be considered for precast concrete construction. What do you mean by scaffolding?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2022_31_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2022_31_q6_s1",
+          "subNumber": "a",
+          "text": "Compare the characteristics and application of the different types of earth excavating equipment. Estimate the output of bulldozer for the following operating conditions: (a) Material - Sandy loam top soil (b) Swell - 25% (c) Haul distance - 45 m (d) Mould board size - 3.0 m long, 1.0 m high (e) Rated mould board capacity - 3 cu.m loose volume (f) Operating factor - 50 min/hr (g) Probable round trip time - 1.87 min.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2022_31_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2022_31_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the application of BIM in project management. What are the safety measures to be considered in the construction site?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2022_31_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2022_31_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the importance of organization in construction activities. What are the methods of scheduling?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cem_2022_31_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cem_2022_31_q9_s1",
+          "subNumber": "a",
+          "text": "What is called liquidated damage? What do you mean by direct cost and indirect cost?",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/225.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}

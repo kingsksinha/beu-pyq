@@ -1,0 +1,358 @@
+{
+  "id": "sem3_emachines1_2020_27",
+  "semester": 3,
+  "subject_code": "emachines1",
+  "subject_name": "Electrical Machine-I",
+  "year": "2020",
+  "exam_code": "100307",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2020 (New Course) Electrical Machines-I Time: 3 hours Code: 100307 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_emachines1_2020_27_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_27_q1_s1",
+          "subNumber": "a",
+          "text": "The property of a material which opposes the creation of magnetic flux in it is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "conductance",
+            "magnetomotive force",
+            "permeance",
+            "reluctance"
+          ]
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q1_s2",
+          "subNumber": "b",
+          "text": "Those magnetic materials are best suited for making armature transform cores which have ______ permeability and ______ hysteresis loss.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "high, high",
+            "low, high",
+            "high, low",
+            "low, low"
+          ]
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q1_s3",
+          "subNumber": "c",
+          "text": "The current drawn by a 220 V d.c. motor of armature resistance 0.5 \\( \\Omega \\) and back e.m.f. of 200 V is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "40 A",
+            "44 A",
+            "400 A",
+            "440 A"
+          ]
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q1_s4",
+          "subNumber": "d",
+          "text": "A d.c. series motor is accidentally connected to single-phase a.c. supply. The torque produced will be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "of zero average value",
+            "oscillating",
+            "steady and unidirectional",
+            "pulsating and unidirectional"
+          ]
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q1_s5",
+          "subNumber": "e",
+          "text": "The dummy coils in d.e. machines are useful to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "increase the efficiency",
+            "improve the commutation",
+            "reduce the cost of the machine",
+            "maintain the mechanical balance of armature"
+          ]
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q1_s6",
+          "subNumber": "f",
+          "text": "A d.c. shunt generator is supplying a load of 1.8 kW at 200 V. Its armature and field resistances are 0.4 ohm and 200 ohm respectively. What is the generated e.m.f.?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "190 V",
+            "196 V",
+            "204 V",
+            "210 V"
+          ]
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q1_s7",
+          "subNumber": "g",
+          "text": "Two transformers when operating in parallel will share the load depending upon which of the following?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Magnetizing current",
+            "Leakage reactance",
+            "Per unit impedance",
+            "Efficiency"
+          ]
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q1_s8",
+          "subNumber": "h",
+          "text": "When are eddy-current losses in a transformer reduced?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "If laminations are thick",
+            "If the number of turns in primary winding is reduced",
+            "If the number of turns in secondary winding is reduced",
+            "If laminations are thin"
+          ]
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q1_s9",
+          "subNumber": "i",
+          "text": "In an auto-transformer, power is transferred through",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "conduction process only",
+            "induction process only",
+            "both conduction and induction processes",
+            "mutual coupling"
+          ]
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q1_s10",
+          "subNumber": "j",
+          "text": "Open delta transformer can be obtained from",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "delta-delta",
+            "star-delta",
+            "delta-star",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_27_q2",
+      "number": 2,
+      "title": "Q.2 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_27_q2_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the no-load phasor diagram of a 1-phase transformer. Discuss how primary leakage flux is accounted for in the phasor diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q2_s2",
+          "subNumber": "b",
+          "text": "Give some transformer applications in electronic and control circuits.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q2_s3",
+          "subNumber": "c",
+          "text": "Define MMF and flux.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_27_q3",
+      "number": 3,
+      "title": "Q.3 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_27_q3_s1",
+          "subNumber": "a",
+          "text": "Write the basic difference between the magnetizing current of a large capacity transformer and the magnetizing inrush current.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q3_s2",
+          "subNumber": "b",
+          "text": "What are the various conditions which have to be fulfilled before a shunt-excited d.c. generator will generate rated voltage across the armature terminals?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q3_s3",
+          "subNumber": "c",
+          "text": "In open-circuit test on a 1-phase transformer, the ohmic losses are usually neglected in comparison with core loss. Justify.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_27_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_27_q4_s1",
+          "subNumber": "a",
+          "text": "Draw the speed vs. armature current, torque vs. armature current and torque vs. speed characteristics of d.c. series motor. Also write the applications of d.c. series motor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q4_s2",
+          "subNumber": "b",
+          "text": "Explain briefly the four bad effects of armature reaction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_27_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_27_q5_s1",
+          "subNumber": "a",
+          "text": "Describe, with a neat diagram, the working of a three-point starter used for a d.c. shunt motor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q5_s2",
+          "subNumber": "b",
+          "text": "Which losses of a d.c. shunt motor are constant?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_27_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_27_q6_s1",
+          "subNumber": "a",
+          "text": "A 6-pole, 148 A d.c. shunt generator has 480 conductors and is wave-wound. Its field current is 2 A. Find the demagnetizing and cross-magnetizing ampere turns per pole at full load, if (i) brushes are on GNA; (ii) brushes are shifted from GNA by \\( 5^\\circ \\) electrical; (iii) brushes are shifted from GNA by \\( 5^\\circ \\) mechanical.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q6_s2",
+          "subNumber": "b",
+          "text": "It is found that the voltage of a d.c. shunt generator does not build up. Explain the various possible causes of this failure.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_27_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_27_q7_s1",
+          "subNumber": "a",
+          "text": "A 250 V d.c. shunt motor has an armature resistance of 0.5 \\( \\Omega \\) and a field resistance of 250 \\( \\Omega \\). When driving a constant torque load at 600 r.p.m., the motor draws 21 A. What will be the new speed of the motor if an additional 250 \\( \\Omega \\) resistance is inserted in the field circuit?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q7_s2",
+          "subNumber": "b",
+          "text": "For a dc motor, the field flux speed control method is called a constant power drive method. Explain.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_27_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_27_q8_s1",
+          "subNumber": "a",
+          "text": "The maximum efficiency of a 50 kVA transformer is 97.4% and occurs at 90% of full load, at unity power factor. Calculate the efficiency at (i) full load at 0.8 power factor; (ii) half the full load at 0.9 power factor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q8_s2",
+          "subNumber": "b",
+          "text": "What are the two functions of a commutator in d.c. machines?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_27_q9",
+      "number": 9,
+      "title": "Q.9 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_27_q9_s1",
+          "subNumber": "a",
+          "text": "Derive an expression for the e.m.f. induced in a transformer winding. Show that e.m.f. per turn in primary is equal to e.m.f. per turn in secondary.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q9_s2",
+          "subNumber": "b",
+          "text": "Why is it preferable to install two or more transformers in parallel than one large unit?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_27_q9_s3",
+          "subNumber": "c",
+          "text": "What do you understand by leakage flux in a transformer?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

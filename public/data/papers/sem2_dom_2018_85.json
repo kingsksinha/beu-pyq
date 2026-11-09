@@ -1,0 +1,266 @@
+{
+  "id": "sem2_dom_2018_85",
+  "semester": 2,
+  "subject_code": "dom",
+  "subject_name": "Dynamics of Machinery",
+  "year": "2018",
+  "exam_code": "021513",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2018 Dynamics of Machinery Time: 03 Hours Code: 021513 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_dom_2018_85_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2018_85_q1_s1",
+          "subNumber": "a",
+          "text": "In a plate cam mechanism with reciprocating roller follower, the follower has a constant acceleration in the case of",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q1_s2",
+          "subNumber": "b",
+          "text": "The size of the cam depends on",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_dom_2018_85_q1_s3",
+          "subNumber": "c",
+          "text": "The speed of an engine varies from 210 rad/s to 190 rad/s. During a cycle the change in kinetic energy is found to be 400 Nm. The inertia of the flywheel in \\( kgm^2 \\) is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q1_s4",
+          "subNumber": "d",
+          "text": "A rotating disc of 1 m diameter has two eccentric masses of 0.5 kg each at radii of 50 mm and 60 mm at angular positions of \\( 0^{\\circ} \\) and \\( 150^{\\circ} \\), respectively. A balancing mass of 0.1 kg is to be used to balance the rotor. What is the radial position of the balancing mass?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q1_s5",
+          "subNumber": "e",
+          "text": "A system in dynamic balance implies that",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q1_s6",
+          "subNumber": "f",
+          "text": "When the pitching of a ship is upward, the effect of gyroscopic couple acting on it will be",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q1_s7",
+          "subNumber": "g",
+          "text": "In a slider-bar mechanism, when does the connecting rod have zero angular velocity?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q1_s8",
+          "subNumber": "h",
+          "text": "A mass m attached to a light spring oscillates with a period of 2 sec. If the mass is increased by 2 kg, the period increases by 1 sec. The value of m is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q1_s9",
+          "subNumber": "i",
+          "text": "A machine of 250 kg mass is supported on springs of total stiffness 100 kN/m. The machine has an unbalanced rotating force of 350 N at speed of 3600 r.p.m. Assuming a damping factor of 0.15, the value of transmissibility ratio is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q1_s10",
+          "subNumber": "j",
+          "text": "In a spring-mass system, the mass is 0.1 kg and the stiffness of the spring is 1 kN/m. By introducing a damper, the frequency of oscillation is found to be 90% of the original value. What is the damping coefficient of the damper?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2018_85_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2018_85_q2_s1",
+          "subNumber": "a",
+          "text": "What is the function of a flywheel? How does it differ from that of a governor?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q2_s2",
+          "subNumber": "b",
+          "text": "The turning moment diagram for a multi-cylinder engine is drawn to a vertical scale of 1 mm = 4500 N-m and horizontal scale of 1 mm = \\( 2.4^{\\circ} \\). The intercepted areas above and below the mean torque lines are 342, 23, 245, 303, 115, 232, 227 and 164 \\( mm^2 \\) when the engine is running at 150 r.p.m. If the mass of flywheel is 1000 kg and the fluctuation of speed does not exceed 3% of the mean speed, find the minimum value of radius of gyration.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2018_85_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2018_85_q3_s1",
+          "subNumber": "a",
+          "text": "A cam, with a minimum radius of 25 mm, rotating clockwise at a uniform speed is to be designed to give a roller follower, at the end of a valve rod, motion described below: <br/> (i) To raise the valve through 50 mm during \\( 120^{\\circ} \\) rotation of the cam <br/> (ii) To keep the valve fully raised through next \\( 30^{\\circ} \\) <br/> (iii) To lower the valve during next \\( 60^{\\circ} \\) <br/> (iv) To keep the valve closed during rest of the revolution, i.e., \\( 150^{\\circ} \\). <br/> The diameter of the roller is 20 mm and the diameter of the cam shaft is 25 mm. Draw the profile of the cam when (a) the line of stroke of the valve rod passes through the axis of the cam shaft, and (b) the line of the stroke is offset 15 mm from the axis of the cam shaft. The displacement of the valve, while being raised and lowered, is to take place with simple harmonic motion. Determine the maximum acceleration of the valve rod when the cam shaft rotates at 100 r.p.m. Draw the displacement, velocity and acceleration diagrams for one complete revolution of the cam.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2018_85_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2018_85_q4_s1",
+          "subNumber": "a",
+          "text": "Draw the displacement, velocity and acceleration diagrams for a follower when it moves with uniform acceleration and retardation. Derive the expression for velocity and acceleration during out-stroke and return-stroke of the follower.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_dom_2018_85_q4_s2",
+          "subNumber": "b",
+          "text": "A cam has straight working faces which are tangential to a base circle of diameter 90 mm. The follower is a roller of diameter 40 mm and the centre of roller moves along a straight line passing through the centre line of the cam shaft. The angle between the tangential faces of the cam is \\( 90^{\\circ} \\) and the faces are joined by a nose circle of 10 mm radius. The speed of rotation of the cam is 120 revolutions per min. Find the acceleration of the roller centre (i) when during the lift, the roller is just about to leave the straight flank and (ii) when the roller is at the outer end of its lift.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2018_85_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2018_85_q5_s1",
+          "subNumber": "a",
+          "text": "What is gyroscopic couple? What is the effect of gyroscopic couple on the stability of a four-wheeler while negotiating a curve?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_dom_2018_85_q5_s2",
+          "subNumber": "b",
+          "text": "The wheels of a motorcycle have a moment of inertia \\( 68 \\, kg m^2 \\) and engine parts have a moment of inertia of \\( 3.4 \\, kg m^2 \\). The axis of rotation of the engine crankshaft is parallel to that of the road wheels. If the gear ratio is 5 to 1, the diameter of the road wheels is 65 cm and the motor cycle rounds a curve of 30.5 m radius at 60 km/hour, find the magnitude and direction of the gyroscopic couple.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2018_85_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2018_85_q6_s1",
+          "subNumber": "a",
+          "text": "What are in-line engines? How are they balanced? Is it possible to balance them completely?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q6_s2",
+          "subNumber": "b",
+          "text": "A four-cylinder marine oil engine has the cranks arranged at angular intervals of \\( 90^{\\circ} \\). The inner cranks are 1.2 m apart and are placed symmetrically between the outer cranks, which are 3 m apart. Each crank is 45.7 cm long, the engine runs at 90 r.p.m., and the weight of the reciprocating parts for each cylinder is 8006 N. In which order should the cranks be arranged for the best balance of the reciprocating masses, and what will then be the magnitude of the unbalanced primary couple?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2018_85_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2018_85_q7_s1",
+          "subNumber": "a",
+          "text": "A five-cylinder inline engine running at 500 r.p.m. has successive cranks at \\( 144^{\\circ} \\) apart. The distance between the cylinder lines is 300 mm. Piston stroke is 240 mm, length of connecting rod is 480 mm. Examine the engine for balance of primary and secondary forces and couples. Find the maximum value of these and position of central crank at which these maximum values occur. The reciprocating mass for each cylinder is 150 N.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2018_85_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2018_85_q8_s1",
+          "subNumber": "a",
+          "text": "Classify different types of vibration and derive an equation for the transverse vibration of a uniformly loaded shaft.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q8_s2",
+          "subNumber": "b",
+          "text": "The following data are given for a vibrating system with viscous damping: Mass = 2.5 kg, Spring constant = 3 N/mm. Amplitude decreases to 0.25 of the initial value after five consecutive cycles. Determine the damping coefficient of the damper in the system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dom_2018_85_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dom_2018_85_q9_s1",
+          "subNumber": "a",
+          "text": "Derive an expression for the free torsional vibration for a shaft fixed at one end and carrying a heavy disc at the other.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dom_2018_85_q9_s2",
+          "subNumber": "b",
+          "text": "Consider a stepped shaft with two discs as shown in the figure given below. The following shaft dimensions are to be taken: \\( l_1 = 0.5 \\, m, l_2 = 0.3 \\, m, l_3 = 0.2 \\, m \\), \\( d_1 = 0.015 \\, m, d_2 = 0.012 \\, m, d_3 = 0.01 \\, m \\). Take the modulus of rigidity of the shaft as \\( 0.8 \\times 10^{11} N/m^2 \\). Discs have polar mass moment of inertia as \\( I_{P1} = 0.015 \\, kg-m^2 \\) and \\( I_{P2} = 0.01 \\, kg-m^2 \\). Obtain natural frequencies, mode shapes, and the location of the node.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/200.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}

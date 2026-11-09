@@ -1,0 +1,294 @@
+{
+  "id": "sem4_power2_2016_44",
+  "semester": 4,
+  "subject_code": "power2",
+  "subject_name": "Power Systems – II",
+  "year": "2016",
+  "exam_code": "031508",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Examination, 2016 Power System-II Time: 03 Hours Code: 031508 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 5,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are Nine questions in this paper.",
+    "Attempt five questions in all.",
+    "Question No. 1 is Compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_power2_2016_44_q1",
+      "number": 1,
+      "title": "Q.1 Write short answers of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2016_44_q1_s1",
+          "subNumber": "a",
+          "text": "What are superheater and reheater?",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_power2_2016_44_q1_s2",
+          "subNumber": "b",
+          "text": "On what factors does the power output of hydro-plant depends?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2016_44_q1_s3",
+          "subNumber": "c",
+          "text": "What is load duration curve? What information does it provides?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power2_2016_44_q1_s4",
+          "subNumber": "d",
+          "text": "Name some of the categories of heat losses in a thermal plant.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2016_44_q1_s5",
+          "subNumber": "e",
+          "text": "Define critical clearing angle in equal area criterion?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2016_44_q1_s6",
+          "subNumber": "f",
+          "text": "Why ash handling plant necessary in thermal power plant?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power2_2016_44_q1_s7",
+          "subNumber": "g",
+          "text": "What is two par tariff?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_power2_2016_44_q1_s8",
+          "subNumber": "h",
+          "text": "What is hydrograph? What information does it provides?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power2_2016_44_q1_s9",
+          "subNumber": "i",
+          "text": "List the different methods to improve transient stability.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2016_44_q1_s10",
+          "subNumber": "j",
+          "text": "Define the sequence impedances.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2016_44_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2016_44_q2_s1",
+          "subNumber": "a",
+          "text": "Define the terms plant capacity factor and plant use factor and explain their importance in an electrical power system. Also explain the effect of the load factor on the cost of generation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2016_44_q2_s2",
+          "subNumber": "b",
+          "text": "The power station supplies the peak loads of 25 MW, 20 MW and 30 MW to three localities. The annual load factor is 0.60 pu and the diversity of the load at the station is 1.65 pu. Calculate: (a) The maximum demand on the station. (b) The installed capacity. (c) The energy supplied in a year.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2016_44_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2016_44_q3_s1",
+          "subNumber": "a",
+          "text": "Derive the sequence impedance of transmission lines.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power2_2016_44_q3_s2",
+          "subNumber": "b",
+          "text": "A set of unbalanced line currents in a three phase four wire system in as follows: \\( I_a = -j6 A \\), \\( I_b = (-8+j5) A \\) and \\( I_c = 7 A \\). Determine the zero sequence, positive sequence and negative sequence components of the current.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2016_44_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2016_44_q4_s1",
+          "subNumber": "a",
+          "text": "Prove that a line-to-ground fault at the terminals for a synchronous generator with solidly grounded neutral is more severe than a three-phase fault.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power2_2016_44_q4_s2",
+          "subNumber": "b",
+          "text": "A 100 MVA, 11 KV, three-phase synchronous generator was subjected to different type of faults. The faults currents are as follows: LG fault - 4200 A; LL fault - 2600 A; LLL fault - 2000 A. The generator neutral is solidly grounded. Find the per unit values of the three sequence reactances of the generator.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2016_44_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2016_44_q5_s1",
+          "subNumber": "a",
+          "text": "Distinguish between steady state and transient stability of a power system and also discuss the factors on which these depends.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power2_2016_44_q5_s2",
+          "subNumber": "b",
+          "text": "A 100 MVA, 2 pole, 60 Hz generator has a moment of inertia of \\( 50 \\times 10^3 \\text{ kg-m}^2 \\). Determine the following: (a) The energy stored in the rotor at the rated speed (b) The angular Momentum M and (c) The inertia constant H.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2016_44_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2016_44_q6_s1",
+          "subNumber": "a",
+          "text": "A transmission line of reactance 0.1 H and resistance 5 ohms is suddenly short circuited at \\( t = 0 \\) seconds at the bar end as shown in the figure [with an AC source \\( V=100 \\sin(100\\pi t+15^{\\circ}) \\)]. Write the expression for the short circuit current \\( i(t) \\) with a neat diagram. Find approximately the value of the first current maximum (maximum momentary current). Assume that the first current maximum occurs at the same time as the value of the first current maximum of the short circuit current.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/66.jpg"
+          ]
+        },
+        {
+          "id": "sem4_power2_2016_44_q6_s2",
+          "subNumber": "b",
+          "text": "Three 60 MVA ac generators, each having 15% reactance are connected via three 36 MVA reactors each of 10% reactance to a common busbar. The feeders are each connected to the junction of each alternator and is reactor. What must be the minimum rating of each feeder circuit breaker?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2016_44_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2016_44_q7_s1",
+          "subNumber": "a",
+          "text": "(a) Cooling water tower efficiency",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2016_44_q7_s2",
+          "subNumber": "b",
+          "text": "(b) Transient stability",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_power2_2016_44_q7_s3",
+          "subNumber": "c",
+          "text": "(c) Equal area criterion",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_power2_2016_44_q7_s4",
+          "subNumber": "d",
+          "text": "(d) Swing equation",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2016_44_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2016_44_q8_s1",
+          "subNumber": "a",
+          "text": "What are the advantages of pumped storage plants? Discuss how water hammer and negative pressure can be prevented in hydro electric plants.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2016_44_q8_s2",
+          "subNumber": "b",
+          "text": "Compare the essential requirements for the favourable site selection for hydroelectric plants and thermal power plants. Also discuss the limitations of each.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power2_2016_44_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power2_2016_44_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the interconnection of sequence network for (i) Line-to-line fault. (ii) Double line-to-ground fault",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power2_2016_44_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the equal-area criterion for the stability of an alternator supplying infinite busbars via an inductive interconnector.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

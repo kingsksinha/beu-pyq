@@ -1,0 +1,333 @@
+{
+  "id": "sem4_survey_2023_74",
+  "semester": 4,
+  "subject_code": "survey",
+  "subject_name": "Surveying and Geomatics",
+  "year": "2023",
+  "exam_code": "101308",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 3rd Semester Examination, 2023 Surveying and Geomatics Time: 03 Hours Code: 101308 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_survey_2023_74_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven questions only):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2023_74_q1_s1",
+          "subNumber": "a",
+          "text": "The Bowditch method of adjusting a traverse is based on the assumptions that",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Errors in linear measurements is proportional to its length",
+            "Errors in angular measurements is inversely proportional to its length",
+            "Both of above",
+            "None of above"
+          ]
+        },
+        {
+          "id": "sem4_survey_2023_74_q1_s2",
+          "subNumber": "b",
+          "text": "The temporary adjustments of a prismatic compass are<br/> 1. Centering<br/> 2. Levelling<br/> 3. Focusing the prism<br/> The correct order is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1, 3 and 2",
+            "1, 2 and 3",
+            "2, 3 and 1",
+            "2, 1 and 3"
+          ]
+        },
+        {
+          "id": "sem4_survey_2023_74_q1_s3",
+          "subNumber": "c",
+          "text": "The correction for sag is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Always additive",
+            "Always subtractive",
+            "Always zero",
+            "Sometimes additive and sometimes subtractive"
+          ]
+        },
+        {
+          "id": "sem4_survey_2023_74_q1_s4",
+          "subNumber": "d",
+          "text": "Local attraction in compass surveying may exit due to",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Incorrect levelling of the magnetic needle",
+            "Loss of magnetism of the needle",
+            "Friction of the needle at the pivot",
+            "Presence of magnetic substance near the instruments."
+          ]
+        },
+        {
+          "id": "sem4_survey_2023_74_q1_s5",
+          "subNumber": "e",
+          "text": "If the quadrantal bearing of line is \\( N25^{\\circ}W \\) then whole circle bearing of the line is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( 355^{\\circ} \\)",
+            "\\( 205^{\\circ} \\)",
+            "\\( 335^{\\circ} \\)",
+            "\\( 295^{\\circ} \\)"
+          ]
+        },
+        {
+          "id": "sem4_survey_2023_74_q1_s6",
+          "subNumber": "f",
+          "text": "In a well-conditioned triangle, no angle should be less than \\( 30^{\\circ} \\) and greater than \\( 120^{\\circ} \\)",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "id": "sem4_survey_2023_74_q1_s7",
+          "subNumber": "g",
+          "text": "In closed traverse surveying the sum of deflection angle will not be equal to \\( 360^{\\circ} \\)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "id": "sem4_survey_2023_74_q1_s8",
+          "subNumber": "h",
+          "text": "In ___ of remote sensing, the Sun is primary source of energy.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Active",
+            "Passive",
+            "Both A and B",
+            "Cannot say"
+          ]
+        },
+        {
+          "id": "sem4_survey_2023_74_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following is/are elements of visual interpretation?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Contrast stretch",
+            "Texture",
+            "Density slicing",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_survey_2023_74_q1_s10",
+          "subNumber": "j",
+          "text": "The lines joining points of equal dip are called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Aclinic lines",
+            "Isogonic lines",
+            "Agonic lines",
+            "Isoclinic lines"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2023_74_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2023_74_q2_s1",
+          "subNumber": "a",
+          "text": "Determine the number of photographs required to cover an area \\( 25 \\text{ km} \\times 25 \\text{ km} \\) if the scale is 1 in 10,000 and the format is \\( 230 \\times 230 \\text{ mm} \\). Take longitudinal lap as 60% and the side lap as 30%.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2023_74_q2_s2",
+          "subNumber": "b",
+          "text": "What is vertical aerial photograph? With respect to a vertical aerial photograph, discuss the following using a suitable diagram:<br/> (i) Principal Point<br/> (ii) Nadir Point<br/> (iii) Iso-center<br/> (iv) Camera Axis<br/> (v) Principal Line",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2023_74_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2023_74_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the difference between<br/> (i) Chain surveying and Compass surveying<br/> (ii) Whole circle bearing system and Reducing bearing system<br/> (iii) Vernier Theodolite and Precise Optical Theodolite.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2023_74_q3_s2",
+          "subNumber": "b",
+          "text": "Draw a neat sketch of a vernier theodolite. With the help of the sketch, explain the various parts of vernier theodolite.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2023_74_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2023_74_q4_s1",
+          "subNumber": "a",
+          "text": "Two straight lines intersect at chainage 1150.50, and the angle of intersection is \\( 60^{\\circ} \\). If the radius of the curve is 500 m, determine<br/> (i) Tangent distance<br/> (ii) Length of the curve<br/> (iii) Chainages of point of curvature and tangency<br/> (iv) Length of the long chord<br/> (v) Degree of curve<br/> (vi) Apex distance and the mid-ordinates",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_survey_2023_74_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the resection after orientation by<br/> (i) Two points problem<br/> (ii) Three points problem",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2023_74_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2023_74_q5_s1",
+          "subNumber": "a",
+          "text": "Define the following terms:<br/> (i) Traverse<br/> (ii) True meridian<br/> (iii) Declination<br/>(iv) Dip",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2023_74_q5_s2",
+          "subNumber": "b",
+          "text": "The bearing observed in traversing with a compass at G.E.C. Nawada where local attraction was suspected are given below:<br/> Line AB: Fore Bearing \\( 134^{\\circ}30' \\), Back Bearing \\( 314^{\\circ}30' \\)<br/> Line BC: Fore Bearing \\( 120^{\\circ}00' \\), Back Bearing \\( 299^{\\circ}30' \\)<br/> Line CD: Fore Bearing \\( 320^{\\circ}00' \\), Back Bearing \\( 185^{\\circ}30' \\)<br/> Line DA: Fore Bearing \\( 265^{\\circ}00' \\), Back Bearing \\( 83^{\\circ}30' \\)<br/> Find the corrected bearing of the lines. At what stations do you suspect local attraction?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2023_74_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2023_74_q6_s1",
+          "subNumber": "a",
+          "text": "Describe various applications of remote sensing in the field of civil engineering with suitable examples.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_survey_2023_74_q6_s2",
+          "subNumber": "b",
+          "text": "What are the different methods of GPS surveying? Explain any one of them in details.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2023_74_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2023_74_q7_s1",
+          "subNumber": "a",
+          "text": "What are the different types of waves used in EDM? What are the principles of EDM?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_survey_2023_74_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss in brief digital image processing process. What are the advantages of digital image processing?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2023_74_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2023_74_q8_s1",
+          "subNumber": "a",
+          "text": "Briefly explain the different methods adopting in levelling. Explain with neat sketch.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2023_74_q8_s2",
+          "subNumber": "b",
+          "text": "The staff reading taken on a staff held at distance of 80 m from the instrument with the bubble central was 1.455 m. When the bubble is moved 6 divisions out of the centre, the staff reading observed is 1.487 m. If the length of one division is 2 mm. Find the radius of curvature and sensitivity of the tube.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_survey_2023_74_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions : (incomplete question due to distorted question pdf)",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_survey_2023_74_q9_s1",
+          "subNumber": "a",
+          "text": "A line was measured with a steel tape which was exactly 30 m at a temperature of \\( 30^{\\circ}C \\) and a pull of 20 kg. The measured length was 1950 m. The temperature during measurement was \\( 40^{\\circ}C \\) and the pull applied was 25 kg. Find the true length of the line if the area of cross-section of the tape is \\( 2.5 \\text{ mm}^2 \\). The coefficient of thermal expansion of material of the tape and modulus of elasticity of the materials are given as standard.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_survey_2023_74_q9_s2",
+          "subNumber": "b",
+          "text": "Determine the length of the line given the true area conditions.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

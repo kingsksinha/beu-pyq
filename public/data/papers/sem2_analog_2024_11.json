@@ -1,0 +1,337 @@
+{
+  "id": "sem2_analog_2024_11",
+  "semester": 2,
+  "subject_code": "analog",
+  "subject_name": "Analog Circuits",
+  "year": "2024",
+  "exam_code": "104401",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2024 Analog Circuits Time: 03 Hours Code: 104401 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_analog_2024_11_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2024_11_q1_s1",
+          "subNumber": "a",
+          "text": "JFET can be operated with",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "negative gate only",
+            "gate voltage only",
+            "positive as well as negative gate voltage",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "sem2_analog_2024_11_q1_s2",
+          "subNumber": "b",
+          "text": "Which power amplifier has the highest collector efficiency",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "C",
+            "A",
+            "B",
+            "AB"
+          ]
+        },
+        {
+          "id": "sem2_analog_2024_11_q1_s3",
+          "subNumber": "c",
+          "text": "Which amplifier is used for 180-degree phase shift",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "differential amplifier",
+            "non inverting amplifier",
+            "inverting amplifier",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_analog_2024_11_q1_s4",
+          "subNumber": "d",
+          "text": "A MOSFET has three terminals, namely",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "cathode, anode, grid",
+            "source, gate, drain",
+            "emitter, base, collector",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "sem2_analog_2024_11_q1_s5",
+          "subNumber": "e",
+          "text": "The maximum efficiency of resistance loaded class B power amplifier is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "5%",
+            "50%",
+            "30%",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_analog_2024_11_q1_s6",
+          "subNumber": "f",
+          "text": "A JFET is also called _______ transistor",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "unipolar",
+            "bipolar",
+            "injunction",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "sem2_analog_2024_11_q1_s7",
+          "subNumber": "g",
+          "text": "In a phase shift oscillator, the frequency determining elements are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "L and C",
+            "R, L and C",
+            "R and C",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_analog_2024_11_q1_s8",
+          "subNumber": "h",
+          "text": "The leakage current across a pn junction is due to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Minority carriers",
+            "Majority carriers",
+            "Junction capacitance",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_analog_2024_11_q1_s9",
+          "subNumber": "i",
+          "text": "An oscillator converts",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "a.c. power into d.c. power",
+            "a.c. power into a.c. power",
+            "mechanical power into a.c. power",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "sem2_analog_2024_11_q1_s10",
+          "subNumber": "j",
+          "text": "In a transistor",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( I_E = I_C - I_B \\)",
+            "\\( I_B = I_C + I_E \\)",
+            "\\( I_C = I_E + I_B \\)",
+            "\\( I_E = I_C + I_B \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2024_11_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2024_11_q2_s1",
+          "subNumber": "a",
+          "text": "In a full wave rectifier, the input is from 30-0-30V transformer. The load and diode forward resistances are 100\\( \\Omega \\) and 10\\( \\Omega \\) respectively. Calculate the average voltage, dc output power, ac input power, rectification efficiency and percentage regulation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2024_11_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the working of positive clamping circuit.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2024_11_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2024_11_q3_s1",
+          "subNumber": "a",
+          "text": "Draw the common emitter circuit and sketch the input and output characteristics. Also explain active region, cutoff region and saturation region by indicating them on the characteristic curve.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2024_11_q3_s2",
+          "subNumber": "b",
+          "text": "With a neat circuit diagram explain the Voltage Divider Bias circuit by giving its exact analysis.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2024_11_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2024_11_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the characteristics of an Ideal Op-Amp. Mention some of the applications of Op-Amp.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2024_11_q4_s2",
+          "subNumber": "b",
+          "text": "Explain R-2R ladder DAC with example?",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2024_11_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2024_11_q5_s1",
+          "subNumber": "a",
+          "text": "Explain Successive type ADC with neat circuit diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2024_11_q5_s2",
+          "subNumber": "b",
+          "text": "Describe the construction and operation of JFET and draw its characteristics.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2024_11_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2024_11_q6_s1",
+          "subNumber": "a",
+          "text": "Explain Colpitts oscillator with Circuit diagram and derive its frequency.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem2_analog_2024_11_q6_s2",
+          "subNumber": "b",
+          "text": "Explain RC coupled transistor amplifier with neat circuit diagram in a middle frequency Range.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2024_11_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2024_11_q7_s1",
+          "subNumber": "a",
+          "text": "Explain RC- phase shift oscillator using op-amp and derive its frequency.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem2_analog_2024_11_q7_s2",
+          "subNumber": "b",
+          "text": "Describe the construction and operation of depletion type MOSFET and draw its characteristics.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2024_11_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2024_11_q8_s1",
+          "subNumber": "a",
+          "text": "Describe class A Power Amplifier. Derive the expression for its maximum conversion Efficiency.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_analog_2024_11_q8_s2",
+          "subNumber": "b",
+          "text": "Explain Wien bridge oscillator using op-amp and derive its frequency.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2024_11_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2024_11_q9_s1",
+          "subNumber": "a",
+          "text": "Explain MOSFET as an amplifier?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2024_11_q9_s2",
+          "subNumber": "b",
+          "text": "Describe class B Power Amplifier. Derive the expression for its maximum conversion Efficiency.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

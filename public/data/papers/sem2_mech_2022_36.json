@@ -1,0 +1,323 @@
+{
+  "id": "sem2_mech_2022_36",
+  "semester": 2,
+  "subject_code": "mech",
+  "subject_name": "Mechanical Engineering",
+  "year": "2022",
+  "exam_code": "101407",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University B.Tech 4th Semester Exam., 2022 (New Course) MECHANICAL ENGINEERING Time: 03 Hours Code: 101407 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_mech_2022_36_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2022_36_q1_s1",
+          "subNumber": "a",
+          "text": "Extensive property of a system is one whose value",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "depends on the mass of the system, like volume",
+            "does not depend on the mass of the system, like temperature, pressure, etc.",
+            "is not dependent on the path followed but on the state",
+            "is dependent on the path followed and not on the state"
+          ]
+        },
+        {
+          "id": "sem2_mech_2022_36_q1_s2",
+          "subNumber": "b",
+          "text": "For reversible adiabatic process, the change in entropy is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "unpredictable"
+          ]
+        },
+        {
+          "id": "sem2_mech_2022_36_q1_s3",
+          "subNumber": "c",
+          "text": "If \\( Q_{1} \\) is the heat transfer between hot temperature source and machine, and \\( Q_{2} \\) between cold temperature source and machine, then for heat pump, COP will be equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{Q_{1}}{Q_{1}-Q_{2}} \\)",
+            "\\( \\frac{Q_{2}}{Q_{1}-Q_{2}} \\)",
+            "\\( \\frac{Q_{1}}{Q_{2}-Q_{1}} \\)",
+            "\\( \\frac{Q_{2}}{Q_{2}-Q_{1}} \\)"
+          ]
+        },
+        {
+          "id": "sem2_mech_2022_36_q1_s4",
+          "subNumber": "d",
+          "text": "Kelvin-Planck law deals with",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "conservation of heat",
+            "conservation of work",
+            "conservation of heat into work",
+            "conservation of work into heat"
+          ]
+        },
+        {
+          "id": "sem2_mech_2022_36_q1_s5",
+          "subNumber": "e",
+          "text": "For same compression ratio and for same heat added",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Otto cycle is more efficient than diesel cycle",
+            "diesel cycle is more efficient than Otto cycle",
+            "efficiency depends on other factors",
+            "both Otto and diesel cycles are equally efficient"
+          ]
+        },
+        {
+          "id": "sem2_mech_2022_36_q1_s6",
+          "subNumber": "f",
+          "text": "Gas turbine cycle consists of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "two isothermal and two isentropic processes",
+            "two isentropic and two constant volume processes",
+            "two isentropic, one constant volume and one constant pressure processes",
+            "two isentropic and two constant pressure processes"
+          ]
+        },
+        {
+          "id": "sem2_mech_2022_36_q1_s7",
+          "subNumber": "g",
+          "text": "Tripple point temperature and pressure for water are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 0\\cdot01^{\\circ}C \\) and 0.006028 atm",
+            "\\( 0^{\\circ}C \\) and 1 atm",
+            "\\( 100^{\\circ}C \\) and 1 atm",
+            "\\( 1^{\\circ}C \\) and 1 atm"
+          ]
+        },
+        {
+          "id": "sem2_mech_2022_36_q1_s8",
+          "subNumber": "h",
+          "text": "Select the correct relation.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( TdS = dU + pdV \\)",
+            "\\( dH = TdS + Vdp \\)",
+            "\\( TdS = c_{p}dT - Vdp \\)",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_mech_2022_36_q1_s9",
+          "subNumber": "i",
+          "text": "The first law of thermodynamics gives \\( dU = \\delta Q - \\delta W \\) and the second law tells that \\( dS &gt; \\frac{\\delta Q}{T} \\). In which of the way these two laws can be combined and written?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( dU \\ge TdS - pdV \\)",
+            "\\( dU \\le dS - pdV \\)",
+            "\\( dU \\le TdS + pdV \\)",
+            "\\( dU = TdS - pdV \\)"
+          ]
+        },
+        {
+          "id": "sem2_mech_2022_36_q1_s10",
+          "subNumber": "j",
+          "text": "Air-standard efficiency of diesel cycle is a function of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "compression ratio and the ratio of maximum to minimum temperature",
+            "compression ratio and cut-off ratio",
+            "compression ratio and the ratio of maximum to minimum pressure",
+            "compression ratio and the ratio of exhaust temperature to inlet temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2022_36_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2022_36_q2_s1",
+          "subNumber": "a",
+          "text": "(a) Perpetual motion machine of second kind<br/> (b) Point and path functions<br/> (c) Total energy of the system<br/> (d) Psychrometry<br/> (e) Pure substance<br/> (f) Exergy destruction<br/> (g) Refrigeration",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2022_36_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2022_36_q3_s1",
+          "subNumber": "a",
+          "text": "A certain water heater operates under steady flow conditions receiving \\( 4.2 \\text{ kg/s} \\) of water at \\( 75^{\\circ}C \\) temperature, enthalpy \\( 313\\cdot93 \\text{ kJ/kg} \\). The water is heated by mixing with the steam which is supplied to the heater at temperature \\( 100\\cdot2^{\\circ}C \\) and enthalpy \\( 2676 \\text{ kJ/kg} \\). The mixture leaves the heater as liquid water at temperature \\( 100^{\\circ}C \\) and enthalpy \\( 419 \\text{ kJ/kg} \\). How much steam must be supplied to the heater per hour?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2022_36_q3_s2",
+          "subNumber": "b",
+          "text": "In an air-standard diesel cycle, the compression ratio is 16, and at the beginning of isentropic compression, the temperature is \\( 15^{\\circ}C \\) and the pressure is 0.1 MPa. Heat is added until the temperature at the end of the constant pressure process is \\( 1480^{\\circ}C \\). Calculate (i) the cut-off ratio, (ii) the heat supplied per kg of air, (iii) the cycle efficiency, and (iv) the mean effective pressure.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2022_36_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2022_36_q4_s1",
+          "subNumber": "a",
+          "text": "A gas flows steadily through a rotary compressor. The gas enters the compressor at a temperature of \\( 16^{\\circ}C \\), a pressure of 100 kPa, and an enthalpy of \\( 391\\cdot2 \\text{ kJ/kg} \\). The gas leaves the compressor at a temperature of \\( 245^{\\circ}C \\), a pressure of 0.6 MPa, and enthalpy of \\( 534\\cdot5 \\text{ kJ/kg} \\). There is no heat transfer to or from the gas as it flows through the compressor. Evaluate the external work done per unit mass of gas assuming the gas velocities at entry and exit to be negligible.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2022_36_q4_s2",
+          "subNumber": "b",
+          "text": "Evaluate the external work done per unit mass of gas when the gas velocity at entry is \\( 80 \\text{ m/s} \\) and that at exit is \\( 160 \\text{ m/s} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2022_36_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2022_36_q5_s1",
+          "subNumber": "a",
+          "text": "Define 'reversibility' and 'irreversibility'. What are the various causes of irreversibility?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2022_36_q5_s2",
+          "subNumber": "b",
+          "text": "Derive an expression for entropy change in an irreversible process.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2022_36_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2022_36_q6_s1",
+          "subNumber": "a",
+          "text": "State Kelvin-Planck and Clausius statements for 2nd law of thermodynamics and show the equivalence between these statements.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2022_36_q6_s2",
+          "subNumber": "b",
+          "text": "A gas of mass 1.5 kg undergoes a quasi-static expansion which follows a relationship \\( p = a + bV \\), where a and b are constants. The initial and final pressures are 1000 kPa and 200 kPa respectively and the corresponding volumes are \\( 0\\cdot20 \\text{ m}^{3} \\) and \\( 1\\cdot20 \\text{ m}^{3} \\). The specific internal energy of the gas is given by the relation \\( u = 1.5 pv - 85 \\text{ kJ/kg} \\), where p is in kPa and v is in \\( \\text{m}^{3}\\text{/kg} \\). Calculate the net transfer and maximum internal energy of the gas attained during expansion.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2022_36_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2022_36_q7_s1",
+          "subNumber": "a",
+          "text": "Saturated air at \\( 2^{\\circ}C \\) is required to be supplied to a room where the temperature must be held at \\( 20^{\\circ}C \\) with a relative humidity of 50%. The air is heated and then water at \\( 10^{\\circ}C \\) is sprayed in to give the required humidity. Determine the temperature to which the air must be heated and the mass of spray water required per \\( \\text{m}^{3} \\) of air at room conditions. Assume that the total pressure is constant at 1.013 bar and neglect the fan power. Use steam table for required data.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2022_36_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2022_36_q8_s1",
+          "subNumber": "a",
+          "text": "What are Helmholtz's and Gibbs' functions? Write four Maxwell's equations.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2022_36_q8_s2",
+          "subNumber": "b",
+          "text": "A turbo-compressor delivers \\( 2\\cdot33 \\text{ m}^{3}\\text{/s} \\) of air at 0.276 MPa, \\( 43^{\\circ}C \\) which is heated at this pressure to \\( 430^{\\circ}C \\) and finally expanded in a turbine which delivers 1860 kW. During the expansion, there is a heat transfer of 0.09 MJ/s to the surroundings. Calculate the turbine exhaust temperature if changes in kinetic and potential energies are negligible.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_mech_2022_36_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_mech_2022_36_q9_s1",
+          "subNumber": "a",
+          "text": "A vessel of volume \\( 0.04 \\text{ m}^{3} \\) contains a mixture of saturated water and saturated steam at a temperature of \\( 250^{\\circ}C \\). The mass of the liquid present is 9 kg. Find the pressure, the mass, the specific volume, the enthalpy, the entropy, and the internal energy. <br/> Given: At \\( 250^{\\circ}C \\), \\( P_{sat} = 3\\cdot973 \\text{ MPa} \\), \\( \\nu_{f} = 0.0012512 \\text{ m}^{3}\\text{/kg} \\), \\( \\nu_{g} = 0.05013 \\text{ m}^{3}\\text{/kg} \\), \\( h_{f} = 1085\\cdot36 \\text{ kJ/kg} \\), \\( h_{fg} = 1716\\cdot2 \\text{ kJ/kg} \\), \\( s_{f} = 2\\cdot7927 \\text{ kJ/kg K} \\), \\( s_{fg} = 3\\cdot2802 \\text{ kJ/kg K} \\), \\( u_{f} = 1080\\cdot39 \\text{ kJ/kg} \\), \\( u_{fg} = 1522 \\text{ kJ/kg} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_mech_2022_36_q9_s2",
+          "subNumber": "b",
+          "text": "A gas turbine plant operates on the Brayton cycle between the temperatures \\( 27^{\\circ}C \\) and \\( 800^{\\circ}C \\). <br/> (i) Find the pressure ratio at which the cycle efficiency approaches the Carnot cycle efficiency.<br/> (ii) Find the pressure ratio at which the work done per kg of air is maximum.<br/> (iii) Compare the efficiency at this pressure ratio with the Carnot efficiency for the given temperatures.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

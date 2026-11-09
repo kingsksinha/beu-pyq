@@ -1,0 +1,284 @@
+{
+  "id": "sem4_trans_2021_88",
+  "semester": 4,
+  "subject_code": "trans",
+  "subject_name": "Transportation Engineering",
+  "year": "2021",
+  "exam_code": "101507",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Examination, 2021 Transportation Engineering Time: 03 Hours Code: 101507 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_trans_2021_88_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2021_88_q1_s1",
+          "subNumber": "a",
+          "text": "In a national highway, the minimum width of road and shoulder on each side are respectively.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q1_s2",
+          "subNumber": "b",
+          "text": "The road connecting a city to highway is called",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q1_s3",
+          "subNumber": "c",
+          "text": "The longest road constructed during the time of Shershah Suri was from",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q1_s4",
+          "subNumber": "d",
+          "text": "The sequence of survey in a road project is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q1_s5",
+          "subNumber": "e",
+          "text": "In preliminary survey of a road project, in hilly region cross sections are taken generally at",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q1_s6",
+          "subNumber": "f",
+          "text": "Ascending order according to width is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q1_s7",
+          "subNumber": "g",
+          "text": "The order in which a road is built is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q1_s8",
+          "subNumber": "h",
+          "text": "The factor-influencing camber is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q1_s9",
+          "subNumber": "i",
+          "text": "For earthen roads in heavy rainfall area, common camber is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q1_s10",
+          "subNumber": "j",
+          "text": "Minimum right-of-way required for a village road in open area is",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2021_88_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2021_88_q2_s1",
+          "subNumber": "a",
+          "text": "Compare the construction method of Telford and Macadam; bring out the point of differences.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the necessity and objects of highway planning.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2021_88_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2021_88_q3_s1",
+          "subNumber": "a",
+          "text": "Nagpur Road Plan",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q3_s2",
+          "subNumber": "b",
+          "text": "Fact finding surveys",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q3_s3",
+          "subNumber": "c",
+          "text": "Star and grid system",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q3_s4",
+          "subNumber": "d",
+          "text": "Saturation system",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2021_88_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2021_88_q4_s1",
+          "subNumber": "a",
+          "text": "What are the objects of reconnaissance surveys? Discuss the scope of aerial survey for the purpose.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q4_s2",
+          "subNumber": "b",
+          "text": "Find the total width of a pavement on a horizontal curve for a new national highway to be aligned along a rolling terrain with ruling minimum radius. V = 80 kmph, pavement width W = 7.0m, number of lanes = 2, wheel base = 6 m, skid resistance = 0.15 and max super elevation = 0.07.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2021_88_q5",
+      "number": 5,
+      "title": "Q.5 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2021_88_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the role of pavement surface characteristics in highway geometric design.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q5_s2",
+          "subNumber": "b",
+          "text": "Explain total reaction time of driver and the factor on which it depends. Explain PIEV theory.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2021_88_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2021_88_q6_s1",
+          "subNumber": "a",
+          "text": "The deviation angle at a summit curve is 0.05 and the overtaking sight distance is 300 m. Find the length of summit curve required.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the term 'traffic volume'. What are the objects of carrying out traffic volume study?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2021_88_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2021_88_q7_s1",
+          "subNumber": "a",
+          "text": "The CBR value of subgrade soil is 8 percent. Calculate the total thickness of flexible pavement using- (a) design curve developed by California State Highway Department; (b) design chart recommended by IRC; (c) design formula developed by the US Corps Engineers.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2021_88_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2021_88_q8_s1",
+          "subNumber": "a",
+          "text": "Explain how climatic variation affects pavement design and performance.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q8_s2",
+          "subNumber": "b",
+          "text": "Discuss the advantages and limitations of CBR method of design.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2021_88_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2021_88_q9_s1",
+          "subNumber": "a",
+          "text": "Specify the material required for construction of WBM roads. What are the uses and limitations of this type of road?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2021_88_q9_s2",
+          "subNumber": "b",
+          "text": "Compare the following methods of bituminous road construction:<br/>(i) Central plant mix and road mix method<br/>(ii) Hot mix and cold mix",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

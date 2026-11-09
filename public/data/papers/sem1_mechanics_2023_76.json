@@ -1,0 +1,338 @@
+{
+  "id": "sem1_mechanics_2023_76",
+  "semester": 1,
+  "subject_code": "mechanics",
+  "subject_name": "Engineering Mechanics",
+  "year": "2023",
+  "exam_code": "101101",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 1st Semester Examination, 2023 Physics (Mechanics & Mechanics of Solid) Time: 03 Hours Code: 101101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory.",
+    "Symbols used (if any) have their usual meanings"
+  ],
+  "questions": [
+    {
+      "id": "sem1_mechanics_2023_76_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2023_76_q1_s1",
+          "subNumber": "a",
+          "text": "The moment of inertia of an arbitrarily shaped rigid body is a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Scalar",
+            "Vector",
+            "Tensor",
+            "Dimensionless number"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q1_s2",
+          "subNumber": "b",
+          "text": "The curl of a gradient is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Zero",
+            "Non-zero",
+            "Undefined",
+            "Infinite"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q1_s3",
+          "subNumber": "c",
+          "text": "In a lightly damped oscillator the frequency",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Depends on the square of amplitude",
+            "Does not depend on the amplitude",
+            "Depends on the damping constant",
+            "Does not depend on the damping"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q1_s4",
+          "subNumber": "d",
+          "text": "As opposed to a standing bicycle a moving bicycle does not fall easily because",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The cyclist keeps moving slightly left and right to maintain the C.G in the plane of the bicycle",
+            "The cycle is balanced by air resistance",
+            "The angular momentum in the wheels stabilizes the cycle",
+            "The cyclist leans forward to lower the CG"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q1_s5",
+          "subNumber": "e",
+          "text": "The Foucault pendulum undergoes precession because of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Gravitational force of the earth",
+            "Coriolis force on the earth",
+            "Magnetic field of the earth",
+            "The orbiting of the moon around the earth"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following is NOT Kepler's law",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Each planet moves in an ellipse with the Sun at one focus *",
+            "Planet's period of revolution \\( T \\) is related to the major axis of the ellipse \\( A \\) by \\( T^2 = kA^3 \\)",
+            "Planet's period of revolution \\( T \\) is related to the major axis of the ellipse \\( A \\) by \\( T^3 = kA^2 \\)",
+            "The radius vector from the Sun to the planet sweeps equal areas in equal times"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following is not true for conservative force",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Curl of the force is zero",
+            "Gravitational force is conservative in nature",
+            "Work done is independent of the path",
+            "Curl of the force is non zero"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q1_s8",
+          "subNumber": "h",
+          "text": "The Newton's law gives the relationship between force, mass and",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Time",
+            "Velocity",
+            "Acceleration",
+            "Impulse"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q1_s9",
+          "subNumber": "i",
+          "text": "Velocity or energy resonance in the forced oscillator take place when",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\omega = \\sqrt{\\omega_0^2 - 2b^2} \\)",
+            "\\( \\omega = \\omega_0 \\)",
+            "\\( \\omega = 2b \\)",
+            "\\( \\omega = 2\\omega_0 \\)"
+          ]
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q1_s10",
+          "subNumber": "j",
+          "text": "A spinning top is an example of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Two dimensional rigid body motion",
+            "Linear motion",
+            "Three dimensional rigid body motion",
+            "One dimensional rigid body motion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2023_76_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[5+9=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2023_76_q2_s1",
+          "subNumber": "a",
+          "text": "State the definition of scalar and vector quantities. Explain how they transform under rotation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q2_s2",
+          "subNumber": "b",
+          "text": "Under an anti-clockwise rotation by an angle \\( \\theta \\) of a 2d Cartesian coordinate system find out the transformation rules for the components of an arbitrary vector \\( \\vec{A} \\). Show that the scalar product \\( \\vec{A} \\cdot \\vec{B} \\) is invariant under rotation of the coordinate system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2023_76_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[5+14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2023_76_q3_s1",
+          "subNumber": "a",
+          "text": "Define inertial and non-inertial frames. Explain the meaning of fictitious force",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q3_s2",
+          "subNumber": "b",
+          "text": "Derive an expression for acceleration in a rotating frame and obtain the centripetal and Coriolis terms in the acceleration. Explain briefly how the Coriolis forces are useful in explaining the weather system",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2023_76_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2023_76_q4_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2023_76_q5",
+      "number": 5,
+      "title": "Q.5 Solve all parts :",
+      "marks": "[5+4+5=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2023_76_q5_s1",
+          "subNumber": "a",
+          "text": "Show that the conservative force acting on a particle is always perpendicular to the equipotential surface.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q5_s2",
+          "subNumber": "b",
+          "text": "Prove that the work done by a force which is the gradient of a potential (\\( \\vec{F} = -\\nabla U \\)) is path independent.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q5_s3",
+          "subNumber": "c",
+          "text": "The potential function is given as \\( U = -2x - z^2 \\). Find the work done by the resulting force in moving a particle from the origin to a point (2,2,2) along a straight line.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2023_76_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2023_76_q6_s1",
+          "subNumber": "a",
+          "text": "Explain overdamped, underdamped and critically damped harmonic motion.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q6_s2",
+          "subNumber": "b",
+          "text": "Write an equation for a forced harmonic oscillator and obtain the conditions of resonance.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2023_76_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2023_76_q7_s1",
+          "subNumber": "a",
+          "text": "Derive the moment of inertia tensor of a rigid body and explain the concept of principal axes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q7_s2",
+          "subNumber": "b",
+          "text": "A uniform solid disc of mass \\( M \\) and radius \\( R \\) having moment of inertia \\( MR^2/2 \\) about an axis passing through its centre has initial uniform angular velocity. A constant friction force of magnitude \\( f \\) is then applied on the rim in tangential direction so that the disc finally comes to a stop in time \\( T \\). Find the magnitude of the friction force.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2023_76_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2023_76_q8_s1",
+          "subNumber": "a",
+          "text": "Derive the conditions for elliptic, hyperbolic and parabolic orbits in central force motion.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q8_s2",
+          "subNumber": "b",
+          "text": "Show that the total angular momentum of a solid body can be written as the sum of the angular momentum of the centre of mass and the angular momentum about the centre of mass",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_mechanics_2023_76_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_mechanics_2023_76_q9_s1",
+          "subNumber": "a",
+          "text": "Derive Euler's equations for the rotational motion of a rigid body and explain its importance.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_mechanics_2023_76_q9_s2",
+          "subNumber": "b",
+          "text": "Prove that the angular momentum is conserved in a central force motion and that the orbit of the particle is always planar.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

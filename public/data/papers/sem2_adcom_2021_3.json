@@ -1,0 +1,277 @@
+{
+  "id": "sem2_adcom_2021_3",
+  "semester": 2,
+  "subject_code": "adcom",
+  "subject_name": "Analog & Digital Communication System",
+  "year": "2021",
+  "exam_code": "110501",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Examination, 2021 Analog and Digital Communication System Time: 03 Hours Code: 110501 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_adcom_2021_3_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2021_3_q1_s1",
+          "subNumber": "a",
+          "text": "Define Apogee and Perigee.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q1_s2",
+          "subNumber": "b",
+          "text": "What is the difference between LEO and GEO satellites?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q1_s3",
+          "subNumber": "c",
+          "text": "What is intermodal dispersion?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q1_s4",
+          "subNumber": "d",
+          "text": "What is acceptance angle? Discuss its importance.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q1_s5",
+          "subNumber": "e",
+          "text": "Compare the probability of error for ASK and BPSK modulation technique.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q1_s6",
+          "subNumber": "f",
+          "text": "State the sampling theorem.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q1_s7",
+          "subNumber": "g",
+          "text": "What is aliasing effect? How can it be reduced?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q1_s8",
+          "subNumber": "h",
+          "text": "Mention the uses of a limiter and discriminator in FM demodulation.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_adcom_2021_3_q1_s9",
+          "subNumber": "i",
+          "text": "Draw the block diagram of narrow band FM generation system.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_adcom_2021_3_q1_s10",
+          "subNumber": "j",
+          "text": "Draw the block diagram of SSB synchronous demodulation system.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2021_3_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2021_3_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the concept of AM SSB modulation and demodulation with block diagram and also derive mathematical expression for coherent detection.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q2_s2",
+          "subNumber": "b",
+          "text": "What are pre-emphasis and de-emphasis and how is SNR improved by using pre-emphasis and de-emphasis?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2021_3_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2021_3_q3_s1",
+          "subNumber": "a",
+          "text": "Prove that bandwidth of an FM wave is infinity. Also represent the single tone FM wave as function of Bessel's function.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q3_s2",
+          "subNumber": "b",
+          "text": "Derive the expression for the probability of error of the binary phase shift keying (BPSK) signal.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2021_3_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2021_3_q4_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the block diagram of phase shift method for generating the SSB signal.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_adcom_2021_3_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the block diagram of super-heterodyne receiver. Determine the image frequency for standard broadcast AM receiver using 455 kHz IF and tuned to a station at 640 kHz.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2021_3_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2021_3_q5_s1",
+          "subNumber": "a",
+          "text": "Explain flat top sampling in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the sampling process of a signal mathematically. How to generate PPM from PWM signal?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2021_3_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2021_3_q6_s1",
+          "subNumber": "a",
+          "text": "PCM system uses a uniform quantizer followed by a 7-bit binary encoder. The bit rate of the system is equal to \\( 50 \\times 10^6 \\text{ bits/sec} \\). (i) What is the maximum message signal bandwidth for which the system operates satisfactory? (ii) Calculate the output signal-to-noise ratio when full load sinusoidal modulating wave of frequency 1 MHz is applied to the input.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q6_s2",
+          "subNumber": "b",
+          "text": "Describe the operation of phase discriminator based FM demodulator.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2021_3_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2021_3_q7_s1",
+          "subNumber": "a",
+          "text": "What is Differential Pulse Code Modulation? Explain the working of DPCM with a proper block diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q7_s2",
+          "subNumber": "b",
+          "text": "(i) A radio transmitter radiates 10 kW and carrier power is 8.5 kW. Calculate the modulation index. (ii) A broadcast radio transmitter radiates 10 kW, when modulation percentage is 60. Calculate the carrier power.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2021_3_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2021_3_q8_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the operation of optical receiver.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q8_s2",
+          "subNumber": "b",
+          "text": "Derive the expression of acceptance angle for skew rays. An optical fiber has numerical aperture of 0.344. What is the acceptance angle for meridional rays? Calculate the acceptance angle for skew rays which change direction by 100° at each reflection.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_adcom_2021_3_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_adcom_2021_3_q9_s1",
+          "subNumber": "a",
+          "text": "State the Kepler's law of planetary motion. Explain the ascending and descending nodes of a satellite.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_adcom_2021_3_q9_s2",
+          "subNumber": "b",
+          "text": "What is look angle? How does it calculate with shifting of satellite with respect to earth station?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": "sem2_dbms_2017_67",
+  "semester": 2,
+  "subject_code": "dbms",
+  "subject_name": "Database Management Systems",
+  "year": "2017",
+  "exam_code": "051509",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2017 Database System Time: 3 hours Code: 051509 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 20,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_dbms_2017_67_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2017_67_q1_s1",
+          "subNumber": "a",
+          "text": "A description of data in terms of a data model is called a _____",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q1_s2",
+          "subNumber": "b",
+          "text": "Information about the conceptual, external, and physical schemas is stored in the _____",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q1_s3",
+          "subNumber": "c",
+          "text": "The weak entity set must have participation in the _____ identifying relationship set.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q1_s4",
+          "subNumber": "d",
+          "text": "The _____ also called arity, of a relation is the number of fields.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q1_s5",
+          "subNumber": "e",
+          "text": "In relational algebra renaming operation is denoted by _____ operator.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q1_s6",
+          "subNumber": "f",
+          "text": "SQL queries are optimized by decomposing them into a collection of smaller units, called _____",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q1_s7",
+          "subNumber": "g",
+          "text": "The set of all functional dependencies (FDs) implied by a given set F of FDs is called the _____ F, denoted by _____",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q1_s8",
+          "subNumber": "h",
+          "text": "X→→Y is a trivial MVD if _____ or _____",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q1_s9",
+          "subNumber": "i",
+          "text": "_____ allows us to identify a point in a transaction and selectively roll back operations carried out after this point.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2017_67_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2017_67_q2_s1",
+          "subNumber": "a",
+          "text": "Design a generalization-specialization hierarchy for a motor-vehicle sales company. The company sells motor-cycles, passenger cars, vans, and buses. Justify your placement of attributes at each level of the hierarchy.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the difference between condition-defined and user-defined constraints. Which of these constraints can the system check automatically? Explain your answer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2017_67_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2017_67_q3_s1",
+          "subNumber": "a",
+          "text": "List two reasons why we may choose to define a view.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q3_s2",
+          "subNumber": "b",
+          "text": "List two major problems with processing update operations expressed in terms of views.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2017_67_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2017_67_q4_s1",
+          "subNumber": "a",
+          "text": "Passengers (Name, Address, Age)<br/> Reservations (Name, FlightNum, Seat)<br/> Flights (FlightNum, DepartCity, DestinationCity, DepartureTime, ArrivalTime, MinutesLate)<br/> Write the following queries in relational algebra:<br/> (a) Get the names of passengers who had a reservation on a flight that was more than 30 minutes late.<br/> (b) Get the names of passengers who had reservations on all flights that were more than 60 minutes late.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2017_67_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2017_67_q5_s1",
+          "subNumber": "a",
+          "text": "What is the dependency closure \\( F^+ \\) of a set F of FDs? How can you compute the closure of a given set F of FDs?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2017_67_q5_s2",
+          "subNumber": "b",
+          "text": "What is the attribute closure \\( X^+ \\) of a set of attributes X with respect to a set of FDs F? Give the algorithm for computing the attribute closure of a set X of attributes.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2017_67_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2017_67_q6_s1",
+          "subNumber": "a",
+          "text": "When is the decomposition of a relation schema R into two relation schemas X and Y said to be a lossless-join decomposition? Why is the property so important? Give a necessary and sufficient condition to test whether a decomposition is lossless-join.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2017_67_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2017_67_q7_s1",
+          "subNumber": "a",
+          "text": "Describe how a query block is translated into extended relational algebra. Describe and motivate the extensions to relational algebra. Why are \\( \\sigma\\pi x \\) expressions the focus of an optimizer?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2017_67_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2017_67_q8_s1",
+          "subNumber": "a",
+          "text": "When do two actions on the same data object conflict? Explain with example the anomalies that can be caused by conflicting actions.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2017_67_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2017_67_q9_s1",
+          "subNumber": "a",
+          "text": "What transaction characteristics can a programmer control in SQL? Explain in brief the different access modes and isolation levels in particular. How can the isolation level and access mode be set in the transaction? Show with example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

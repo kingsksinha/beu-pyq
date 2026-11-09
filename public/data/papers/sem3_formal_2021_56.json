@@ -1,0 +1,331 @@
+{
+  "id": "sem3_formal_2021_56",
+  "semester": 3,
+  "subject_code": "formal",
+  "subject_name": "Formal Language & Automata Theory",
+  "year": "2021",
+  "exam_code": "105503",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2021 FORMAL LANGUAGES AND AUTOMATA THEORY Time: 03 Hours Code: 105503 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_formal_2021_56_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2021_56_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following statements is/are False?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A. For every non-deterministic Turing machine, there exists an equivalent deterministic Turing machine.",
+            "B. Turing recognizable languages are closed under union and complementation.",
+            "C. Turing decidable languages are closed under intersection and complementation.",
+            "D. Turing recognizable languages are closed under union and intersection.",
+            "(i) A and D only (ii) A and C only (iii) B only (iv) C only"
+          ]
+        },
+        {
+          "id": "sem3_formal_2021_56_q1_s2",
+          "subNumber": "b",
+          "text": "Enumerator is a Turing machine with",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "an output printer",
+            "5 input tapes",
+            "a stack",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2021_56_q1_s3",
+          "subNumber": "c",
+          "text": "The language \\( \\{a^m b^n c^{m+n} \\mid m, n \\ge 1\\} \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "regular",
+            "context-free but not regular",
+            "context-sensitive but not context-free",
+            "type-0 but not context-sensitive"
+          ]
+        },
+        {
+          "id": "sem3_formal_2021_56_q1_s4",
+          "subNumber": "d",
+          "text": "The maximum number of states of a DFA converted from an NFA with \\( n \\) states is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( n \\)",
+            "\\( n^2 \\)",
+            "\\( 2^n \\)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2021_56_q1_s5",
+          "subNumber": "e",
+          "text": "If \\( L_1 \\) and \\( L_2 \\) are context-free languages, \\( L_1 - L_2 \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "always context-free.",
+            "sometimes context-free.",
+            "never context-free.",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2021_56_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following does not have left recursions?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Chomsky normal form",
+            "Greibach normal form",
+            "Backus-Naur form",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2021_56_q1_s7",
+          "subNumber": "g",
+          "text": "Let N be an NFA with \\( n \\) states and let M be the minimized DFA with \\( m \\) states recognizing the same language. Which of the following is necessarily true?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( m \\le 2^n \\)",
+            "\\( n \\le m \\)",
+            "M has one accept state",
+            "\\( m = 2^n \\)"
+          ]
+        },
+        {
+          "id": "sem3_formal_2021_56_q1_s8",
+          "subNumber": "h",
+          "text": "_____ is the acyclic graphical representation of a grammar.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Binary tree",
+            "Octtree",
+            "Parse tree",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2021_56_q1_s9",
+          "subNumber": "i",
+          "text": "A minimum state deterministic FA accepting the language \\( L = \\{w \\mid w \\in \\{0, 1\\}^*\\} \\) where number of 0's and 1's in w are divisible by 3 and 5 respectively, has",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "15 states",
+            "11 states",
+            "10 states",
+            "9 states"
+          ]
+        },
+        {
+          "id": "sem3_formal_2021_56_q1_s10",
+          "subNumber": "j",
+          "text": "The construction time for DFA from an equivalent NFA (\\( m \\) number of node) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( O(m^2) \\)",
+            "\\( O(2^m) \\)",
+            "\\( O(m) \\)",
+            "\\( O(\\log m) \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2021_56_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2021_56_q2_s1",
+          "subNumber": "a",
+          "text": "Tabulate Chomsky hierarchy of grammar with an example for each.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_formal_2021_56_q2_s2",
+          "subNumber": "b",
+          "text": "Design a finite state machine abstract model for Parity checker.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2021_56_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2021_56_q3_s1",
+          "subNumber": "a",
+          "text": "Construct an NFA that will accept string of 0's, 1's and 2's beginning with a 0's followed by odd number of 1's and ending with any number of 2's.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2021_56_q3_s2",
+          "subNumber": "b",
+          "text": "Construct a push-down automata that accepts the following language: \\( L = \\{uawb : u \\text{ and } w \\in (a,b)^* \\text{ and } |u| = |w|\\} \\)",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2021_56_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2021_56_q4_s1",
+          "subNumber": "a",
+          "text": "Design a Turing machine (TM) to compute \\( n \\mod 2 \\).",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_formal_2021_56_q4_s2",
+          "subNumber": "b",
+          "text": "Design a DFA corresponding to regular expression \\( 1^*(10)^* \\)",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2021_56_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2021_56_q5_s1",
+          "subNumber": "a",
+          "text": "Consider the grammar: \\( S \\rightarrow AB \\mid BC \\), \\( A \\rightarrow BA \\mid a \\), \\( B \\rightarrow CC \\mid b \\), \\( C \\rightarrow AB \\mid a \\). Use the CYK algorithm to determine whether the given string \"baaba\" is in \\( L(G) \\) or not.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2021_56_q5_s2",
+          "subNumber": "b",
+          "text": "Suppose L is context free and R is regular, justify your answer with the help of example:<br/> (i) Is \\( L - R \\) necessarily context free?<br/> (ii) Is \\( R - L \\) necessarily context free?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2021_56_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2021_56_q6_s1",
+          "subNumber": "a",
+          "text": "Show that the language \\( L = \\{a^{n!} : n \\ge 0\\} \\) is not regular or not context-free language.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2021_56_q6_s2",
+          "subNumber": "b",
+          "text": "Let G be a context-free grammar in Chomsky normal form that contains \\( b \\) variable. Show that if G generates some string using a derivation with at least \\( 2^b \\) steps, then \\( L(G) \\) is infinite.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2021_56_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2021_56_q7_s1",
+          "subNumber": "a",
+          "text": "State and prove pumping lemma for regular sets.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_formal_2021_56_q7_s2",
+          "subNumber": "b",
+          "text": "Show given grammar over alphabet {a, b}, verify whether it is ambiguous or unambiguous : \\( S \\rightarrow aSa \\mid bSb \\mid a \\mid b \\mid \\epsilon \\)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2021_56_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2021_56_q8_s1",
+          "subNumber": "a",
+          "text": "Show that the sum function \\( f(x, y) = x + y \\) is primitive recursive.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2021_56_q8_s2",
+          "subNumber": "b",
+          "text": "Construct a PDA that accepts the language \\( L = \\{a^{2n}bc \\mid n \\ge 0\\} \\) by final state and empty stack.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2021_56_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2021_56_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

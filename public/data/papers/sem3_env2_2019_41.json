@@ -1,0 +1,322 @@
+{
+  "id": "sem3_env2_2019_41",
+  "semester": 3,
+  "subject_code": "env2",
+  "subject_name": "Environmental Engineering-II",
+  "year": "2019",
+  "exam_code": "011723",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 7th Semester Examination, 2019 Environmental Engineering-II Time: 03 Hours Code: 011723 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_env2_2019_41_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2019_41_q1_s1",
+          "subNumber": "a",
+          "text": "Imhoff cone is used to determine",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "settleable solids",
+            "suspended solids",
+            "dissolved solids",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2019_41_q1_s2",
+          "subNumber": "b",
+          "text": "The main objective of secondary treatment of wastewater is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "COD removal",
+            "BOD removal",
+            "nutrient removal",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2019_41_q1_s3",
+          "subNumber": "c",
+          "text": "The wastewater treatment process which does not require primary sedimentation is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "upflow anaerobic sludge blanket",
+            "activated sludge process",
+            "trickling filter",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2019_41_q1_s4",
+          "subNumber": "d",
+          "text": "Effective method for the removal of suspended solids is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "sedimentation",
+            "sand filtration",
+            "microfiltration",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2019_41_q1_s5",
+          "subNumber": "e",
+          "text": "The bacteria which require free oxygen for their survival, are called",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "aerobic bacteria",
+            "anaerobic bacteria",
+            "facultative bacteria",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2019_41_q1_s6",
+          "subNumber": "f",
+          "text": "An example of fixed film reactor is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "activated sludge process",
+            "UASB clarifier",
+            "rotating biological contactor",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2019_41_q1_s7",
+          "subNumber": "g",
+          "text": "Grit removal tank is generally placed",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "before screen",
+            "before primary sedimentation tank",
+            "after primary sedimentation tank",
+            "it depends on the characteristics of wastewater"
+          ]
+        },
+        {
+          "id": "sem3_env2_2019_41_q1_s8",
+          "subNumber": "h",
+          "text": "Recirculation of treated wastewater is generally required in case of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "high-rate trickling filter",
+            "sequential batch reactor",
+            "nitrification process",
+            "completely mixed activated sludge process"
+          ]
+        },
+        {
+          "id": "sem3_env2_2019_41_q1_s9",
+          "subNumber": "i",
+          "text": "The ultimate BOD of a given sample of wastewater depends on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "temperature",
+            "mixing speed",
+            "quantity of biodegradable organic matter",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2019_41_q1_s10",
+          "subNumber": "j",
+          "text": "Septic tank is also known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "primary sedimentation tank",
+            "secondary treatment process",
+            "double-storey tank",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2019_41_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2019_41_q2_s1",
+          "subNumber": "a",
+          "text": "Describe in brief the advantages of modern water carried sewerage system over old conservancy system of sanitation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2019_41_q2_s2",
+          "subNumber": "b",
+          "text": "The drainage area of a sector of Patna city is 12 hectares. The classification of the surface of this area is as follows: (Hard pavement: 20%, Coefficient 0.85), (Roof surface: 20%, Coefficient 0.8), (Unpaved street: 15%, Coefficient 0.2), (Garden and lawn: 30%, Coefficient 0.2), (Wooded area: 15%, Coefficient 0.15). If the time of concentration for the area is 30 minutes, find the maximum runoff employing \\( R=900/(t+60) \\), where t is time of concentration.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/123.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2019_41_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2019_41_q3_s1",
+          "subNumber": "a",
+          "text": "Calculate the diameter and discharge of a circular sewer laid at a slope of 1 in 400 when it is running half full, and with a velocity of \\( 1.9~m/s \\) (use n in Manning's formula = 0.012).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2019_41_q3_s2",
+          "subNumber": "b",
+          "text": "What are the advantages and disadvantages using circular sewer section? Describe in brief.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2019_41_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2019_41_q4_s1",
+          "subNumber": "a",
+          "text": "A municipal waste having a \\( BOD_{5} \\) of \\( 200~mg/L \\) is to be treated by two-stage trickling filter. The desired quality is \\( 25~mg/L \\) of \\( BOD_{5} \\). If both the filter depths are 1.83 m and recirculation ratio is 2:1, find the required diameters, if the removal efficiency of both is equal (i.e. \\( E_{1}=E_{2} \\)). Assume: \\( Q=7.57~ML/d \\), wastewater temperature = \\( 20^{\\circ}C \\), BOD removal efficiency of PST = 35%.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2019_41_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2019_41_q5_s1",
+          "subNumber": "a",
+          "text": "The wastewater flow rate and \\( BOD_{5} \\) to the secondary treatment system is 1 MGD and \\( 300~mg/L \\) respectively. The hydraulic retention time of the aeration tank is 6 hours and MLSS is \\( 2500~mg/L \\). Calculate: (i) BOD loading; (ii) volume of the aeration tank; (iii) volumetric BOD loading; (iv) F/M ratio. (1 gallon = 3.79 litres).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2019_41_q5_s2",
+          "subNumber": "b",
+          "text": "What do you understand by sewage sickness? Discuss in brief.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2019_41_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2019_41_q6_s1",
+          "subNumber": "a",
+          "text": "A stream, saturated with DO, has a flow of \\( 1.2~m^{3}/s \\), BOD of \\( 4~mg/l \\) and rate constant of 0.3 per day. It receives an effluent discharge of 0.25 \\( m^{3}/s \\), having BOD \\( 20~mg/l \\), DO \\( 5~mg/l \\) and rate constant 0.13 per day. The average velocity of flow of mix stream is \\( 0.18~m/s \\). Calculate the DO deficit at point 20 km and 40 km downstream. Assume that the temperature is \\( 20^{\\circ}C \\) throughout and BOD is measured at 5 days. Take saturation of DO at \\( 20^{\\circ}C \\) as \\( 9.17~mg/l \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2019_41_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2019_41_q7_s1",
+          "subNumber": "a",
+          "text": "A wastewater treatment plant consists of primary treatment units followed by an activated-sludge secondary system. The primary and secondary sludges are mixed, thickened and send to further treatment. The wastewater flow is 19000 \\( m^{3}/d \\), Influent Suspended Solids (SS) = \\( 200~mg/L \\), Influent BOD = \\( 225~mg/L \\), Effluent BOD = \\( 20~mg/L \\). Primary clarifier diameter = 25 m. Aeration tank volume = \\( 2900~m^{3} \\), MLSS in aerator = \\( 3500~mg/L \\). Primary Sludge = 5.0% solids, Secondary = 0.75% solids, Thickened = 4.0% solids. Determine the solids loading (kg/d) to the sludge disposal facilities and the percent volume reduction by the thickener. (Assume efficiency of clarifier for SS removal = 58% and BOD removal = 32%, biomass conversion factor Y = 0.35).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/122.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2019_41_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2019_41_q8_s1",
+          "subNumber": "a",
+          "text": "Describe in brief the common variations in activated sludge processes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2019_41_q8_s2",
+          "subNumber": "b",
+          "text": "Define the term 'sludge bulking'. What are the factors and disadvantages assist on the development of sludge bulking? What are the remedial measures to adopt for controlling the bulking of sludge?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2019_41_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2019_41_q9_s1",
+          "subNumber": "a",
+          "text": "Describe in brief about the various pollution zones in a polluted river-stream.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2019_41_q9_s2",
+          "subNumber": "b",
+          "text": "Calculate 1 day \\( 37^{\\circ}C \\) BOD of a sewage sample whose 5 days \\( 20^{\\circ}C \\) BOD is \\( 100~mg/L \\). Assume \\( K_{D} \\) at \\( 20^{\\circ}C \\) as 0.1.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

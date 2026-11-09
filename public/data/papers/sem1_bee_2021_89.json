@@ -1,0 +1,392 @@
+{
+  "id": "sem1_bee_2021_89",
+  "semester": 1,
+  "subject_code": "bee",
+  "subject_name": "Basic Electrical Engineering",
+  "year": "2021",
+  "exam_code": "100201",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2021 (New Course) Basic Electrical Engineering Time: 3 hours Code: 100201 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 33,
+  "max_freq": 7,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_bee_2021_89_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_89_q1_s1",
+          "subNumber": "a",
+          "text": "Lamps in street lighting are all connected in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "series",
+            "parallel",
+            "series-parallel",
+            "end-end"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_89_q1_s2",
+          "subNumber": "b",
+          "text": "The rotor slots in a 3-phase induction motor are kept inclined. This phenomenon is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "skewing",
+            "crawling",
+            "cogging",
+            "hardening"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_89_q1_s3",
+          "subNumber": "c",
+          "text": "An alternator with higher value of SCR has",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "poor voltage regulation and lower stability limit",
+            "better voltage regulation and higher stability limit",
+            "poor voltage regulation and higher stability limit",
+            "better voltage regulation and lower stability limit"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_89_q1_s4",
+          "subNumber": "d",
+          "text": "If the flux of a DC motor approaches zero, its speed will",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "approach infinity",
+            "approach zero",
+            "remain unchanged",
+            "between zero and infinity"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_89_q1_s5",
+          "subNumber": "e",
+          "text": "The core flux of a practical transformer with a resistive load",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "is strictly constant with load changes",
+            "increases linearly with load",
+            "increases as the square root of the load",
+            "decreases with increase in load"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_89_q1_s6",
+          "subNumber": "f",
+          "text": "A transformer has a percentage resistance of 2% and percentage reactance of 4%. What are its voltage regulations at 0.8 lagging and 0.8 leading respectively?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "4.8% and -0.6%",
+            "3.2% and -1.6%",
+            "1.6% and -3.2%",
+            "4% and -0.8%"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_89_q1_s7",
+          "subNumber": "g",
+          "text": "Higher the Q of a series circuit, narrower its",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "pass band",
+            "resonance curve",
+            "bandwidth",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_89_q1_s8",
+          "subNumber": "h",
+          "text": "A 10 mH inductor carries a sinusoidal current of 1A r.m.s. at a frequency of 50 Hz. The average power dissipated by the inductor is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0 W",
+            "0.25 W",
+            "0.5 W",
+            "1 W"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_89_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following statements is incorrect?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Resistance is a passive element.",
+            "Inductor is a passive element.",
+            "Current source is a passive element.",
+            "Voltage source is an active element."
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_89_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following is not bilateral element?",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Constant current source",
+            "Resistor",
+            "Inductor",
+            "Capacitor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_89_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_89_q2_s1",
+          "subNumber": "a",
+          "text": "Find the current through each resistor of the following circuit using nodal analysis:",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/21bee2a.png"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_89_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the concept of superposition theorem applied to the electric circuit by taking a 3-element T-network and two batteries.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_89_q2_s3",
+          "subNumber": "c",
+          "text": "Find the equivalent resistance between points A and B in the following circuit:",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/21bee2c.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_89_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_89_q3_s1",
+          "subNumber": "a",
+          "text": "An iron cored coil draws 2A at 0.5 p.f. lag against a 50 Hz, 100 V supply. Iron core being then removed, the voltage applied being 50 V, the current rises to 5A at 0.78 lag. Find the inductance of each case.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_89_q3_s2",
+          "subNumber": "b",
+          "text": "A resistance of \\(10\\,\\Omega\\), an inductance of 150 mH and a capacitor of \\(100\\,\\mu\\mathrm{F}\\) are connected across a 50 V, 50 Hz source. Find the branch currents and total current. Draw the phasor diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_89_q3_s3",
+          "subNumber": "c",
+          "text": "Discuss the effect of resistance of RLC series circuit on the frequency response curve.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_89_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_89_q4_s1",
+          "subNumber": "a",
+          "text": "An iron ring 8 cm mean diameter is made up of round iron diameter 1 cm and permeability of 900 has an air gap of 2 mm wide. It consists of winding with 400 turns carrying a current of 3.5 A. Determine— (i) MMF; (ii) total reluctance; (iii) the flux; (iv) flux density in ring.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_89_q4_s2",
+          "subNumber": "b",
+          "text": "Give the comparison between electric circuit and magnetic circuit.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2021_89_q4_s3",
+          "subNumber": "c",
+          "text": "Explain the experimental method of obtaining hysteresis loop of magnetic circuit.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_89_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_89_q5_s1",
+          "subNumber": "a",
+          "text": "The open-circuit and short-circuit tests on a 10 kVA, 125/250 V, 50 Hz single-phase transformer gave the following results: <br/>OC test : 125 V, 0.6 A, 50 W on LV side <br/>SC test : 15 V, 30 A, 100 W on HV side <br/>Calculate (i) copper loss on full load, (ii) full-load efficiency at 0.8 leading p.f., (iii) half-load efficiency at 0.8 leading p.f. and (iv) voltage regulation at full load, 0.9 leading p.f.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_89_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the various three-phase transformer connections with neat circuit and phasor diagrams.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_89_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_89_q6_s1",
+          "subNumber": "a",
+          "text": "Draw the speed-torque characteristics of DC shunt motors and series motors.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_89_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the constructional details of alternators.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_89_q6_s3",
+          "subNumber": "c",
+          "text": "The lap wound armature of a 4-pole DC shunt motor has 600 armature turns and it takes 100 Amps when running at 600 r.p.m. The flux per pole is 100 mWb. Calculate the gross mechanical torque developed and the net power output if the torque lost in friction, windage and core losses is 60 N-m.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_89_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_89_q7_s1",
+          "subNumber": "a",
+          "text": "A 4-pole, 50 Hz, 3-phase induction motor running on full load develops a useful torque of 200 N-m when the rotor e.m.f. makes 120 complete cycles per minute. If the mechanical torque lost in friction and rotor core loss is 15 N-m, calculate the— (i) shaft power output; (ii) rotor copper losses; (iii) stator input; (iv) motor efficiency.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_89_q7_s2",
+          "subNumber": "b",
+          "text": "Differentiate the principle of operation of induction and synchronous motors.",
+          "freq": 7,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_bee_2021_89_q7_s3",
+          "subNumber": "c",
+          "text": "Draw the speed-torque characteristics of an induction motor.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2021_89_q7_s4",
+          "subNumber": "d",
+          "text": "List the various types of DC generators and draw their electrical circuits.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_89_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_89_q8_s1",
+          "subNumber": "a",
+          "text": "Define cold ranking ampere and specific power in batteries.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_89_q8_s2",
+          "subNumber": "b",
+          "text": "Describe the various devices used to improve the system power factor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_89_q8_s3",
+          "subNumber": "c",
+          "text": "Explain the various types of earthing systems.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_89_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_89_q9_s1",
+          "subNumber": "a",
+          "text": "Explain maximum power transfer theorem applied in a DC network.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2021_89_q9_s2",
+          "subNumber": "b",
+          "text": "Why a DC series motor cannot be started on no load? Explain your answer with the help of basic speed-torque equation and necessary diagrams.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

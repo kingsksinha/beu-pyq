@@ -1,0 +1,249 @@
+{
+  "id": "sem4_power1_2019_35",
+  "semester": 4,
+  "subject_code": "power1",
+  "subject_name": "Power Systems - I",
+  "year": "2019",
+  "exam_code": "031404",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech. 4th Semester Examination, 2019 POWER SYSTEM-I Time: 03 Hours Code: 031404 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_power1_2019_35_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2019_35_q1_s1",
+          "subNumber": "a",
+          "text": "Why is ACSR conductor used in overhead transmission line?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q1_s2",
+          "subNumber": "b",
+          "text": "Define skin effect.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q1_s3",
+          "subNumber": "c",
+          "text": "Draw the single-line diagram of typical power system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q1_s4",
+          "subNumber": "d",
+          "text": "Define critical disruptive voltage.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q1_s5",
+          "subNumber": "e",
+          "text": "The insulation resistance of a single-core cable is 160 \\( M\\Omega/km \\). What is the insulation for 4 km length of cable in \\( M\\Omega \\)?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q1_s6",
+          "subNumber": "f",
+          "text": "What do you mean by Ferranti effect?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q1_s7",
+          "subNumber": "g",
+          "text": "What is self-GMD?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q1_s8",
+          "subNumber": "h",
+          "text": "Explain string chart. Why is it used?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power1_2019_35_q1_s9",
+          "subNumber": "i",
+          "text": "What is the need of transposition of transmission lines?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q1_s10",
+          "subNumber": "j",
+          "text": "Differentiate between ring feeder system and radial distribution system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2019_35_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2019_35_q2_s1",
+          "subNumber": "a",
+          "text": "Derive the expression of inductance of a 3-phase transposed transmission line. Also calculate the inductance of equilateral triangular and horizontal configuration.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2019_35_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2019_35_q3_s1",
+          "subNumber": "a",
+          "text": "What are the different types of insulators in transmission system for overhead line? Explain them with suitable diagram.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_power1_2019_35_q3_s2",
+          "subNumber": "b",
+          "text": "A string of three insulators is connected across a 100 kV line. If the capacitance of each disc to earth is 0.1 of the capacitance of the insulator, calculate (i) the distribution of voltage on the insulator discs and (ii) the string efficiency.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2019_35_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2019_35_q4_s1",
+          "subNumber": "a",
+          "text": "What is a sag in overhead lines? Deduce an approximate expression for sag in overhead lines when (i) supports are at equal levels and (ii) supports are at unequal levels.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2019_35_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2019_35_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the term 'surge impedance loading' (SIL).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q5_s2",
+          "subNumber": "b",
+          "text": "A surge of 20 kV magnitude travel along a lossless cable toward its junction with two identical lossless overhead transmission lines. The inductance and capacitance of the cable are 0.4 mH and 0.5 \\( \\mu F \\) per km. The inductance and capacitance of the transmission line are 1.5 mH and 0.015 \\( \\mu F \\) per km. Find the magnitude of the voltage at the junction due to surge.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2019_35_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2019_35_q6_s1",
+          "subNumber": "a",
+          "text": "Explain corona and its effects on performance of transmission line. How can it be reduced?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q6_s2",
+          "subNumber": "b",
+          "text": "A 3-phase line has conductors 2 cm in diameter spaced equilaterally 1 m apart. If the dielectric strength of air is 30 kV (max) per cm, find the disruptive critical voltage for the line. Take, air density factor \\( \\delta = 0.952 \\) and irregularity factor \\( m_0 = 0.9 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2019_35_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2019_35_q7_s1",
+          "subNumber": "a",
+          "text": "What are the different components of underground cable?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_power1_2019_35_q7_s2",
+          "subNumber": "b",
+          "text": "Why is grading required in underground cables? Explain different methods of cable grading.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2019_35_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2019_35_q8_s1",
+          "subNumber": "a",
+          "text": "What is neutral grounding? Describe different methods of neutral grounding and their advantages and disadvantages.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_power1_2019_35_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_power1_2019_35_q9_s1",
+          "subNumber": "a",
+          "text": "A transmission line conductor at a river crossing is supported from two towers at heights of 30 m and 90 m above water level. The horizontal distance between the towers is 270 m. If the tension in the conductor is 1800 kgf and the conductor weighs 1.0 kgf per metre, find the clearance between the conductor and the water at a point midway between the towers. Assume parabolic configuration.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

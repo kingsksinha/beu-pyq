@@ -1,0 +1,337 @@
+{
+  "id": "sem2_cd_2019_27",
+  "semester": 2,
+  "subject_code": "cd",
+  "subject_name": "Compiler Design",
+  "year": "2019",
+  "exam_code": "051516",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech. 5th Semester Examination, 2019 Compiler Design Time: 03 Hours Code: 051516 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 9,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cd_2019_27_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2019_27_q1_s1",
+          "subNumber": "a",
+          "text": "When is the type checking usually done?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "During syntax directed translation",
+            "During lexical analysis",
+            "During code optimization",
+            "During syntax analysis"
+          ]
+        },
+        {
+          "id": "sem2_cd_2019_27_q1_s2",
+          "subNumber": "b",
+          "text": "Which one of the following statements is true?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Canonical LR parser is more powerful than LALR parser.",
+            "SLR parser is more powerful than LALR.",
+            "LALR parser is more powerful than canonical LR parser.",
+            "SLR parser, canonical LR parser and LALR parser all have the same power."
+          ]
+        },
+        {
+          "id": "sem2_cd_2019_27_q1_s3",
+          "subNumber": "c",
+          "text": "In a compiler, _____ checks every character of the source text.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the lexical analyzer",
+            "the syntax analyzer",
+            "the code generator",
+            "the code optimizer"
+          ]
+        },
+        {
+          "id": "sem2_cd_2019_27_q1_s4",
+          "subNumber": "d",
+          "text": "For a grammar G, shift reduce (S-R) conflicts are present in LALR(1) parser, if and only if",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "the LR(1) parser for G has S-R conflicts",
+            "the LR(0) parser for G has S-R conflicts",
+            "the SLR(1) parser for G has S-R conflicts",
+            "the SLR(0) parser for G has S-R conflicts"
+          ]
+        },
+        {
+          "id": "sem2_cd_2019_27_q1_s5",
+          "subNumber": "e",
+          "text": "In an absolute loading scheme, which loader function is accomplished by programmer?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Allocation",
+            "Linking",
+            "Reallocation",
+            "Both (i) and (ii)"
+          ]
+        },
+        {
+          "id": "sem2_cd_2019_27_q1_s6",
+          "subNumber": "f",
+          "text": "_____ is a top-down parser.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Operator precedence parser",
+            "An LALR (k) parser",
+            "An LR (k) parser",
+            "Recursive descent parser"
+          ]
+        },
+        {
+          "id": "sem2_cd_2019_27_q1_s7",
+          "subNumber": "g",
+          "text": "The languages that need heap allocation in the runtime environment are those that",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "use global variables",
+            "use dynamic scoping",
+            "support recursion",
+            "allow dynamic data structure"
+          ]
+        },
+        {
+          "id": "sem2_cd_2019_27_q1_s8",
+          "subNumber": "h",
+          "text": "In compilers, generation of intermediate code based on an abstract machine model is useful because",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "syntax-directed translations can be written for intermediate code generation",
+            "to generate code for real machines directly from high-level language program is not possible",
+            "portability of the front end of the compiler is enhanced",
+            "implementation of lexical and syntax analyses is easier"
+          ]
+        },
+        {
+          "id": "sem2_cd_2019_27_q1_s9",
+          "subNumber": "i",
+          "text": "To convert an arbitrary CFG to an LL(1) grammar",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "factor the grammar alone",
+            "remove left recursion alone",
+            "remove left recursion and factor the grammar",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem2_cd_2019_27_q1_s10",
+          "subNumber": "j",
+          "text": "The method which merges the bodies of two loops is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "loop rolling",
+            "loop jamming",
+            "constant folding",
+            "None of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2019_27_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2019_27_q2_s1",
+          "subNumber": "a",
+          "text": "What is an activation record? Explain how they are used to access various local and global variables.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cd_2019_27_q2_s2",
+          "subNumber": "b",
+          "text": "What is bottom-up parsing? Discuss shift reduce parsing technique in brief. What is a handle?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2019_27_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2019_27_q3_s1",
+          "subNumber": "a",
+          "text": "What is left recursion? Eliminate the left recursion from the following grammar:<br/> \\( E \\rightarrow E+T | T \\)<br/> \\( T \\rightarrow T*F | F \\)<br/> \\( F \\rightarrow (E) | id \\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_cd_2019_27_q3_s2",
+          "subNumber": "b",
+          "text": "What is the use of a symbol table? How are the identifiers stored in the symbol table?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2019_27_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2019_27_q4_s1",
+          "subNumber": "a",
+          "text": "What is the pass of a compiler? Explain how the single- and multi-pass compilers work.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2019_27_q4_s2",
+          "subNumber": "b",
+          "text": "Explain architecture and algorithm for the non-recursive predictive parser.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2019_27_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2019_27_q5_s1",
+          "subNumber": "a",
+          "text": "Check whether the following grammar is CLR or not:<br/> \\( S \\rightarrow Aa | bBa | Ba | bAc \\)<br/> \\( A \\rightarrow c \\)<br/> \\( B \\rightarrow d \\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_cd_2019_27_q5_s2",
+          "subNumber": "b",
+          "text": "What is the syntax directed translation and why are they important?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2019_27_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2019_27_q6_s1",
+          "subNumber": "a",
+          "text": "Explain different phases of compiler.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2019_27_q6_s2",
+          "subNumber": "b",
+          "text": "Explain how type checking and error reporting are performed in compiler. Draw syntax tree and DAG for the statement:<br/> \\( a=(a*b+c)\\wedge(b+c)*b+c \\)",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2019_27_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2019_27_q7_s1",
+          "subNumber": "a",
+          "text": "Explain various targets for code optimization with examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cd_2019_27_q7_s2",
+          "subNumber": "b",
+          "text": "How are CPU registers allocated while creating machine code?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2019_27_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2019_27_q8_s1",
+          "subNumber": "a",
+          "text": "Check whether the following grammar is LL(1) grammar or not:<br/> \\( S \\rightarrow iEtSA | a \\)<br/> \\( A \\rightarrow eS | \\epsilon \\)<br/> \\( E \\rightarrow b \\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_cd_2019_27_q8_s2",
+          "subNumber": "b",
+          "text": "Design the FIRST SET and FOLLOW SET for the grammar.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cd_2019_27_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cd_2019_27_q9_s1",
+          "subNumber": "a",
+          "text": "Differentiate between S-attribute SDT and L-attribute SDT with suitable examples.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_cd_2019_27_q9_s2",
+          "subNumber": "b",
+          "text": "Explain any two of the following:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

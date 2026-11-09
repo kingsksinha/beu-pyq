@@ -1,0 +1,283 @@
+{
+  "id": "sem4_signals_2019_54",
+  "semester": 4,
+  "subject_code": "signals",
+  "subject_name": "Signals and Systems",
+  "year": "2019",
+  "exam_code": "031510",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2019 SIGNALS AND SYSTEMS Time: 03 Hours Code: 031510 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 16,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_signals_2019_54_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2019_54_q1_s1",
+          "subNumber": "a",
+          "text": "Find the fundamental period and frequency of the signal \\( x(t)=\\cos 18\\pi t+\\sin 12\\pi t \\)",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_signals_2019_54_q1_s2",
+          "subNumber": "b",
+          "text": "With an example, prove that cascade combination of an LTI system and its inverse system results an identity system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2019_54_q1_s3",
+          "subNumber": "c",
+          "text": "Check whether the system \\( y(t)=tx(t) \\) is causal and stable.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2019_54_q1_s4",
+          "subNumber": "d",
+          "text": "What is the physical significance of convolution?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2019_54_q1_s5",
+          "subNumber": "e",
+          "text": "What do you mean by convergence of Fourier series?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2019_54_q1_s6",
+          "subNumber": "f",
+          "text": "Prove that \\( x_{even}(t)\\leftrightarrow Re\\{a_{k}\\} \\) where \\( x(t) \\) is real and \\( x(t)\\leftrightarrow a_{k} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2019_54_q1_s7",
+          "subNumber": "g",
+          "text": "Determine the Laplace transform for the signal \\( x(t)=e^{-5t}u(t-1) \\).",
+          "freq": 16,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_signals_2019_54_q1_s8",
+          "subNumber": "h",
+          "text": "For an LTI system to be causal and stable, what should be the condition on ROC and locations of poles?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2019_54_q1_s9",
+          "subNumber": "i",
+          "text": "Find the z-transform and ROC of \\( x[n]=(\\frac{1}{5})^{n}u(n-3) \\)",
+          "freq": 16,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_signals_2019_54_q1_s10",
+          "subNumber": "j",
+          "text": "State and prove time reversal property of z-transform.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2019_54_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2019_54_q2_s1",
+          "subNumber": "a",
+          "text": "Compute and plot the even and odd parts of the given discrete and continuous signals from the figures.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/64.jpg"
+          ]
+        },
+        {
+          "id": "sem4_signals_2019_54_q2_s2",
+          "subNumber": "b",
+          "text": "Let \\( x(t)=u(t-3)-u(t-5) \\) and \\( h(t)=e^{-3t}u(t) \\). Compute:<br/> (i) \\( y(t)=x(t)*h(t) \\)<br/> (ii) \\( g(t)=(dx(t)/dt)*h(t) \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2019_54_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2019_54_q3_s1",
+          "subNumber": "a",
+          "text": "For each of the following systems, check the properties of linearity, time-invariance, causality and BIBO stability:<br/> (i) \\( y(t)=x(t/2) \\)<br/> (ii) \\( y[n]=nx[n] \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2019_54_q3_s2",
+          "subNumber": "b",
+          "text": "Compute and plot the convolution \\( y[n]=x[n]*h[n] \\) where \\( x[n]=(\\frac{1}{2})^{n-2}u[n-2] \\) and \\( h[n]=u[n+2] \\).",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2019_54_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2019_54_q4_s1",
+          "subNumber": "a",
+          "text": "Obtain the differential equations for the given systems.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/63.jpg"
+          ]
+        },
+        {
+          "id": "sem4_signals_2019_54_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the 'property of sifting' of discrete-time unit impulse.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2019_54_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2019_54_q5_s1",
+          "subNumber": "a",
+          "text": "State and prove the following properties of continuous-time Fourier series:<br/> (i) Frequency shifting<br/> (ii) Periodic convolution in time-domain<br/> (iii) Time scaling<br/> (iv) Differentiation in time-domain",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2019_54_q5_s2",
+          "subNumber": "b",
+          "text": "Calculate the Fourier series coefficients for the periodic signal<br/> \\( x(t)=\\begin{cases}2&amp;,&amp;0\\le t&lt; 2\\\\ -2,&amp;2\\le t&lt; 4\\end{cases} \\)<br/> with fundamental frequency \\( \\omega_{0}=\\pi/2 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2019_54_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2019_54_q6_s1",
+          "subNumber": "a",
+          "text": "State and prove the following properties of discrete-time Fourier transform:<br/> (i) Time shifting<br/> (ii) Time expansion<br/> (iii) Multiplication of two signals in time-domain<br/> (iv) Differentiation in frequency",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2019_54_q6_s2",
+          "subNumber": "b",
+          "text": "Compute the Fourier transform of \\( x[n]=(\\frac{1}{4})^{|n-1|} \\).",
+          "freq": 16,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2019_54_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2019_54_q7_s1",
+          "subNumber": "a",
+          "text": "Consider an LTI system whose response to the input \\( x(t)=(e^{-t}+e^{-3t})u(t) \\) is \\( y(t)=(2e^{-t}-2e^{-4t})u(t) \\). Using Laplace transforms, find the impulse response of the system. Also compute its frequency response.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2019_54_q7_s2",
+          "subNumber": "b",
+          "text": "Determine the inverse Laplace transform of \\( X(s)=\\frac{(s+1)}{(s+1)^{2}+4} \\), \\( Re\\{s\\}&gt;-1 \\).",
+          "freq": 16,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2019_54_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2019_54_q8_s1",
+          "subNumber": "a",
+          "text": "Determine the impulse response of the system described by the difference equation \\( y[n]=\\frac{1}{2}[x[n]+x[n-1]+y[n-1]] \\). Assume that the system is initially relaxed.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2019_54_q8_s2",
+          "subNumber": "b",
+          "text": "Solve the following linear difference equation:<br/> \\( y[n]+\\frac{1}{2}y[n-1]-\\frac{1}{4}y[n-2]=0 \\)<br/> Given that \\( y[-1]=y[-2]=1 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2019_54_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2019_54_q9_s1",
+          "subNumber": "a",
+          "text": "Determine all possible signals of \\( x(n) \\) associated with the following z-transforms:<br/> (i) \\( X(z)=\\frac{1}{1-\\frac{3}{2}z^{-1}+\\frac{1}{2}z^{-2}} \\)<br/> (ii) \\( X(z)=\\frac{5}{1-\\frac{1}{2}z^{-1}+\\frac{1}{4}z^{-2}} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2019_54_q9_s2",
+          "subNumber": "b",
+          "text": "Obtain the z-transform and ROC of the following sequence:<br/> \\( x(n)=(\\frac{1}{2})^{n}[u[n]-u[n-10]] \\)",
+          "freq": 16,
+          "stars": "★★★★★"
+        }
+      ]
+    }
+  ]
+}

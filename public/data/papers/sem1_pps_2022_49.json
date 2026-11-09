@@ -1,0 +1,277 @@
+{
+  "id": "sem1_pps_2022_49",
+  "semester": 1,
+  "subject_code": "pps",
+  "subject_name": "Programming For Problem Solving",
+  "year": "2022",
+  "exam_code": "100104",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam-2022 Programming for Problem Solving Time: 03 Hours Code: 100104 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 13,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are <strong>NINE questions</strong> in this paper.",
+    "Attempt <strong>FIVE questions</strong> in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_pps_2022_49_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2022_49_q1_s1",
+          "subNumber": "a",
+          "text": "What does the following declaration mean?<br/>int *ptr [5];",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_pps_2022_49_q1_s2",
+          "subNumber": "b",
+          "text": "The function malloc() is declared in which header file.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_pps_2022_49_q1_s3",
+          "subNumber": "c",
+          "text": "What is the output of:<br/> #include&lt;stdio.h&gt;<br/> int main()<br/> {<br/> char ch = 'Z';<br/> printf(\"%d \", ch);<br/> return 0;<br/> }",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2022_49_q1_s4",
+          "subNumber": "d",
+          "text": "How is an array initialized in C language?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2022_49_q1_s5",
+          "subNumber": "e",
+          "text": "What is the return type of the fopen() function in C?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2022_49_q1_s6",
+          "subNumber": "f",
+          "text": "What will be the output of the following C Code?<br/> #include&lt;stdio.h&gt;<br/> int main()<br/> {<br/> int x=4, y, z;<br/> y=--x;<br/> z=x--;<br/> printf(\"%d%d%d\", x, y, z);<br/> }",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2022_49_q1_s7",
+          "subNumber": "g",
+          "text": "The keyword used to transfer control from a function back to the calling function is.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2022_49_q1_s8",
+          "subNumber": "h",
+          "text": "What is the output of:<br/> #include &lt;stdio.h&gt;<br/> int main( )<br/> {<br/> float a = 5, b = 2;<br/> int c,d;<br/> c = a/b;<br/> d = c/2;<br/> printf(\"%d\", d);<br/> return 0;<br/> }",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2022_49_q1_s9",
+          "subNumber": "i",
+          "text": "In C, if you pass an array as an argument to a function, what actually gets passed?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2022_49_q1_s10",
+          "subNumber": "j",
+          "text": "How is the \\(3^{rd}\\) element in an array accessed based on pointer notation?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2022_49_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2022_49_q2_s1",
+          "subNumber": "a",
+          "text": "Explain entry controlled loop and exit controlled loop with flow charts and examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2022_49_q2_s2",
+          "subNumber": "b",
+          "text": "Write a C program to reverse a given multi-digit number.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2022_49_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2022_49_q3_s1",
+          "subNumber": "a",
+          "text": "Explain break and continue keywords with suitable examples in context of managing loops.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2022_49_q3_s2",
+          "subNumber": "b",
+          "text": "What is storage classes in C. Write features (storage, default value, scope, life) of variables defined under each storage class.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2022_49_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2022_49_q4_s1",
+          "subNumber": "a",
+          "text": "Write a C function for Bubble sort. Analyse the time complexity of Bubble sort for each standard cases.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2022_49_q4_s2",
+          "subNumber": "b",
+          "text": "Differentiate between formal argument and actual argument with an example.",
+          "freq": 13,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2022_49_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2022_49_q5_s1",
+          "subNumber": "a",
+          "text": "What is recursion? Write a recursive C program to generate \\(n^{th}\\) term of the Fibonacci series.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_pps_2022_49_q5_s2",
+          "subNumber": "b",
+          "text": "How string is declared and initialized? Explain any four predefined string manipulation functions with examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2022_49_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2022_49_q6_s1",
+          "subNumber": "a",
+          "text": "Write a C program to find result matrix after multiplying two given matrices using 2-D arrays.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2022_49_q6_s2",
+          "subNumber": "b",
+          "text": "Write a program to copy contents of one file to another. While doing so replace all lowercase characters to their equivalent uppercase characters.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2022_49_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2022_49_q7_s1",
+          "subNumber": "a",
+          "text": "Write the difference between structure and union. Compare them with the help of an example.",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2022_49_q7_s2",
+          "subNumber": "b",
+          "text": "Write a program to copy the contents of one array into another in reverse order.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2022_49_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2022_49_q8_s1",
+          "subNumber": "a",
+          "text": "Differentiate between call-by-value and call-by-reference with suitable examples.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2022_49_q8_s2",
+          "subNumber": "b",
+          "text": "Discuss conditional operator? Write a C program to find largest of three numbers using conditional operator?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2022_49_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2022_49_q9_s1",
+          "subNumber": "a",
+          "text": "Write a C program that converts a string like \"124\" to an integer 124.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2022_49_q9_s2",
+          "subNumber": "b",
+          "text": "Write a C program using the nesting of loops to print the following pattern:<br/> 1<br/> 2 3<br/> 4 5 6<br/> 7 8 9 10",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

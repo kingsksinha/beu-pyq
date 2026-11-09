@@ -1,0 +1,312 @@
+{
+  "id": "sem4_trans_2022_87",
+  "semester": 4,
+  "subject_code": "trans",
+  "subject_name": "Transportation Engineering",
+  "year": "2022",
+  "exam_code": "101507",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2022 Transportation Engineering Time: 03 Hours Code: 101507 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 31,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_trans_2022_87_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer of the following (Any seven questions only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2022_87_q1_s1",
+          "subNumber": "a",
+          "text": "The star and grid pattern of road network was adopted in",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q1_s2",
+          "subNumber": "b",
+          "text": "The desirable camber for straight roads with water bound macadam or gravel surface, is",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q1_s3",
+          "subNumber": "c",
+          "text": "IRC recommends the use of ___ curve as transition curve",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q1_s4",
+          "subNumber": "d",
+          "text": "The weaving length of a roadway is the distance",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q1_s5",
+          "subNumber": "e",
+          "text": "Total parking demand is determined by which traffic study?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q1_s6",
+          "subNumber": "f",
+          "text": "Regulatory signs are generally circular in shape, identify a regulatory sign which is NOT circular in shape",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q1_s7",
+          "subNumber": "g",
+          "text": "The speed and delay studies on a defined section of highway are conducted by",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q1_s8",
+          "subNumber": "h",
+          "text": "The penetration test for bitumen is conducted at a temperature of",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q1_s9",
+          "subNumber": "i",
+          "text": "The dowels bars are used in rigid pavements for",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q1_s10",
+          "subNumber": "j",
+          "text": "Bitumen of grade 80/100 means",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2022_87_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2022_87_q2_s1",
+          "subNumber": "a",
+          "text": "Differentiate between flexible and rigid pavement.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q2_s2",
+          "subNumber": "b",
+          "text": "Using the data given below, calculate the wheel load stresses at (a) interior (b) edge and (c) corner regions of a cement concrete pavement using Westergaard's stress equations. Also determine the probable location where the crack is likely to develop due to corner loading.<br/> Wheel load, \\( P = 5100 \\text{ Kg} \\)<br/> Modulus of elasticity of cement concrete, \\( E = 3.1 \\times 10^5 \\text{ kg/cm}^2 \\)<br/> Pavement thickness, \\( h = 15 \\text{ cm} \\)<br/> Poisson's ratio of concrete, \\( \\mu = 0.15 \\)<br/> Modulus of subgrade reaction, \\( K = 6.0 \\text{ kg/cm}^3 \\)<br/> Radius of contact area, \\( a = 15 \\text{ cm} \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2022_87_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2022_87_q3_s1",
+          "subNumber": "a",
+          "text": "On a two-way traffic road, the speeds of overtaking vehicles are 65 km/hr and 40 km/hr. If the average acceleration is \\( 0.92 \\text{ m/s}^2 \\). Determine the overtaking sight distance indicating the details of overtaking operations. Show the minimum length of overtaking zone and details of overtaking zone by a neat sketch.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q3_s2",
+          "subNumber": "b",
+          "text": "A valley curve of a state highway is formed by a descending gradient of 1 in 20 meeting an ascending gradient of 1 in 30. Design the length of a valley curve to fulfil both comfort condition and headlight sight distance required for a design speed of 80 km/hr. Assume allowance rate of change of centrifugal acceleration \\( C = 0.60 \\text{ m/s}^3 \\). Suggest the best suitable shape of the valley curve. Consider reaction time \\( t = 2.5 \\text{ sec} \\) and coefficient of friction = 0.35.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2022_87_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2022_87_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the factors affecting sight distances.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_trans_2022_87_q4_s2",
+          "subNumber": "b",
+          "text": "The driver of a vehicle travelling 60 km/hr up a gradient requires 9 m less to stop after he applies brakes, as compared to a driver travelling at same speed, down the same gradient. Given, \\( f = 0.40 \\). What is the present gradient?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2022_87_q5",
+      "number": 5,
+      "title": "Q.5 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2022_87_q5_s1",
+          "subNumber": "a",
+          "text": "Explain various road patterns in detail with neat sketches.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2022_87_q6",
+      "number": 6,
+      "title": "Q.6 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2022_87_q6_s1",
+          "subNumber": "a",
+          "text": "Explain total reaction of driver and the factors on which it depends.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_trans_2022_87_q6_s2",
+          "subNumber": "b",
+          "text": "Explain PIEV theory.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q6_s3",
+          "subNumber": "c",
+          "text": "Write a note on factors affecting friction offered by Pavement surface.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2022_87_q7",
+      "number": 7,
+      "title": "Q.7 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2022_87_q7_s1",
+          "subNumber": "a",
+          "text": "Compare tar and bitumen.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q7_s2",
+          "subNumber": "b",
+          "text": "List the various tests carried out on bitumen.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q7_s3",
+          "subNumber": "c",
+          "text": "Explain the desirable properties of aggregate to be used in different types of pavement construction.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2022_87_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2022_87_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss the advantages and limitations of CBR method of design for flexible pavement.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_trans_2022_87_q8_s2",
+          "subNumber": "b",
+          "text": "Discuss the critical combination of stresses due to wheel load and temperature effects.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_trans_2022_87_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_trans_2022_87_q9_s1",
+          "subNumber": "a",
+          "text": "Kerb Parking.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q9_s2",
+          "subNumber": "b",
+          "text": "Design factors of highway lighting",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q9_s3",
+          "subNumber": "c",
+          "text": "ESWL.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q9_s4",
+          "subNumber": "d",
+          "text": "Traffic islands",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q9_s5",
+          "subNumber": "e",
+          "text": "Off Tracking.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_trans_2022_87_q9_s6",
+          "subNumber": "f",
+          "text": "Super elevation",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

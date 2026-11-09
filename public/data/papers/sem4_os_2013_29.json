@@ -1,0 +1,270 @@
+{
+  "id": "sem4_os_2013_29",
+  "semester": 4,
+  "subject_code": "os",
+  "subject_name": "Operating System",
+  "year": "2013",
+  "exam_code": "105314",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna Examination 2013 Operating Systems Time: 3 hours Code: 105314 Full Marks: 70",
+  "question_count": 10,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are TEN questions in this paper.",
+    "Attempt any FIVE questions."
+  ],
+  "questions": [
+    {
+      "id": "sem4_os_2013_29_q1",
+      "number": 1,
+      "title": "Q.1 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2013_29_q1_s1",
+          "subNumber": "a",
+          "text": "Define operating system. What are the duties performed by an operating system?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2013_29_q1_s2",
+          "subNumber": "b",
+          "text": "What are the main advantages of time sharing systems?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2013_29_q1_s3",
+          "subNumber": "c",
+          "text": "What are system calls? Explain their importance.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2013_29_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2013_29_q2_s1",
+          "subNumber": "a",
+          "text": "Differentiate between a file and a Directory. Justify for the need of file system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2013_29_q2_s2",
+          "subNumber": "b",
+          "text": "Explain the main features of general graph directory structure.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2013_29_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2013_29_q3_s1",
+          "subNumber": "a",
+          "text": "What do you understand by deadlock? Discuss the methods to avoid deadlock in an operating system.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_os_2013_29_q3_s2",
+          "subNumber": "b",
+          "text": "Explain the working of resource allocation graph.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2013_29_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2013_29_q4_s1",
+          "subNumber": "a",
+          "text": "What is the difference between physical and logical address space?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_os_2013_29_q4_s2",
+          "subNumber": "b",
+          "text": "What are semaphores? How can they be used to handle the process synchronization problem?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2013_29_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2013_29_q5_s1",
+          "subNumber": "a",
+          "text": "What are the benefits of segmentation?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_os_2013_29_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the segmentation technique with the help of a diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2013_29_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2013_29_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the following terms:<br/>(i) Turnaround time<br/>(ii) Waiting time<br/>(iii) Response time<br/>(iv) Throughput",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2013_29_q6_s2",
+          "subNumber": "b",
+          "text": "Consider the following page replacement string: 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2, 1, 2, 0, 1, 7, 0, 1<br/>Find the number of page faults using the following algorithms for a memory of three frames:<br/>(i) FIFO algorithm<br/>(ii) LRU algorithm",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2013_29_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2013_29_q7_s1",
+          "subNumber": "a",
+          "text": "What do you understand by fragmentation? Explain the difference between external and internal fragmentations.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_os_2013_29_q7_s2",
+          "subNumber": "b",
+          "text": "What is a thread? Explain the benefits of using threads.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2013_29_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2013_29_q8_s1",
+          "subNumber": "a",
+          "text": "What do you understand by address binding? Explain the various address binding schemes.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_os_2013_29_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the importance of virtual memory.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2013_29_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2013_29_q9_s1",
+          "subNumber": "a",
+          "text": "What do you understand by disk scheduling? Describe seek time and rotational latency.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2013_29_q9_s2",
+          "subNumber": "b",
+          "text": "Describe SCAN scheduling. How is C-SCAN different from SCAN?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2013_29_q10",
+      "number": 10,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2013_29_q10_s1",
+          "subNumber": "a",
+          "text": "Micro kernel",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2013_29_q10_s2",
+          "subNumber": "b",
+          "text": "Bankers Algorithm",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2013_29_q10_s3",
+          "subNumber": "c",
+          "text": "Process control block",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_os_2013_29_q10_s4",
+          "subNumber": "d",
+          "text": "Paging",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2013_29_q10_s5",
+          "subNumber": "e",
+          "text": "Indexed allocation",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

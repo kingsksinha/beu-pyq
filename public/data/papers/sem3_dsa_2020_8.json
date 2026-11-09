@@ -1,0 +1,309 @@
+{
+  "id": "sem3_dsa_2020_8",
+  "semester": 3,
+  "subject_code": "dsa",
+  "subject_name": "Data Structure and Algorithms",
+  "year": "2020",
+  "exam_code": "100304",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2020 (New Course) Data Structures and Algorithms Time: 03 Hours Code: 100304 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_dsa_2020_8_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_8_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is time complexity of the given code?<br/> \\( int\\ a=0; \\)<br/> \\( for(i=0; i&lt; N; i++) \\{ \\)<br/> \\( \\quad for(j=N; j&gt;i; j--) \\{ \\)<br/> \\( \\quad \\quad a = a + i + j; \\)<br/> \\( \\quad \\} \\)<br/> \\( \\} \\)",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( O(N) \\)",
+            "\\( O(N * \\log(N)) \\)",
+            "\\( O(N * \\sqrt{N}) \\)",
+            "\\( O(N * N) \\)"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_8_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is time complexity of the given code?<br/> \\( int\\ i,\\ j,\\ k=0; \\)<br/> \\( for(i=n/2; i&lt;=n; i++) \\{ \\)<br/> \\( \\quad for(j=2; j&lt;=n; j=j*2) \\{ \\)<br/> \\( \\quad \\quad k = k + n/2; \\)<br/> \\( \\quad \\} \\)<br/> \\( \\} \\)",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( O(N) \\)",
+            "\\( O(N * \\log(N)) \\)",
+            "\\( O(N * \\sqrt{N}) \\)",
+            "\\( O(N * N) \\)"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_8_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following cases does not exist in complexity theory?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Best case",
+            "Worst case",
+            "Average case",
+            "Null case"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_8_q1_s4",
+          "subNumber": "d",
+          "text": "The operation of processing each element in the list is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "sorting",
+            "merging",
+            "inserting",
+            "traversal"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_8_q1_s5",
+          "subNumber": "e",
+          "text": "Arrays are best data structures",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "for relatively permanent collections of data",
+            "for the size of the structure and the data in the structure are constantly changing",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_8_q1_s6",
+          "subNumber": "f",
+          "text": "Each array declaration needs not give, implicitly or explicitly the information about",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the name of array",
+            "the data type of array",
+            "the first data from the set to be stored",
+            "the index set of the array"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_8_q1_s7",
+          "subNumber": "g",
+          "text": "In general, the binary search method needs not more than",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( [\\log_2 n] - 1 \\)",
+            "\\( [\\log n] + 1 \\)",
+            "\\( [\\log_2 n] \\)",
+            "\\( [\\log_2 n] + 1 \\) comparisons."
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_8_q1_s8",
+          "subNumber": "h",
+          "text": "State True or False:<br/>A. Binary search is used for searching in a sorted array.<br/>B. The time complexity of binary search is O(logn).",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "True, False",
+            "False, True",
+            "False, False",
+            "True, True"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_8_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following is non-linear data structure?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Stack",
+            "Linked list",
+            "String",
+            "Tree"
+          ]
+        },
+        {
+          "id": "sem3_dsa_2020_8_q1_s10",
+          "subNumber": "j",
+          "text": "Which is the correct output for the following sequence of operations? push(5), push(8), pop, push(2), push(5), pop, pop, pop, push(1), pop",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "85251",
+            "85521",
+            "82551",
+            "81255"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_8_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_8_q2_s1",
+          "subNumber": "a",
+          "text": "Analyse the time complexity of the given function and also write the recurrence relation of the function:<br/> \\( int\\ DoSomething(int\\ n) \\{ \\)<br/> \\( \\quad if(n&lt;=2)\\ return\\ 1; \\)<br/> \\( \\quad else\\ return\\ (DoSomething(floor(sqrt(n))) + n); \\)<br/> \\( \\} \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_8_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_8_q3_s1",
+          "subNumber": "a",
+          "text": "Consider the following postfix expression : 873-/6254+*+-<br/>The above expression is evaluated using stack. Show the content of stack after each step.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_8_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_8_q4_s1",
+          "subNumber": "a",
+          "text": "What are the different notations for comparing the time complexity of an algorithm? Explain each of them with neat figures.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_8_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_8_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the queue and circular queue with examples. Also, write the differences between the two.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_8_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_8_q6_s1",
+          "subNumber": "a",
+          "text": "Let a and b be positive integers. Suppose a function F is defined recursively as follows:<br/> \\( F(a,b) = \\begin{cases} 0 &amp; \\text{if } a &lt; b \\\\ F(a-b,b) + 1 &amp; \\text{if } b \\le a \\end{cases} \\)<br/> Find the values of the following: (a) \\( F(2,3) \\) (b) \\( F(14,3) \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_8_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_8_q7_s1",
+          "subNumber": "a",
+          "text": "Write the algorithm of prefix evaluation with example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2020_8_q7_s2",
+          "subNumber": "b",
+          "text": "Write prefix notation of the following infix notation: \\( A+B*C+D \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_8_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_8_q8_s1",
+          "subNumber": "a",
+          "text": "What do you mean by ADT? Explain the ADT stack with test cases for both pop and push.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsa_2020_8_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_dsa_2020_8_q9_s1",
+          "subNumber": "a",
+          "text": "Hashing",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2020_8_q9_s2",
+          "subNumber": "b",
+          "text": "Circular linked list",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2020_8_q9_s3",
+          "subNumber": "c",
+          "text": "Adjacency list",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsa_2020_8_q9_s4",
+          "subNumber": "d",
+          "text": "AVL tree",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

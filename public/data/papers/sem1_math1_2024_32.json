@@ -1,0 +1,291 @@
+{
+  "id": "sem1_math1_2024_32",
+  "semester": 1,
+  "subject_code": "math1",
+  "subject_name": "Engineering Mathematics-1",
+  "year": "2024",
+  "exam_code": "101102",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 1st Semester Examination, 2024 (Old) Mathematics - I (Calculus, Multivariable Calculus &\n                Linear Algebra) Time: 03 Hours Code: 101102 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 13,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_math1_2024_32_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following questions (Any seven only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2024_32_q1_s1",
+          "subNumber": "a",
+          "text": "Show that \\( f(x)=\\sin^{2}x \\) is continuous for every value of x.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2024_32_q1_s2",
+          "subNumber": "b",
+          "text": "Verify Rolle's Theorem for the function \\( f(x)=2+(x-1)^{2/3} \\) where \\( x\\in[0,2] \\).",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_math1_2024_32_q1_s3",
+          "subNumber": "c",
+          "text": "Test the convergence of the integral \\( \\int_{0}^{\\infty}\\frac{\\cos x}{1+x^{2}}dx \\).",
+          "freq": 8,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math1_2024_32_q1_s4",
+          "subNumber": "d",
+          "text": "Evaluate \\( \\Gamma(-\\frac{5}{2}) \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2024_32_q1_s5",
+          "subNumber": "e",
+          "text": "Define Power series and Taylor's series.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2024_32_q1_s6",
+          "subNumber": "f",
+          "text": "Find the smallest positive period of the function \\( \\sin(\\frac{n\\pi x}{L}) \\).",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_math1_2024_32_q1_s7",
+          "subNumber": "g",
+          "text": "Are the following set of vectors \\( [1, -1, 1], [1, 1, -1], [0, 1, 0] \\) linearly independent or dependent?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2024_32_q1_s8",
+          "subNumber": "h",
+          "text": "Define rank and nullity of a matrix.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2024_32_q1_s9",
+          "subNumber": "i",
+          "text": "Find the spectral radius of the matrix \\( A=\\begin{bmatrix}0&amp;1\\\\ -1&amp;0\\end{bmatrix} \\).",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math1_2024_32_q1_s10",
+          "subNumber": "j",
+          "text": "Show that the determinant of an orthogonal matrix has the value +1 or -1.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2024_32_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2024_32_q2_s1",
+          "subNumber": "a",
+          "text": "Verify Lagrange's mean value theorem for \\( f(x)=(x-1)(x-2)(x-3) \\) in \\( [0,4] \\).",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_math1_2024_32_q2_s2",
+          "subNumber": "b",
+          "text": "Find the maxima and minima values of the function \\( f(x)=5x^{6}+18x^{5}+15x^{4}-10 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2024_32_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2024_32_q3_s1",
+          "subNumber": "a",
+          "text": "Find the evolute of the parabola \\( y^{2}=4ax \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2024_32_q3_s2",
+          "subNumber": "b",
+          "text": "Evaluate the integral \\( \\int_{0}^{\\pi/2}\\sqrt{\\tan \\theta}d\\theta \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2024_32_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2024_32_q4_s1",
+          "subNumber": "a",
+          "text": "Find the radius of convergence of the series \\( \\sum_{m=0}^{\\infty}(m+1)m~x^{m} \\).",
+          "freq": 8,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math1_2024_32_q4_s2",
+          "subNumber": "b",
+          "text": "Expand the function \\( f(x)=2x^{3}+7x^{2}+x-6 \\) in powers of \\( (x-2) \\).",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2024_32_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2024_32_q5_s1",
+          "subNumber": "a",
+          "text": "Find the half range sine Fourier series of the periodic function \\( f(x)=\\pi-x, \\quad 0 &lt; x &lt; \\pi \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2024_32_q5_s2",
+          "subNumber": "b",
+          "text": "Solve the system of equations by Cramer's rule:<br/> \\( -x_{1}+x_{2}+2x_{3}=2 \\)<br/> \\( 3x_{1}-x_{2}+x_{3}=6 \\)<br/> \\( -x_{1}+3x_{2}+4x_{3} =4 \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2024_32_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2024_32_q6_s1",
+          "subNumber": "a",
+          "text": "Find the inverse of the matrix \\( \\begin{bmatrix}3&amp;-1&amp;5\\\\ 2&amp;6&amp;4\\\\ 5&amp;5&amp;9\\end{bmatrix} \\) by Gauss-Jordan Elimination.",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math1_2024_32_q6_s2",
+          "subNumber": "b",
+          "text": "Can we say all vectors in \\( R^{3} \\) such that \\( 4v_{2}+v_{3}=k \\) form a vector space? If yes, determine the dimension and find a basis.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2024_32_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2024_32_q7_s1",
+          "subNumber": "a",
+          "text": "Find the nullity of the matrix \\( \\begin{bmatrix}4&amp;0&amp;2&amp;8\\\\ 5&amp;7&amp;3&amp;1\\\\ 0&amp;6&amp;9&amp;0\\end{bmatrix} \\).",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math1_2024_32_q7_s2",
+          "subNumber": "b",
+          "text": "Find a basis of eigenvectors of the matrix \\( A=\\begin{bmatrix}2&amp;1\\\\ 2&amp;1\\end{bmatrix} \\).",
+          "freq": 13,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2024_32_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2024_32_q8_s1",
+          "subNumber": "a",
+          "text": "Find the eigenvalues and eigenvectors of the matrix \\( A=\\begin{bmatrix}5&amp;4\\\\ 1&amp;2\\end{bmatrix} \\).",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math1_2024_32_q8_s2",
+          "subNumber": "b",
+          "text": "Diagonalize the matrix \\( A=\\begin{bmatrix}-2&amp;2&amp;-3\\\\ 2&amp;1&amp;-6\\\\ -1&amp;-2&amp;0\\end{bmatrix} \\).",
+          "freq": 13,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math1_2024_32_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math1_2024_32_q9_s1",
+          "subNumber": "a",
+          "text": "Mean value theorem",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2024_32_q9_s2",
+          "subNumber": "b",
+          "text": "Beta Function",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2024_32_q9_s3",
+          "subNumber": "c",
+          "text": "Vector Space",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math1_2024_32_q9_s4",
+          "subNumber": "d",
+          "text": "Gauss Elimination",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

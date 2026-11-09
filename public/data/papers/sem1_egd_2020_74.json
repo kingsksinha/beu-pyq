@@ -1,0 +1,233 @@
+{
+  "id": "sem1_egd_2020_74",
+  "semester": 1,
+  "subject_code": "egd",
+  "subject_name": "Engineering Graphics & Design",
+  "year": "2020",
+  "exam_code": "100102/100202",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Special Exam., 2020 Engineering Graphics and Design Time: 3 hours Code: 100102/100202 Full Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 5,
+  "has_mcq": false,
+  "instructions": [
+    "All questions carry equal marks.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_egd_2020_74_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2020_74_q1_s1",
+          "subNumber": "a",
+          "text": "Name different types of drawing instruments.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2020_74_q1_s2",
+          "subNumber": "b",
+          "text": "How will you test the set square?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2020_74_q1_s3",
+          "subNumber": "c",
+          "text": "What are the standard sizes of drawing sheet according to ISI?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2020_74_q1_s4",
+          "subNumber": "d",
+          "text": "What do you mean by composition of letters?",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_egd_2020_74_q1_s5",
+          "subNumber": "e",
+          "text": "What do you understand by uniformity in lettering?",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_egd_2020_74_q1_s6",
+          "subNumber": "f",
+          "text": "What do you mean by mechanical lettering devices?",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_egd_2020_74_q1_s7",
+          "subNumber": "g",
+          "text": "What do you mean by the term 'notation of dimensioning'?",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_egd_2020_74_q1_s8",
+          "subNumber": "h",
+          "text": "What are the aligned systems of dimensioning?",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_egd_2020_74_q1_s9",
+          "subNumber": "i",
+          "text": "What is the difference between a parallelogram and a rhombus?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_egd_2020_74_q1_s10",
+          "subNumber": "j",
+          "text": "What is the difference between a regular and an irregular polygon?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2020_74_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question:",
+      "marks": "[10]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2020_74_q2_s1",
+          "subNumber": "a",
+          "text": "The following figure shows isometric view of an object. Draw the following views: (a) Front view (b) End view (c) Top view.",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/20egd2.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2020_74_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question:",
+      "marks": "[10]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2020_74_q3_s1",
+          "subNumber": "a",
+          "text": "Draw the front view, top view, bottom view, left-side view and right-side view of the given object by first angle projection method.",
+          "freq": 5,
+          "stars": "★★★★★",
+          "images": [
+            "img/beu/diagram/20egd3.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2020_74_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question:",
+      "marks": "[10]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2020_74_q4_s1",
+          "subNumber": "a",
+          "text": "The following figures show the top, front and side views of an object. Draw the isometric view of the object.",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/20egd4.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2020_74_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question:",
+      "marks": "[10]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2020_74_q5_s1",
+          "subNumber": "a",
+          "text": "A hexagonal pyramid, side of base 25 mm and axis 50 mm long, is resting on an edge of its base on the HP with its axis inclined at 30° to HP and parallel to VP. Draw its projections.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2020_74_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[10]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2020_74_q6_s1",
+          "subNumber": "a",
+          "text": "A square pyramid of 25 mm side of base and 60 mm height is resting on its base. A section plane is making an angle 60° with the HP and cutting its axis at a height of 40 mm from the base. Develop the truncated pyramid.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2020_74_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question:",
+      "marks": "[10]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2020_74_q7_s1",
+          "subNumber": "a",
+          "text": "Draw the top view and the front view of a cube of 40 mm edge which is resting on horizontal plane with one of its faces inclined at 30° to the VP and perpendicular to the HP.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2020_74_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question:",
+      "marks": "[10]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2020_74_q8_s1",
+          "subNumber": "a",
+          "text": "A cylinder of 25 mm diameter and 45 mm long is resting on its circular rim with its axis inclined at 45° to the VP and parallel to the HP. Draw the projections.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2020_74_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question:",
+      "marks": "[10]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2020_74_q9_s1",
+          "subNumber": "a",
+          "text": "A right circular cylinder of 30 mm diameter and 35 mm height of axis is cut by a section plane inclined at 30° to HP and passes 18 mm from base along the axis. Draw the development of the truncated cylinder.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/20egd9.png"
+          ]
+        }
+      ]
+    }
+  ]
+}

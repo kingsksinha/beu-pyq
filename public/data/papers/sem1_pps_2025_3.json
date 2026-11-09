@@ -1,0 +1,330 @@
+{
+  "id": "sem1_pps_2025_3",
+  "semester": 1,
+  "subject_code": "pps",
+  "subject_name": "Programming For Problem Solving",
+  "year": "2025",
+  "exam_code": "100203",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 Programming for Problem Solving Time: 03 Hours Code: 100203 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 13,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_pps_2025_3_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option for the following questions (Answer any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_3_q1_s1",
+          "subNumber": "a",
+          "text": "The correct syntax for an if-statement is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "if condition() { }",
+            "if (condition) {}",
+            "if (condition) []",
+            "if {condition}"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_3_q1_s2",
+          "subNumber": "b",
+          "text": "C function execution always begins from",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "main()",
+            "constructor",
+            "user-defined function",
+            "header file"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_3_q1_s3",
+          "subNumber": "c",
+          "text": "Which storage class has the default value of a variable as zero?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "auto",
+            "static",
+            "extern",
+            "register"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_3_q1_s4",
+          "subNumber": "d",
+          "text": "Relational operators always return",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Float value",
+            "0 or 1",
+            "Character",
+            "None"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_3_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following is an exit-controlled loop?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "while loop",
+            "for loop",
+            "do-while loop",
+            "None"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_3_q1_s6",
+          "subNumber": "f",
+          "text": "Binary search works only on",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Unsorted list",
+            "Doubly linked list",
+            "Sorted list",
+            "Any list"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_3_q1_s7",
+          "subNumber": "g",
+          "text": "break keyword is used to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Restart loop",
+            "Terminate loop",
+            "Skip iteration",
+            "Exit program"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_3_q1_s8",
+          "subNumber": "h",
+          "text": "In a union, memory allocated is equal to the size of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Sum of all members",
+            "Smallest member",
+            "Largest member",
+            "Twice the size"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_3_q1_s9",
+          "subNumber": "i",
+          "text": "fopen(\"abc.txt\",\"r\") opens file in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Write mode",
+            "Append mode",
+            "Read mode",
+            "Read + Write mode"
+          ]
+        },
+        {
+          "id": "sem1_pps_2025_3_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following problems can be solved using recursion?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Fibonacci",
+            "Factorial",
+            "GCD",
+            "All of the above"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_3_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_3_q2_s1",
+          "subNumber": "a",
+          "text": "Write an algorithm and draw the flowchart for checking whether a number is prime or not.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_pps_2025_3_q2_s2",
+          "subNumber": "b",
+          "text": "Differentiate between syntax errors, logical errors, compile-time errors, and run-time errors. Provide suitable examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_3_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_3_q3_s1",
+          "subNumber": "a",
+          "text": "Explain function declaration, definition, and calling conventions in C. Discuss call by value and call by reference with examples.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2025_3_q3_s2",
+          "subNumber": "b",
+          "text": "Differentiate between while and do-while loop construct. Write a program for generating Fibonacci series using loop.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_3_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_3_q4_s1",
+          "subNumber": "a",
+          "text": "Write the differences between if, if-else, and switch statements with examples.",
+          "freq": 13,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2025_3_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the use of break, continue, and goto statements with examples.",
+          "freq": 13,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_3_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_3_q5_s1",
+          "subNumber": "a",
+          "text": "How are arrays declared and initialized in C? What is bound checking? Why is it important in array programming?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_pps_2025_3_q5_s2",
+          "subNumber": "b",
+          "text": "What is recursion? Explain how recursion works with stack memory. Write a recursive program for finding the factorial of a number.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_3_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_3_q6_s1",
+          "subNumber": "a",
+          "text": "Write a program to perform linear search in an array. Also find its complexity in Best, Average and Worst cases.",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2025_3_q6_s2",
+          "subNumber": "b",
+          "text": "Describe the selection sort algorithm and implement it in C language.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_3_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_3_q7_s1",
+          "subNumber": "a",
+          "text": "Explain various storage classes in C with proper examples.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_pps_2025_3_q7_s2",
+          "subNumber": "b",
+          "text": "Write a program to copy the contents of one file into another and explain each step of file IO.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_3_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_3_q8_s1",
+          "subNumber": "a",
+          "text": "Explain arithmetic, relational, logical, bitwise and assignment operators in C along with their precedence rules and examples.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_pps_2025_3_q8_s2",
+          "subNumber": "b",
+          "text": "What is the difference between structure and union? Explain with an example.",
+          "freq": 13,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2025_3_q9",
+      "number": 9,
+      "title": "Q.9 Write Short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2025_3_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

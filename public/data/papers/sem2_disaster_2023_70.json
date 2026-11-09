@@ -1,0 +1,307 @@
+{
+  "id": "sem2_disaster_2023_70",
+  "semester": 2,
+  "subject_code": "disaster",
+  "subject_name": "Disaster Preparedness & Planning",
+  "year": "2023",
+  "exam_code": "101402",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2023 Disaster Preparedness & Planning Time: 03 Hours Code: 101402 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 5,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_disaster_2023_70_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven question of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2023_70_q1_s1",
+          "subNumber": "a",
+          "text": "In a case of fire, the initial evacuation is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "vertical upwards",
+            "vertical downwards",
+            "horizontal",
+            "imaginatively"
+          ]
+        },
+        {
+          "id": "sem2_disaster_2023_70_q1_s2",
+          "subNumber": "b",
+          "text": "A written statement of disaster plan is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Disaster Networking",
+            "Disaster Alert",
+            "Disaster Mock exercise",
+            "Disaster Manual"
+          ]
+        },
+        {
+          "id": "sem2_disaster_2023_70_q1_s3",
+          "subNumber": "c",
+          "text": "Structural and non-structural measures are elements of high category of Risk Reduction measures",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Socio-economic measures",
+            "Physical measures",
+            "Environmental measures",
+            "Post disaster measures"
+          ]
+        },
+        {
+          "id": "sem2_disaster_2023_70_q1_s4",
+          "subNumber": "d",
+          "text": "Rapid and direct dissemination of cyclone warning are made to the designated address at isolated places in local languages through",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Internet",
+            "INSAT Satellite",
+            "Radio",
+            "Newspaper"
+          ]
+        },
+        {
+          "id": "sem2_disaster_2023_70_q1_s5",
+          "subNumber": "e",
+          "text": "Pre-disaster planning includes all except",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "awareness and information programme",
+            "training and education to volunteers",
+            "evacuation of injured",
+            "coordination with government agencies"
+          ]
+        },
+        {
+          "id": "sem2_disaster_2023_70_q1_s6",
+          "subNumber": "f",
+          "text": "What do you mean by 'Disaster Preparedness'?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2023_70_q1_s7",
+          "subNumber": "g",
+          "text": "List the role of NGOs in disaster management.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_disaster_2023_70_q1_s8",
+          "subNumber": "h",
+          "text": "How Tsunami is different from flood?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2023_70_q1_s9",
+          "subNumber": "i",
+          "text": "What are the factors which affect the vulnerability?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2023_70_q1_s10",
+          "subNumber": "j",
+          "text": "The Disaster Management Act presently in force in India was enacted by Parliament in the year ______ and received the assent of the president of India in the year ______.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2023_70_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2023_70_q2_s1",
+          "subNumber": "a",
+          "text": "Explain in detail the activities of national Disaster Management Authority.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2023_70_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2023_70_q3_s1",
+          "subNumber": "a",
+          "text": "What are the role of media on disaster management? Explain briefly.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_disaster_2023_70_q3_s2",
+          "subNumber": "b",
+          "text": "Write a note on urban disaster.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2023_70_q4",
+      "number": 4,
+      "title": "Q.4 Write in detail of the following:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2023_70_q4_s1",
+          "subNumber": "a",
+          "text": "(a) Policies for disaster risk reduction",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2023_70_q4_s2",
+          "subNumber": "b",
+          "text": "(b) DRR programs in India",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2023_70_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2023_70_q5_s1",
+          "subNumber": "a",
+          "text": "State some important definitions which are used at the time of disaster. How will you prepare a disaster preparedness plan for your hospital?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2023_70_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2023_70_q6_s1",
+          "subNumber": "a",
+          "text": "Explain natural disasters and its mitigation strategies.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2023_70_q6_s2",
+          "subNumber": "b",
+          "text": "What are the important aspects of post disaster response?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2023_70_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2023_70_q7_s1",
+          "subNumber": "a",
+          "text": "Discuss the impact of environmental modifications such urbanization on vulnerability.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2023_70_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2023_70_q8_s1",
+          "subNumber": "a",
+          "text": "List and explain any seven man-made disaster.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2023_70_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2023_70_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Post-disaster waste management",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2023_70_q9_s2",
+          "subNumber": "b",
+          "text": "(b) Flash floods",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2023_70_q9_s3",
+          "subNumber": "c",
+          "text": "(c) Hazardous effect of volcanoes",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2023_70_q9_s4",
+          "subNumber": "d",
+          "text": "(d) Rehabilitation in disaster",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_disaster_2023_70_q9_s5",
+          "subNumber": "e",
+          "text": "(e) National disaster trends",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2023_70_q9_s6",
+          "subNumber": "f",
+          "text": "(f) Landslides and Avalanche",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

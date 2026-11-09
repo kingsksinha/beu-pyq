@@ -1,0 +1,322 @@
+{
+  "id": "sem2_dome_2024_88",
+  "semester": 2,
+  "subject_code": "dome",
+  "subject_name": "Design of Machine Elements",
+  "year": "2024",
+  "exam_code": "102601",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Examination, 2024 Design of Machine Elements Time: 03 Hours Code: 102601 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_dome_2024_88_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven questions only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2024_88_q1_s1",
+          "subNumber": "a",
+          "text": "The lowest value of joint efficiency is assumed in the case of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "single riveted butt joint",
+            "double riveted butt joint",
+            "double riveted lap joint",
+            "single riveted lap joint"
+          ]
+        },
+        {
+          "id": "sem2_dome_2024_88_q1_s2",
+          "subNumber": "b",
+          "text": "Standardization deals with the characteristics of products that include",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "dimensions of machine elements",
+            "composition and properties of engineering materials",
+            "method of testing the engineering materials",
+            "all the three"
+          ]
+        },
+        {
+          "id": "sem2_dome_2024_88_q1_s3",
+          "subNumber": "c",
+          "text": "The gearbox is produced by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "design by drawing",
+            "design by craft evolution",
+            "simultaneous design",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "sem2_dome_2024_88_q1_s4",
+          "subNumber": "d",
+          "text": "Steels used for welded assemblies are",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "medium carbon steel",
+            "high carbon steel",
+            "alloy steel",
+            "mild steel"
+          ]
+        },
+        {
+          "id": "sem2_dome_2024_88_q1_s5",
+          "subNumber": "e",
+          "text": "In a shaft-basis system, the basis is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "whose upper deviation is zero",
+            "whose lower deviation is zero",
+            "whose upper and lower deviations are zero",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "sem2_dome_2024_88_q1_s6",
+          "subNumber": "f",
+          "text": "According to Indian Standards, the total number of tolerance grades are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10",
+            "18",
+            "20",
+            "8"
+          ]
+        },
+        {
+          "id": "sem2_dome_2024_88_q1_s7",
+          "subNumber": "g",
+          "text": "The shock-absorbing capacity of a bolt can be increased by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "increasing shank diameter",
+            "making the shank diameter equal to the core diameter of the threads",
+            "using castle nut in place of an ordinary hexagonal nut",
+            "using a washer"
+          ]
+        },
+        {
+          "id": "sem2_dome_2024_88_q1_s8",
+          "subNumber": "h",
+          "text": "The maximum stress concentration factor for a rectangular plate with a transverse hole loaded in tension or compression is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2",
+            "3",
+            "2.5",
+            "1"
+          ]
+        },
+        {
+          "id": "sem2_dome_2024_88_q1_s9",
+          "subNumber": "i",
+          "text": "The reliability factor for using 50% reliability in design is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.897",
+            "0.868",
+            "1",
+            "0.814"
+          ]
+        },
+        {
+          "id": "sem2_dome_2024_88_q1_s10",
+          "subNumber": "j",
+          "text": "The endurance limit of the component can be increased by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "increasing the size of the component",
+            "shot peening",
+            "increasing the stress concentration",
+            "coating"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2024_88_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2024_88_q2_s1",
+          "subNumber": "a",
+          "text": "Define the factor of safety. What is its importance in design? What are various factors to be considered in deciding the factor of safety?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2024_88_q2_s2",
+          "subNumber": "b",
+          "text": "What are adaptive design and optimum design? Describe some factors that influence machine design.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2024_88_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2024_88_q3_s1",
+          "subNumber": "a",
+          "text": "Describe various types of loads that machine elements are subjected to and specify the factor of safety used in each case.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2024_88_q3_s2",
+          "subNumber": "b",
+          "text": "Explain notch sensitivity. State the relation between stress concentration factor, fatigue stress concentration factor and notch sensitivity.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2024_88_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2024_88_q4_s1",
+          "subNumber": "a",
+          "text": "Explain briefly a design of shafts subjected to combined bending and torsion.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2024_88_q4_s2",
+          "subNumber": "b",
+          "text": "Name the various standards used in the design of machine elements. Calculate the tolerance, fundamental deviation and limits of sizes for the shaft designated as 70 H8-g5.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2024_88_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2024_88_q5_s1",
+          "subNumber": "a",
+          "text": "Explain briefly the design considerations of welded assemblies. How is the strength of the transverse fillet weld evaluated?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2024_88_q5_s2",
+          "subNumber": "b",
+          "text": "A welded rectangular steel tube is \\( 1000 \\text{ mm} \\) long, has a \\( 3 \\text{ mm} \\) wall, and a \\( 60 \\text{ mm} \\) by \\( 90 \\text{ mm} \\) rectangular cross-section. Assume an allowable shear stress of \\( 80 \\text{ MPa} \\) and a shear modulus of \\( 80 \\text{ GPa} \\). <br/><br/>(a) Estimate the allowable torque \\( T \\). <br/>(b) Estimate the angle of twist due to the torque.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/192.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2024_88_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2024_88_q6_s1",
+          "subNumber": "a",
+          "text": "Mention the utility of the centre bolt, U-clamp, rebound clip and camber in a leaf spring.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2024_88_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2024_88_q7_s1",
+          "subNumber": "a",
+          "text": "Explain with sketches the different types of failures and efficiencies of the riveted joints.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dome_2024_88_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss the design procedure for the eccentrically loaded bolted joint.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2024_88_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2024_88_q8_s1",
+          "subNumber": "a",
+          "text": "A band brake's drum rotates counterclockwise at \\( 200 \\text{ rev/min} \\). The drum diameter is \\( 400 \\text{ mm} \\) and the band lining is \\( 75 \\text{ mm} \\) wide. The coefficient of friction is \\( 0.20 \\). The maximum lining interface pressure is \\( 480 \\text{ kPa} \\). <br/><br/>(a) Find the brake torque, necessary force \\( P \\), and steady-state power.<br/>(b) Complete the free body diagram of the drum. Find the bearing radial load that a pair of straddle-mounted bearings would have to carry.<br/>(c) What is the lining pressure \\( p \\) at both ends of the contact arc?",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/191.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_dome_2024_88_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dome_2024_88_q9_s1",
+          "subNumber": "a",
+          "text": "A line shaft is to transmit \\( 30 \\text{ kW} \\) at \\( 160 \\text{ rpm} \\). It is driven by a motor placed directly under it by means of a belt running on a \\( 1 \\text{ m} \\) diameter pulley keyed to the end of the shaft. The tension in the tight side of the belt is \\( 2.5 \\) times that of the slack side, and the centre of the pulley overhangs \\( 150 \\text{ mm} \\) beyond the centre line of the end bearing. Determine the diameter of the shaft if the allowable shear stress is \\( 56 \\text{ MPa} \\) and the pulley weighs \\( 1600 \\text{ N} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "id": "sem3_formal_2022_55",
+  "semester": 3,
+  "subject_code": "formal",
+  "subject_name": "Formal Language & Automata Theory",
+  "year": "2022",
+  "exam_code": "105503",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2022 Formal language & automata theory Time: 03 Hours Code: 105503 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_formal_2022_55_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2022_55_q1_s1",
+          "subNumber": "a",
+          "text": "The language \\( \\{a^m b^n c^{m+n} / m, n \\ge 1\\} \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "regular",
+            "context-free but not regular",
+            "Context-sensitive but not context free",
+            "type-0 but not context sensitive"
+          ]
+        },
+        {
+          "id": "sem3_formal_2022_55_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following pairs have DIFFERENT expressive powers?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Deterministic finite automata (DFA) and non-deterministic finite automata (NDFA)",
+            "Deterministic push-down automata (DPDA) and non-deterministic push-down automata (NDPDA)",
+            "Deterministic single-tape Turing machine and non-deterministic single-tape Turing machine",
+            "Single-tape Turing machine and multi-tape Turing machine"
+          ]
+        },
+        {
+          "id": "sem3_formal_2022_55_q1_s3",
+          "subNumber": "c",
+          "text": "The logic of pumping lemma is a good example of",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "pigeon-hole principle",
+            "divide-and-conquer technique",
+            "recursion",
+            "iteration"
+          ]
+        },
+        {
+          "id": "sem3_formal_2022_55_q1_s4",
+          "subNumber": "d",
+          "text": "If \\( L_1 \\) and \\( L_2 \\) are context free languages, \\( L_1 - L_2 \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "always context-free.",
+            "sometimes",
+            "never",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem3_formal_2022_55_q1_s5",
+          "subNumber": "e",
+          "text": "_____ is the acyclic graphical representation of a grammer.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Binary tree",
+            "Octtree",
+            "Parse tree",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2022_55_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following pairs of regular expressions are equivalent?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( x^* \\) and \\( x^*x \\)",
+            "\\( 1(01) \\) and \\( (10)^*1 \\)",
+            "\\( x(xx)^* \\) and \\( (xx)^*x \\)",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2022_55_q1_s7",
+          "subNumber": "g",
+          "text": "The maximum number of states of a DFA converted from an NFA with \\( n \\) states is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( n \\)",
+            "\\( n^2 \\)",
+            "\\( 2^n \\)",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem3_formal_2022_55_q1_s8",
+          "subNumber": "h",
+          "text": "Definition of a language L with alphabet {a} is given as \\( L = \\{a^{nk} / k &gt; 0 \\}, \\) and n is a positive integer constant. What is the minimum number of states needed in a DFA to recognize L?",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "\\( k + 1 \\)",
+            "\\( n + 1 \\)",
+            "\\( 2n + 1 \\)",
+            "\\( 2k + 1 \\)"
+          ]
+        },
+        {
+          "id": "sem3_formal_2022_55_q1_s9",
+          "subNumber": "i",
+          "text": "A _____ is context free grammar with atmost one non-terminal in the right handside of the production.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "linear grammar",
+            "linear bounded grammar",
+            "regular grammar",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_formal_2022_55_q1_s10",
+          "subNumber": "j",
+          "text": "Let N be an NFA with \\( n \\) states and let M be the minimized DFA with \\( m \\) states recognizing the same language. Which of the following is necessarily true?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( m \\le 2^n \\)",
+            "\\( n \\le m \\)",
+            "M has one accept state",
+            "\\( m = 2^n \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2022_55_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2022_55_q2_s1",
+          "subNumber": "a",
+          "text": "Tabulate Chomsky hierarchy of grammars with an example for each.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_formal_2022_55_q2_s2",
+          "subNumber": "b",
+          "text": "Construct the regular grammar accepting the following language: \\( L = \\{w \\in \\{a,b\\}^* / w \\text{ is a string over } \\{a, b\\} \\text{ such that the number of b's is } 3 \\mod 4\\} \\)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2022_55_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2022_55_q3_s1",
+          "subNumber": "a",
+          "text": "Minimize the DFA.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/112.jpg"
+          ]
+        },
+        {
+          "id": "sem3_formal_2022_55_q3_s2",
+          "subNumber": "b",
+          "text": "Define recursively enumerable languages. Let \\( L_1 \\) be recursive and \\( L_2 \\) recursively enumerable. Show that \\( L_2 - L_1 \\) is necessarily recursively enumerable.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2022_55_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2022_55_q4_s1",
+          "subNumber": "a",
+          "text": "Begin with the grammar: \\( S \\rightarrow ASB/\\epsilon \\), \\( A \\rightarrow aAS/a \\), \\( B \\rightarrow SbS/A/bb \\)<br/> (i) Eliminate \\( \\epsilon \\)-productions.<br/> (ii) Eliminate unit productions in the resulting grammar.<br/> (iii) Eliminate any useless symbol in the resulting grammar.<br/> (iv) Put the resulting grammar into CNF.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2022_55_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2022_55_q5_s1",
+          "subNumber": "a",
+          "text": "Design a pushdown automata to accept the following language by empty stack: \\( \\{0^n 1^n / n \\ge 1\\} \\).",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_formal_2022_55_q5_s2",
+          "subNumber": "b",
+          "text": "Define deterministic pushdown automata. Explain with an example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2022_55_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2022_55_q6_s1",
+          "subNumber": "a",
+          "text": "Prove using pumping lemma for regular languages that the language \\( \\{0^n / n \\text{ is a perfect square}\\} \\) is not regular.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_formal_2022_55_q6_s2",
+          "subNumber": "b",
+          "text": "Convert the following DFA to regular expression using the state elimination technique.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2022_55_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2022_55_q7_s1",
+          "subNumber": "a",
+          "text": "Convert the following NFA to DFA and informally describe the language it accepts.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2022_55_q7_s2",
+          "subNumber": "b",
+          "text": "When a CFG is called ambiguous? Show that \\( S \\rightarrow aS / aSbS / \\epsilon \\) is ambiguous.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2022_55_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2022_55_q8_s1",
+          "subNumber": "a",
+          "text": "Define Turing machine. Design a Turing machine M to recognize the language \\( \\{1^n 2^n 3^n / n \\ge 1\\} \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_formal_2022_55_q8_s2",
+          "subNumber": "b",
+          "text": "Construct DFA equivalent to the regular expression: \\( (0+1)^*(00+11)(0+1)^* \\)",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_formal_2022_55_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_formal_2022_55_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

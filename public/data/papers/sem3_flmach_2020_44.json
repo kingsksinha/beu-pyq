@@ -1,0 +1,344 @@
+{
+  "id": "sem3_flmach_2020_44",
+  "semester": 3,
+  "subject_code": "flmach",
+  "subject_name": "Fluid Machinery",
+  "year": "2020",
+  "exam_code": "021510",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Special Exam., 2020 Fluid Machinery Time: 03 Hours Code: 021510 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 27,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_flmach_2020_44_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_44_q1_s1",
+          "subNumber": "a",
+          "text": "Reciprocating pump is a/an",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "negative displacement pump",
+            "positive displacement pump",
+            "diaphragm pump",
+            "emulsion pump"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_44_q1_s2",
+          "subNumber": "b",
+          "text": "How many numbers of valves are required for the rotary pump?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_44_q1_s3",
+          "subNumber": "c",
+          "text": "When the casing in a centrifugal pump decelerates the flow, what increases?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Flow rate",
+            "Temperature",
+            "Volume",
+            "Pressure"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_44_q1_s4",
+          "subNumber": "d",
+          "text": "The fundamental significance of all the turbo-machinery is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "conservation of momentum",
+            "conservation of mass",
+            "conservation of heat",
+            "conservation of speed"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_44_q1_s5",
+          "subNumber": "e",
+          "text": "Kaplan turbine is a/an",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "tangential-flow turbine",
+            "radial-flow turbine",
+            "axial-flow turbine",
+            "mixed-flow turbine"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_44_q1_s6",
+          "subNumber": "f",
+          "text": "The function of the draft tube is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "to increase the pressure of the exiting fluid",
+            "to increase the kinetic energy of exiting fluid",
+            "to allow the turbine to be set below tail water level",
+            "to keep pressure at runner outlet above the atmospheric pressure"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_44_q1_s7",
+          "subNumber": "g",
+          "text": "In which turbine, the pressure energy of water is first converted into kinetic energy by means of nozzle kept close to the runner?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Impulse turbine",
+            "Reaction turbine",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_44_q1_s8",
+          "subNumber": "h",
+          "text": "If the blades of the axial flow turbine are fixed, these are called",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Kaplan turbine",
+            "Propeller turbine",
+            "Francis turbine",
+            "Pelton turbine"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_44_q1_s9",
+          "subNumber": "i",
+          "text": "Which compressors are suitable for large volume flow rates of above \\( 1200~m^3/min \\)?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Centrifugal compressors",
+            "Axial flow compressors",
+            "Reciprocating compressors",
+            "Both (i) and (ii)"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_44_q1_s10",
+          "subNumber": "j",
+          "text": "Which among the following is the formula for force when it strikes the plate?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\rho a V^2 \\)",
+            "\\( \\rho a V \\)",
+            "\\( \\rho a \\)",
+            "\\( m a E \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_44_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_44_q2_s1",
+          "subNumber": "a",
+          "text": "Show that the force exerted by a jet of water on an inclined fixed plane in the direction of jet is given by \\( F_x = \\rho a V^2 \\sin^2 \\theta \\) <br/> where, \\( a = \\) area of the jet, \\( \\theta = \\) inclination of the plate with the jet and \\( V = \\) velocity of the jet.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_flmach_2020_44_q2_s2",
+          "subNumber": "b",
+          "text": "A jet of water of diameter 50 mm moving with a velocity of \\( 25~m/s \\) impinges on a fixed curved plate tangentially at one end at an angle of \\( 30^{\\circ} \\) to the horizontal. Calculate the resultant force of the jet on the plate if the jet is deflected through an angle of \\( 50^{\\circ} \\). Take \\( g = 10~m/s^2 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_44_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_44_q3_s1",
+          "subNumber": "a",
+          "text": "Find an expression for the propelling force and the work done per second on a tank which is provided with an orifice through which jet of water is coming out and tank is free to move.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_44_q3_s2",
+          "subNumber": "b",
+          "text": "Define the degree of reaction. Find out the value of degree of reaction (R) for Pelton turbine and actual reaction turbine.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_44_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_44_q4_s1",
+          "subNumber": "a",
+          "text": "How will you classify the turbines?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_44_q4_s2",
+          "subNumber": "b",
+          "text": "A reaction turbine works at 450 r.p.m. under a head of 120 meters. Its diameter at inlet is 120 cm and the flow area is \\( 0.4~m^2 \\). The angles made by absolute and relative velocities at inlet are \\( 20^{\\circ} \\) and \\( 60^{\\circ} \\) respectively with the tangential velocity. Determine (i) volume flow rate, (ii) power developed and (iii) hydraulic efficiency.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_44_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_44_q5_s1",
+          "subNumber": "a",
+          "text": "What is a draft tube? Why is it used in a reaction turbine? Describe different types of draft tubes with neat sketches.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_44_q5_s2",
+          "subNumber": "b",
+          "text": "A turbine is to operate under a head of 25 m at 200 r.p.m. The discharge and overall efficiencies of the turbine are \\( 9~m^3/s \\) and 90% simultaneously. Determine (i) specific speed of the turbine, (ii) power generated and (iii) type of turbine.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_44_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_44_q6_s1",
+          "subNumber": "a",
+          "text": "Differentiate between (i) Kaplan and Propeller turbines and (ii) Centrifugal and Reciprocating pumps.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_44_q6_s2",
+          "subNumber": "b",
+          "text": "The cylinder bore diameter of a single-acting reciprocating pump is 150 mm and its stroke is 300 mm. The pump runs at 50 r.p.m. and lifts water through a height of 25 m. The delivery pipe is 22 m long and 100 mm in diameter. Find the theoretical discharge and the theoretical power required to run the pump. If the actual discharge is 4.2 litres/s, find the percentage slip. Also, determine the acceleration head at the beginning and middle of the delivery stroke.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_44_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_44_q7_s1",
+          "subNumber": "a",
+          "text": "What is priming? Why is it necessary?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_44_q7_s2",
+          "subNumber": "b",
+          "text": "Draw and discuss the operating characteristic curves of a centrifugal pump.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_44_q7_s3",
+          "subNumber": "c",
+          "text": "A centrifugal pump is to discharge \\( 0.118~m^3/s \\) at a speed of 1450 r.p.m. against a head of 25 m. The impeller diameter is 250 mm, its width at outlet is 50 mm and manometric efficiency is 75%. Determine the vane angle at the outer periphery of the impeller.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_44_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_44_q8_s1",
+          "subNumber": "a",
+          "text": "Find the number of pumps required to take water from a deep well under a total head of 89 m. All the pumps are identical and are running at 800 r.p.m. The specific speed of each pump is given as 25 while the rated capacity of each pump is \\( 0.16~m^3/s \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_44_q8_s2",
+          "subNumber": "b",
+          "text": "Describe with a neat sketch the construction and working of single-stage single-acting reciprocating air compressor. Also explain its actual P-V diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_44_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_44_q9_s1",
+          "subNumber": "a",
+          "text": "What do you mean by multistage compression? State its advantages.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_44_q9_s2",
+          "subNumber": "b",
+          "text": "Determine the impeller diameters and the width at the impeller exit and the power required to drive the compressor from the following data:<br/> Speed (N) = 12500 rev/min<br/> Mass flow rate (m) = 15 kg/s<br/> Pressure ratio = 4:1<br/> Isentropic efficiency = 75%<br/> Slip factor = 0.9<br/> Flow coefficient at impeller exit = 0.3<br/> Hub diameter of the eye = 15 cm<br/> Axial velocity of air at entry to and exit from the impeller = 150 m/s<br/> Stagnation temperature at inlet = 295 K<br/> Stagnation pressure at inlet = 1.0 bar<br/> Assume equal pressure ratio in the impeller and diffuser.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

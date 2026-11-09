@@ -1,0 +1,337 @@
+{
+  "id": "sem1_pp_2025_12",
+  "semester": 1,
+  "subject_code": "pp",
+  "subject_name": "Python Programming",
+  "year": "2025",
+  "exam_code": "100218",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 Python Programming Time: 03 Hours Code: 100218 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_pp_2025_12_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option / answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pp_2025_12_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is a valid variable name in Python?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "2value",
+            "value2",
+            "value-2",
+            "value 2"
+          ]
+        },
+        {
+          "id": "sem1_pp_2025_12_q1_s2",
+          "subNumber": "b",
+          "text": "Which symbol is used for comments in Python?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "//",
+            "/* */",
+            "#",
+            "&lt;!-- --&gt;"
+          ]
+        },
+        {
+          "id": "sem1_pp_2025_12_q1_s3",
+          "subNumber": "c",
+          "text": "Which function is used to take input from the user?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "scanf()",
+            "gets()",
+            "read()",
+            "input()"
+          ]
+        },
+        {
+          "id": "sem1_pp_2025_12_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following will create an empty dictionary?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "dict()",
+            "{}",
+            "[]",
+            "set()"
+          ]
+        },
+        {
+          "id": "sem1_pp_2025_12_q1_s5",
+          "subNumber": "e",
+          "text": "What is the correct syntax to define a function in Python?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "function fun():",
+            "def fun():",
+            "def fun[]:",
+            "define fun():"
+          ]
+        },
+        {
+          "id": "sem1_pp_2025_12_q1_s6",
+          "subNumber": "f",
+          "text": "\"Hello\"[1] gives:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "H",
+            "e",
+            "l",
+            "o"
+          ]
+        },
+        {
+          "id": "sem1_pp_2025_12_q1_s7",
+          "subNumber": "g",
+          "text": "Which method is used to find length of a string?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "length()",
+            "size()",
+            "count()",
+            "len()"
+          ]
+        },
+        {
+          "id": "sem1_pp_2025_12_q1_s8",
+          "subNumber": "h",
+          "text": "Lists in Python are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Mutable",
+            "Immutable",
+            "Constant",
+            "None"
+          ]
+        },
+        {
+          "id": "sem1_pp_2025_12_q1_s9",
+          "subNumber": "i",
+          "text": "Which method removes the last element from a list?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "remove()",
+            "pop()",
+            "clear()",
+            "delete()"
+          ]
+        },
+        {
+          "id": "sem1_pp_2025_12_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following is used to open a file in Python?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "file()",
+            "open()",
+            "read()",
+            "fopen()"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_pp_2025_12_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pp_2025_12_q2_s1",
+          "subNumber": "a",
+          "text": "Explain Identifiers, Keywords, Statements, and Expressions in Python.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pp_2025_12_q2_s2",
+          "subNumber": "b",
+          "text": "Explore the working of while and for loop with examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pp_2025_12_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pp_2025_12_q3_s1",
+          "subNumber": "a",
+          "text": "Explain Assignment and Relational operators in python with program?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pp_2025_12_q3_s2",
+          "subNumber": "b",
+          "text": "What is type conversion? Explain with example?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pp_2025_12_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pp_2025_12_q4_s1",
+          "subNumber": "a",
+          "text": "Explain elseif ladder in python programming with suitable example.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pp_2025_12_q4_s2",
+          "subNumber": "b",
+          "text": "Write a Python program to count how many numbers in a given list are even and how many are odd.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pp_2025_12_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pp_2025_12_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the scope and lifetime of variables with examples. Also demonstrate how the global keyword is used to modify global variables inside a function.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pp_2025_12_q5_s2",
+          "subNumber": "b",
+          "text": "Write a function factors (N) that returns a list of all positive divisors of N (N&gt;=1).<br/> For example:<br/> factors (6) returns [1,2,3,6]<br/> factors (1) returns [1]<br/> factors (13) returns [1,13]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pp_2025_12_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pp_2025_12_q6_s1",
+          "subNumber": "a",
+          "text": "Explain concatenation, comparison, and length operation. Support your explanation with suitable example programs.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pp_2025_12_q6_s2",
+          "subNumber": "b",
+          "text": "Explain commonly used string methods such as upper(), lower(), strip(), find(), replace(), split(), join(), etc. Write example code demonstrating at least five string methods.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pp_2025_12_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pp_2025_12_q7_s1",
+          "subNumber": "a",
+          "text": "Explain operations such as concatenation, repetition, membership, and length in list with program?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pp_2025_12_q7_s2",
+          "subNumber": "b",
+          "text": "Explain indexing and slicing in lists with examples. Discuss: Positive and negative indexing, Accessing single elements, Slicing formats: list[start:end], list[start:end:step].",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pp_2025_12_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pp_2025_12_q8_s1",
+          "subNumber": "a",
+          "text": "What are nested loops? Write a program to print the following pattern using nested for loops:",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pp_2025_12_q8_s2",
+          "subNumber": "b",
+          "text": "Explain commonly used methods like add(), update(), remove(), discard(), union() in set with program?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pp_2025_12_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_pp_2025_12_q9_s1",
+          "subNumber": "a",
+          "text": "How to perform read operation in text file explain with example?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pp_2025_12_q9_s2",
+          "subNumber": "b",
+          "text": "Write a Python function to count the frequency of each character in a given a string and return the output in a dictionary. Example: char_frequency (\"HELLO\") returns {'H': 1, 'E': 1, 'L': 2, 'O': 1}.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

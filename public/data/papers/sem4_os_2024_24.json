@@ -1,0 +1,316 @@
+{
+  "id": "sem4_os_2024_24",
+  "semester": 4,
+  "subject_code": "os",
+  "subject_name": "Operating System",
+  "year": "2024",
+  "exam_code": "105403",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2024 Operating System Time: 03 Hours Code: 105403 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_os_2024_24_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven question only):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2024_24_q1_s1",
+          "subNumber": "a",
+          "text": "A _____ process is moved to the ready state when its time quantum expires.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Blocked",
+            "New",
+            "Running",
+            "Suspended"
+          ]
+        },
+        {
+          "id": "sem4_os_2024_24_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is also called job scheduler?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "DMA controller",
+            "Short-term scheduler",
+            "CPU scheduler",
+            "Long-term scheduler"
+          ]
+        },
+        {
+          "id": "sem4_os_2024_24_q1_s3",
+          "subNumber": "c",
+          "text": "Compaction is used to solve the problem of",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "External fragmentation",
+            "Internal fragmentation",
+            "both (i) and (ii)",
+            "None of these"
+          ]
+        },
+        {
+          "id": "sem4_os_2024_24_q1_s4",
+          "subNumber": "d",
+          "text": "Which process can be affected by other processes executing in the system?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Independent process",
+            "Co-operative process",
+            "Dependent Process",
+            "child process"
+          ]
+        },
+        {
+          "id": "sem4_os_2024_24_q1_s5",
+          "subNumber": "e",
+          "text": "What is the drawback of banker's algorithm?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "in advance processes rarely know how much resource they will need",
+            "the number of processes changes as time progresses",
+            "resource once available can disappear",
+            "all of the mentioned"
+          ]
+        },
+        {
+          "id": "sem4_os_2024_24_q1_s6",
+          "subNumber": "f",
+          "text": "An I/O port typically consists of four registers- status, control, _____ and _____ registers.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "system in, system out",
+            "flow in, flow out",
+            "data in, data out",
+            "input, output"
+          ]
+        },
+        {
+          "id": "sem4_os_2024_24_q1_s7",
+          "subNumber": "g",
+          "text": "The address loaded into the memory address register of the memory is referred to as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Physical address",
+            "IP address",
+            "Port address",
+            "Logical address"
+          ]
+        },
+        {
+          "id": "sem4_os_2024_24_q1_s8",
+          "subNumber": "h",
+          "text": "Consider a disk queue with requests for I/O to blocks on cylinders: 98, 183, 37, 122, 14, 124, 65, 67. Considering FCFS (first cum first served) scheduling, the total number of head movements is, if the disk head is initially at 53 is?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "600",
+            "630",
+            "620",
+            "640"
+          ]
+        },
+        {
+          "id": "sem4_os_2024_24_q1_s9",
+          "subNumber": "i",
+          "text": "The Trap mode bit changes from 0 to 1 when _____ mode switches to _____ mode.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Kernel, User",
+            "User, User",
+            "Kernel, Kernel",
+            "User, Kernel"
+          ]
+        },
+        {
+          "id": "sem4_os_2024_24_q1_s10",
+          "subNumber": "j",
+          "text": "Waiting Time is calculated as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Turnaround Time - Burst Time",
+            "Turnaround Time - Arrival Time",
+            "Completion Time - Arrival Time",
+            "Completion Time - Burst Time"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2024_24_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2024_24_q2_s1",
+          "subNumber": "a",
+          "text": "Define Thread? List some of the benefits of multithreading. Demonstrate the three methods to implement Threads.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2024_24_q2_s2",
+          "subNumber": "b",
+          "text": "Assume the following workload in a system:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2024_24_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2024_24_q3_s1",
+          "subNumber": "a",
+          "text": "Differentiate between:<br/> (i) User level Thread and Kernel level Thread<br/> (ii) Contiguous and Indexed allocation method<br/> (iii) Preemptive scheduling and Non-preemptive scheduling",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2024_24_q3_s2",
+          "subNumber": "b",
+          "text": "How is a process different from a program? With an example explain why Process synchronization is necessary in multiprocessing operating system?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2024_24_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2024_24_q4_s1",
+          "subNumber": "a",
+          "text": "Describe the techniques for recovery from deadlock? Explain briefly resource allocation graph with examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2024_24_q4_s2",
+          "subNumber": "b",
+          "text": "Consider a disk queue with requests for I/O to blocks on cylinders: 98, 183, 37, 122, 14, 124, 65, 67. Considering SSTF (shortest seek time first) scheduling, the total number of head movements is, if the disk head is initially at 53 is?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2024_24_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2024_24_q5_s1",
+          "subNumber": "a",
+          "text": "What is the difference between fixed partition and variable partition also explains the need of compaction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2024_24_q5_s2",
+          "subNumber": "b",
+          "text": "What is virtual memory? How is it implemented? Explain TLB in virtual memory with neat diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2024_24_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2024_24_q6_s1",
+          "subNumber": "a",
+          "text": "What is Reader-Writer problem? Explain how Semaphore is used to resolve the problem of process synchronization.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_os_2024_24_q6_s2",
+          "subNumber": "b",
+          "text": "What is Belady's Anomaly? Why LRU and Optimal Page Replacement algorithm doesn't suffer from this problem.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2024_24_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2024_24_q7_s1",
+          "subNumber": "a",
+          "text": "Compare and contrast Deadlock Prevention and Deadlock Avoidance. Can a system be in a state that is neither deadlock nor safe? If so, give an example. If not, prove that all states are either deadlock or safe.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2024_24_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2024_24_q8_s1",
+          "subNumber": "a",
+          "text": "Consider the following page reference string: 3, 4, 2, 1, 5, 5, 6, 2, 1, 2, 3, 7, 6, 3, 3, 2, 1, 2, 3, 6. Compare the page faults occur for the following replacement algorithms using four frames? Assume, initially all the frames are empty.<br/> (i) LRU replacement<br/> (ii) FIFO Replacement",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_os_2024_24_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:-",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_os_2024_24_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

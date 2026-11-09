@@ -1,0 +1,256 @@
+{
+  "id": "sem2_cn_2017_43",
+  "semester": 2,
+  "subject_code": "cn",
+  "subject_name": "Computer Networks",
+  "year": "2017",
+  "exam_code": "051513",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Exam., 2017 Computer Network Time: 3 hours Code: 051513 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cn_2017_43_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2017_43_q1_s1",
+          "subNumber": "a",
+          "text": "(a) Write any two functions of the session layer in OSI model.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_cn_2017_43_q1_s2",
+          "subNumber": "b",
+          "text": "(b) What is Hamming code?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q1_s3",
+          "subNumber": "c",
+          "text": "(c) What is the significance of the twisting in twisted-pair cable?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q1_s4",
+          "subNumber": "d",
+          "text": "(d) What do you mean by piggybacking?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q1_s5",
+          "subNumber": "e",
+          "text": "(e) What is the purpose of the jam signal in CSMA/CD?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q1_s6",
+          "subNumber": "f",
+          "text": "(f) What are the advantages of dividing an Ethernet LAN with a bridge?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q1_s7",
+          "subNumber": "g",
+          "text": "(g) What does the term 'best effort' mean in context with IP?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q1_s8",
+          "subNumber": "h",
+          "text": "(h) Why is there no need of CSMA/CD in a full-duplex switched Ethernet?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q1_s9",
+          "subNumber": "i",
+          "text": "(i) How does redundancy facilitate error detection?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2017_43_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2017_43_q2_s1",
+          "subNumber": "a",
+          "text": "Describe the architecture and working of ring topology. What are its advantages and disadvantages?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q2_s2",
+          "subNumber": "b",
+          "text": "Compare and contrast between the OSI model and the TCP/IP model.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2017_43_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2017_43_q3_s1",
+          "subNumber": "a",
+          "text": "Describe the working of fiber-optic cables. Briefly explain different propagation modes used in fiber-optic cables.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q3_s2",
+          "subNumber": "b",
+          "text": "Explain Go-Back-N ARQ as a sliding window mechanism for error control.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2017_43_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2017_43_q4_s1",
+          "subNumber": "a",
+          "text": "Describe how the two-dimensional parity check is able to detect errors. Consider '1100101100110000110100101101' as the data that is to be sent over the network.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q4_s2",
+          "subNumber": "b",
+          "text": "Draw a flowchart and explain the working procedure of the pure ALOHA protocol.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2017_43_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2017_43_q5_s1",
+          "subNumber": "a",
+          "text": "Explain in detail Fast Ethernet. Describe the structure of the physical layer and various implementation types at this layer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2017_43_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2017_43_q6_s1",
+          "subNumber": "a",
+          "text": "With the help of a neat and labelled diagram, explain the message format of ICMP. Explain various types of ICMP error messages and query messages.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2017_43_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2017_43_q7_s1",
+          "subNumber": "a",
+          "text": "What do you mean by layer 2 switching? Explain in detail the functioning of layer 2 switches.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss the functions and the design issues of the network layer in the OSI model.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2017_43_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2017_43_q8_s1",
+          "subNumber": "a",
+          "text": "Describe bridge in terms of networking device. What are different types of network bridge?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_cn_2017_43_q8_s2",
+          "subNumber": "b",
+          "text": "Differentiate between Static Routing and Dynamic Routing.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_cn_2017_43_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_cn_2017_43_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Border Gateway Protocol",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_cn_2017_43_q9_s2",
+          "subNumber": "b",
+          "text": "(b) User Datagram Protocol",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    }
+  ]
+}

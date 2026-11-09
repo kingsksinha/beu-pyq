@@ -1,0 +1,295 @@
+{
+  "id": "sem3_geology_2015_63",
+  "semester": 3,
+  "subject_code": "geology",
+  "subject_name": "Engineering Geology",
+  "year": "2015",
+  "exam_code": "011305",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 3rd Semester Exam., 2015 ENGINEERING GEOLOGY Time: 03 Hours Code: 011305 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 20,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_geology_2015_63_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2015_63_q1_s1",
+          "subNumber": "a",
+          "text": "The ozone layer is located in",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the troposphere",
+            "the stratosphere",
+            "the ionosphere",
+            "the exosphere"
+          ]
+        },
+        {
+          "id": "sem3_geology_2015_63_q1_s2",
+          "subNumber": "b",
+          "text": "The base level of river erosion means",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the lowest level of a river valley in a given region",
+            "the lowest level upto which a stream can theoretically cut down its channel",
+            "the capacity of a river to erode its base",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geology_2015_63_q1_s3",
+          "subNumber": "c",
+          "text": "Tectonic valleys are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "caused by river erosion",
+            "glacial deposition",
+            "subsidence of a central block along parallel faults or due to synclinal folding",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geology_2015_63_q1_s4",
+          "subNumber": "d",
+          "text": "An interfacial angle is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "an external angle between a given face and the extension of the adjoining face",
+            "an internal angle between two adjoining faces",
+            "an angle between any twin faces on the same side of a crystal",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geology_2015_63_q1_s5",
+          "subNumber": "e",
+          "text": "Plutonic rocks are always formed from the cooling of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "the lava under water",
+            "magma just below the surface of the earth",
+            "lava over the surface of the earth",
+            "magma at great depths below the surface of the earth"
+          ]
+        },
+        {
+          "id": "sem3_geology_2015_63_q1_s6",
+          "subNumber": "f",
+          "text": "Stress minerals are characterised with",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "flaky, platy and elongated shapes",
+            "angular, regular and polyhedral outlines",
+            "perfectly rounded and granular minerals",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geology_2015_63_q1_s7",
+          "subNumber": "g",
+          "text": "The capacity of a stone to withstand scratching or indenting action is defined as its",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "strength",
+            "durability",
+            "hardness",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geology_2015_63_q1_s8",
+          "subNumber": "h",
+          "text": "S-wave do not pass through",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "sedimentary rocks",
+            "ore bodies",
+            "liquids",
+            "solidified igneous masses"
+          ]
+        },
+        {
+          "id": "sem3_geology_2015_63_q1_s9",
+          "subNumber": "i",
+          "text": "Transported soils are those",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "which are brought from another place by man after digging and transporting them by artificial methods",
+            "which are covered by vegetable and other materials brought by river during floods",
+            "which are themselves brought by wind, water and ice from far-off places and are deposited at a place of accumulation",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geology_2015_63_q1_s10",
+          "subNumber": "j",
+          "text": "Richter scale measures",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "radio activity",
+            "temperature",
+            "pressure",
+            "intensity of earthquake"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2015_63_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2015_63_q2_s1",
+          "subNumber": "a",
+          "text": "What are the factors affecting weathering of rocks? Discuss. Explain the term 'aeolian deposits'.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2015_63_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2015_63_q3_s1",
+          "subNumber": "a",
+          "text": "What do you understand by the terms 'folds and folding'? Explain. Sketch and define isoclinal fold.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2015_63_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2015_63_q4_s1",
+          "subNumber": "a",
+          "text": "Define crystal, crystal symmetry, crystal form and crystallographic system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2015_63_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2015_63_q5_s1",
+          "subNumber": "a",
+          "text": "What are the factors that contribute to the texture of sedimentary rocks? Explain briefly.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2015_63_q6",
+      "number": 6,
+      "title": "Q.6 Sketch and describe the following briefly :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2015_63_q6_s1",
+          "subNumber": "a",
+          "text": "Vertical faults",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2015_63_q6_s2",
+          "subNumber": "b",
+          "text": "Shear joints",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geology_2015_63_q6_s3",
+          "subNumber": "c",
+          "text": "Dip",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2015_63_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2015_63_q7_s1",
+          "subNumber": "a",
+          "text": "What are the hardware components of GIS? Distinguish between spatial and non-spatial data.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2015_63_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2015_63_q8_s1",
+          "subNumber": "a",
+          "text": "What are the causes of reservoir associated earthquakes? Describe.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geology_2015_63_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_geology_2015_63_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

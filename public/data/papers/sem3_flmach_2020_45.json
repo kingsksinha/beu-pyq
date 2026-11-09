@@ -1,0 +1,337 @@
+{
+  "id": "sem3_flmach_2020_45",
+  "semester": 3,
+  "subject_code": "flmach",
+  "subject_name": "Fluid Machinery",
+  "year": "2020",
+  "exam_code": "102501",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2020 (New Course) Fluid Machinery Time: 03 Hours Code: 102501 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_flmach_2020_45_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_45_q1_s1",
+          "subNumber": "a",
+          "text": "In hydraulic turbines,",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "inlet energy is greater than the outlet energy",
+            "outlet energy is greater than the inlet energy",
+            "inlet energy is equal to the outlet energy",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_45_q1_s2",
+          "subNumber": "b",
+          "text": "Which principle is used in hydraulic turbines?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Faraday's law",
+            "Newton's second law",
+            "Charles' law",
+            "Bragg's law"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_45_q1_s3",
+          "subNumber": "c",
+          "text": "Which among the following is not a unit quantity of turbine?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Unit speed",
+            "Unit discharge",
+            "Unit power",
+            "Unit temperature"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_45_q1_s4",
+          "subNumber": "d",
+          "text": "The overall efficiency of a reaction turbine is the ratio of",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "actual work available at the turbine to the energy imparted to the wheel",
+            "work done on the wheel to the energy (or head of water) actually supplied to the turbine",
+            "power produced by the turbine to the energy actually supplied by the turbine",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_45_q1_s5",
+          "subNumber": "e",
+          "text": "How many valves are there in rotary pump?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_45_q1_s6",
+          "subNumber": "f",
+          "text": "The ratio of power at the shaft of turbine and power delivered by water to runner is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "overall efficiency",
+            "volumetric efficiency",
+            "hydraulic efficiency",
+            "mechanical efficiency"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_45_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following turbines has least efficiency?",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Pelton turbine",
+            "Kaplan turbine",
+            "Francis turbine",
+            "Propeller turbine"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_45_q1_s8",
+          "subNumber": "h",
+          "text": "The hydraulic efficiency of Pelton turbine will be maximum when the blade velocity is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( V/6 \\)",
+            "\\( V/3 \\)",
+            "\\( V/2 \\)",
+            "\\( V/4 \\)"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_45_q1_s9",
+          "subNumber": "i",
+          "text": "When the casing in a centrifugal pump decelerates the flow, what does increase?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Temperature",
+            "Pressure",
+            "Volume",
+            "Flow rate"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2020_45_q1_s10",
+          "subNumber": "j",
+          "text": "Centrifugal pump works by imparting",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "potential energy",
+            "kinetic energy",
+            "heat energy",
+            "electrical energy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_45_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_45_q2_s1",
+          "subNumber": "a",
+          "text": "A jet of water strikes with a velocity of \\( 35~m/s \\) a flat plate inclined at \\( 30^{\\circ} \\) with the axis of the jet. If the cross-sectional area of the jet is \\( 25~cm^2 \\), determine- (i) the force exerted by the jet on the plate; (ii) the components of the force in the direction normal to the jet; (iii) the ratio in which the discharge gets divided after striking the plate.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_45_q2_s2",
+          "subNumber": "b",
+          "text": "A jet of water of diameter 60 mm moving with a velocity of \\( 40~m/s \\), strikes a curved fixed plate tangentially at one end at an angle of \\( 30^{\\circ} \\) to horizontal. The jet leaves the plate at an angle of \\( 20^{\\circ} \\) to the horizontal. Find the force exerted by the jet on the plate in the horizontal and vertical directions.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_45_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_45_q3_s1",
+          "subNumber": "a",
+          "text": "A Pelton wheel, having a mean bucket diameter of 1.2 m, is running at 1000 r.p.m. The net head on the Pelton wheel is 840 m. If the side clearance angle is \\( 15^{\\circ} \\) and discharge through the nozzle is \\( 0.12~m^3/s \\) determine (i) power available at the nozzle, and (ii) hydraulic efficiency of the turbine.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_45_q3_s2",
+          "subNumber": "b",
+          "text": "Describe, with the help of sketches, the working of an impulse turbine.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_45_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_45_q4_s1",
+          "subNumber": "a",
+          "text": "What is a hydraulic turbine? How will you classify them?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_45_q4_s2",
+          "subNumber": "b",
+          "text": "In an inward flow reaction turbine, the head on the turbine is 32 m. The external and internal diameters are 1.43 m and 0.71 m respectively. The velocity of flow through the runner is constant and equal to \\( 3.2~m/s \\). The guide blade angle is \\( 10^{\\circ} \\) and the runner vanes are rigid at inlet. If the discharge at outlet is radial, determine (i) the speed of the turbine, (ii) the vane angle at outlet of the runner and (iii) hydraulic efficiency.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_45_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_45_q5_s1",
+          "subNumber": "a",
+          "text": "Draw a schematic of a Francis turbine and explain briefly its construction and working.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_flmach_2020_45_q5_s2",
+          "subNumber": "b",
+          "text": "A turbine is to operate under a head of 28 m at 200 r.p.m. The discharge and overall efficiency of the turbine are \\( 8.5~m^3/s \\) and 89%, simultaneously. Determine (i) specific speed of the turbine, (ii) power generated and (iii) types of turbine.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_45_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_45_q6_s1",
+          "subNumber": "a",
+          "text": "What is cavitation? How can it be avoided in reaction turbines?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_flmach_2020_45_q6_s2",
+          "subNumber": "b",
+          "text": "A turbine is to operate under a head of 23 m at 180 r.p.m. The discharge is \\( 9~m^3/s \\). If the overall efficiency is 90 percent, determine (i) power generated, (ii) specific speed of the turbine and (iii) types of turbine.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_45_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_45_q7_s1",
+          "subNumber": "a",
+          "text": "List the main component parts of a centrifugal pump and explain them briefly.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_flmach_2020_45_q7_s2",
+          "subNumber": "b",
+          "text": "The impeller of a centrifugal pump has an external diameter of 500 mm and internal diameter of 220 mm and it runs at 1400 r.p.m. Assuming a constant radial flow through the impeller at \\( 2.4~m/s \\) and that the vanes at exit are set back at an angle of \\( 22^{\\circ} \\), determine- (i) the inlet vane angle; (ii) the angle, absolute velocity of water at exit makes with the tangent; (iii) the work done per N of water.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_45_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_45_q8_s1",
+          "subNumber": "a",
+          "text": "A centrifugal pump impeller has diameters at inlet and outlet as 350 mm and 720 mm respectively. The flow velocity at outlet is \\( 2.5~m/s \\) and the vanes are set back at an angle of \\( 45^{\\circ} \\) at the outlet. If the manometric efficiency is 70%, calculate the minimum starting speed of the pump.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_45_q8_s2",
+          "subNumber": "b",
+          "text": "In order to predict the performance of a large centrifugal pump, a scale model of one-sixth size was made with the following specifications: Power \\( P = 25~kW \\), Head \\( H_{mano} = 7~m \\), Speed \\( N = 1000~r.p.m \\). If the prototype pump has to work against a head of 22 m, calculate its (i) working speed, (ii) the power required to drive it and (iii) the ratio of the flow rates handled by the two pumps.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2020_45_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2020_45_q9_s1",
+          "subNumber": "a",
+          "text": "What is a reciprocating pump? Describe the principle and working of a reciprocating pump with a neat sketch. Why is a reciprocating pump not coupled directly to the motor? Discuss the reason in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2020_45_q9_s2",
+          "subNumber": "b",
+          "text": "What is negative slip in reciprocating pump? Explain with neat sketches the function of air vessels in a reciprocating pump.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

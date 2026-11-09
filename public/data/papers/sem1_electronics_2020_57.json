@@ -1,0 +1,295 @@
+{
+  "id": "sem1_electronics_2020_57",
+  "semester": 1,
+  "subject_code": "electronics",
+  "subject_name": "Basic Electronics",
+  "year": "2020",
+  "exam_code": "101302",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2020 BASIC ELECTRONICS Time: 3 hours Code: 101302 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 10,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_electronics_2020_57_q1",
+      "number": 1,
+      "title": "Q.1 Fill in the blanks/Answer any seven of the following:",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_57_q1_s1",
+          "subNumber": "a",
+          "text": "In CB configuration, output characteristics may be shown by plot of _______.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_57_q1_s2",
+          "subNumber": "b",
+          "text": "The _______ carriers enter the channel region through the _______ terminal and leave the channel through the _______ terminal in JFET.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_57_q1_s3",
+          "subNumber": "c",
+          "text": "Mention the advantages of Wien bridge oscillator.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_57_q1_s4",
+          "subNumber": "d",
+          "text": "What is reverse leakage current in CE configuration?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_electronics_2020_57_q1_s5",
+          "subNumber": "e",
+          "text": "How is amplifier different from the oscillator?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_electronics_2020_57_q1_s6",
+          "subNumber": "f",
+          "text": "Name the breakdown mechanism in the lightly doped P-N junction diode under reverse biased condition.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_electronics_2020_57_q1_s7",
+          "subNumber": "g",
+          "text": "Draw the V-I characteristics of photodiode.",
+          "freq": 10,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_electronics_2020_57_q1_s8",
+          "subNumber": "h",
+          "text": "What is transconductance with reference to JFET?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_57_q1_s9",
+          "subNumber": "i",
+          "text": "What is the effect of removing bypass capacitor across the emitter resistor in case of CE amplifier?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_57_q1_s10",
+          "subNumber": "j",
+          "text": "What is meant by phase reversal?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_57_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_57_q2_s1",
+          "subNumber": "a",
+          "text": "Find the DC voltage, ripple factor and efficiency for the half-wave rectifier given in the circuit. What should be PIV of the diode used? If bridge rectifier is used for same power supply, what will be the value of DC voltage and PIV of diode?",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/202be2a.png"
+          ]
+        },
+        {
+          "id": "sem1_electronics_2020_57_q2_s2",
+          "subNumber": "b",
+          "text": "Calculate the range of \\(I_{L}\\) and \\(R_{L}\\) so that \\(V_{RL}\\) being maintained at 10 V and also calculate the value of maximum voltage rating in the circuit with 50V source, 1K series resistor, 10V Zener with \\(I_{Zmax}\\) 32 mA, Variable \\(R_L\\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/202be2b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_57_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_57_q3_s1",
+          "subNumber": "a",
+          "text": "Draw the waveform of output \\(v_{0}\\) and explain the operation of circuit with AC source \\(v_i\\), Resistor R, Parallel clippers with diodes and batteries \\(V_{R1}\\) and \\(V_{R2}\\) where \\(V_{R1} &lt; V_{R2}\\).",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/202be3a.png"
+          ]
+        },
+        {
+          "id": "sem1_electronics_2020_57_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss the application of SCR as a power control with the help of circuit diagram.",
+          "freq": 7,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_57_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_57_q4_s1",
+          "subNumber": "a",
+          "text": "For the network given, determine the following parameters using the approximate equivalent model: Voltage gain \\(A_{v}\\), current gain \\(A_{i}\\), input impedance \\(Z_{i}'\\) and \\(Z_{i}\\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/202be4a.png"
+          ]
+        },
+        {
+          "id": "sem1_electronics_2020_57_q4_s2",
+          "subNumber": "b",
+          "text": "Calculate the value of \\(R_{1}\\) in the biasing circuit so that the Q-point is fixed at \\(I_{C}=8~mA\\) and \\(V_{CE}=3V\\) with \\(V_{CC} = -9V\\), 250\\(\\Omega\\) collector resistor, 500\\(\\Omega\\) emitter resistor, \\(\\beta=80\\).",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/202be4b.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_57_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_57_q5_s1",
+          "subNumber": "a",
+          "text": "Given a depletion-type MOSFET. In the positive \\(v_{GS}\\) region, does the drain current increase at a significantly higher rate than for negative value? Does the \\(I_{D}\\) curve become more and more vertical with increasing positive values of \\(V_{GS}\\)?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_57_q5_s2",
+          "subNumber": "b",
+          "text": "Draw V-I characteristic curves of JFET and mark various regions. Explain how FET is voltage-controlled device.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_57_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_57_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the working of single-stage common emitter amplifier with the help of circuit diagram. Draw and explain the DC load-line analysis of this amplifier.",
+          "freq": 7,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_electronics_2020_57_q6_s2",
+          "subNumber": "b",
+          "text": "A single-stage amplifier has voltage gain of 10 and bandwidth of 1 MHz. Three such stages are cascaded and negative feedback of 10% is applied to the cascade stage. Find out the overall voltage gain and bandwidth of cascade stage with feedback.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_57_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_57_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the operation of Colpitts oscillator with the help of circuit diagram.",
+          "freq": 7,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_electronics_2020_57_q7_s2",
+          "subNumber": "b",
+          "text": "Draw the block diagram and explain the operation of sweep frequency generator.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_57_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_57_q8_s1",
+          "subNumber": "a",
+          "text": "Discuss with the help of circuit diagram, the purpose of providing negative feedback and positive feedback.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_electronics_2020_57_q8_s2",
+          "subNumber": "b",
+          "text": "Draw the circuit diagram of voltage-shunt feedback amplifier and derive the expression of closed-loop voltage gain using op-amp.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_electronics_2020_57_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_electronics_2020_57_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the operation performed by the circuit with AC \\(v_{in}\\), Resistor \\(R_1\\), Capacitor \\(C_F\\) in feedback, Load \\(R_L\\) and derive the expression of output voltage \\(v_{0}\\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/202be9a.png"
+          ]
+        },
+        {
+          "id": "sem1_electronics_2020_57_q9_s2",
+          "subNumber": "b",
+          "text": "Op-amp can be used to add the DC voltage (addition operation). Draw the circuit and explain the operation of adder using op-amp in non-inverting mode.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

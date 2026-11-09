@@ -1,0 +1,351 @@
+{
+  "id": "sem3_flmach_2019_46",
+  "semester": 3,
+  "subject_code": "flmach",
+  "subject_name": "Fluid Machinery",
+  "year": "2019",
+  "exam_code": "021510",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2019 Fluid Machinery Time: 03 Hours Code: 021510 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_flmach_2019_46_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer from the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2019_46_q1_s1",
+          "subNumber": "a",
+          "text": "Where is a water hammer developed?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Reservoir",
+            "Penstock",
+            "Turbine blades",
+            "Pipeline"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2019_46_q1_s2",
+          "subNumber": "b",
+          "text": "Reciprocating pump has _____ efficiency compared to centrifugal pump.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "lower",
+            "higher",
+            "equal",
+            "exponential"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2019_46_q1_s3",
+          "subNumber": "c",
+          "text": "The fluid coming into the centrifugal pump is accelerated by",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "throttle",
+            "impeller",
+            "nozzle",
+            "governor"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2019_46_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following turbines will have the lowest number of blades in it?",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Pelton turbine",
+            "Steam turbine",
+            "Francis turbine",
+            "Kaplan turbine"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2019_46_q1_s5",
+          "subNumber": "e",
+          "text": "What is the head of water available at turbine inlet in hydro-electric power plant called?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Head race",
+            "Tail race",
+            "Gross head",
+            "Net head"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2019_46_q1_s6",
+          "subNumber": "f",
+          "text": "Impulse turbine requires",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "high head and low discharge",
+            "high head and high discharge",
+            "low head and low discharge",
+            "low head and high discharge"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2019_46_q1_s7",
+          "subNumber": "g",
+          "text": "The ratio of actual whirl velocity to the ideal whirl velocity in the centrifugal compressor is called as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "velocity factor",
+            "slip factor",
+            "work factor",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2019_46_q1_s8",
+          "subNumber": "h",
+          "text": "The mass flow rate of air compressed in axial flow compressor is _____ centrifugal compressor.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "lower than",
+            "higher than",
+            "same as",
+            "Unpredictable"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2019_46_q1_s9",
+          "subNumber": "i",
+          "text": "Compression efficiency is compared against",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "isothermal compression",
+            "isentropic compression",
+            "adiabatic compression",
+            "both isothermal and adiabatic compression"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2019_46_q1_s10",
+          "subNumber": "j",
+          "text": "Jet propulsion works on the principle of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Newton's first law",
+            "Newton's second law",
+            "Newton's third law",
+            "Thermodynamic properties"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2019_46_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2019_46_q2_s1",
+          "subNumber": "a",
+          "text": "A jet of water of diameter 10 cm strikes flat plate normally with velocity of 15 \\( m/s \\). The plate is moving with a velocity of 6 \\( m/s \\) in the direction of the jet and away from the jet. Find- (i) the force exerted by the jet on the plate; (ii) work done by the jet on the plate per second.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2019_46_q2_s2",
+          "subNumber": "b",
+          "text": "Obtain an expression for the force exerted by a jet of water (strikes at the centre) on a stationary curved plate.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2019_46_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2019_46_q3_s1",
+          "subNumber": "a",
+          "text": "Show that the force exerted by a jet of water on moving inclined plane in the direction of jet is given by \\( F_x = \\rho a (V - u)^2 \\sin^2 \\theta \\) where, \\( a = \\) area of jet, \\( \\theta = \\) inclination of the plate with the jet and \\( v = \\) velocity of jet.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_flmach_2019_46_q3_s2",
+          "subNumber": "b",
+          "text": "Show the general layout of a hydro-electric power plant and explain each component in brief.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2019_46_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2019_46_q4_s1",
+          "subNumber": "a",
+          "text": "What do you mean by gross head, net head and efficiency of turbine? Explain the different types of efficiency of a turbine.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2019_46_q4_s2",
+          "subNumber": "b",
+          "text": "Prove that the work done per second per unit weight of water in a reaction turbine is given as \\( \\frac{1}{g}(V_{u_1}u_1 \\pm V_{u_2}u_2) \\) where, \\( V_{u_1} \\) and \\( V_{u_2} \\) are velocities of whirl at inlet and outlet; \\( u_1 \\) and \\( u_2 \\) are peripheral velocities at inlet and outlet.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2019_46_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2019_46_q5_s1",
+          "subNumber": "a",
+          "text": "A Francis turbine working under a head of 30 m has a wheel diameter of 1.2 m at the entrance and 0.6 m at the exit. The vane angle at the entrance is \\( 90^{\\circ} \\) and guide blade angle is \\( 15^{\\circ} \\). The water at the exit leaves the vanes without any tangential velocity and the velocity of flow in the runner is constant. Neglecting the effect of draft tube and losses in the guide and runner passages, determine the speed of wheel in rpm and vane angle at the exit. State whether the speed calculated is synchronous or not. If not, what speed would you recommend to couple the turbine with an alternator of 50 cycles?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2019_46_q5_s2",
+          "subNumber": "b",
+          "text": "What is cavitation? How can it be avoided in reaction turbine?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2019_46_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2019_46_q6_s1",
+          "subNumber": "a",
+          "text": "A turbine develops 3000 kW under head of 300 m. The overall efficiency of the turbine is 83%. If speed ratio = 0.46, \\( C_v = 0.98 \\) and specific speed is 165, then find the (i) type of turbine, (ii) diameter of the turbine and (iii) diameter of the jet.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2019_46_q6_s2",
+          "subNumber": "b",
+          "text": "Define slip, percentage slip and negative slip of a reciprocating pump.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2019_46_q6_s3",
+          "subNumber": "c",
+          "text": "How will you classify the reciprocating pumps?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2019_46_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2019_46_q7_s1",
+          "subNumber": "a",
+          "text": "A double-acting reciprocating pump, running at 40 r.p.m., is discharging \\( 1~m^3 \\) of water per minute. The pump has a stroke of 400 mm. The diameter of the piston is 200 mm. The delivery and suction head are 20 m and 5 m respectively. Find the slip of the pump and power required to deliver the pump.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2019_46_q7_s2",
+          "subNumber": "b",
+          "text": "A centrifugal pump has the dimensions-inlet radius 80 mm, outlet radius 160 mm, width of impeller at the inlet = 50 mm, \\( \\beta_1 = 0.45 \\) radian, \\( \\beta_2 = 0.25 \\) radian, width of impeller at the outlet = 50 mm. Assuming shockless entry, determine the discharge and the head developed by the pump when the impeller rotates at 90 radian/second.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2019_46_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2019_46_q8_s1",
+          "subNumber": "a",
+          "text": "How will you obtain an expression for the minimum speed for starting a centrifugal pump?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2019_46_q8_s2",
+          "subNumber": "b",
+          "text": "What is the effect of atmospheric condition on the output of compressor?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2019_46_q8_s3",
+          "subNumber": "c",
+          "text": "Air is to be compressed in a single-stage reciprocating compressor from 1.013 bar and \\( 15^{\\circ}C \\) to 7 bar. Calculate the indicated power required for a free air delivery of \\( 0.3~m^3/min \\), when the compression process is isentropic.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2019_46_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2019_46_q9_s1",
+          "subNumber": "a",
+          "text": "Explain with a neat sketch actual \\( p-V \\) diagram for a two-stage reciprocating compressor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2019_46_q9_s2",
+          "subNumber": "b",
+          "text": "A single-sided centrifugal compressor is to deliver 14 kg of air per second, when operating at a pressure ratio 4:1 and a speed of 12000 r.p.m. The total head inlet conditions may be taken as 288 K and 1.033 \\( kgf/cm^2 \\). Assuming a slip factor as 0.9, a power input factor 1.04 and an isentropic efficiency (based on total head) of 80%, estimate the overall diameter of the impeller. If the Mach number is not to exceed unity at the impeller tip and 50% of the losses are assumed to occur in the impeller, find the minimum possible depth of the diffuser.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

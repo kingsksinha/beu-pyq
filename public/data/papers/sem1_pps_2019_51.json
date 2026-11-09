@@ -1,0 +1,312 @@
+{
+  "id": "sem1_pps_2019_51",
+  "semester": 1,
+  "subject_code": "pps",
+  "subject_name": "Programming For Problem Solving",
+  "year": "2019",
+  "exam_code": "100204",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2019 (New Course) Programming for Problem Solving Time: 3 hours Code: 100204 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 31,
+  "max_freq": 6,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are <strong>NINE questions</strong> in this paper.",
+    "Attempt <strong>FIVE questions</strong> in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_pps_2019_51_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_51_q1_s1",
+          "subNumber": "a",
+          "text": "What will be the data type of result of the following operation?<br/>(float)a * (int)b/(long)c * (double)d)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q1_s2",
+          "subNumber": "b",
+          "text": "What does the following declaration mean?<br/>int (*ptr) [10];",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_pps_2019_51_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is a correct format for declaration of function?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q1_s4",
+          "subNumber": "d",
+          "text": "The value obtained in the function is given back to main by using ______ keyword.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q1_s5",
+          "subNumber": "e",
+          "text": "Which data type is most suitable for storing a number 65000 in a 32-bit system?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following declarations is not supported by C?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following is an invalid if-else statement?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q1_s8",
+          "subNumber": "h",
+          "text": "A local variable declaration with no storage class specified is by default",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q1_s9",
+          "subNumber": "i",
+          "text": "Automatic variables are initialized to",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q1_s10",
+          "subNumber": "j",
+          "text": "The getchar() function is defined in ______ header file.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_51_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_51_q2_s1",
+          "subNumber": "a",
+          "text": "What do you understand by the term 'problem solving'? How can programming be used to do problem solving?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss about the components of computer system. How are they involved in computer programming activity?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q2_s3",
+          "subNumber": "c",
+          "text": "Write the algorithm for exchanging the values of two variables.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_51_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_51_q3_s1",
+          "subNumber": "a",
+          "text": "Differentiate between flowchart, pseudo-code and source code.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q3_s2",
+          "subNumber": "b",
+          "text": "What are the outcomes of compilation of a program? Discuss in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q3_s3",
+          "subNumber": "c",
+          "text": "What are constants? List the types of constants as defined in C language.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_51_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_51_q4_s1",
+          "subNumber": "a",
+          "text": "What are the libraries? How are they different from header files?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q4_s2",
+          "subNumber": "b",
+          "text": "What is an array? Write a C program to find the average of 10 numbers of an array.",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_pps_2019_51_q4_s3",
+          "subNumber": "c",
+          "text": "What do you understand by the operator precedence? Explain.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_51_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_51_q5_s1",
+          "subNumber": "a",
+          "text": "Define storage classes of C with some appropriate examples.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_pps_2019_51_q5_s2",
+          "subNumber": "b",
+          "text": "What is branching? What are the possible types of branching and the C statements used for such type of branching? Give a detailed explanation with example.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_51_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_51_q6_s1",
+          "subNumber": "a",
+          "text": "Write a C program to calculate 12!/8. The operation is factorial of 12, divided by 8. Also comment by examine whether the algorithm used is efficient.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q6_s2",
+          "subNumber": "b",
+          "text": "What is type casting? Explain its classification through examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_51_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_51_q7_s1",
+          "subNumber": "a",
+          "text": "Give the purpose, proper syntax and other variants of 'getch()' and 'gets()' functions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q7_s2",
+          "subNumber": "b",
+          "text": "How can an array of numbers be passed to function as parameter? Write an example C program in support.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q7_s3",
+          "subNumber": "c",
+          "text": "What is dynamic memory allocation in C?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_51_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_51_q8_s1",
+          "subNumber": "a",
+          "text": "Differentiate between the following:<br/> (i) Structures and Union<br/> (ii) Formatted and Unformatted data files",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q8_s2",
+          "subNumber": "b",
+          "text": "What is a file? List different operations performed on file. How are they achieved? Explain.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_pps_2019_51_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_pps_2019_51_q9_s1",
+          "subNumber": "a",
+          "text": "Write a C program to create an array of structures named \"STUDENT\" with fields, Name, Cell no, Address, and Marks. How to show any student record using this structure?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q9_s2",
+          "subNumber": "b",
+          "text": "Which of the sorting algorithm is better than other and why? Explain.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_pps_2019_51_q9_s3",
+          "subNumber": "c",
+          "text": "Write C program for merge sort algorithm.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

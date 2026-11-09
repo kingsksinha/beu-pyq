@@ -1,0 +1,299 @@
+{
+  "id": "sem4_mom_2021_21",
+  "semester": 4,
+  "subject_code": "mom",
+  "subject_name": "Mechanics of Materials",
+  "year": "2021",
+  "exam_code": "101506",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Exam., 2021 Mechanics of Materials Time: 3 hours Code: 101506 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mom_2021_21_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2021_21_q1_s1",
+          "subNumber": "a",
+          "text": "The energy absorbed in a body, when it is strained within the elastic limits, is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "strain energy",
+            "resilience",
+            "proof resilience",
+            "modulus of resilience"
+          ]
+        },
+        {
+          "id": "sem4_mom_2021_21_q1_s2",
+          "subNumber": "b",
+          "text": "The slenderness ratio is (L-length of column and k-least radius of gyration of cross-section about its axis)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( L/k \\)",
+            "\\( k/L \\)",
+            "\\( kL \\)",
+            "\\( L-k \\)"
+          ]
+        },
+        {
+          "id": "sem4_mom_2021_21_q1_s3",
+          "subNumber": "c",
+          "text": "Graphical representation of which one of the following theories is an ellipse?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Maximum principal strain theory",
+            "Distortion energy theory",
+            "Maximum shear stress theory",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_mom_2021_21_q1_s4",
+          "subNumber": "d",
+          "text": "A sudden increase or decrease in shear force diagram between any two points indicates that there is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "no loading between the two points",
+            "point loads between the two points",
+            "uniformly distributed load between the two points",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_mom_2021_21_q1_s5",
+          "subNumber": "e",
+          "text": "The angle of twist can be written as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( TL/J \\)",
+            "\\( GJ/TL \\)",
+            "\\( TL/GJ \\)",
+            "\\( T/J \\)"
+          ]
+        },
+        {
+          "id": "sem4_mom_2021_21_q1_s6",
+          "subNumber": "f",
+          "text": "The shear stress varies from centre to the surface of the shaft with",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "parabolically",
+            "linearly",
+            "quadratically",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_mom_2021_21_q1_s7",
+          "subNumber": "g",
+          "text": "The difference between number of unknown reaction components and the number of available equilibrium equations is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "degree of displacement",
+            "degree of determinacy",
+            "degree of indeterminacy",
+            "degree of freedom"
+          ]
+        },
+        {
+          "id": "sem4_mom_2021_21_q1_s8",
+          "subNumber": "h",
+          "text": "Flexural rigidity is defined as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "EI",
+            "GJ",
+            "KI",
+            "EA"
+          ]
+        },
+        {
+          "id": "sem4_mom_2021_21_q1_s9",
+          "subNumber": "i",
+          "text": "Principal stresses at a point are 120, -40 and 20 MPa. What is the maximum shear stress at the point?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "50 MPa",
+            "70 MPa",
+            "80 MPa",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_mom_2021_21_q1_s10",
+          "subNumber": "j",
+          "text": "In simply supported beam, deflection is maximum at",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "mid-span",
+            "supports",
+            "point of loading",
+            "throughout"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2021_21_q2",
+      "number": 2,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2021_21_q2_s1",
+          "subNumber": "a",
+          "text": "Stress state is given as \\( \\sigma_x=-29.5 \\text{ MPa} \\), \\( \\sigma_y=-29.5 \\text{ MPa} \\) and \\( \\tau_{xy}=27 \\text{ MPa} \\). Using Mohr's circle, determine (a) the principal stresses and (b) the maximum shear stresses and associated normal stresses. Show all results on sketches of properly oriented elements.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2021_21_q3",
+      "number": 3,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2021_21_q3_s1",
+          "subNumber": "a",
+          "text": "A cantilever beam with a rectangular cross-section has a longitudinal hole drilled throughout its length is shown in Fig. 1. The beam supports a load \\( P=600 \\text{ N} \\). The cross-section is 25 mm wide and 50 mm high and the hole has a diameter of 10 mm. Find the bending stresses at the top of the beam, at the top of the hole and at the bottom of the beam.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/95.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2021_21_q4",
+      "number": 4,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2021_21_q4_s1",
+          "subNumber": "a",
+          "text": "A gas storage tank is fabricated by bolting together two half-cylindrical thin shells with two hemispherical shells at end. If the tank is designed to withstand a pressure of 3 MPa, determine the required minimum thickness of the cylindrical and hemispherical shells and the minimum required number of longitudinal bolts per meter length at each side of the cylindrical shell. The tank and the 25 mm diameter bolts are made from material having an allowable normal stress of 150 MPa and 250 MPa, respectively. The tank has an inner diameter of 4 m shown in Fig. 2.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/93.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2021_21_q5",
+      "number": 5,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2021_21_q5_s1",
+          "subNumber": "a",
+          "text": "A cylindrical spring consists of a rubber annulus bonded to a rigid ring and shaft. If the ring is held fixed and a torque T is applied to the shaft, derive the maximum shear stress in the rubber shown in Fig. 3.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/92.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2021_21_q6",
+      "number": 6,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2021_21_q6_s1",
+          "subNumber": "a",
+          "text": "Derive the equations of the elastic curve for the beam using the \\( x_1 \\) and \\( x_2 \\) coordinates. EI is constant shown in Fig. 4.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/91.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2021_21_q7",
+      "number": 7,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2021_21_q7_s1",
+          "subNumber": "a",
+          "text": "Derive Euler's buckling formula for a column with both end clamped and obtain the effective length as well. Draw the free body diagram with buckled configuration.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2021_21_q8",
+      "number": 8,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2021_21_q8_s1",
+          "subNumber": "a",
+          "text": "The vertical force P acts on the bottom of the plate having a negligible weight. Determine the shortest distance d to the edge of the plate at which it can be applied so that it produces no compressive stresses on the plate at section a-a. The plate has a thickness of 10 mm and P acts along the center line of this thickness shown in Fig. 5.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/94.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mom_2021_21_q9",
+      "number": 9,
+      "title": "Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mom_2021_21_q9_s1",
+          "subNumber": "a",
+          "text": "Draw the shear and moment diagrams for the beam and determine the shear and moment throughout the beam as functions of y shown in Fig. 6.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/90.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}

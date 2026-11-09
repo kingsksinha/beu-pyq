@@ -1,0 +1,309 @@
+{
+  "id": "sem4_se_2022_55",
+  "semester": 4,
+  "subject_code": "se",
+  "subject_name": "Software Engineering",
+  "year": "2022",
+  "exam_code": "105504",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Examination, 2022 Software Engineering Time: 03 Hours Code: 105504 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_se_2022_55_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven questions only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2022_55_q1_s1",
+          "subNumber": "a",
+          "text": "The spiral model was originally proposed by",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "IBM",
+            "Barry Boehm",
+            "Pressman",
+            "Royce"
+          ]
+        },
+        {
+          "id": "sem4_se_2022_55_q1_s2",
+          "subNumber": "b",
+          "text": "Measure of reliability is given by",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "mean time between success",
+            "MTBF",
+            "mean reliable",
+            "MTTR"
+          ]
+        },
+        {
+          "id": "sem4_se_2022_55_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following is not a use of a CASE tool?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "It supports structured analysis and design (SA/SD)",
+            "It maintains the data dictionary",
+            "It checks whether DFDs are balanced or not",
+            "It compiles with the available system"
+          ]
+        },
+        {
+          "id": "sem4_se_2022_55_q1_s4",
+          "subNumber": "d",
+          "text": "Name of an evaluation technique to assess the quality of test cases is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "mutation analysis",
+            "validation",
+            "verification",
+            "performance analysis"
+          ]
+        },
+        {
+          "id": "sem4_se_2022_55_q1_s5",
+          "subNumber": "e",
+          "text": "What is the most popular model for student program?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Waterfall model",
+            "Built-and-fix model",
+            "Spiral model",
+            "Rational unified model"
+          ]
+        },
+        {
+          "id": "sem4_se_2022_55_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following is not a part of bug report?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Test case",
+            "Output",
+            "Software version",
+            "LOC"
+          ]
+        },
+        {
+          "id": "sem4_se_2022_55_q1_s7",
+          "subNumber": "g",
+          "text": "Independent modules are easier to maintain and test because of",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "code modification is limited",
+            "reusable modules are possible",
+            "error propagation is reduced",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_se_2022_55_q1_s8",
+          "subNumber": "h",
+          "text": "In size-oriented metrics, metrics are developed based on the",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "number of functions",
+            "number of user inputs",
+            "number of lines of code",
+            "amount of memory usage"
+          ]
+        },
+        {
+          "id": "sem4_se_2022_55_q1_s9",
+          "subNumber": "i",
+          "text": "Classes communicate with one another via",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "processed information",
+            "interfaces",
+            "messages",
+            "coupling"
+          ]
+        },
+        {
+          "id": "sem4_se_2022_55_q1_s10",
+          "subNumber": "j",
+          "text": "Software is not considered to be collection of executable programming code, associated libraries and documentations.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Statement is true",
+            "Software is only data structures with algorithms",
+            "Statement is false",
+            "Statement underestimates software"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2022_55_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2022_55_q2_s1",
+          "subNumber": "a",
+          "text": "Explain in detail the classical waterfall model with help of a neat and labelled diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2022_55_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2022_55_q3_s1",
+          "subNumber": "a",
+          "text": "What is prototyping model? Explain the problems and advantages of prototyping in detail.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_se_2022_55_q3_s2",
+          "subNumber": "b",
+          "text": "Develop a test case for any testing technique for 'student admission system'.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2022_55_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2022_55_q4_s1",
+          "subNumber": "a",
+          "text": "Define cohesion and coupling. Explain various types of each of them.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_se_2022_55_q4_s2",
+          "subNumber": "b",
+          "text": "What are CASE tools? With a suitable diagram, explain the categories of CASE tools.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2022_55_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2022_55_q5_s1",
+          "subNumber": "a",
+          "text": "What are the different COCOMO models? Explain the phases involved in the detailed COCOMO model.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2022_55_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2022_55_q6_s1",
+          "subNumber": "a",
+          "text": "What are the types of user-interface design?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_se_2022_55_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the stages of object-oriented design process.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2022_55_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2022_55_q7_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2022_55_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2022_55_q8_s1",
+          "subNumber": "a",
+          "text": "Explain coding standards, coding guidelines and code review techniques in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_se_2022_55_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_se_2022_55_q9_s1",
+          "subNumber": "a",
+          "text": "What is software quality? Discuss software quality attributes.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_se_2022_55_q9_s2",
+          "subNumber": "b",
+          "text": "Discuss the differences between object-oriented and function-oriented designs.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

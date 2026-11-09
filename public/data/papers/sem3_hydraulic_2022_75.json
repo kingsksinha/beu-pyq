@@ -1,0 +1,309 @@
+{
+  "id": "sem3_hydraulic_2022_75",
+  "semester": 3,
+  "subject_code": "hydraulic",
+  "subject_name": "Hydraulic Engineering",
+  "year": "2022",
+  "exam_code": "101504",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 5th Semester Examination, 2022 Hydraulic Engineering Time: 03 Hours Code: 101504 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_hydraulic_2022_75_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option/answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2022_75_q1_s1",
+          "subNumber": "a",
+          "text": "The boundary layer exists in which of the following:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Flow of real fluids",
+            "Flow of ideal fluids",
+            "Flow over flat surfaces only",
+            "Pipe-flow only"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q1_s2",
+          "subNumber": "b",
+          "text": "The nominal distance of boundary layer is defined as the distance from the solid boundary to a point?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Where the velocity is 99% less than the asymptotic line",
+            "Where the velocity ceases to be laminar",
+            "Where the velocity is within 99% of the asymptotic limit",
+            "Where the velocity is 99% of the asymptotic limit"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q1_s3",
+          "subNumber": "c",
+          "text": "If the alternate depths for certain flow in a rectangular channel are 3.0m and 1.0m respectively. The critical depth for this channel is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "1.65 m",
+            "1.33 m",
+            "1.82 m",
+            "2.60 m"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q1_s4",
+          "subNumber": "d",
+          "text": "The Manning's n for a straight concrete sewer is about",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.025",
+            "0.014",
+            "0.30",
+            "0.14"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q1_s5",
+          "subNumber": "e",
+          "text": "The total number of possible types of GVF profiles are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "9",
+            "11",
+            "12",
+            "15"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q1_s6",
+          "subNumber": "f",
+          "text": "The discharge in an open channel corresponding to critical depth is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q1_s7",
+          "subNumber": "g",
+          "text": "In a triangular channel, the value of \\( E_c/Y_c \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1.25",
+            "2.5",
+            "3.33",
+            "1.5"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q1_s8",
+          "subNumber": "h",
+          "text": "The hydraulic grade line is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "always above the centre line of pipe",
+            "never above the energy grade line",
+            "always sloping downward in the direction of flow",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q1_s9",
+          "subNumber": "i",
+          "text": "A hydraulic jump occurs in an open channel when",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The flow changes from subcritical to supercritical",
+            "The flow changes from supercritical to subcritical",
+            "The flow changes from uniform to non-uniform",
+            "The flow changes from non-uniform to uniform"
+          ]
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q1_s10",
+          "subNumber": "j",
+          "text": "If the Froude number of a hydraulic jump is 5.50, it can be classified as",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "an oscillating jump",
+            "a weak jump",
+            "a strong jump",
+            "a steady jump"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2022_75_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2022_75_q2_s1",
+          "subNumber": "a",
+          "text": "What do you understand by displacement thickness, Momentum thickness and Energy thickness?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q2_s2",
+          "subNumber": "b",
+          "text": "Calculate friction drag on a plate 0.15m wide and 0.45m long placed longitudinally in a stream of oil flowing with a free steam velocity \\( = 6 \\, m/s \\). Also find thickness of boundary layer at trailing edge. Specific gravity of oil \\( = 0.925 \\) and kinematic viscosity \\( = 9 \\times 10^{-4} \\, m^2/s \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2022_75_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2022_75_q3_s1",
+          "subNumber": "a",
+          "text": "State the conditions under which the rectangular section of an open channel will be most economical. Derive these conditions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q3_s2",
+          "subNumber": "b",
+          "text": "What are different Open channel flow and Pipe flow?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2022_75_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2022_75_q4_s1",
+          "subNumber": "a",
+          "text": "Derive the Chezy resistance formula. Discuss the resistance formula for practical use. What are the factors that affect the Manning's roughness coefficient, n?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2022_75_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2022_75_q5_s1",
+          "subNumber": "a",
+          "text": "Derive the differential equation of Gradually Varied flow and write its basic assumptions. Explain the classification of the flow profiles based on this equations.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2022_75_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2022_75_q6_s1",
+          "subNumber": "a",
+          "text": "A rectangular channel of bed width 4.0m has a normal depth of 1.25m. The mean velocity in the channel is found to be \\( 1.12 \\, m/s \\). If Manning's coefficient \\( (n=0.015) \\) estimate the bed slope of the channel.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q6_s2",
+          "subNumber": "b",
+          "text": "Explain Hydraulic jump with diagram. Write down the applications of hydraulic jump.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2022_75_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2022_75_q7_s1",
+          "subNumber": "a",
+          "text": "A hydraulic jump occurs in a horizontal 90° triangular channel. If the sequent depths in this jump are 0.60 m and 1.20 m, estimate the flow rate and the Froude numbers at the beginning and the end of the jump.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydraulic_2022_75_q7_s2",
+          "subNumber": "b",
+          "text": "Write general steps that are required to perform a CFD simulation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2022_75_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2022_75_q8_s1",
+          "subNumber": "a",
+          "text": "State and discuss the assumptions made in the derivation of the dynamic equation for gradually varied flow. Starting from first principles derive equations for the slope of the water surface in gradually varied flow with respect to channel bed.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydraulic_2022_75_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydraulic_2022_75_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

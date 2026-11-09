@@ -1,0 +1,267 @@
+{
+  "id": "sem1_eng_2021_69",
+  "semester": 1,
+  "subject_code": "eng",
+  "subject_name": "Communicative English",
+  "year": "2021",
+  "exam_code": "100206",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam, 2021 English Time: 3 hours Code: 100206 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 8,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eng_2021_69_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_69_q1_s1",
+          "subNumber": "a",
+          "text": "Give one word for the following:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Scientific study of bodily diseases",
+            "One with unlimited power",
+            "One who loves his country",
+            "Government by the royals"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_69_q1_s2",
+          "subNumber": "b",
+          "text": "Change the following complex sentences into simple sentences:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "If you follow my advice, you will win your object.",
+            "While I was walking along the street, I saw a beggar.",
+            "After he had learned his lessons, he went out to play.",
+            "We met a girl who was carrying a basket on her head."
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_69_q1_s3",
+          "subNumber": "c",
+          "text": "Write antonyms of the following:",
+          "freq": 6,
+          "stars": "★★★★★",
+          "options": [
+            "Investigate",
+            "Freedom",
+            "Gratitude",
+            "Anxious"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_69_q1_s4",
+          "subNumber": "d",
+          "text": "Write synonyms of the following:",
+          "freq": 6,
+          "stars": "★★★★★",
+          "options": [
+            "Hasten",
+            "Conceal",
+            "Acquire",
+            "Destroy"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_69_q1_s5",
+          "subNumber": "e",
+          "text": "Write the meanings of the foreign expressions:",
+          "freq": 8,
+          "stars": "★★★★★",
+          "options": [
+            "Bon voyage",
+            "Bona fide"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_69_q1_s6",
+          "subNumber": "f",
+          "text": "Write the meanings of the following:",
+          "freq": 8,
+          "stars": "★★★★★",
+          "options": [
+            "Best of both worlds",
+            "Far cry from"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_69_q1_s7",
+          "subNumber": "g",
+          "text": "Frame sentences with the following homophones to bring out the difference in their meanings:",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Knight, night",
+            "Flea, flee"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_69_q1_s8",
+          "subNumber": "h",
+          "text": "Correct the following sentences:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "I love to listen good music.",
+            "The plane was to take of at 9 a.m.",
+            "Do you agree to me?",
+            "The furnitures are made of wood."
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_69_q1_s9",
+          "subNumber": "i",
+          "text": "Frame sentences with the idioms:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Blow off steam",
+            "Piece of cake"
+          ]
+        },
+        {
+          "id": "sem1_eng_2021_69_q1_s10",
+          "subNumber": "j",
+          "text": "Write four sentences on 'Hard Work'.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_69_q2",
+      "number": 2,
+      "title": "Q.2 Write an essay in about 250 words on any one of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_69_q2_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_69_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_69_q3_s1",
+          "subNumber": "a",
+          "text": "Assuming the details, write a letter to the Bank Manager requesting him to stop the payment of a cheque.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_69_q4",
+      "number": 4,
+      "title": "Q.4 Write notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_69_q4_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_69_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_69_q5_s1",
+          "subNumber": "a",
+          "text": "Write in detail the significance of paralinguistics in presentation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_69_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_69_q6_s1",
+          "subNumber": "a",
+          "text": "Write in detail the difference between group discussion and debate. Give examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_69_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_69_q7_s1",
+          "subNumber": "a",
+          "text": "Assuming other details, write your resume for a trainee in a construction firm.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_69_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_69_q8_s1",
+          "subNumber": "a",
+          "text": "Write a letter of order for your library, requesting placement of books. Assume other details.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2021_69_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2021_69_q9_s1",
+          "subNumber": "a",
+          "text": "In not more than 150 words, write about 'Problem of Unemployment in India'.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    }
+  ]
+}

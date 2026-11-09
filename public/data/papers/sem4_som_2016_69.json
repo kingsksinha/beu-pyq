@@ -1,0 +1,326 @@
+{
+  "id": "sem4_som_2016_69",
+  "semester": 4,
+  "subject_code": "som",
+  "subject_name": "Strength of Materials",
+  "year": "2016",
+  "exam_code": "021306",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Examination, 2016 Strength of Material Time: 03 Hours Code: 021306 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_som_2016_69_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_som_2016_69_q1_s1",
+          "subNumber": "a",
+          "text": "A localised compressive stress at the area of contact between two members is known as:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Shear",
+            "Crushing",
+            "Bending",
+            "Tensile"
+          ]
+        },
+        {
+          "id": "sem4_som_2016_69_q1_s2",
+          "subNumber": "b",
+          "text": "In case of a circular section the section modulus is given as:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\pi d^2/16 \\)",
+            "\\( \\pi d^3/16 \\)",
+            "\\( \\pi d^3/32 \\)",
+            "\\( \\pi d^3/64 \\)"
+          ]
+        },
+        {
+          "id": "sem4_som_2016_69_q1_s3",
+          "subNumber": "c",
+          "text": "For no tension in the section, the eccentricity must not exceed:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( k^2/d \\)",
+            "\\( 2k^2/d \\)",
+            "\\( 4k^2/d \\)",
+            "\\( k/\\sqrt{d} \\)"
+          ]
+        },
+        {
+          "id": "sem4_som_2016_69_q1_s4",
+          "subNumber": "d",
+          "text": "The slope and deflection at the section in a loaded beam can be found out by which of the following methods?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Double integration method",
+            "Moment area method",
+            "Macaulay's method",
+            "Any of the above"
+          ]
+        },
+        {
+          "id": "sem4_som_2016_69_q1_s5",
+          "subNumber": "e",
+          "text": "A cantilever of length \\( l \\) is carrying a uniformly distributed load of \\( w \\) per unit run over the whole span. The deflection at the free end is given as:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( wl^3/4EI \\)",
+            "\\( wl^2/4EI \\)",
+            "\\( wl^4/8EI \\)",
+            "\\( wl^4/16EI \\)"
+          ]
+        },
+        {
+          "id": "sem4_som_2016_69_q1_s6",
+          "subNumber": "f",
+          "text": "A beam of length \\( 4 \\text{ m} \\), fixed at both ends carries a point load \\( 120 \\text{ kN} \\) at the centre. If \\( EI \\) for the beam is \\( 20000 \\text{ kNm}^2 \\), deflection at the centre of the beam is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 1 \\text{ mm} \\)",
+            "\\( 2 \\text{ mm} \\)",
+            "\\( 5 \\text{ mm} \\)",
+            "\\( 10 \\text{ mm} \\)"
+          ]
+        },
+        {
+          "id": "sem4_som_2016_69_q1_s7",
+          "subNumber": "g",
+          "text": "Pressure vessels are made of:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Non-ferrous materials",
+            "Sheet steel",
+            "Cast iron",
+            "Any of the above"
+          ]
+        },
+        {
+          "id": "sem4_som_2016_69_q1_s8",
+          "subNumber": "h",
+          "text": "In thick cylinders the variation in the radial as well as circumferential stress across the thickness is obtained with the help of:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Clapeyron's Theorem",
+            "Castigliano Theorem",
+            "Lame's Theorem",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_som_2016_69_q1_s9",
+          "subNumber": "i",
+          "text": "The strength of a hollow shaft for the same length, material and weight is ___ a solid shaft:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Less than",
+            "More than",
+            "Equal than",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_som_2016_69_q1_s10",
+          "subNumber": "j",
+          "text": "In case of a solid shaft strain energy in torsion, per unit volume is equal to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\tau^2/2C \\)",
+            "\\( \\tau^2/4C \\)",
+            "\\( \\tau^2/6C \\)",
+            "\\( \\tau^2/8C \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_som_2016_69_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_som_2016_69_q2_s1",
+          "subNumber": "a",
+          "text": "A rod of length \"\\( l \\)\" tapers uniformly from diameter \\( d_1 \\) to a diameter \\( d_2 \\). Its wider end is fixed and lower end is subjected to an axial tensile load \\( P \\). Calculate the elongation in case of above taper rod.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_som_2016_69_q2_s2",
+          "subNumber": "b",
+          "text": "A bar of steel is \\( 60 \\text{ mm} \\times 60 \\text{ mm} \\) in section and \\( 180 \\text{ mm} \\) long. It is subjected to a tensile load of \\( 300 \\text{ kN} \\) along the longitudinal axis and tensile loads of \\( 750 \\text{ kN} \\) and \\( 600 \\text{ kN} \\) on the lateral faces. Find the change in the dimensions of the bar and change in the volume. Take \\( E = 200 \\text{ GN/m}^2 \\) and \\( 1/m = 0.3 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_som_2016_69_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_som_2016_69_q3_s1",
+          "subNumber": "a",
+          "text": "Draw the Mohr's stress circle for the direct stresses of \\( 65 \\text{ MN/m}^2 \\) (tensile) and \\( 35 \\text{ MN/m}^2 \\) (compressive) and estimate the magnitude and direction of the resultant stresses on the planes making angles of \\( 20^{\\circ} \\) and \\( 65^{\\circ} \\) with the plane of the first principal stress. Find also the normal and tangential stresses on these planes.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_som_2016_69_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_som_2016_69_q4_s1",
+          "subNumber": "a",
+          "text": "What is shaft Couplings?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_som_2016_69_q4_s2",
+          "subNumber": "b",
+          "text": "A solid steel shaft is subjected to a torque of \\( 45 \\text{ kNm} \\). If the angle of twist is \\( 0.5^{\\circ} \\) per metre length of the shaft and the shear stress is not allowed to exceed \\( 90 \\text{ MN/m}^2 \\). find: (i) Suitable diameter for the shaft, (ii) Final maximum shear stress and angle of twist and (iii) Maximum shear strain in the shaft, assume \\( C = 80 \\text{ GN/m}^2 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_som_2016_69_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_som_2016_69_q5_s1",
+          "subNumber": "a",
+          "text": "A simple beam with an overhang is supported at points A and B (Figure 1). A uniform load of intensity \\( q = 200 \\text{ lb/ft} \\) acts throughout the length of the beam and a concentrated load \\( P = 14 \\text{ k} \\) at a point \\( 9 \\text{ ft} \\) from the left-hand support. The span length is \\( 24 \\text{ ft} \\) and the length of the overhang is \\( 6 \\text{ ft} \\). Calculate the shear force V and bending moment M at cross section D located \\( 15 \\text{ ft} \\) from the left-hand support.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/44.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_som_2016_69_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_som_2016_69_q6_s1",
+          "subNumber": "a",
+          "text": "Assuming suitable example discuss \"Moment area method\" to find the defection of beam. Why Moment area method is more useful as compared to double integration method.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_som_2016_69_q6_s2",
+          "subNumber": "b",
+          "text": "A cantilever of length \\( l \\) carrying uniformly distributed load \\( w \\) per unit run for a distance \\( a \\) from the fixed end. Calculate deflection at the end of uniformly distributed load and at the end of cantilever.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_som_2016_69_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_som_2016_69_q7_s1",
+          "subNumber": "a",
+          "text": "Define (i) Hoops stresses (ii) Longitudinal stresses and (iii) Maximum shear stress induced in context to thin shells.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_som_2016_69_q7_s2",
+          "subNumber": "b",
+          "text": "A built up cylindrical shell of \\( 300 \\text{ mm} \\) diameter, \\( 3 \\text{ m} \\) long and \\( 6 \\text{ mm} \\) thick is subjected to an internal pressure of \\( 2 \\text{ MN/m}^2 \\). Calculate the change in length, diameter and volume of the cylinder under that pressure if the efficiencies of the longitudinal and circumferential joints are 80% and 50% respectively. Take \\( E = 200 \\text{ GN/m}^2 \\) and \\( m = 3.5 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_som_2016_69_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_som_2016_69_q8_s1",
+          "subNumber": "a",
+          "text": "Calculate circumferential and radial stress in a thick cylinder assuming internal pressure \\( = P_i \\) and outer surface of cylinder is exposed to atmospheric conditions.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_som_2016_69_q8_s2",
+          "subNumber": "b",
+          "text": "A thick cylinder of \\( 150 \\text{ mm} \\) outside radius and \\( 100 \\text{ mm} \\) inside radius is subjected to an external pressure of \\( 30 \\text{ MN/m}^2 \\) and the internal pressure of \\( 60 \\text{ MN/m}^2 \\). Calculate the maximum shear stress in the material of the cylinder at the inner radius.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_som_2016_69_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_som_2016_69_q9_s1",
+          "subNumber": "a",
+          "text": "Consider a solid circular shaft of length \\( l \\) and radius \\( R \\), subjected to a torque \\( T \\) producing a twist in the length of the shaft. Calculate strain energy in torsion.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_som_2016_69_q9_s2",
+          "subNumber": "b",
+          "text": "A \\( 1 \\text{ m} \\) long beam rectangular in section \\( 30 \\text{ mm} \\) wide and \\( 40 \\text{ mm} \\) deep is supported on rigid supports at its ends. If it is struck at the centre by a \\( 12 \\text{ kg} \\) mass falling through a height of \\( 60 \\text{ mm} \\) find: (i) The instantaneous stress developed and (ii) The instantaneous strain energy stored in the beam. Take \\( E = 200 \\text{ GN/m}^2 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

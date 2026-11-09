@@ -1,0 +1,256 @@
+{
+  "id": "sem1_phy_2023_45",
+  "semester": 1,
+  "subject_code": "phy",
+  "subject_name": "Engineering Physics",
+  "year": "2023",
+  "exam_code": "103201",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 2nd Semester Examination - 2023 Physics (Wave and optics, Introduction to Quantum\n                Mechanics) Time: 03 Hours Code: 103201 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 5,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_phy_2023_45_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven question of the following:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_45_q1_s1",
+          "subNumber": "a",
+          "text": "Define impedance.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2023_45_q1_s2",
+          "subNumber": "b",
+          "text": "Define acoustic waves.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_45_q1_s3",
+          "subNumber": "c",
+          "text": "Define Fermi level.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_phy_2023_45_q1_s4",
+          "subNumber": "d",
+          "text": "Define wave particle duality.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_45_q1_s5",
+          "subNumber": "e",
+          "text": "What are intrinsic semiconductors?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_45_q1_s6",
+          "subNumber": "f",
+          "text": "Define Huygens' Principle.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_45_q1_s7",
+          "subNumber": "g",
+          "text": "Write down time-dependent Schrodinger wave equation.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_phy_2023_45_q1_s8",
+          "subNumber": "h",
+          "text": "What do you mean by standing waves?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_phy_2023_45_q1_s9",
+          "subNumber": "i",
+          "text": "Two objects absolutely identical by their physical appearance, i.e., shape, size and colour. One of them is made up of metal and other one is of semi-conducting material. Suggest a suitable way to differentiate between them.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_45_q1_s10",
+          "subNumber": "j",
+          "text": "A wave along a string is represented by \\( y = 0.02 \\sin(30t - 4.0x) \\) meter Where \\( x \\) is in meter and \\( t \\) is in second. What is the frequency of the wave?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_45_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_45_q2_s1",
+          "subNumber": "a",
+          "text": "Derive the equation of motion of a damped harmonic oscillator. Discuss cases of heavy and critical damping.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_45_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_45_q3_s1",
+          "subNumber": "a",
+          "text": "Show that diameter (\\( D_n \\)) of \\( n \\)th dark ring in Newton's ring is related by the relation \\( D_n = 2\\sqrt{n\\lambda R} \\) Where \\( n = 1, 2, 3, \\ldots \\), \\( \\lambda = \\) wavelength of the incident light and \\( R = \\) radius of planoconvex lens.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_45_q3_s2",
+          "subNumber": "b",
+          "text": "In Newton's ring experiment, the diameter of the 15th ring was found to be 0.59 cm and that of the 5th ring was 0.336 cm. If the radius of the planoconvex lens is 100cm, calculate the wavelength of light used.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_45_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_45_q4_s1",
+          "subNumber": "a",
+          "text": "Establish the relation between Einstein's A and B coefficients.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_45_q4_s2",
+          "subNumber": "b",
+          "text": "By drawing a neat diagram, discuss construction and working of ruby laser.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_45_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_45_q5_s1",
+          "subNumber": "a",
+          "text": "Derive Fresnel equations.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_45_q5_s2",
+          "subNumber": "b",
+          "text": "Define reflectance and transmittance.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_45_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_45_q6_s1",
+          "subNumber": "a",
+          "text": "Define Bloch's theorem for particles in a periodic potential.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_45_q6_s2",
+          "subNumber": "b",
+          "text": "Discuss Kronig-Penney model in detail.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_45_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_45_q7_s1",
+          "subNumber": "a",
+          "text": "Showing neat ray diagram, discuss Newton's rings experiment.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2023_45_q7_s2",
+          "subNumber": "b",
+          "text": "Derive the expression for diameter of dark rings in Newton's ring.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_45_q8",
+      "number": 8,
+      "title": "Q.8 Write short notes on:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_45_q8_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2023_45_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2023_45_q9_s1",
+          "subNumber": "a",
+          "text": "Suppose a particle is trapped in the given potential \\( V(x) = \\begin{cases} 0; &amp; \\text{if } 0 \\le x \\le a \\\\ \\infty; &amp; \\text{if otherwise} \\end{cases} \\) <br/>Derive an expression for normalized wave function for this particle. What is the expectation value \\( &lt; x&gt; \\) of the position of this particle?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

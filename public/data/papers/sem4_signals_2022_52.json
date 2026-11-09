@@ -1,0 +1,332 @@
+{
+  "id": "sem4_signals_2022_52",
+  "semester": 4,
+  "subject_code": "signals",
+  "subject_name": "Signals and Systems",
+  "year": "2022",
+  "exam_code": "110406/103404",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2022 (New Course) SIGNALS AND SYSTEMS Time: 03 Hours Code: 110406/103404 Full Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 33,
+  "max_freq": 16,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_signals_2022_52_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following as directed:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2022_52_q1_s1",
+          "subNumber": "a",
+          "text": "Determine the fundamental period of the signal \\( x[n]=1+e^{j\\frac{4\\pi n}{7}}-e^{j\\frac{2\\pi n}{5}} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q1_s2",
+          "subNumber": "b",
+          "text": "Check whether the signal \\( x(t)=2e^{j(t+\\frac{\\pi}{4})}u(t) \\) is periodic or not. If periodic, then compute the periodicity.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q1_s3",
+          "subNumber": "c",
+          "text": "Find the convolution of two signals \\( x_{1}(t)=e^{-t^{2}} \\) and \\( x_{2}(t)=3t^{2} \\)",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q1_s4",
+          "subNumber": "d",
+          "text": "Let \\( X(e^{j\\omega}) \\) be the DTFT of \\( x[n] \\) prove that \\( X(e^{j0})=\\sum_{n=-\\infty}^{\\infty}x[n] \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q1_s5",
+          "subNumber": "e",
+          "text": "The step response of an LTI system when the impulse response \\( h(n) \\) is unit step \\( u(n) \\) is _________.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q1_s6",
+          "subNumber": "f",
+          "text": "Use the convolution property of Laplace transform to determine \\( y(t)=e^{at}u(t)*e^{bt}u(t) \\) where symbols have their usual meanings.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q1_s7",
+          "subNumber": "g",
+          "text": "Determine the Laplace transform of the signal \\( x(t)=\\cos^{3}(3t)u(t) \\).",
+          "freq": 10,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q1_s8",
+          "subNumber": "h",
+          "text": "If \\( X(z)\\leftarrow\\underline{z}\\rightarrow x[n] \\) with ROC: R, then prove that \\( Z\\{x[-n]\\}=X(z^{-1}) \\) with ROC: \\( \\frac{1}{R} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q1_s9",
+          "subNumber": "i",
+          "text": "List down the properties of region of convergence (ROC).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q1_s10",
+          "subNumber": "j",
+          "text": "Determine the conditions on the sampling interval \\( T_{s} \\) so that \\( x(t)=\\cos(\\pi t)+3\\sin(2\\pi t)+\\sin(4\\pi t) \\) is uniquely represented by the discrete-time sequence \\( x[n]=x(nT_{s}) \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2022_52_q2",
+      "number": 2,
+      "title": "Q.2 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2022_52_q2_s1",
+          "subNumber": "a",
+          "text": "Consider a causal LTI system that is represented by the difference equation \\( y[n]-\\frac{3}{4}y[n-1]+\\frac{1}{8}y[n-2]=2x[n] \\). Find the frequency response \\( H(e^{j\\omega}) \\) and the impulse response \\( h[n] \\) of the system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q2_s2",
+          "subNumber": "b",
+          "text": "Find the inverse DTFT of \\( X(e^{j\\omega})=\\delta(\\omega), -\\pi &lt; \\omega &lt; \\pi \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q2_s3",
+          "subNumber": "c",
+          "text": "Find the Fourier transform of \\( x(n)=a^{|n|}, |a|&lt; 1 \\)",
+          "freq": 16,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2022_52_q3",
+      "number": 3,
+      "title": "Q.3 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2022_52_q3_s1",
+          "subNumber": "a",
+          "text": "Find the Z-transform of \\( x(n)=\\begin{cases}(0.5)^{n}u(n),&amp;n&gt;0\\\\ (0.25)^{-n},&amp;n &lt; 0\\end{cases} \\)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q3_s2",
+          "subNumber": "b",
+          "text": "Find the inverse Z-transform of \\( X(z)=\\frac{1-\\frac{1}{4}z^{-1}}{1-\\frac{1}{9}z^{-1}} \\) ROC: \\( |z|&gt;\\frac{1}{3} \\)",
+          "freq": 16,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q3_s3",
+          "subNumber": "c",
+          "text": "Comment on the causality of the system whose transfer function is given by \\( H(z)=\\frac{3-4z^{-1}}{1-3.5z^{-1}+1.5z^{-2}}, |z|&gt;3 \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2022_52_q4",
+      "number": 4,
+      "title": "Q.4 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2022_52_q4_s1",
+          "subNumber": "a",
+          "text": "Derive the condition for BIBO stability.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q4_s2",
+          "subNumber": "b",
+          "text": "Consider a continuous-time system with input \\( x(t) \\) and output \\( y(t) \\) is related by \\( y(t)=x(\\sin(t)) \\). Is the system (i) causal and (ii) linear?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q4_s3",
+          "subNumber": "c",
+          "text": "Sketch the signal \\( x(t)=\\delta(\\cos t) \\).",
+          "freq": 10,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q4_s4",
+          "subNumber": "d",
+          "text": "Find even and odd components of signal \\( x(t)=e^{-2t}\\cos(t) \\).",
+          "freq": 10,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2022_52_q5",
+      "number": 5,
+      "title": "Q.5 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2022_52_q5_s1",
+          "subNumber": "a",
+          "text": "Compute the Fourier transform of the rectangular pulse train signal shown in Fig. 1.",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/59.jpg"
+          ]
+        },
+        {
+          "id": "sem4_signals_2022_52_q5_s2",
+          "subNumber": "b",
+          "text": "Compute the step response of the LTI system \\( H(s)=\\frac{6(s+1)}{s(s+3)}; Re\\{s\\}&gt;0 \\)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q5_s3",
+          "subNumber": "c",
+          "text": "State and prove Parseval's theorem.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2022_52_q6",
+      "number": 6,
+      "title": "Q.6 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2022_52_q6_s1",
+          "subNumber": "a",
+          "text": "A system is defined as \\( y(n)=x(n^{2}) \\). Check whether the system is linear or non-linear, time-varying or time-invariant, causal or non-causal and memory less or memory type.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q6_s2",
+          "subNumber": "b",
+          "text": "Compute the convolution \\( y[n]=x[n]*h[n] \\) where \\( x[n]=u(n-1) \\) and \\( h[n]=\\alpha^{n}u(n-1) \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q6_s3",
+          "subNumber": "c",
+          "text": "Compute the Nyquist sampling rate for the signal \\( g(t)=10\\cos(50\\pi)\\cos^{2}(150\\pi t) \\)",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2022_52_q7",
+      "number": 7,
+      "title": "Q.7 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2022_52_q7_s1",
+          "subNumber": "a",
+          "text": "Consider the causal difference equation \\( y[n]-0.8y[n-1]=2x[n] \\) where the input signal is \\( x[n]=(\\frac{1}{2})^{n}u(n) \\) with \\( y[-1]=0 \\). Find the output response \\( y[n] \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q7_s2",
+          "subNumber": "b",
+          "text": "Compute the inverse Z-transform of \\( X(z)=\\frac{z}{(1-0.5z^{-1})}; |z|&lt;0.5 \\) using the power series expansion method. Find the signal \\( x[n] \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_signals_2022_52_q7_s3",
+          "subNumber": "c",
+          "text": "Consider the stable LTI system defined by its transfer function \\( H(z)=\\frac{z^{2}+z-2}{z^{2}+z+0.5} \\). Sketch the pole-zero plot for this transfer function and give its ROC. Is the system causal? Sketch the direct form realization of this system.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2022_52_q8",
+      "number": 8,
+      "title": "Q.8 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2022_52_q8_s1",
+          "subNumber": "a",
+          "text": "Let \\( x[n] \\) be an arbitrary function with even and odd parts as \\( x_{e}[n] \\), \\( x_{o}[n] \\), respectively. Show that \\( \\sum_{n=-\\infty}^{\\infty}x^{2}[n]=\\sum_{n=-\\infty}^{\\infty}x_{e}^{2}[n]+\\sum_{n=-\\infty}^{\\infty}x_{o}^{2}[n] \\)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q8_s2",
+          "subNumber": "b",
+          "text": "Perform the convolution operation between \\( x[n]=\\{0,0,0,0,(2),-3,1,0,0\\} \\) and \\( h[n]=\\{0,0,0,1,(2),2,0,0,0\\} \\) using graphical method.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_signals_2022_52_q8_s3",
+          "subNumber": "c",
+          "text": "The signal \\( x(t) \\) is shown in Fig. 2. Sketch the signals for \\( \\alpha=\\frac{1}{2} \\) and \\( \\alpha=2 \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/60.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_signals_2022_52_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_signals_2022_52_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

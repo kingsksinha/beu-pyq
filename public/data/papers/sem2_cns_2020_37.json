@@ -1,0 +1,281 @@
+{
+  "id": "sem2_cns_2020_37",
+  "semester": 2,
+  "subject_code": "cns",
+  "subject_name": "Computer Networks and Security",
+  "year": "2020",
+  "exam_code": "104501",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University B.Tech 5th Semester Exam., 2020 (New Course) COMPUTER NETWORKS & SECURITY Time: 03 Hours Code: 104501 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_cns_2020_37_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option of the following (any seven):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cns_2020_37_q1_s1",
+          "subNumber": "a",
+          "text": "Which transmission media provides the highest transmission speed in a network?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Coaxial cable",
+            "Twisted pair cable",
+            "Optical fiber",
+            "Electrical cable"
+          ]
+        },
+        {
+          "id": "sem2_cns_2020_37_q1_s2",
+          "subNumber": "b",
+          "text": "The data link layer takes the packets from network layer and encapsulates them into frames for transmission.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "network layer",
+            "physical layer",
+            "transport layer",
+            "application layer"
+          ]
+        },
+        {
+          "id": "sem2_cns_2020_37_q1_s3",
+          "subNumber": "c",
+          "text": "A 4-byte IP address consists of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "only network address",
+            "only host address",
+            "network address and host address",
+            "network address and MAC address"
+          ]
+        },
+        {
+          "id": "sem2_cns_2020_37_q1_s4",
+          "subNumber": "d",
+          "text": "Network layer firewall works as a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "frame filter",
+            "packet filter",
+            "content filter",
+            "virus filter"
+          ]
+        },
+        {
+          "id": "sem2_cns_2020_37_q1_s5",
+          "subNumber": "e",
+          "text": "Which of the following is false with respect to TCP?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Connection-oriented",
+            "Process-to-process",
+            "Transport layer protocol",
+            "Unreliable"
+          ]
+        },
+        {
+          "id": "sem2_cns_2020_37_q1_s6",
+          "subNumber": "f",
+          "text": "The header length of an IPv6 datagram is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10 bytes",
+            "25 bytes",
+            "30 bytes",
+            "40 bytes"
+          ]
+        },
+        {
+          "id": "sem2_cns_2020_37_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following are transport layer protocols used in networking?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "TCP and FTP",
+            "UDP and HTTP",
+            "TCP and UDP",
+            "HTTP and FTP"
+          ]
+        },
+        {
+          "id": "sem2_cns_2020_37_q1_s8",
+          "subNumber": "h",
+          "text": "Which layer of the TCP/IP stack corresponds to the OSI model transport layer?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Host-to-host",
+            "Application",
+            "Internet",
+            "Network access"
+          ]
+        },
+        {
+          "id": "sem2_cns_2020_37_q1_s9",
+          "subNumber": "i",
+          "text": "Public key encryption/decryption is not preferred because",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "it is slow",
+            "it is hardware/software intensive",
+            "it has a high computational load",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_cns_2020_37_q1_s10",
+          "subNumber": "j",
+          "text": "Which one of the following is not a public key distribution means?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Public key certificates",
+            "Hashing certificates",
+            "Publicly available directories",
+            "Public-key authorities"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_cns_2020_37_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cns_2020_37_q2_s1",
+          "subNumber": "a",
+          "text": "Define computer network. Discuss various types of network topologies in computer network. Also discuss various advantages and disadvantages of each topology.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cns_2020_37_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cns_2020_37_q3_s1",
+          "subNumber": "a",
+          "text": "Explain different types of errors in data transmission. Write about redundancy, detection versus correction, forward error correction versus re-transmission and coding.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cns_2020_37_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cns_2020_37_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss the terms 'sub-netting' and 'super-netting'. You are given the IP address of 193.103.20.0/24 and need 50 subnets. How many hosts per network and total networks do you get once subnetted?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cns_2020_37_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cns_2020_37_q5_s1",
+          "subNumber": "a",
+          "text": "Explain RIP in your own words. Take a network graph (group of routers) and explain how routing is performed.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cns_2020_37_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cns_2020_37_q6_s1",
+          "subNumber": "a",
+          "text": "Differentiate between TCP and UDP. Suppose a process in host C has a UDP socket with port number 6789. Suppose both host A and host B, each sends a UDP segment to host C with destination port number 6789. Will both of these segments be directed to the same socket at host C? If so, how will the process at host C know that these two segments originated from two different hosts?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cns_2020_37_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_cns_2020_37_q7_s1",
+          "subNumber": "a",
+          "text": "(a) SNMP<br/> (b) FTP<br/> (c) SMTP<br/> (d) WWW",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cns_2020_37_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cns_2020_37_q8_s1",
+          "subNumber": "a",
+          "text": "Design a security service that provides data integrity, data confidentiality and non-repudiation using public-key cryptography in a two-party communication system over an insecure channel. Give a rationale that data integrity, confidentiality and non-repudiation are achieved by your solution. (Recommendation : Consider the corresponding threats in your argumentation)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_cns_2020_37_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_cns_2020_37_q9_s1",
+          "subNumber": "a",
+          "text": "Explain public-key cryptosystem. In a public-key system using RSA, you intercept the ciphertext \\( C=10 \\) sent to a user whose public key is \\( e=5 \\), \\( n=35 \\). What is the plaintext M?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "id": "sem2_analog_2023_13",
+  "semester": 2,
+  "subject_code": "analog",
+  "subject_name": "Analog Circuits",
+  "year": "2023",
+  "exam_code": "104401",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2023 Semester-IV ECE Analog Circuit Time: 03 Hours Code: 104401 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_analog_2023_13_q1",
+      "number": 1,
+      "title": "Q.1 Write the answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_13_q1_s1",
+          "subNumber": "a",
+          "text": "Which of these are incorrect about Darlington amplifier?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It has a high input resistance",
+            "The output resistance is low",
+            "It has a unity voltage gain",
+            "It is a current buffer"
+          ]
+        },
+        {
+          "id": "sem2_analog_2023_13_q1_s2",
+          "subNumber": "b",
+          "text": "What is a cascade amplifier?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A cascade of two CE amplifiers",
+            "A cascade of two CB amplifiers",
+            "A cascade of CE and CB amplifiers",
+            "A cascade of CB and CC amplifiers"
+          ]
+        },
+        {
+          "id": "sem2_analog_2023_13_q1_s3",
+          "subNumber": "c",
+          "text": "What is the output of a class B amplifier for sinusoidal input?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Sinusoidal amplifier",
+            "Half-sinusoidal",
+            "Sinusoidal with higher frequency",
+            "Square wave"
+          ]
+        },
+        {
+          "id": "sem2_analog_2023_13_q1_s4",
+          "subNumber": "d",
+          "text": "In a class B amplifier, it is found that DC power is 25W, find the ac power.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10 W",
+            "62.5 W",
+            "25 W",
+            "50 W"
+          ]
+        },
+        {
+          "id": "sem2_analog_2023_13_q1_s5",
+          "subNumber": "e",
+          "text": "In an oscillator if phase of feedback is same as that of oscillation waveform then feedback is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Positive feedback",
+            "Negative feedback",
+            "Cannot be predicted",
+            "Either positive or negative depending upon frequency"
+          ]
+        },
+        {
+          "id": "sem2_analog_2023_13_q1_s6",
+          "subNumber": "f",
+          "text": "For a MOSFET, the pinch-off voltage is -3V. Gate to source voltage is 20V. W/L ratio is 5. Process transconductance parameter is 40\\( \\mu A/V^2 \\). Find drain to source current in saturation.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "0.10 mA",
+            "0.05mA",
+            "- 0.05mA",
+            "-50A"
+          ]
+        },
+        {
+          "id": "sem2_analog_2023_13_q1_s7",
+          "subNumber": "g",
+          "text": "For a MOSFET, the pinch-off voltage is -3V. Gate to source voltage is 20V. W/L ratio is 5. Process transconductance parameter is 40\\( \\mu A/V^2 \\). Find drain to source current in saturation.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "1100 \\( \\Omega \\)",
+            "11000 \\( \\Omega \\)",
+            "900 \\( \\Omega \\)",
+            "110 \\( \\Omega \\)"
+          ]
+        },
+        {
+          "id": "sem2_analog_2023_13_q1_s8",
+          "subNumber": "h",
+          "text": "The hybrid \\( \\pi \\) model is used for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Analysis of BJT for low frequency",
+            "Analysis of BJT at high frequency",
+            "Analysis of BJT for feedback",
+            "Analysis of BJT for large signal"
+          ]
+        },
+        {
+          "id": "sem2_analog_2023_13_q1_s9",
+          "subNumber": "i",
+          "text": "Which oscillator is characterized by a split capacitor in its tank circuit?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "RC phase shift oscillator",
+            "Colpitts oscillator",
+            "Wien bridge oscillator",
+            "none"
+          ]
+        },
+        {
+          "id": "sem2_analog_2023_13_q1_s10",
+          "subNumber": "j",
+          "text": "The gate voltage in a JFET at which drain current becomes zero is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "pinch-off voltage.",
+            "saturation voltage",
+            "active voltage.",
+            "cut-off voltage."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_13_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_13_q2_s1",
+          "subNumber": "a",
+          "text": "Explain construction and working of Enhancement and Depletion type MOSFET.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_13_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_13_q3_s1",
+          "subNumber": "a",
+          "text": "What is power amplifier. Explain Transformer coupled Class-A amplifier.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_13_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_13_q4_s1",
+          "subNumber": "a",
+          "text": "Barkhausen criteria play an important role while designing Oscillator justify. Explain Hartley and RC phase shift Oscillator.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_13_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_13_q5_s1",
+          "subNumber": "a",
+          "text": "Explain the effect of voltage series and voltage shunt feedback on gain &amp; impedance of amplifier.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_13_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_13_q6_s1",
+          "subNumber": "a",
+          "text": "The BJT is connected as a CE amplifier. Determine \\( Z_i \\), \\( Z_0 \\), \\( A_v \\), \\( A_i \\) hybrid model.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_13_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_13_q7_s1",
+          "subNumber": "a",
+          "text": "Describe current mirror circuit in BJT. What are the condition to design current mirror circuit. Obtain the expression for current transfer ratio.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_13_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_13_q8_s1",
+          "subNumber": "a",
+          "text": "Derive the expression for voltage gain and current gain and B.W of multistage amplifier.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2023_13_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2023_13_q9_s1",
+          "subNumber": "a",
+          "text": "In brief explain the working of voltage series and current series circuit. Explain the same in case of BJT.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

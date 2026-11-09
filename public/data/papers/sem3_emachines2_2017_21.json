@@ -1,0 +1,249 @@
+{
+  "id": "sem3_emachines2_2017_21",
+  "semester": 3,
+  "subject_code": "emachines2",
+  "subject_name": "Electrical Machines - II",
+  "year": "2017",
+  "exam_code": "031403",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 4th Semester Examination, 2017 Electrical Machine-II Time: 3 hours Code: 031403 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are Nine Questions in this Paper.",
+    "Attempt Five questions in all.",
+    "Question No. 1 is Compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_emachines2_2017_21_q1",
+      "number": 1,
+      "title": "Q.1 Answer any Seven questions from this:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2017_21_q1_s1",
+          "subNumber": "a",
+          "text": "Cylindrical-rotor synchronous m/c has ______ field winding.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q1_s2",
+          "subNumber": "b",
+          "text": "In a synchronous m/c the rotor field axis and the resultant field have an angle between them called ______.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q1_s3",
+          "subNumber": "c",
+          "text": "Prime mover for a salient pole synchronous machine is ______.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q1_s4",
+          "subNumber": "d",
+          "text": "Emf induced in SM under loaded conditions is known as ______.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q1_s5",
+          "subNumber": "e",
+          "text": "Short circuit test on SM is conducted at ______ excitated condition with armature current at 1-50% of the rated value.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q1_s6",
+          "subNumber": "f",
+          "text": "Saliency in a synchronous causes the production of ______ torque which is proportional to ______.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q1_s7",
+          "subNumber": "g",
+          "text": "In a 1-Phase IM auxiliary winding located at ______ to main winding causes development of ______ torque.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q1_s8",
+          "subNumber": "h",
+          "text": "A two-phase servomotor at any control phase voltage has almost ______ torque speed characteristic with torque ______ with increase in speed.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q1_s9",
+          "subNumber": "i",
+          "text": "A steeper motor does not require an output ______ sensor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q1_s10",
+          "subNumber": "j",
+          "text": "Universal motors have ______ power factor of ______.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2017_21_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2017_21_q2_s1",
+          "subNumber": "a",
+          "text": "What is \"Synchronous\" in a synchronous m/c? Why does such a m/c produce no torque at any other speed.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q2_s2",
+          "subNumber": "b",
+          "text": "A 50 Hz, 6-pole synchronous generator has 36 slots. It has a two-layer winding with full pitch coil of eight turns each. The flux per pole is 0.015 wb. Determine the induced emf (line-to-line) if the coils are connected to form (a) 2-phase winding. (b) star-connected 3-phase winding.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2017_21_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2017_21_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the meaning and significance of SCR. (Short circuit ratio).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q3_s2",
+          "subNumber": "b",
+          "text": "A 3-phase 2.5 MVA, 6.6 kV synchronous generator gave the following data for occ at synchronous speed.<br/> If (A): 20, 25, 32, 45<br/> Voc (line) (V): 4400, 5500, 6600, 7700, 8800<br/> With the armature short-circuited and full load current flowing, the field current is 18 A. When the m/c is applying full-load current at zero pf at rated voltage, the field current is 45 A. Determine the leakage reactance in per phase and the full-load armature reaction in terms of equivalent field amperes. Find also the field current and voltage regulation when the m/c is supplying full load at 0.8 p.f lagging at rated voltage neglect armature resistance.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2017_21_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2017_21_q4_s1",
+          "subNumber": "a",
+          "text": "For a salient-pole synchronous m/c neglecting the effect of armature resistance, derive an expression for power developed as a function of load angle.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2017_21_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2017_21_q5_s1",
+          "subNumber": "a",
+          "text": "Two identical, 3-\\( \\phi \\), star-connected generators, operating in parallel, share equally a total load of 750 kW at 6000 V and p.f 0.8. The synchronous reactance and resistance of each machine are respectively 50 \\( \\Omega \\) and 2.5 \\( \\Omega \\) per phase. The field of first generator is excited so that armature current is 40 A (lagging). Find (a) the armature current of the second alternator; (b) the p.f of each machine (c) the electromotive force of each machine (d) the load angle of each machine.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2017_21_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2017_21_q6_s1",
+          "subNumber": "a",
+          "text": "What are V-curves of a synchronous motor? What are the main characteristic of a synchronous motor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q6_s2",
+          "subNumber": "b",
+          "text": "A 3-\\( \\phi \\), 11 kV star connected synch. motor takes 50 A input current. The effective resistance and synchronous reactance per phase are 1 \\( \\Omega \\) and 30 \\( \\Omega \\) respectively. Calculate the induced emf for a power factor of (a) 0.8 lagging (b) 0.8 leading and (c) the power supplied to the motor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2017_21_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2017_21_q7_s1",
+          "subNumber": "a",
+          "text": "A 230V, 50 Hz, 4-pole single-phase Induction motor has the following equivalent circuit parameters: \\( R_{1m} = R_2 = 8 \\Omega \\), \\( X_{1m} = X_2 = 12 \\Omega \\), \\( X_M = 200 \\Omega \\). At a slip of 4% calculate (a) input current (b) input power (c) developed power, and developed torque at rated voltage. The motor speed is 140 rpm.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2017_21_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2017_21_q8_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the phasor diagram of an ac series motor.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emachines2_2017_21_q8_s2",
+          "subNumber": "b",
+          "text": "A universal series motor, when operating on 220 V d.c draws 10A and runs at 1400 rpm. Find the new speed and p.f. when connected to 220 V, 25Hz supply, the motor current remains the same. The motor has total resistance of 1 \\( \\Omega \\) and total inductance of 0.1 H.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2017_21_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2017_21_q9_s1",
+          "subNumber": "a",
+          "text": "Describe the construction of permanent-magnet d.c. motor. What are the advantage and disadvantage of permanent magnet d.c. motor compared with conventional shunt d.c. motors?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

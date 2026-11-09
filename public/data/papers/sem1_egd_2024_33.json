@@ -1,0 +1,291 @@
+{
+  "id": "sem1_egd_2024_33",
+  "semester": 1,
+  "subject_code": "egd",
+  "subject_name": "Engineering Graphics & Design",
+  "year": "2024",
+  "exam_code": "100102",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Examination, 2024 (Old) Engineering Graphics and Design Time: 03 Hours Code: 100102 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 19,
+  "max_freq": 5,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_egd_2024_33_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_33_q1_s1",
+          "subNumber": "a",
+          "text": "The A2 sheet has the dimensions in mm",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "841 × 1189",
+            "594 × 841",
+            "420 × 594",
+            "297 × 420"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_33_q1_s2",
+          "subNumber": "b",
+          "text": "When a circle is inside another circle, the curve traced by a point on the rolling circle is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "hypocycloid",
+            "cycloid",
+            "epicycloid",
+            "involute"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_33_q1_s3",
+          "subNumber": "c",
+          "text": "The customized plain scales are used to measure",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "one unit",
+            "two consecutive units",
+            "three consecutive units",
+            "no units"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_33_q1_s4",
+          "subNumber": "d",
+          "text": "The profile plane is a plane that is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 45^{\\circ} \\) to both HP and VP",
+            "\\( 90^{\\circ} \\) to HP and inclined VP",
+            "\\( 90^{\\circ} \\) to both HP and VP",
+            "\\( 90^{\\circ} \\) to VP and inclined to HP"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_33_q1_s5",
+          "subNumber": "e",
+          "text": "In orthographic projection, visual rays or lines of sight for a given view are...... to each other.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Perpendicular",
+            "Oblique",
+            "Normal",
+            "Parallel"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_33_q1_s6",
+          "subNumber": "f",
+          "text": "If a point is situated behind the V.P., its T.V. will be",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "above the XY line",
+            "on the XY line",
+            "below the XY line",
+            "none of above"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_33_q1_s7",
+          "subNumber": "g",
+          "text": "When the surface of a circular plate is kept perpendicular to both H.P. and V.P. the top view and front view of a circle are obtained as ______ and ______ respectively.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Circle, Straight line",
+            "Ellipse, Straight line",
+            "Straight line, Straight line",
+            "Semi circle, Straight line"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_33_q1_s8",
+          "subNumber": "h",
+          "text": "In an isometric view, the number of dimensions of an object that are visible is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_33_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following solids is a polyhedron?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Cone",
+            "Sphere",
+            "Cylinder",
+            "Hexagonal Prism"
+          ]
+        },
+        {
+          "id": "sem1_egd_2024_33_q1_s10",
+          "subNumber": "j",
+          "text": "In LINE Command, the previously drawn line is erased using ______ Option.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Redo",
+            "Ttr",
+            "Copy",
+            "Undo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_33_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_33_q2_s1",
+          "subNumber": "a",
+          "text": "The R.F. of a scale showing miles, furlongs, and chains is \\( 1/50688 \\). Draw a scale to read up to 5 miles and show on it the length representing 3 miles, 5 furlongs, and 3 chains.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_egd_2024_33_q2_s2",
+          "subNumber": "b",
+          "text": "Draw an involute of a circle of 40 mm diameter. Also, draw a normal and tangent to it at a point 100 mm from the centre of the circle.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_33_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_33_q3_s1",
+          "subNumber": "a",
+          "text": "A line AB 65 mm long has its end A 25 mm above HP and 15 mm in front of VP. The line is inclined at \\( 35^{\\circ} \\) to the HP and \\( 55^{\\circ} \\) to the VP. Draw its projections.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_33_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_33_q4_s1",
+          "subNumber": "a",
+          "text": "A regular pentagon of 25mm side has one side on the ground. Its plane is inclined to the HP and perpendicular to the VP. Draw its projection and show its traces.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_33_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_33_q5_s1",
+          "subNumber": "a",
+          "text": "A square Pyramid base side of 40 mm and axis length of 60 mm is kept on the V.P. on an edge of its base such that its axis makes an angle of \\( 30^{\\circ} \\) to V.P. and parallel to the H.P. Draw the projection of the pyramid.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_33_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_33_q6_s1",
+          "subNumber": "a",
+          "text": "A hexagonal prism of 30 mm sides and axis 60 mm long is resting on HP on one of its rectangular faces, with its axis perpendicular to VP. It is cut by a plane inclined at \\( 45^{\\circ} \\) to HP and perpendicular to VP, and is 12 mm away from the axis. Draw its front view, sectional top view, and true shape of the section.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_33_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_33_q7_s1",
+          "subNumber": "a",
+          "text": "A cone of base of diameter 60 mm and height 70 mm is resting on its base on HP. It is cut by a plane perpendicular to both the HP and VP at a distance 15 mm to the left of the axis. Draw the development of the lateral surface of the right remaining portion.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_33_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_33_q8_s1",
+          "subNumber": "a",
+          "text": "An isometric view of an object is given. Draw the front, top, and right-side views of this object by the first-angle projection method.",
+          "freq": 5,
+          "stars": "★★★★★",
+          "images": [
+            "img/beu/diagram/24egd8.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_egd_2024_33_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_egd_2024_33_q9_s1",
+          "subNumber": "a",
+          "text": "Draw the isometric projection of a pentagonal prism of 22 mm base edges and axis 50 mm long when it has one of its rectangular faces on HP and axis perpendicular to the VP.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

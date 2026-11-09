@@ -1,0 +1,277 @@
+{
+  "id": "sem3_emachines1_2020_28",
+  "semester": 3,
+  "subject_code": "emachines1",
+  "subject_name": "Electrical Machine-I",
+  "year": "2020",
+  "exam_code": "PCC-EEE-03",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Special Exam., 2020 Electrical Machines-I Time: 3 hours Code: PCC-EEE-03 (100307) Full Marks:\n                    70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_emachines1_2020_28_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_28_q1_s1",
+          "subNumber": "a",
+          "text": "What interpoles are used for in a DC motor?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q1_s2",
+          "subNumber": "b",
+          "text": "Define commutation in DC machine.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q1_s3",
+          "subNumber": "c",
+          "text": "Draw sample waveform of wave winding and lap winding.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q1_s4",
+          "subNumber": "d",
+          "text": "Why is laminated core used in transformers?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q1_s5",
+          "subNumber": "e",
+          "text": "What is the order of the efficiency of a general purpose transformer? State reason.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q1_s6",
+          "subNumber": "f",
+          "text": "State Biot-Savart law.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q1_s7",
+          "subNumber": "g",
+          "text": "State Ampere law.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q1_s8",
+          "subNumber": "h",
+          "text": "Draw magnetic lines of a magnate showing magnetic flux lines clearly.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q1_s9",
+          "subNumber": "i",
+          "text": "On the same platform, draw the B-H curve for soft as well as hard magnetic material.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q1_s10",
+          "subNumber": "j",
+          "text": "With the help of neat and labeled diagram, show energy and co-energy.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_28_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_28_q2_s1",
+          "subNumber": "a",
+          "text": "Draw and discuss general representation of an electromechanical energy conversion device. Further, explain lossless electromechanical energy conversion.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q2_s2",
+          "subNumber": "b",
+          "text": "The self and mutual inductances of a doubly excited magnetic system are as follows:<br/> \\( L_s=0.65+0.18\\cos 2\\theta_r \\) henry <br/> \\( L_r=0.78+0.29\\cos 2\\theta_r \\) henry <br/> \\( M_s=0.86\\cos\\theta_r \\) henry <br/> Considering the winding resistance as zero, find the magnitude and direction of torque when the currents are \\( i_s=15 \\) A DC, and \\( i_r=12 \\) A DC. When stationary rotor has an angular position of \\( \\theta_r=60^{\\circ} \\), consider all notations in their standard representation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_28_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_28_q3_s1",
+          "subNumber": "a",
+          "text": "Derive the expression for the maximum efficiency of a single-phase transformer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q3_s2",
+          "subNumber": "b",
+          "text": "Draw and explain the exact and approximate equivalent diagram of a single-phase transformer. Give the mathematical formulations to represent the impedances, voltage and current of a side, when referred to another side.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_28_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_28_q4_s1",
+          "subNumber": "a",
+          "text": "Following test results are obtained from a 10 kVA, 2500/250 1- transformer. <br/> OC test: 250 V, 0.8 A, 50 W <br/> SC test: 60 V, 3.0 A, 45 W <br/> Calculate the efficiency at the load at 0.8 p.f.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q4_s2",
+          "subNumber": "b",
+          "text": "Why are OC/SC tests performed on a transformer? Discuss what side they are performed and why. Elaborate the procedure to perform the tests.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_28_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_28_q5_s1",
+          "subNumber": "a",
+          "text": "Draw and discuss the important constructional details of a DC motor. List two applications of DC series motor depicting its characteristic.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q5_s2",
+          "subNumber": "b",
+          "text": "Differentiate lap and wave windings along with their roles in a DC motor. Given the number of conductors in the machine as 16, calculate the average pitch of a 4-pole DC machine for (i) lap and (ii) wave windings.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_28_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_28_q6_s1",
+          "subNumber": "a",
+          "text": "What do you understand by armature reaction? Elaborate its effect on the working of a DC generator and suggest the remedies to remove it.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q6_s2",
+          "subNumber": "b",
+          "text": "What are the problems faced with regard to commutation in a DC machine? Suggest the constructional changes need to be performed in order to protect the machine from commutation failure.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_28_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_28_q7_s1",
+          "subNumber": "a",
+          "text": "A 4-pole, 32-conductor, DC generator is lap wound and is running at a speed of 1500 r.p.m. Assuming per pole to be 10 Wb, find the EMF generated by the DC machine.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q7_s2",
+          "subNumber": "b",
+          "text": "Draw the open circuit and load characteristics of a separately excited DC generator. Also explain the curvature that is seen in an open circuit characteristic of a self-excited DC generator.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_28_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_28_q8_s1",
+          "subNumber": "a",
+          "text": "Classify various types of braking used in a DC machine. Explain the type of braking demonstrating a train runs down a hill top. Support your answer with mathematical expressions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q8_s2",
+          "subNumber": "b",
+          "text": "\"A DC shunt motor can provide a wide range of speed control.\" Justify the statement theoretically and mathematically. Additionally, draw neat and labeled diagram of Ward Leonard method to control the speed of a DC shunt motor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines1_2020_28_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines1_2020_28_q9_s1",
+          "subNumber": "a",
+          "text": "Differentiate between a 1- transformer and an autotransformer. How is copper saving done in an autotransformer? What are additive and subtractive polarities in an autotransformer?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines1_2020_28_q9_s2",
+          "subNumber": "b",
+          "text": "Why is back-to-back test performed on a transformer? Write the steps to conduct the test. In back-to-back test, the wattmeter readings for primary and secondary are 25 W and 50 W, respectively. Calculate the copper loss of a transformer at half the rated load, if both the transformers used are identical.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": "sem1_math2_2021_64",
+  "semester": 1,
+  "subject_code": "math2",
+  "subject_name": "Engineering Mathematics-2",
+  "year": "2021",
+  "exam_code": "101202",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2021 MATHEMATICS—II (Differential Equations) Time: 3 hours Code: 101202 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 9,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_math2_2021_64_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer (any seven):",
+      "marks": "[2×7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2021_64_q1_s1",
+          "subNumber": "a",
+          "text": "Integrating factor of the differential equation \\( dy = (e^{x-y})(e^x - e^y) dx \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( e^{e^x} \\)",
+            "\\( e \\)",
+            "\\( e^x \\)",
+            "\\( e^{2x} \\)"
+          ]
+        },
+        {
+          "id": "sem1_math2_2021_64_q1_s2",
+          "subNumber": "b",
+          "text": "The particular integral (PI) of the differential equation \\( \\frac{d^2 y}{dx^2} + 4y = \\cos 2x \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{\\sin 2x}{2} \\)",
+            "\\( \\frac{x \\sin 2x}{2} \\)",
+            "\\( \\frac{x \\sin 2x}{4} \\)",
+            "\\( \\frac{x \\cos 2x}{2} \\)"
+          ]
+        },
+        {
+          "id": "sem1_math2_2021_64_q1_s3",
+          "subNumber": "c",
+          "text": "The differential equation whose auxiliary equation has the roots 0, -1, -1 is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{d^3 y}{dx^3} - 2\\frac{d^2 y}{dx^2} + \\frac{dy}{dx} = 0 \\)",
+            "\\( \\frac{d^3 y}{dx^3} + 2\\frac{d^2 y}{dx^2} + \\frac{dy}{dx} = 0 \\)",
+            "\\( \\frac{d^2 y}{dx^2} + 2\\frac{dy}{dx} + y = 0 \\)",
+            "\\( \\frac{d^3 y}{dx^3} + 2\\frac{d^2 y}{dx^2} + y = 0 \\)"
+          ]
+        },
+        {
+          "id": "sem1_math2_2021_64_q1_s4",
+          "subNumber": "d",
+          "text": "If \\( J_0(x) \\) and \\( J_1(x) \\) are Bessel functions, then \\( J_1'(x) \\) is given by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( -J_0(x) \\)",
+            "\\( J_0(x) - \\frac{1}{x} J_1(x) \\)",
+            "\\( J_0(x) + \\frac{1}{x} J_1(x) \\)",
+            "\\( J_0(x) \\)"
+          ]
+        },
+        {
+          "id": "sem1_math2_2021_64_q1_s5",
+          "subNumber": "e",
+          "text": "The complete solution of the partial differential equation \\( p^2 + q^2 = 2 \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( z = ax + \\sqrt{2 - a^2} y + c \\)",
+            "\\( z = ax - \\sqrt{2 - a^2} y + c \\)",
+            "Either (i) or (ii) true",
+            "(i) and (ii) both true"
+          ]
+        },
+        {
+          "id": "sem1_math2_2021_64_q1_s6",
+          "subNumber": "f",
+          "text": "The partial differential equation \\( 5 \\frac{\\partial^2 z}{\\partial x^2} - 5 \\left( \\frac{\\partial z}{\\partial x} \\right)^2 + 6 \\frac{\\partial^2 z}{\\partial y^2} x = xy \\) is classified as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "parabolic",
+            "hyperbolic",
+            "elliptic",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem1_math2_2021_64_q1_s7",
+          "subNumber": "g",
+          "text": "The solution of the partial differential equation \\( x^3 \\frac{\\partial u}{\\partial x} + y^2 \\frac{\\partial u}{\\partial y} = 0 \\) if \\( u(0, y) = 10 e^{5/y} \\) using method of separation of variable is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 10 e^{5/2x^2} e^{5/y} \\)",
+            "\\( 10 e^{-5/2y^2} e^{5/x} \\)",
+            "\\( 10 e^{-5/2y^2} e^{-5/x} \\)",
+            "\\( 10 e^{-5/2x^2} e^{5/y} \\)"
+          ]
+        },
+        {
+          "id": "sem1_math2_2021_64_q1_s8",
+          "subNumber": "h",
+          "text": "If \\( f(z) = u(x, y) + iv(x, y) \\) is an analytic function, then \\( f'(z) = \\)",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\frac{\\partial u}{\\partial x} - i \\frac{\\partial v}{\\partial x} \\)",
+            "\\( \\frac{\\partial u}{\\partial x} - i \\frac{\\partial u}{\\partial y} \\)",
+            "\\( \\frac{\\partial v}{\\partial y} - i \\frac{\\partial v}{\\partial x} \\)",
+            "\\( \\frac{\\partial u}{\\partial x} + i \\frac{\\partial u}{\\partial y} \\)"
+          ]
+        },
+        {
+          "id": "sem1_math2_2021_64_q1_s9",
+          "subNumber": "i",
+          "text": "The value of \\( \\int_C \\frac{3z^2 + 7z + 1}{z + 1} dz \\) where \\( C \\) is \\( |z| = 1 \\) is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "2πi",
+            "0",
+            "πi",
+            "πi/2"
+          ]
+        },
+        {
+          "id": "sem1_math2_2021_64_q1_s10",
+          "subNumber": "j",
+          "text": "The value of \\( \\Delta \\tan^{-1}x \\) is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\Delta \\tan^{-1} \\left( \\frac{h}{1 + hx + x^2} \\right) \\)",
+            "\\( \\Delta \\tan^{-1} \\left( \\frac{h + 2x}{1 + hx + x^2} \\right) \\)",
+            "\\( \\Delta \\tan^{-1} \\left( \\frac{h - 2x}{1 + hx + x^2} \\right) \\)",
+            "\\( \\Delta \\tan^{-1} \\left( \\frac{h + 2x}{1 - hx - x^2} \\right) \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2021_64_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2021_64_q2_s1",
+          "subNumber": "a",
+          "text": "Solve: \\( 2ydx + x(2\\log x - y)dy = 0 \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2021_64_q2_s2",
+          "subNumber": "b",
+          "text": "Solve: \\( y - 2px = \\tan^{-1}(xy^2) \\)",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2021_64_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2021_64_q3_s1",
+          "subNumber": "a",
+          "text": "Use the method of variation of parameters to find the solution of the given differential equation \\( y'' - 2y' + y = e^x \\log x \\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_math2_2021_64_q3_s2",
+          "subNumber": "b",
+          "text": "Find the series solution of the differential equation \\( (x^2 - 2x + 1) \\frac{d^2 y}{dx^2} + (4x - 4) \\frac{dy}{dx} \\) <br/>+ \\( (x^2 - 2x + 3)y = 0 \\) about the point \\( x = 1 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2021_64_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2021_64_q4_s1",
+          "subNumber": "a",
+          "text": "Prove: \\( \\int J_3(x) dx = c - J_2(x) - \\frac{2}{x} J_1(x) \\), where \\( c \\) is arbitrary constant.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2021_64_q4_s2",
+          "subNumber": "b",
+          "text": "Prove: \\( \\int_{-1}^{1} x^2 P_{n+1}(x) P_{n-1}(x) dx = \\frac{2n(n + 1)}{(2n - 1)(2n + 1)(2n + 3)} \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2021_64_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions:",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2021_64_q5_s1",
+          "subNumber": "a",
+          "text": "Solve: \\( x^2(y - z) p + y^2(z - x) q = z^2(x - y) \\)",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_math2_2021_64_q5_s2",
+          "subNumber": "b",
+          "text": "Find the complete integral of \\( (p^2 + q^2)y = zq \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2021_64_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2021_64_q6_s1",
+          "subNumber": "a",
+          "text": "Prove that the general solution of the partial differential equation \\( (D - mD' - a)^2 z = 0 \\) where \\( D = \\frac{\\partial}{\\partial x}, D' = \\frac{\\partial}{\\partial y} \\) is given as \\( z = e^{\\alpha x} f_1(y + mx) + xe^{\\alpha x} f_2(y + mx) \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_math2_2021_64_q6_s2",
+          "subNumber": "b",
+          "text": "Find the general solution of the given partial differential equation \\( (D^3 D'^2 + D^3 D^2 - 5D^2 D'^2 - 2D^3 D' \\) + <br/> \\( 6D^2 D')z = e^{x - y} \\)",
+          "freq": 9,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2021_64_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2021_64_q7_s1",
+          "subNumber": "a",
+          "text": "Find the D'Alembert's solution of the wave equation \\( \\frac{\\partial^2 y}{\\partial t^2} = c^2 \\frac{\\partial^2 y}{\\partial x^2} \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2021_64_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2021_64_q8_s1",
+          "subNumber": "a",
+          "text": "Find the solution of the differential equation \\( \\frac{\\partial u}{\\partial t} = k \\frac{\\partial^2 u}{\\partial x^2} \\) subject to conditions—",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_math2_2021_64_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_math2_2021_64_q9_s1",
+          "subNumber": "a",
+          "text": "Describe the Runge-Kutta method of fourth order for the solution of initial value problem. Given the initial value problem \\( y' = 1 + y^2 \\), \\( y(0) = 0 \\). Find \\( y(0.6) \\) by using Runge-Kutta method of fourth order by taking \\( h = 0.2 \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

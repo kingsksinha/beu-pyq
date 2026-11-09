@@ -1,0 +1,302 @@
+{
+  "id": "sem1_eng_2025_10",
+  "semester": 1,
+  "subject_code": "eng",
+  "subject_name": "Communicative English",
+  "year": "2025",
+  "exam_code": "100216",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 Communicative English Time: 03 Hours Code: 100216 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 21,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_eng_2025_10_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option / answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_10_q1_s1",
+          "subNumber": "a",
+          "text": "Choose the correct use of articles:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The gold is a precious metal.",
+            "Gold is the precious metal.",
+            "Gold is a precious metal.",
+            "The gold is the precious metal."
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_10_q1_s2",
+          "subNumber": "b",
+          "text": "Identify the error: She lives in a United States.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Incorrect noun",
+            "Wrong preposition",
+            "Incorrect article",
+            "Sentence is correct"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_10_q1_s3",
+          "subNumber": "c",
+          "text": "Identify the correct sentence:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "He is married with a doctor.",
+            "He is married for a doctor.",
+            "He is married to a doctor.",
+            "He is married of a doctor."
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_10_q1_s4",
+          "subNumber": "d",
+          "text": "What is the error? - We discussed about the plan.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "'discussed' is wrong",
+            "'the' should be removed",
+            "'about' is unnecessary",
+            "No error"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_10_q1_s5",
+          "subNumber": "e",
+          "text": "By the time the server restarted, the engineers ______ the faulty module and ______ a temporary patch.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(a) identify (b) deploy",
+            "(a) had identified; (b) had deployed",
+            "(a) will identify; (b) will deploy",
+            "(a) have identified; (b) deployed"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_10_q1_s6",
+          "subNumber": "f",
+          "text": "The research team ______ data for two years before the funding ______ renewed.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(a) has collected; (b) will be",
+            "(a) collected; (b) was being",
+            "(a) had been collecting; (b) was",
+            "(a) is collecting (b) is"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_10_q1_s7",
+          "subNumber": "g",
+          "text": "The faulty sensor ______ the machine to malfunction, but the error ______ quickly.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(a) was caused; (b) fixed",
+            "(a) causes; (b) will fix",
+            "(a) caused; (b) was fixed",
+            "(a) is causing; (b) is fixing"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_10_q1_s8",
+          "subNumber": "h",
+          "text": "Due to heavy traffic, the team ______ reach the venue on time, but they ______ complete the presentation virtually.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(a) can't (b) should",
+            "(a) shouldn't (b) must",
+            "(a) may not; (b) can",
+            "(a) must not; (b) might"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_10_q1_s9",
+          "subNumber": "i",
+          "text": "To make writing clear, the writer must ______ vague expressions and ______ specific terms.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(a) use; (b) remove",
+            "(a) avoid; (b) select",
+            "(a) expand; (b) divide",
+            "(a) confuse; (b) enhance"
+          ]
+        },
+        {
+          "id": "sem1_eng_2025_10_q1_s10",
+          "subNumber": "j",
+          "text": "Coherence demands that each part of the writing ______ with the central idea and that transitions ______ the reader through the text.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(a) disagree; (b) mislead",
+            "(a) align (b) guide",
+            "(a) contradict; (b) confuse",
+            "(a) drift; (b) divert"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_10_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_10_q2_s1",
+          "subNumber": "a",
+          "text": "Your college is upgrading all classrooms with digital smartboards. As the Head of the Department, draft a memorandum to all faculty members instructing them to submit their specific requirements (markers, cables, software preferences) within three working days. Use appropriate format and invent necessary details.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_10_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_10_q3_s1",
+          "subNumber": "a",
+          "text": "You are unable to submit your project by the deadline due to a medical emergency. Write an email to your faculty requesting an extension, attaching proof and proposing a new date. Use appropriate format and invent necessary details.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_10_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_10_q4_s1",
+          "subNumber": "a",
+          "text": "Write an article in 120 words for your university newsletter on the topic \"AI and the Future of Campus Learning\".",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2025_10_q4_s2",
+          "subNumber": "b",
+          "text": "Write an article in 120 words titled \"Sustainable Engineering Practices for Greener Tomorrow\" for the college student magazine.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_10_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_10_q5_s1",
+          "subNumber": "a",
+          "text": "Write the Minutes of Meeting in 120-150 words for a departmental committee reviewing the low attendance in first-year classes.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2025_10_q5_s2",
+          "subNumber": "b",
+          "text": "Create a LinkedIn post in 120 words announcing the launch of your institute's new Innovation &amp; Startup Cell, highlighting opportunities, eligibility, and how students can participate.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_10_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_10_q6_s1",
+          "subNumber": "a",
+          "text": "Write an analytical essay in about 300-350 words on \"The Role of Engineering Ethics in Preventing Technological Misuse.\"",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_10_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_10_q7_s1",
+          "subNumber": "a",
+          "text": "Analyse Bacon's ideas on how studies help in the development of human character, judgment, and professional skill. How are his arguments still relevant in the context of modern technical education? Write in 200 words.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_10_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_10_q8_s1",
+          "subNumber": "a",
+          "text": "You have recently completed your 2nd semester in BTech (Computer Science). A reputed company, TechWave Solutions, has announced openings for Summer Internship Trainees in IoT and Software Development.<br/> Write a cover letter applying for this position, highlighting your academic skills, project experience, and motivation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_eng_2025_10_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_eng_2025_10_q9_s1",
+          "subNumber": "a",
+          "text": "Analyse how Bacon contrasts the limitations of \"expert men\" with the broader capabilities of educated individuals. What does this reveal about his views on the value of learning? Write in about 150 words.<br/><br/> \"Studies serve for delight, for ornament, and for ability. Their chief use for delight is in privateness and retiring for ornament is in discourse; and for ability is in the judgment and disposition of business. Expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best from those that are learned.<br/> Read not to contradict and confute: nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider. Some books are to be tasted, others to be swallowed, and some few to be chewed and digested.\"",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_eng_2025_10_q9_s2",
+          "subNumber": "b",
+          "text": "The description of the setting prepares the reader for unusual, imaginative events that follow in the story. Analyse how this passage effectively establishes atmosphere. Write in about 150 words.<br/><br/> \"In a little district west of Washington Square the streets have run crazy and broken themselves into small strips called 'places'. These 'places' make strange angles and curves. One street crosses itself a time or two. An artist once discovered a valuable possibility in this street. Suppose a collector with a bill for paints, paper and canvas should, in traversing a square, suddenly meet himself coming back, without a cent having been paid on account!\"",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

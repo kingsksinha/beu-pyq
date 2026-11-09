@@ -1,0 +1,308 @@
+{
+  "id": "sem2_daa_2019_62",
+  "semester": 2,
+  "subject_code": "daa",
+  "subject_name": "Design and Analysis of Algorithms",
+  "year": "2019",
+  "exam_code": "051506",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Exam., 2019 Design and Analysis of Algorithms Time: 03 Hours Code: 051506 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 21,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_daa_2019_62_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer from any seven of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2019_62_q1_s1",
+          "subNumber": "a",
+          "text": "In the following C++ function, let \\( n \\ge m \\). What is the time complexity of the above function assuming \\( n &gt; m \\)?<br/> int gcd(int n, int m) { if(n%m==0) return m; if(n &lt; m) swap(n, m); while(m&gt;0) { n=n%m; swap(n, m); } return n; }",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( \\Theta(\\log n) \\)",
+            "\\( \\Omega(n) \\)",
+            "\\( \\Theta(loglogn) \\)",
+            "\\( \\Theta(sqrt(n)) \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2019_62_q1_s2",
+          "subNumber": "b",
+          "text": "Time complexity of Kadane's Algorithm is",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "\\( O(n) \\)",
+            "\\( O(n^2) \\)",
+            "\\( O(n \\log n) \\)",
+            "\\( O(n(\\log n)^2) \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2019_62_q1_s3",
+          "subNumber": "c",
+          "text": "Consider an undirected random graph of eight vertices. The probability that there is an edge between a pair of vertices is 1/2. What is the expected number of unordered cycles of length three?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 1/8 \\)",
+            "\\( 1 \\)",
+            "\\( 7 \\)",
+            "\\( 8 \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2019_62_q1_s4",
+          "subNumber": "d",
+          "text": "Any decision tree that sorts 'n' elements has height",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( \\Omega(\\lg n) \\)",
+            "\\( \\Omega(n) \\)",
+            "\\( \\Omega(n \\lg n) \\)",
+            "\\( \\Omega(n^2) \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2019_62_q1_s5",
+          "subNumber": "e",
+          "text": "An all-pairs shortest-paths problem is efficiently solved using",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Dijkstra's algorithm",
+            "Bellman-Ford algorithm",
+            "Kruskal algorithm",
+            "Floyd-Warshall algorithm"
+          ]
+        },
+        {
+          "id": "sem2_daa_2019_62_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following is an advantage of adjacency list representation over adjacency matrix representation of a graph?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "In adjacency list representation, space is saved for sparse graphs.",
+            "DFS and BFS can be done in \\( O(V+E) \\) time for adjacency list representation.",
+            "Adding a vertex in adjacency list representation is easier than adjacency matrix representation.",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_daa_2019_62_q1_s7",
+          "subNumber": "g",
+          "text": "Which of the following is true about Huffman Coding?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Huffman coding may become lossy in some cases.",
+            "Huffman codes may not be optimal lossless codes in some cases.",
+            "In Huffman coding, no code is prefix of any other code.",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_daa_2019_62_q1_s8",
+          "subNumber": "h",
+          "text": "Which one of the following is an application of Queue Data Structure?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "When a resource is shared among multiple consumers",
+            "When data is transferred asynchronously between two processes",
+            "Load balancing",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_daa_2019_62_q1_s9",
+          "subNumber": "i",
+          "text": "In linear search algorithm the worst case occurs when",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "the item is somewhere in the middle of the array",
+            "the item is not in the array at all",
+            "the item is the last element in the array",
+            "the item is the last element in the array or is not there at all"
+          ]
+        },
+        {
+          "id": "sem2_daa_2019_62_q1_s10",
+          "subNumber": "j",
+          "text": "The complexity of binary search algorithm is",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "\\( O(n) \\)",
+            "\\( O(\\log n) \\)",
+            "\\( O(n^2) \\)",
+            "\\( O(n \\log n) \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2019_62_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2019_62_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss the steps in mathematical analysis for recursive algorithm. Do the same for finding the factorial of a number?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2019_62_q2_s2",
+          "subNumber": "b",
+          "text": "What are the rules of manipulate Big-Oh expression? Write about the typical growth rates of algorithms.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2019_62_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2019_62_q3_s1",
+          "subNumber": "a",
+          "text": "What are the advantages of merge-sort over the quick-sort algorithm?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2019_62_q3_s2",
+          "subNumber": "b",
+          "text": "What is the time complexity of the matrix multiplication and Strassen's algorithm?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2019_62_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2019_62_q4_s1",
+          "subNumber": "a",
+          "text": "Prove that if \\( f_1(n) = O(g_1(n)) \\) and \\( f_2(n) = O(g_2(n)) \\), then \\( f_1(n)+f_2(n) = O(g_1(n)+g_2(n)) \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2019_62_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2019_62_q5_s1",
+          "subNumber": "a",
+          "text": "What is the relationship among P, NP and NP complete problems? Show with the help of a diagram.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_daa_2019_62_q5_s2",
+          "subNumber": "b",
+          "text": "Compare the various programming paradigms such as divide-and-conquer, dynamic programming and greedy approach.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2019_62_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2019_62_q6_s1",
+          "subNumber": "a",
+          "text": "Consider the array A = {26, 17, 41, 14, 21, 30, 47, 10, 16, 19, 21, 28, 38, 7, 12, 14, 20, 35, 39, 3}. Create binary search tree with one more attributes its size of node. Retrieve 17th smallest element in the tree and rank the 12th element.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2019_62_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2019_62_q7_s1",
+          "subNumber": "a",
+          "text": "What do you mean by optimal solution in greedy approach? Define the properties and function of greedy approach. Consider a graph \\( G=(V,E) \\) and find the minimum spanning tree by Prim's algorithms.",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/212.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2019_62_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2019_62_q8_s1",
+          "subNumber": "a",
+          "text": "Explain back-tracking, DFS and BFS with help of small example. Differentiate in between backtracking and dynamic programming. Apply the backtracking algorithm to solve the three-colouring problem for the graph using state space tree. Assume three colours red, green and blue.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/211.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2019_62_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2019_62_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "id": "sem2_be_2021_16",
+  "semester": 2,
+  "subject_code": "be",
+  "subject_name": "Basic Electronics",
+  "year": "2021",
+  "exam_code": "100303",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 3rd Semester Exam., 2021 (New Course) BASIC ELECTRONICS ENGINEERING Time: 03 Hours Code: 100303 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 4,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_be_2021_16_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following questions (any seven) :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2021_16_q1_s1",
+          "subNumber": "a",
+          "text": "Derive the relation between \\( \\beta \\) and \\( \\alpha \\) of a transistor. What is reverse leakage current in CE configuration?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2021_16_q1_s2",
+          "subNumber": "b",
+          "text": "What is modulation index in AM?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2021_16_q1_s3",
+          "subNumber": "c",
+          "text": "What is the concept of frequency reuse in cellular network?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2021_16_q1_s4",
+          "subNumber": "d",
+          "text": "What is the use of offset null input in the operational amplifier? How are they used?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2021_16_q1_s5",
+          "subNumber": "e",
+          "text": "Why is negative feedback desired in amplifier application?",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_be_2021_16_q1_s6",
+          "subNumber": "f",
+          "text": "Emitter bias or self-bias is more stable than fixed bias. Justify.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2021_16_q1_s7",
+          "subNumber": "g",
+          "text": "Explain how the process of avalanche breakdown occurs in a P-N junction diode. How is it different from Zener breakdown?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2021_16_q1_s8",
+          "subNumber": "h",
+          "text": "Justify that \\( \\overline{m}_j = M_j \\) where \\( m_j \\) and \\( M_j \\) are th minterm (product term) and maxterm (sum term) respectively.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2021_16_q1_s9",
+          "subNumber": "i",
+          "text": "Mention the disadvantages of Wien bridge oscillator.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_be_2021_16_q1_s10",
+          "subNumber": "j",
+          "text": "Mention the applications of one-shot multivibrator.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2021_16_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2021_16_q2_s1",
+          "subNumber": "a",
+          "text": "Draw the waveform of output voltage \\( V_0 \\) if input is square wave and explain the operation of circuit given below.",
+          "freq": 3,
+          "stars": "★★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/227.jpg"
+          ]
+        },
+        {
+          "id": "sem2_be_2021_16_q2_s2",
+          "subNumber": "b",
+          "text": "Calculate the \\( I_{RMS} \\), \\( I_{DC} \\), ripple factor, rectification efficiency and PIV of rectifier circuit given below.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/226.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2021_16_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2021_16_q3_s1",
+          "subNumber": "a",
+          "text": "For the network of figure given below, determine the following parameters using the approximate equivalent model: Voltage gain \\( A_v \\), Current gain \\( A_i \\), Input impedance \\( Z_i' \\) and \\( Z_i \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/229.jpg"
+          ]
+        },
+        {
+          "id": "sem2_be_2021_16_q3_s2",
+          "subNumber": "b",
+          "text": "Draw the circuit diagram of voltage-series feedback amplifier and derive the expression of closed-loop voltage gain.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2021_16_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2021_16_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the operation performed by circuit given below and derive the expression of output voltage \\( V_0 \\).",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/228.jpg"
+          ]
+        },
+        {
+          "id": "sem2_be_2021_16_q4_s2",
+          "subNumber": "b",
+          "text": "Op-amp can be used to subtract the DC voltages (subtraction operation). Draw the circuit and explain the operation of subtractor using op-amp in non-inverting mode.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2021_16_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2021_16_q5_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the GSM signalling protocol architecture.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_be_2021_16_q5_s2",
+          "subNumber": "b",
+          "text": "What is the need of modulation? Draw the wave shape of modulating signal, carrier signal and modulated wave in amplitude modulation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2021_16_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2021_16_q6_s1",
+          "subNumber": "a",
+          "text": "Draw the functional block diagram and explain the operation of monostable multi-vibrator using IC 555 timer.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_be_2021_16_q6_s2",
+          "subNumber": "b",
+          "text": "Draw the basic circuit of an R-C phase-shift oscillator and explain its operation. If \\( R_1 = R_2 = R_3 = 400 \\text{ k}\\Omega \\) and \\( C_1 = C_2 = C_3 = 50 \\text{ pF} \\), determine the frequency of oscillation in phase-shift oscillator.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2021_16_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2021_16_q7_s1",
+          "subNumber": "a",
+          "text": "Implement the function \\( F(A,B,C) = \\Sigma(1,3,4,6,7) \\) using \\( 8 \\times 1 \\) MUX. Use A, B and C as selection line in which C is LSB and A is MSB.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2021_16_q7_s2",
+          "subNumber": "b",
+          "text": "Design 3-bit binary incrementer/decrementer circuit with the help of gates. When inputs are 000 and control pin is low, output should be 111. When inputs are 111 and control pin is high, output should be 000. For other combinations of inputs, when control pin is high, output should be incremented by one and when control pin is low, output should be decremented by one.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2021_16_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2021_16_q8_s1",
+          "subNumber": "a",
+          "text": "Design a combinational circuit to check that two numbers \\( A = (A_3A_2A_1A_0) \\) and \\( B = (B_3B_2B_1B_0) \\) are equal with the help of gates. Output should be indicated by X. Output line X should be high if \\( A = B \\).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2021_16_q8_s2",
+          "subNumber": "b",
+          "text": "Design \\( 8 \\times 3 \\) priority encoder with the help of basic gates.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_be_2021_16_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_be_2021_16_q9_s1",
+          "subNumber": "a",
+          "text": "Compare the function and architecture of microprocessor and microcontroller.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_be_2021_16_q9_s2",
+          "subNumber": "b",
+          "text": "Draw the input-output and transfer characteristics of CE amplifier.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

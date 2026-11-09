@@ -1,0 +1,330 @@
+{
+  "id": "sem3_geotech1_2022_67",
+  "semester": 3,
+  "subject_code": "geotech1",
+  "subject_name": "Geotechnical Engineering -I",
+  "year": "2022",
+  "exam_code": "101503",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2022 Geotechnical Engineering - I Time: 03 Hours Code: 101503 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_geotech1_2022_67_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2022_67_q1_s1",
+          "subNumber": "a",
+          "text": "Lacustrine soil is a",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "soil deposited in sea",
+            "wind borne soil",
+            "soil deposited in lake",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q1_s2",
+          "subNumber": "b",
+          "text": "The hydraulic head that would produce a quick sand condition in a sand stratum of thickness 1.5 m having specific gravity as 2.67 and voids ratio as 0.67 is equal to.",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "1 m",
+            "1.5 m",
+            "2.0 m",
+            "3.0 m"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q1_s3",
+          "subNumber": "c",
+          "text": "Which of the following statement are true about quick sand condition?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It is only a condition but not a type of sand.",
+            "It is condition and type of sand too.",
+            "Quick sand condition occurs more commonly in fine grained.",
+            "Quick sand condition reaches when critical hydraulic gradient is less than unity."
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q1_s4",
+          "subNumber": "d",
+          "text": "The void ratio of a soil mass can",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Never be greater than 1",
+            "Be zero",
+            "Any value greater than zero",
+            "0 to 1"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q1_s5",
+          "subNumber": "e",
+          "text": "In hydrometer analysis for a soil mass",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Both meniscus correction and dispersing agent correction are negative.",
+            "Both meniscus correction and dispersing agent correction are positive.",
+            "Meniscus correction is positive while dispersing agent correction is negative.",
+            "Meniscus correction is negative while dispersing agent correction is positive."
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q1_s6",
+          "subNumber": "f",
+          "text": "The Westergaard's analysis is used for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Homogeneous soils",
+            "Cohesive soils",
+            "Sandy soil",
+            "Stratified soils"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q1_s7",
+          "subNumber": "g",
+          "text": "Group symbols assigned to silty sand and clayey sand are respectively",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "SS &amp; CS",
+            "SM &amp; CS",
+            "SM &amp; SC",
+            "MS &amp; CS"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q1_s8",
+          "subNumber": "h",
+          "text": "Toughness Index of a soil is the ratio of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Plasticity index to the flow index",
+            "Liquidity index to the flow index",
+            "Consistency index to the flow index",
+            "Shrinkage index to the flow index"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q1_s9",
+          "subNumber": "i",
+          "text": "An isobar is a curve which",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Joins points of equal horizontal stress",
+            "Joins points of equal vertical stress",
+            "Joins points of zero vertical stress",
+            "Joins points of maximum vertical stress"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q1_s10",
+          "subNumber": "j",
+          "text": "The water of a highly organic soil is determined in an over a temperature of:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "105°C",
+            "80°C",
+            "60°C",
+            "27°C"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2022_67_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2022_67_q2_s1",
+          "subNumber": "a",
+          "text": "What do you understand by contact pressure? Draw the contact pressure distribution diagram for flexible and rigid footing on sand and clay.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q2_s2",
+          "subNumber": "b",
+          "text": "Calculate the vertical stress at a point P at a depth of 2.5 m directly under the centre of the circular area of radius 2 m and subjected to a load of 100 kN/m². Also calculate the vertical stress at a point Q which is at the same depth of 2.5 m and 2.5 m away from the centre of the loaded area.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2022_67_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2022_67_q3_s1",
+          "subNumber": "a",
+          "text": "Define Thixotropy, sensitivity and activity number",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q3_s2",
+          "subNumber": "b",
+          "text": "A well penetrates into an unconfined aquifer having a saturated depth of 100 m. The discharge is 250 lit/min at 12 m drawdown. Assuming equilibrium flow conditions and homogenous aquifer, estimate the discharge at 18 m drawdown.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2022_67_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2022_67_q4_s1",
+          "subNumber": "a",
+          "text": "A horizontal stratified deposit consists of four layers each uniform in itself. The permeability of the layers are \\( 7.5 \\times 10^{-4} \\text{ cm/sec} \\), \\( 49 \\times 10^{-4} \\text{ cm/sec} \\), \\( 13 \\times 10^{-1} \\text{ cm/sec} \\) and \\( 17 \\times 10^{-4} \\text{ cm/sec} \\) and their thickness are 5 m, 4 m, 17 m and 6 m respectively. Find the effective average permeability of the deposit in horizontal and vertical directions.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q4_s2",
+          "subNumber": "b",
+          "text": "A fill having a volume 10,00,000 cubic meters is to be constructed at a void ratio of 0.73. The soil is required to be excavated from a pit having a void ratio of 1.2. Estimate the volume of excavated soil from the borrow pit in cubic meters and also find the number of trips required by a truck if its load-carrying capacity is 20,000 cubic meters.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2022_67_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2022_67_q5_s1",
+          "subNumber": "a",
+          "text": "A natural soil deposit has a bulk unit weight of 18.44 kN/m³ and water content of 5%. Calculate the amount of water required to be added to 1 cubic metre of soil to raise the water content to 15%. Assume the void ratio to remain constant. What will be the degree of saturation. Assume G=2.67.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q5_s2",
+          "subNumber": "b",
+          "text": "Briefly describe the factors affecting compaction?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2022_67_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2022_67_q6_s1",
+          "subNumber": "a",
+          "text": "Explain Newmark's influence chart preparation and usage.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q6_s2",
+          "subNumber": "b",
+          "text": "From the flow net diagram drawn for seepage flow through an earthen dam, the following data is obtained: Number of flow lines = 3.5; Number equi-potential drops = 10, Coefficient of permeability = \\( 1.25 \\times 10^{-5} \\text{ cm/sec} \\) and head causing seepage flow, h = 12.5 m. Compute the seepage through the body of the dam per unit length.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2022_67_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2022_67_q7_s1",
+          "subNumber": "a",
+          "text": "A core cutter 12.6 cm in height and 10.2 cm in diameter weights 1071 gm when empty. It is used to determine the in-situ unit weight of an embankment. The weight of core cutter with soil is 2970 gm. (i) If the water content is 6%, what are the in-situ dry weight and porosity? (ii) If the embankment gets fully saturated due to heavy rains what will be the increase in water content and bulk unit weight, if no volume change occurs? The specific gravity of soils solids is 2.69.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q7_s2",
+          "subNumber": "b",
+          "text": "The values of liquid limit, plastic limit and shrinkage limit of soil were reported as: \\( W_L = 60\\% \\), \\( W_P = 30\\% \\), \\( W_S = 20\\% \\). If a sample of this soil at liquid limit has a volume of 40 cc and its volume measured at shrinkage limit was 23.5 cc, determine the specific gravity of the solids. What is the shrinkage ratio and volumetric shrinkage?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2022_67_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2022_67_q8_s1",
+          "subNumber": "a",
+          "text": "Explain briefly the coarse grained and fine grained soil classification system as per Indian Standard.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2022_67_q8_s2",
+          "subNumber": "b",
+          "text": "A sample of clay was coated with paraffin wax and its mass, including the mass of wax, was found to be 697.5 gm. The sample was immersed in water and the volume of the water displaced was found to be 355 ml. The mass of the sample without wax was 690.0 gm and the water content of the representative specimen was 18%. Determine the bulk density, dry density, void ratio and the degree of saturation. The specific gravity of the solids was 2.70 and that of the wax was 0.89.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2022_67_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2022_67_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

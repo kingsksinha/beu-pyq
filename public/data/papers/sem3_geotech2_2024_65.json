@@ -1,0 +1,337 @@
+{
+  "id": "sem3_geotech2_2024_65",
+  "semester": 3,
+  "subject_code": "geotech2",
+  "subject_name": "Geotechnical Engineering-II",
+  "year": "2024",
+  "exam_code": "101606",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Examination, 2024 Geotechnical Engineering - II Time: 03 Hours Code: 101606 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 1,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_geotech2_2024_65_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech2_2024_65_q1_s1",
+          "subNumber": "a",
+          "text": "The consolidation process is most significant in which type of soil?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Sandy soil",
+            "Clayey soil",
+            "Gravelly soil",
+            "Silty soil"
+          ]
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is common test used to determine the consolidation properties of soil?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Atterberg limit test",
+            "Standard proctor test",
+            "Oedometer test",
+            "Sieve analysis"
+          ]
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q1_s3",
+          "subNumber": "c",
+          "text": "The Mohr-Coulomb failure criterion is used to describe-",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The permeability of soil",
+            "The consolidation of soil",
+            "The relationship between shear strength and normal stress",
+            "The relationship between stress and strain in soils"
+          ]
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q1_s4",
+          "subNumber": "d",
+          "text": "What effect does an increase in moisture have on the shear strength of clay soils?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Increases shear strength",
+            "Decreases shear strength",
+            "Has no effect",
+            "Doubles the shear strength"
+          ]
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q1_s5",
+          "subNumber": "e",
+          "text": "The most common type of slope failure is-",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Rockfall",
+            "Earthfall",
+            "Rotational Slide",
+            "Translational Slide"
+          ]
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following conditions is likely to lead to increased slope instability?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Dry weather conditions",
+            "Heavy rainfall or snowmelt",
+            "Deep rooted vegetation",
+            "Low slope angles"
+          ]
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q1_s7",
+          "subNumber": "g",
+          "text": "What the importance of determining the groundwater level during soil exploration?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "It affects soil fertility",
+            "It influences the effective stress and shear strength of the soil",
+            "It helps in plant selection",
+            "It is irrelevant for construction purposes"
+          ]
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q1_s8",
+          "subNumber": "h",
+          "text": "Geophysical methods in soil exploration include-",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Soil boring",
+            "Seismic &amp; resistivity surveys",
+            "Cone penetration testing",
+            "Sieve analysis"
+          ]
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following is NOT typically a part of a soil exploration report?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Soil stratigraphy",
+            "Groundwater levels",
+            "Soil nutrient content",
+            "Engineering recommendations"
+          ]
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q1_s10",
+          "subNumber": "j",
+          "text": "Which of the following is NOT a method to calculate earth pressure?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Rankine's theory",
+            "Mohr-Coulomb failure criterion",
+            "Coulomb's theory",
+            "Boussinesq's equation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech2_2024_65_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech2_2024_65_q2_s1",
+          "subNumber": "a",
+          "text": "What do you mean by soil consolidation? Also enlist primary factors affecting soil consolidation?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q2_s2",
+          "subNumber": "b",
+          "text": "For a soil undergoing consolidation. Initial void ratio = 0.7; Final void ratio = 0.5; Thickness of the clay layer = 5m; Specific weight of water = 9.81 kN/m³. Calculate: (i) The change in void ratio (ii) The primary consolidation settlement",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech2_2024_65_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech2_2024_65_q3_s1",
+          "subNumber": "a",
+          "text": "What is shear strength of soil and write down the factors affecting the shear strength of soil and their significance in geotechnical engineering.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q3_s2",
+          "subNumber": "b",
+          "text": "A tri-axial test is conducted on a saturated clay sample. The following data is obtained: Cell pressure = 100 kPa and Deviator stress at failure = 250 kPa. Calculate: (i) The effective normal stress at failure. (ii) The shear strength parameters cohesion and angle of internal friction assuming a linear Mohr-Coulomb failure envelope.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech2_2024_65_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech2_2024_65_q4_s1",
+          "subNumber": "a",
+          "text": "What are the main factors affecting slope stability? Also explain the role of shear strength in slope stability?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q4_s2",
+          "subNumber": "b",
+          "text": "A slope of height 12 m has a unit weight of soil of 18 kN/m³, cohesion of 15 kPa, and an internal friction angle of 28 degrees. An external load is applied at the top of the slope. Calculate the factor of safety.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech2_2024_65_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech2_2024_65_q5_s1",
+          "subNumber": "a",
+          "text": "What methods are commonly used in soil exploration? Also explain what are the factors that influence the choice of soil exploration methods? Describe common testing methods.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q5_s2",
+          "subNumber": "b",
+          "text": "A soil layer is located at a depth of 5 m with a total stress of 100 kPa. The groundwater table is at 2 m depth, and the unit weight of the soil is 18 kN/m³. Calculate the effective stress at the depth of 5 m.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech2_2024_65_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech2_2024_65_q6_s1",
+          "subNumber": "a",
+          "text": "Discuss the significance of consolidation in geotechnical engineering and its practical applications.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q6_s2",
+          "subNumber": "b",
+          "text": "A saturated clay layer has a thickness 4m and a coefficient of consolidation \\( (C_v) \\) of \\( 1 \\times 10^{-5} \\text{ m}^2/\\text{s} \\). A load of 100 kPa is applied on top of this layer. Assuming one-dimensional conditions, estimate the time required for 50% consolidation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech2_2024_65_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech2_2024_65_q7_s1",
+          "subNumber": "a",
+          "text": "Explain how laboratory tests are used to determine the shear strength of soil and describe the methods used for slope stability analysis.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q7_s2",
+          "subNumber": "b",
+          "text": "A direct shear test is performed on a sandy soil sample. The following data are recorded: Normal stress applied = 150 kPa, Shear force at failure = 90 kN, Area of the shear box = 0.6 m². Calculate: 1. The shear stress at failure. 2. The effective stress if the pore water pressure at failure is 20 kPa. 3. The cohesion and angle of internal friction using the Mohr-Coulomb failure criterion.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech2_2024_65_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech2_2024_65_q8_s1",
+          "subNumber": "a",
+          "text": "Describe the methods used for slope stability analysis and explain the wedge failure Swedish circle method in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q8_s2",
+          "subNumber": "b",
+          "text": "A slope of height H = 10 m consists of saturated clay with the following properties: Cohesion = 25 kPa, Angle of internal friction = 15°. Assume the slope is inclined at an angle \\( \\beta = 30^{\\circ} \\). Calculate the Factor of Safety (FOS) using the limit equilibrium method. For simplicity, assume a planar failure surface.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech2_2024_65_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech2_2024_65_q9_s1",
+          "subNumber": "a",
+          "text": "What is the purpose of soil instrumentation? Also enlist instruments that are commonly used in soil mechanics?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech2_2024_65_q9_s2",
+          "subNumber": "b",
+          "text": "Write short notes on any two of the following:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

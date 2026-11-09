@@ -1,0 +1,393 @@
+{
+  "id": "sem1_bee_2021_88",
+  "semester": 1,
+  "subject_code": "bee",
+  "subject_name": "Basic Electrical Engineering",
+  "year": "2021",
+  "exam_code": "100101",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 1st Semester Exam., 2021 (New Course) Basic Electrical Engineering Time: 3 hours Code: 100101 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 34,
+  "max_freq": 6,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_bee_2021_88_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_88_q1_s1",
+          "subNumber": "a",
+          "text": "In an AC series R-L-C circuit, the voltage across R and L is 20 V, voltage across L and C is 9 V and voltage across R-L-C is 15 V. What is the voltage across C?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "21 V",
+            "16 V",
+            "12 V",
+            "7 V"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_88_q1_s2",
+          "subNumber": "b",
+          "text": "The salient type of alternator is used in which of the following power stations?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Steam power plants",
+            "Nuclear power plants",
+            "Hydropower plants",
+            "Diesel power plants"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_88_q1_s3",
+          "subNumber": "c",
+          "text": "A single-phase AC voltage source has 200 V r.m.s. and is connected to a system which consumes an active power of 300 W. What is the reactive power consumed by the system, if 2.5 A r.m.s. current is drawn?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "100 VAR",
+            "200 VAR",
+            "300 VAR",
+            "400 VAR"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_88_q1_s4",
+          "subNumber": "d",
+          "text": "The maximum power will be transferred from a voltage source to a load when",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "the source impedance is half of the load impedance",
+            "the source impedance is equal to the load impedance",
+            "the source impedance is twice that of the load impedance",
+            "the source impedance and load impedance both must be zero"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_88_q1_s5",
+          "subNumber": "e",
+          "text": "The condition for maximum efficiency in a transformer is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "the core losses should be equal to friction and windage losses",
+            "the copper losses equal to mechanical losses",
+            "the core losses equal to copper losses",
+            "the copper losses should be equal to half of the core losses"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_88_q1_s6",
+          "subNumber": "f",
+          "text": "The unit of magnetic flux density is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Wb",
+            "\\(\\mathrm{Wb/m^2}\\)",
+            "\\(\\mathrm{A/m^2}\\)",
+            "AT"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_88_q1_s7",
+          "subNumber": "g",
+          "text": "The supply frequency of a transformer is increased, the rating of the transformer would have been",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "decreased",
+            "not changed",
+            "increased",
+            "equal to maximum kVA rating"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_88_q1_s8",
+          "subNumber": "h",
+          "text": "A series circuit contains a resistance of \\(4\\,\\Omega\\) and inductance of 0.5H and a variable capacitor across a 100V, 50Hz supply. What would be the voltage across an inductor?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "4568V",
+            "3925V",
+            "1250V",
+            "580V"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_88_q1_s9",
+          "subNumber": "i",
+          "text": "In an induction motor, if the air gap increased",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "its speed will reduce",
+            "its efficiency will improve",
+            "its power factor will reduce",
+            "its maximum torque will reduce"
+          ]
+        },
+        {
+          "id": "sem1_bee_2021_88_q1_s10",
+          "subNumber": "j",
+          "text": "The pole of DC machine is laminated to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "reduce pulsation loss",
+            "reduce armature reaction",
+            "dissipate more heat",
+            "reduce iron weight"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_88_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_88_q2_s1",
+          "subNumber": "a",
+          "text": "A coil wire when connected to a DC supply of 100V takes a current of 10A. When it connected to an AC supply of 100V at a frequency of 50Hz, the current is 5A. Explain the difference and calculate the coefficient of self-inductance of the coil.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q2_s2",
+          "subNumber": "b",
+          "text": "The current in a circuit is given by \\((4.5+j12)\\,\\mathrm{A}\\) when the applied voltage is \\((100+j150)\\,\\mathrm{V}\\). Determine (i) the complex expression for the impedance stating whether it is inductive or capacitive, (ii) the power and (iii) the phase angle between the current and voltage.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q2_s3",
+          "subNumber": "c",
+          "text": "What is meant by the Q-factor of a series coil and what is the significance?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_88_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_88_q3_s1",
+          "subNumber": "a",
+          "text": "If a coil of unknown resistance and reactance is connected in series with a 100 V, 50 Hz supply, the current locus diagram is found to have a diameter of 5 A and when the value of series resistor is 15 Ω, the power dissipated is maximum. Calculate the reactance and resistance of the coil and the value of maximum power in the circuit and the maximum current.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q3_s2",
+          "subNumber": "b",
+          "text": "Three similar coils, each of resistance 20 Ω and inductance 0.5 H are connected in (i) star and (ii) delta to a 3-φ, 50 Hz, 400 V supply. Calculate the line current and the total power consumed.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2021_88_q3_s3",
+          "subNumber": "c",
+          "text": "The admittance of a circuit is 0.03 - j0.04 mho. Find the values of the resistance and inductive reactance of the circuit, if they are joined (i) in series and (ii) in parallel.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_88_q4",
+      "number": 4,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_88_q4_s1",
+          "subNumber": "a",
+          "text": "Describe the properties of zinc chloride and mercury battery cell types.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2021_88_q4_s2",
+          "subNumber": "b",
+          "text": "Describe the properties of fuse and its limitations.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_bee_2021_88_q4_s3",
+          "subNumber": "c",
+          "text": "What are various factors to be considered for the calculations of energy consumption?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_88_q5",
+      "number": 5,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_88_q5_s1",
+          "subNumber": "a",
+          "text": "When a transformer is connected to a 1000 V, 50 Hz supply, the core loss is 1000 W of which 650 is hysteresis and 350 is eddy current loss. If the applied voltage is raised to 2000 V and frequency to 100 Hz, what could be the new core losses?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the star-delta connection of three-phase transformer by assuming step-down mode. Draw the phasor diagram of line and phase voltages.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q5_s3",
+          "subNumber": "c",
+          "text": "The primary resistance of a transformer is 0.1 Ω and its leakage reactance is 0.8 Ω. When the applied voltage is 1000 V, the primary current is 50 A at a lagging power factor of 0.6. Find the primary induced e.m.f.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_88_q6",
+      "number": 6,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_88_q6_s1",
+          "subNumber": "a",
+          "text": "Derive the e.m.f. equation of a DC generator.",
+          "freq": 6,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_bee_2021_88_q6_s2",
+          "subNumber": "b",
+          "text": "A 6 pole, 40 Hz, three-phase induction motor running on full-load with 4% slip develops a torque of 149.3 N·m at its shaft. The friction and windage losses are 200 W and the stator core and copper losses are 1620 W. Calculate— (i) the total output power; (ii) the rotor copper losses; (iii) the efficiency at full load.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q6_s3",
+          "subNumber": "c",
+          "text": "Explain the speed control of separately excited DC motor above and below its rated speed.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_88_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_88_q7_s1",
+          "subNumber": "a",
+          "text": "What is the necessity of damper winding in an alternator? Describe the constructional details of the damper winding.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q7_s2",
+          "subNumber": "b",
+          "text": "Is it possible for the rotor to run at synchronous speed? Explain your answer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q7_s3",
+          "subNumber": "c",
+          "text": "Compare the lap winding and wave winding of a DC motor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q7_s4",
+          "subNumber": "d",
+          "text": "Derive an expression for the torque developed by DC motor.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_88_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_88_q8_s1",
+          "subNumber": "a",
+          "text": "An iron ring, cross-sectional area of 5 \\(\\mathrm{cm^2}\\) and mean length of 100 cm, has an air gap of 2 mm cut in it. Three separate coils having 100, 200 and 300 turns are wound on the ring and carry currents of 1 A, 2.5 A and 3 A, respectively such that they produce additive fluxes in the ring. Relative permeability of the ring material is 1000. Calculate the flux in the air gap.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q8_s2",
+          "subNumber": "b",
+          "text": "Explain the nature and direction of force between two parallel current-carrying conductors.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q8_s3",
+          "subNumber": "c",
+          "text": "A conductor of length 10 cm carrying 5 A is placed in a uniform magnetic field of flux density 1.25 tesla. Find the force acting on the conductor, if it is placed (i) along the lines of magnetic flux and (ii) perpendicular to the lines of flux.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_bee_2021_88_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_bee_2021_88_q9_s1",
+          "subNumber": "a",
+          "text": "A resistance of 10 Ω is connected in series with the two resistances each of 15 Ω arranged in parallel. What resistance must be shunted across this parallel combination so that the total current taken will be 1.5 A from 20 V applied?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_bee_2021_88_q9_s2",
+          "subNumber": "b",
+          "text": "State and explain the procedure of Thevenin's theorem and Norton's theorem.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

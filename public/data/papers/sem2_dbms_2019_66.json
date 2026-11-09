@@ -1,0 +1,331 @@
+{
+  "id": "sem2_dbms_2019_66",
+  "semester": 2,
+  "subject_code": "dbms",
+  "subject_name": "Database Management Systems",
+  "year": "2019",
+  "exam_code": "051509",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2019 Database System Time: 3 hours Code: 051509 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_dbms_2019_66_q1",
+      "number": 1,
+      "title": "Q.1 Answer the following as directed (any seven) :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2019_66_q1_s1",
+          "subNumber": "a",
+          "text": "_____ play an important role in defining and maintaining a database for an organization. (Fill in the blank)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2019_66_q1_s2",
+          "subNumber": "b",
+          "text": "The strong entity type and weak entity type participate in _____ relationship. (Fill in the blank)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2019_66_q1_s3",
+          "subNumber": "c",
+          "text": "A level that describes how a record is stored is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "physical",
+            "logical",
+            "user",
+            "view"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2019_66_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following is true?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Every relation in 3NF is also in BCNF",
+            "A relation R is in 3NF if very non-prime attribute of R is fully functionally dependent on every key of R",
+            "Every relation in BCNF is also in 3NF",
+            "No relation can be in both BCNF and 3NF"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2019_66_q1_s5",
+          "subNumber": "e",
+          "text": "Consider the relation scheme R={E,F,G,H,I,J,K,L,M,N} and the set of functional dependencies \\( \\{E,F\\} \\rightarrow \\{G\\} \\), \\( \\{F\\} \\rightarrow \\{I,J\\} \\), \\( \\{E,H\\} \\rightarrow \\{K, L\\} \\), \\( \\{K\\} \\rightarrow \\{M\\} \\), \\( \\{L\\} \\rightarrow \\{N\\} \\) on R. What is the key for R?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "{E, F}",
+            "{E, F, H}",
+            "{E, F, H, K, L}",
+            "{E}"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2019_66_q1_s6",
+          "subNumber": "f",
+          "text": "Given the Students' relation as shown below (StudentName, StudentAge) to be the key for this instance, the value X should not be equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "18",
+            "19",
+            "15",
+            "20"
+          ],
+          "images": [
+            "img/beu/diagram/2nd3rd/208.jpg"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2019_66_q1_s7",
+          "subNumber": "g",
+          "text": "From the instance of a relation scheme R (A, B, C) we can conclude that",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A functionally determines B and B does not functionally determine C",
+            "B does not functionally determine C",
+            "A does not functionally determine B and B does not functionally determine C",
+            "A functionally determines B and B functionally determines C"
+          ],
+          "images": [
+            "img/beu/diagram/2nd3rd/207.jpg"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2019_66_q1_s8",
+          "subNumber": "h",
+          "text": "Date base is generally",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "system centered",
+            "user centered",
+            "company centered",
+            "data centered"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2019_66_q1_s9",
+          "subNumber": "i",
+          "text": "The restriction placed on data is said to be",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "relation",
+            "attribute",
+            "parameter",
+            "constraint"
+          ]
+        },
+        {
+          "id": "sem2_dbms_2019_66_q1_s10",
+          "subNumber": "j",
+          "text": "An object in databases is equal to _____ + relationships.",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "data",
+            "attribute",
+            "entity",
+            "constraint"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2019_66_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2019_66_q2_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the three-level architecture of the database system.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2019_66_q2_s2",
+          "subNumber": "b",
+          "text": "Compare the traditional file-based systems and relational database management system approaches.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2019_66_q3",
+      "number": 3,
+      "title": "Q.3 Solve all questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2019_66_q3_s1",
+          "subNumber": "a",
+          "text": "What is a view? Can we update a view? Justify your answer.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2019_66_q3_s2",
+          "subNumber": "b",
+          "text": "When we try to modify any table in database system, we encounter some side-effects if the tables are insufficiently normalized. Can you explain those side-effects with the respective examples?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2019_66_q3_s3",
+          "subNumber": "c",
+          "text": "List out various constraints in relational model and explain in short.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2019_66_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2019_66_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss the correspondence between E-R model construct and the relation model construct. Show how each E-R model construct can be append to the relational model using the following description of an organization: An organization uses number of items of an equipment to produce goods. Each item is at one LOCATION, of one TYPE and has a DETAILED_DISCRIPTION. Faults on the equipment are identified by a unique FAULT_ID and are reported at a TIME_REPORTED. Any number of persons may be assigned to a fault and work on the fault until it is fixed. The TIME_FIXED is recorded as the TIME_SPENT by each person on a fault. Any number of parts may be used to repair a fault. The QTY_USED of each part is recorded against the fault. Each part is identified by a PART_ID and has a given weight and MAX_DIMENSION and can have any number of colors.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2019_66_q4_s2",
+          "subNumber": "b",
+          "text": "Write a short note on types of attributes and their representation in E-R model with neat figures.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2019_66_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2019_66_q5_s1",
+          "subNumber": "a",
+          "text": "Considering the following schema, create the appropriate tables and insert at least 5 records: <br/> AUTHOR (author-id, name, city, country)<br/> PUBLISHER (publisher-id, name, city, country)<br/> CATALOG (book-id, title, author-id, publisher-id, category-id, year, price)<br/> CATEGORY (category-id, description)<br/> ORDER-DETAILS (order-no, book-id, quantity)<br/> Write each of the following queries in SQL and relational algebra :<br/> (a) Obtain the names of authors who have 2 or more books in the catalog.<br/> (b) Find the author of the book which has maximum sales.<br/> (c) Obtain the names of author who have maximum number of publisher.<br/> (d) Obtain the name of the city, author, publisher where publisher and author belong to same city.<br/> (e) Obtain the title of books which has maximum sales.<br/> (f) Obtain the book-id, description for the author who have exactly 3 books in the catalog.<br/> (g) Obtain the author and publisher who have published books in more than or equal to 2 categories.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2019_66_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2019_66_q6_s1",
+          "subNumber": "a",
+          "text": "You are given the following set F of functional dependencies for a relation: \\( R(A,B,C,D,E,F):F=\\{ABC\\rightarrow D, AB \\rightarrow DE, CD\\rightarrow F, \\) \\( CDF\\rightarrow B, BF \\rightarrow D\\} \\)<br/> (i) Find all keys of R based on these functional dependencies.<br/> (ii) Is this relation in Boyce-Codd normal form? Is it 3NF? Explain your answer.<br/> (iii) Can the set F be simplified (by removing functional dependencies or by removing attributes from the left-hand side of functional dependencies) without changing the closure of F (i.e. F+)?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2019_66_q6_s2",
+          "subNumber": "b",
+          "text": "Compute the closure of the following set F of functional dependencies for relation schema: \\( R=(A,B,C,D,E).A\\rightarrow BC,CD\\rightarrow E,B\\rightarrow D,E\\rightarrow A \\). List the candidate keys for R.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2019_66_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2019_66_q7_s1",
+          "subNumber": "a",
+          "text": "What is the need of normalization? How many types of normalization exist? Explain in detail with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2019_66_q7_s2",
+          "subNumber": "b",
+          "text": "What is trigger? When are they used and why? Explain.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2019_66_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2019_66_q8_s1",
+          "subNumber": "a",
+          "text": "For the following set of key values construct a B+ tree with a degree 4: 5, 10, 15, 29, 35, 46, 58, 63, 67, 89. Initially tree is empty. Values must be added in ascending order. Show the step-by-step construction.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2019_66_q8_s2",
+          "subNumber": "b",
+          "text": "What is multilevel indexing? Explain in detail.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_dbms_2019_66_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_dbms_2019_66_q9_s1",
+          "subNumber": "a",
+          "text": "What is two-phase locking protocol? Explain its working in detail. How can it guarantee serializability?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_dbms_2019_66_q9_s2",
+          "subNumber": "b",
+          "text": "Discuss the various approaches for handling the deadlocks in dbms.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

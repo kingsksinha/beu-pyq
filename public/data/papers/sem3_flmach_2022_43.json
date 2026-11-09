@@ -1,0 +1,351 @@
+{
+  "id": "sem3_flmach_2022_43",
+  "semester": 3,
+  "subject_code": "flmach",
+  "subject_name": "Fluid Machinery",
+  "year": "2022",
+  "exam_code": "102501",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2022 Fluid Machinery Time: 03 Hours Code: 102501 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 28,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_flmach_2022_43_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven questions only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2022_43_q1_s1",
+          "subNumber": "a",
+          "text": "Where is a water hammer developed?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "Reservoir",
+            "Penstock",
+            "Turbine blades",
+            "Pipeline"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2022_43_q1_s2",
+          "subNumber": "b",
+          "text": "The force of impingement of a jet on a vane increases, if",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "the vane angle is increased",
+            "the vane angle is decreased",
+            "the pressure is reduced",
+            "the vane is moved against the jet"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2022_43_q1_s3",
+          "subNumber": "c",
+          "text": "The fluid coming into the centrifugal pump is accelerated by",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "throttle",
+            "impeller",
+            "nozzle",
+            "governor"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2022_43_q1_s4",
+          "subNumber": "d",
+          "text": "The overall efficiency of a reaction turbine is the ratio of",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "actual work available at the turbine to the energy imparted to the wheel",
+            "work done on the wheel to the energy (or head of water) actually supplied to the turbine.",
+            "power produced by the turbine to the energy actually supplied by the turbine",
+            "None of the above."
+          ]
+        },
+        {
+          "id": "sem3_flmach_2022_43_q1_s5",
+          "subNumber": "e",
+          "text": "A jet of water issues from a nozzle with a velocity of \\( 20~m/s \\) and it impinges normally on a flat plate moving away from it at \\( 10~m/s \\). If the cross-sectional area of the jet is \\( 0.02~m^2 \\) and the density of water is taken as \\( 1000~kg/m^3 \\), then the force developed on the plate will be",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "10 N",
+            "100 N",
+            "1000 N",
+            "2000 N"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2022_43_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following turbine has least efficiency",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "Pelton turbine",
+            "Kaplan turbine",
+            "Francis turbine",
+            "Propeller turbine"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2022_43_q1_s7",
+          "subNumber": "g",
+          "text": "The unit speed \\( N_u \\) of a turbine having a rotational speed of \\( N \\) and head \\( H \\) is equal to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( NH \\)",
+            "\\( N/H^{0.5} \\)",
+            "\\( HN \\)",
+            "\\( (H/N)^{0.5} \\)"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2022_43_q1_s8",
+          "subNumber": "h",
+          "text": "What does Euler's equation of turbo machines relate to?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Discharge and head",
+            "Discharge and velocities",
+            "Head and power",
+            "Head and velocities"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2022_43_q1_s9",
+          "subNumber": "i",
+          "text": "Without residual whirl in the flow at the entrance to a draft tube, the best cone angle is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 10^{\\circ} \\)",
+            "\\( 12^{\\circ} \\)",
+            "\\( 8^{\\circ} \\)",
+            "\\( 24^{\\circ} \\)"
+          ]
+        },
+        {
+          "id": "sem3_flmach_2022_43_q1_s10",
+          "subNumber": "j",
+          "text": "A centrifugal pump is started with its delivery valve kept",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "fully open",
+            "fully shut",
+            "partially open",
+            "50% open"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2022_43_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2022_43_q2_s1",
+          "subNumber": "a",
+          "text": "Show that the force exerted by a jet of water on moving inclined plane in the direction of jet is given by \\( F_x = \\rho a (V - u)^2 \\sin^2 \\theta \\) <br/> Where, \\( a = \\) area of jet, \\( \\theta = \\) inclination of the plate with the jet and \\( V = \\) velocity of jet",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem3_flmach_2022_43_q2_s2",
+          "subNumber": "b",
+          "text": "Show the general layout of a hydro-electric power plant and explain each component in brief.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2022_43_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2022_43_q3_s1",
+          "subNumber": "a",
+          "text": "What is a hydraulic turbine? How are they classified? With the help of neat sketch, explain the construction and working of a Pelton wheel turbine.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_flmach_2022_43_q3_s2",
+          "subNumber": "b",
+          "text": "An inward flow reaction turbine has external and internal diameters as 1 m and 0.5 m respectively. The turbine is running at 200 r.p.m. and width of turbine at inlet is 200 mm. The velocity of flow through the runner is constant and is equal to \\( 1.8~m/s \\). The guide blades make an angle of \\( 10^{\\circ} \\) to the tangent of the wheel and the discharge at the outlet of the turbine is radial. Calculate all velocity vectors and draw the inlet and outlet velocity triangles. Also calculate mass flow through the runner/second, power developed and hydraulic efficiency.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2022_43_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2022_43_q4_s1",
+          "subNumber": "a",
+          "text": "Draw a schematic of a Francis turbine and explain briefly its construction and working.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_flmach_2022_43_q4_s2",
+          "subNumber": "b",
+          "text": "A turbine is to operate under a head of 28 m at 200 r.p.m. The discharge and overall efficiency of the turbine are \\( 8.5~m^3/s \\) and 89%, respectively. Determine (i) specific speed of the turbine, (ii) power generated and (iii) types of turbine.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2022_43_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2022_43_q5_s1",
+          "subNumber": "a",
+          "text": "Explain different component parts of a centrifugal pump.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_flmach_2022_43_q5_s2",
+          "subNumber": "b",
+          "text": "A centrifugal pump delivers water at the rate of 40 litres / sec for a total head of 30 m. Find the output of the pump. If the overall efficiency of the set consisting of the pump and the electric motor is 75%, find the power required to drive the motor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2022_43_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2022_43_q6_s1",
+          "subNumber": "a",
+          "text": "What is model analysis? What are the advantages and applications of model testing?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_flmach_2022_43_q6_s2",
+          "subNumber": "b",
+          "text": "A 1:8 model of 12 ft diameter turbine is operated at 600 r.p.m. under a net head of 54.0 ft. Under this mode of operation, the bhp and Q of the model were observed, to be 332 hp and 62 cfs, respectively. From the above data compute (i) the specific speed of the model and the value of \\( \\sigma \\) (ii) the efficiency and shaft torque of the model, (iii) the efficiency of the prototype, (iv) the flow rate and horsepower of the prototype if it is operated at 450 r.p.m. under a net head of 200 ft.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2022_43_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2022_43_q7_s1",
+          "subNumber": "a",
+          "text": "What are the causes of cavitation? How will you prevent the cavitation in hydraulic Machines?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2022_43_q7_s2",
+          "subNumber": "b",
+          "text": "Define Indicator diagram. How will you prove that area of indicator diagram is proportional to the work done by the reciprocating pump?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2022_43_q8",
+      "number": 8,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2022_43_q8_s1",
+          "subNumber": "a",
+          "text": "Governing of water turbine",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2022_43_q8_s2",
+          "subNumber": "b",
+          "text": "Draft Tube.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_flmach_2022_43_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_flmach_2022_43_q9_s1",
+          "subNumber": "a",
+          "text": "Turbine",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2022_43_q9_s2",
+          "subNumber": "b",
+          "text": "Specific speed of pump",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2022_43_q9_s3",
+          "subNumber": "c",
+          "text": "Priming of pump",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_flmach_2022_43_q9_s4",
+          "subNumber": "d",
+          "text": "Slip in reciprocating pump",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

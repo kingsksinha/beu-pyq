@@ -1,0 +1,249 @@
+{
+  "id": "sem2_de_2023_74",
+  "semester": 2,
+  "subject_code": "de",
+  "subject_name": "Digital Electronics",
+  "year": "2023",
+  "exam_code": "100403",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2023 Digital Electronics Time: 03 Hours Code: 100403 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 22,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_de_2023_74_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_74_q1_s1",
+          "subNumber": "a",
+          "text": "Draw Truth table of JK flip flop.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q1_s2",
+          "subNumber": "b",
+          "text": "Convert the Decimal number (108.025) to their binary equivalent.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_de_2023_74_q1_s3",
+          "subNumber": "c",
+          "text": "Draw the truth table and logic circuit of Half-adder.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_de_2023_74_q1_s4",
+          "subNumber": "d",
+          "text": "Write the difference between combinational &amp; Sequential circuit.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q1_s5",
+          "subNumber": "e",
+          "text": "Draw timing diagram of SR flip-flop.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q1_s6",
+          "subNumber": "f",
+          "text": "Find 2's complement of 1011011.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q1_s7",
+          "subNumber": "g",
+          "text": "Number of 2:1 mux requires designing 256:1 mux is",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q1_s8",
+          "subNumber": "h",
+          "text": "Add hexadecimal number 2ABC &amp; 98F2.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q1_s9",
+          "subNumber": "i",
+          "text": "Discuss Universal gates.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q1_s10",
+          "subNumber": "j",
+          "text": "What is the use of K-map?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_74_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_74_q2_s1",
+          "subNumber": "a",
+          "text": "Implement the following function using only NAND gate \\( F(A,B,C)=\\Sigma m(0,1,2,3,7) \\).",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_74_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_74_q3_s1",
+          "subNumber": "a",
+          "text": "Realize XNOR logic function using NAND gate only.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q3_s2",
+          "subNumber": "b",
+          "text": "Simplify \\( Y=ABC+AB\\overline{C}+A\\overline{B}C \\)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_74_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_74_q4_s1",
+          "subNumber": "a",
+          "text": "A logic circuit has four inputs A,B,C,D and output Y. Y=1 when A &amp; B are both 1, subjected to the condition that C and D are both low or both high. Design the logic circuit.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_74_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_74_q5_s1",
+          "subNumber": "a",
+          "text": "Explain Master-slave flip flop. What are race around condition?. How it can be circumvented with the help of Master-slave flip flop.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_74_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_74_q6_s1",
+          "subNumber": "a",
+          "text": "Design 8 to 3 line Encoder circuit.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q6_s2",
+          "subNumber": "b",
+          "text": "Implement NAND gate using TTL logic family.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_74_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_74_q7_s1",
+          "subNumber": "a",
+          "text": "Summarize the design procedure for a synchronous sequential circuit.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_74_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_74_q8_s1",
+          "subNumber": "a",
+          "text": "Explain the working of R-2R Ladder DAC.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q8_s2",
+          "subNumber": "b",
+          "text": "Design 3-bit binary counter using T flip-flop.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_de_2023_74_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_de_2023_74_q9_s1",
+          "subNumber": "a",
+          "text": "(a) Binary Parallel Adder",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_de_2023_74_q9_s2",
+          "subNumber": "b",
+          "text": "(b) Digital IC logic families",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    }
+  ]
+}

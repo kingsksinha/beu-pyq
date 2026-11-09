@@ -1,0 +1,337 @@
+{
+  "id": "sem3_env2_2024_38",
+  "semester": 3,
+  "subject_code": "env2",
+  "subject_name": "Environmental Engineering-II",
+  "year": "2024",
+  "exam_code": "101605",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Examination, 2024 Environmental Engineering-II Time: 03 Hours Code: 101605 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_env2_2024_38_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven questions only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2024_38_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is a primary treatment process in sewage treatment?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Biological filtration",
+            "Sedimentation",
+            "Chlorination",
+            "Activated sludge process"
+          ]
+        },
+        {
+          "id": "sem3_env2_2024_38_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is a potential source of sewage pollution?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Industrial discharge",
+            "Household wastewater",
+            "Agricultural runoff",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_env2_2024_38_q1_s3",
+          "subNumber": "c",
+          "text": "What is the role of anaerobic bacteria in sewage treatment?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "To break down organic matter without oxygen",
+            "To remove heavy metals",
+            "To increase the oxygen levels in water",
+            "To increase the volume of sewage"
+          ]
+        },
+        {
+          "id": "sem3_env2_2024_38_q1_s4",
+          "subNumber": "d",
+          "text": "What is the purpose of a sewage treatment?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "To convert sewage into drinking water",
+            "To treat and dispose wastewater safely",
+            "To increase landfill usage",
+            "To incinerate waste"
+          ]
+        },
+        {
+          "id": "sem3_env2_2024_38_q1_s5",
+          "subNumber": "e",
+          "text": "What is the main purpose of secondary treatment in sewage treatment?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "To remove solids",
+            "To remove heavy metals",
+            "To reduce organic matter and nutrients",
+            "To disinfect the effluent"
+          ]
+        },
+        {
+          "id": "sem3_env2_2024_38_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following materials is most commonly recycled?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Styrofoam",
+            "Diapers",
+            "Glass",
+            "Food waste"
+          ]
+        },
+        {
+          "id": "sem3_env2_2024_38_q1_s7",
+          "subNumber": "g",
+          "text": "What is the waste management hierarchy?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Incineration",
+            "Landfilling",
+            "Reduction, Reuse, Recycling, Recovery, Disposal",
+            "Landfilling, Recycling, Recovery"
+          ]
+        },
+        {
+          "id": "sem3_env2_2024_38_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following is a challenge in solid waste management?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Increased recycling rates",
+            "Lack of public awareness",
+            "Development of new technologies",
+            "Reduction of waste generation"
+          ]
+        },
+        {
+          "id": "sem3_env2_2024_38_q1_s9",
+          "subNumber": "i",
+          "text": "What is the primary goal of solid waste management?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "To recycle materials",
+            "To reduce environmental impact",
+            "To increase landfill usage",
+            "To incinerate waste"
+          ]
+        },
+        {
+          "id": "sem3_env2_2024_38_q1_s10",
+          "subNumber": "j",
+          "text": "Which legislation in the United States focuses on waste management and resource recovery?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Clean Air Act",
+            "Resource Conservation and Recovery Act (RCRA)",
+            "National Environmental Policy Act (NEPA)",
+            "Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2024_38_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2024_38_q2_s1",
+          "subNumber": "a",
+          "text": "Evaluate the impact of population growth and urbanization on the design of sewerage systems. What strategies can be employed to address these challenges?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2024_38_q2_s2",
+          "subNumber": "b",
+          "text": "A residential area is expected to have a population of 5,000 people. The average water usage is estimated at 150 liters per person per day. The design engineer plans to use a gravity sewer system.<br/> (i) Calculate the average daily flow in liters per second. If the sewer is designed to handle peak flow, which is estimated to be 2.5 times the average flow, calculate the peak flow in \\( L/s \\).<br/> (ii) If the sewer has a diameter of 200 mm, calculate the minimum slope required to ensure a flow velocity of at least \\( 0.6~m/s \\), using the Manning's equation. (Take Manning's coefficient = 0.013)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2024_38_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2024_38_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss the key design considerations for a sewage pumping station. Include operational efficiency selection, hydraulic design, equipment specification and impact.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2024_38_q3_s2",
+          "subNumber": "b",
+          "text": "A sewage pumping station is required to handle a peak flow of 150 \\( L/s \\), total dynamic head (TDH) needed is estimated at 15 meters.<br/> (i) Calculate the horsepower (HP) required for the pump (Assume pump efficiency as 70%).<br/> (ii) Convert the flow rate from \\( L/s \\) to GPM. (Given, 1 \\( L/s \\) = 15.85 GPM)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2024_38_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2024_38_q4_s1",
+          "subNumber": "a",
+          "text": "Analyze the role of stormwater management in the design of sewerage systems. How can integrated approaches enhance system efficiency?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2024_38_q4_s2",
+          "subNumber": "b",
+          "text": "A city has a combined sewer system serving an area of 10 hectares. The design flow is comprised of 70% sewage and 30% stormwater. The average sewage generation rate is 200 liters per capita per day, and the city has a population of 20,000. During a rain event, the rainfall intensity is \\( 50~mm/hour \\), and the runoff coefficient is 0.8.<br/> (i) Calculate the average sewage flow in \\( m^{3}/s \\).<br/> (ii) Calculate the stormwater generated from the rain event in \\( m^{3}/s \\).<br/> (iii) Determine the total design flow (combined sewage and stormwater).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2024_38_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2024_38_q5_s1",
+          "subNumber": "a",
+          "text": "Discuss the key components and challenges of solid waste management systems. Include aspects like generation, collection, transportation, treatment, and disposal, and analyze the importance of sustainable practices in managing solid waste effectively.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2024_38_q5_s2",
+          "subNumber": "b",
+          "text": "A city has a population of 250,000 residents. The average waste generation rate is 1.2 kg per person per day.<br/> (i) Calculate the total waste generated by the city in a year (in MT).<br/> (ii) If the city aims to recycle 30% of its waste, how much waste (in MT) will be recycled annually? Determine the amount of waste sent to landfills annually (in MT).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2024_38_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2024_38_q6_s1",
+          "subNumber": "a",
+          "text": "Examine the concept of the circular economy in relation to solid waste management. How can this model reduce waste generation and promote resource recovery? Provide examples of successful circular economy initiatives.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2024_38_q6_s2",
+          "subNumber": "b",
+          "text": "A municipality incurs various costs associated with solid waste management. The following costs are estimated for a year: Collection costs: ₹500,000; Transportation costs: ₹300,000; Treatment and disposal costs: ₹400,000.<br/> 1. Calculate the total annual cost of solid waste management.<br/> 2. If the municipality serves 200,000 residents, determine the cost per capita for solid waste management.<br/> 3. If the total waste generated is 100,000 metric tons, calculate the cost per metric ton for managing solid waste.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2024_38_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2024_38_q7_s1",
+          "subNumber": "a",
+          "text": "Compare and contrast aerobic and anaerobic treatment systems used in wastewater management. Discuss their operational principles, advantages and disadvantages, and specific applications. Provide examples of each system and analyze their roles in sustainable wastewater management.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2024_38_q7_s2",
+          "subNumber": "b",
+          "text": "An anaerobic digester processes organic waste with the following characteristics: the digester has a volume of \\( 500~m^{3} \\) and processes waste with a total solids (TS) concentration of 6% by weight. The digester operates at a hydraulic retention time (HRT) of 20 days.<br/> 1. Calculate the total mass of organic waste (in kg) processed in the digester at any given time.<br/> 2. If the anaerobic digestion process achieves a volatile solids (VS) reduction of 60%, calculate the mass of volatile solids reduced (in kg).<br/> 3. Determine the total biogas produced if 0.4 \\( m^{3} \\) of biogas is produced per kg of volatile solids reduced.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2024_38_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2024_38_q8_s1",
+          "subNumber": "a",
+          "text": "Analyze the environmental impacts of landfills and discuss the strategies that can be employed to mitigate these impacts.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2024_38_q8_s2",
+          "subNumber": "b",
+          "text": "A landfill has a total capacity of 500,000 cubic meters. The compacted waste is approximately 0.8 metric tons per cubic meter.<br/> (i) Calculate the total weight capacity of the landfill in metric tons.<br/> (ii) If the landfill receives an average of 120 tons of waste per day, determine how long the landfill will last (in days) before reaching capacity.<br/> (iii) Convert the lifespan of the landfill into years.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env2_2024_38_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env2_2024_38_q9_s1",
+          "subNumber": "a",
+          "text": "Compare between Bangalore method and the Indore method of composting. Discuss their principles, operational procedures, advantages, and disadvantages. Which method would you prefer if you were the environmental officer in charge? Also mention the reason for your selection.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env2_2024_38_q9_s2",
+          "subNumber": "b",
+          "text": "Write short notes on any two of the following:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

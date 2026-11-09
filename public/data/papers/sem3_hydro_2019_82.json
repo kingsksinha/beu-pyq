@@ -1,0 +1,323 @@
+{
+  "id": "sem3_hydro_2019_82",
+  "semester": 3,
+  "subject_code": "hydro",
+  "subject_name": "Hydrology & Water Resources Engineering",
+  "year": "2019",
+  "exam_code": "011512",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Exam., 2019 Engineering Hydrology Time: 03 Hours Code: 011512 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "All questions carry equal marks.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_hydro_2019_82_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer from any seven of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2019_82_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following recording rain gauges does not produce the mass curve of precipitation as record?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Symon's rain gauge",
+            "Tipping-bucket type gauge",
+            "Weighing-bucket type gauge",
+            "Natural siphon gauge"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2019_82_q1_s2",
+          "subNumber": "b",
+          "text": "Depth-area-duration curve of precipitation is drawn as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "minimizing envelopes through the appropriate data point",
+            "maximizing envelopes through the appropriate data point",
+            "best-fit mean curves through the appropriate data point",
+            "best-fit straight lines through the appropriate data point"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2019_82_q1_s3",
+          "subNumber": "c",
+          "text": "An isohyet is a line joining point having",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "equal evaporation line",
+            "equal barometric line",
+            "equal height above the MSL",
+            "equal rainfall depth in a given duration"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2019_82_q1_s4",
+          "subNumber": "d",
+          "text": "Main annual runoff of \\( 1 \\,\\, m^3/s \\) from a catchment of area \\( 31.54 \\,\\, km^2 \\) represents an effective rainfall of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "100 cm",
+            "1.0 cm",
+            "100 mm",
+            "3.17 cm"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2019_82_q1_s5",
+          "subNumber": "e",
+          "text": "An area is classified as a drought-prone area if the probability P of occurrence of a drought is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 0.4 &lt; P \\le 1.0 \\)",
+            "\\( 0.2 &lt; P \\le 0.4 \\)",
+            "\\( 0.1 &lt; P \\le 0.2 \\)",
+            "\\( 0.0 &lt; P \\le 0.2 \\)"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2019_82_q1_s6",
+          "subNumber": "f",
+          "text": "The average pan coefficient for a standard US weather bureau class A pan is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.85",
+            "0.70",
+            "0.90",
+            "0.20"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2019_82_q1_s7",
+          "subNumber": "g",
+          "text": "The chemical that is found to be most suitable as water evaporation inhibitor is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "ethyl alcohol",
+            "methyl alcohol",
+            "cetyl alcohol",
+            "butyl alcohol"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2019_82_q1_s8",
+          "subNumber": "h",
+          "text": "A unit hydrograph has one unit of",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "peak discharge",
+            "rainfall duration",
+            "direct runoff",
+            "the time base of direct runoff"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2019_82_q1_s9",
+          "subNumber": "i",
+          "text": "The surface joining the static water levels in several wells penetrating a confined aquifer represents",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "water-table surface",
+            "capillary fringe",
+            "piezometric surface of the aquifer",
+            "cone of depression"
+          ]
+        },
+        {
+          "id": "sem3_hydro_2019_82_q1_s10",
+          "subNumber": "j",
+          "text": "The dimension of the coefficient of transmissibility T is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( L^2/T \\)",
+            "\\( L^3T^2 \\)",
+            "\\( L/T^2 \\)",
+            "dimensionless"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2019_82_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2019_82_q2_s1",
+          "subNumber": "a",
+          "text": "Discuss the hydrological water budget with the aid of examples. What are the significant features of global water-balance studies?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2019_82_q2_s2",
+          "subNumber": "b",
+          "text": "A catchment area has seven rain gauge stations. In a year, the annual rainfall recorded by the gauges is as follows:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2019_82_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2019_82_q3_s1",
+          "subNumber": "a",
+          "text": "What are the different methods of recording of rainfall?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2019_82_q3_s2",
+          "subNumber": "b",
+          "text": "Assuming the initial infiltration rate of \\( 10 \\,\\, mm/h \\), final infiltration rate of \\( 5 \\,\\, mm/h \\) and the constant value (describing the rate of decay of the difference between the initial and final infiltration rates) as \\( 0.95 \\,\\, h^{-1} \\), calculate the total infiltration depth for the storm lasting 6 h.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2019_82_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2019_82_q4_s1",
+          "subNumber": "a",
+          "text": "Define infiltration capacity. Discuss the factors affecting the infiltration capacity of an area.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2019_82_q4_s2",
+          "subNumber": "b",
+          "text": "Following observations were made for conducting the water budget of a reservoir over a period of one month of 30 days:<br/> Average surface area \\( = 10 \\,\\, km^2 \\)<br/> Rainfall \\( = 10 \\,\\, cm \\)<br/> Mean surface inflow rate \\( = 10 \\,\\, m^3/s \\); mean surface outflow rate \\( = 15 \\,\\, m^3/s \\)<br/> Fall of reservoir level \\( = 1.50 \\,\\, m \\); pan evaporation \\( = 20 \\,\\, cm \\)<br/> Assume pan evaporation coefficient \\( = 0.70 \\).<br/> Estimate the average seepage discharge during the month.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2019_82_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2019_82_q5_s1",
+          "subNumber": "a",
+          "text": "Describe briefly the surface water resources in India.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2019_82_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2019_82_q6_s1",
+          "subNumber": "a",
+          "text": "What is meant by 75% dependable yield of a catchment? Indicate a procedure to estimate the same by using annual runoff volume time series.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2019_82_q6_s2",
+          "subNumber": "b",
+          "text": "For a catchment in Bihar, India, the mean monthly temperatures are given:",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2019_82_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2019_82_q7_s1",
+          "subNumber": "a",
+          "text": "Describe the S-curve method of developing a 6 h unit hydrograph by using 12 h unit hydrograph of the catchment.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2019_82_q7_s2",
+          "subNumber": "b",
+          "text": "Given below are observed flows from a storm of 6 h duration on a stream with a catchment area of \\( 500 \\,\\, km^2 \\):",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2019_82_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2019_82_q8_s1",
+          "subNumber": "a",
+          "text": "Distinguish between the following:<br/> (i) Aquifer and Aquitard<br/> (ii) Unconfined aquifer and a Leaky aquifer<br/> (iii) Water table and Piezometric surface",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_hydro_2019_82_q8_s2",
+          "subNumber": "b",
+          "text": "A well is located in a 25 m confined aquifer of permeability 30 m/day and storage coefficient 0.005. If the well is being pumped at a rate of 1750 lpm, calculate the drawdown at a distance of (i) 100 m and (ii) 50 m from the well after 20 hour of pumping.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_hydro_2019_82_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_hydro_2019_82_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

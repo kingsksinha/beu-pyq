@@ -1,0 +1,278 @@
+{
+  "id": "sem4_network_2023_26",
+  "semester": 4,
+  "subject_code": "network",
+  "subject_name": "Network Theory",
+  "year": "2023",
+  "exam_code": "104304",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech. 3rd Semester Examination, 2023 Network Theory Time: 03 Hours Code: 104304 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 2,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_network_2023_26_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2023_26_q1_s1",
+          "subNumber": "a",
+          "text": "What is the value of the unit step function \\( u(t-T) \\) at any time \\( t \\le T \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q1_s2",
+          "subNumber": "b",
+          "text": "An RC high-pass filter consists of a 820 ohm resistor. What is the value of C is to be taken so that \\( X_c \\) is ten times less than R at an input frequency of 12 kHz?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q1_s3",
+          "subNumber": "c",
+          "text": "The transient current in an RLC circuit is oscillating when",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q1_s4",
+          "subNumber": "d",
+          "text": "A cut set matrix gives relation between",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q1_s5",
+          "subNumber": "e",
+          "text": "A network consists 4 nodes, 6 branches. How many basic loop can be formed?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q1_s6",
+          "subNumber": "f",
+          "text": "In a series RLC circuit if C is increased resonant frequency",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q1_s7",
+          "subNumber": "g",
+          "text": "What is the type of filter shown in the figure?",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/78.jpg"
+          ]
+        },
+        {
+          "id": "sem4_network_2023_26_q1_s8",
+          "subNumber": "h",
+          "text": "Comment on the periodicity of a constant signal?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q1_s9",
+          "subNumber": "i",
+          "text": "The branches which are not present in a tree is called",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q1_s10",
+          "subNumber": "j",
+          "text": "A system is linear if it satisfies",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2023_26_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2023_26_q2_s1",
+          "subNumber": "a",
+          "text": "A given LTI system has produced an impulse response as shown by \\( h(t) \\) given in figure below. Find the time response of this LTI system when an input signal \\( x(t) \\) as shown below is applied to this system.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/77.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2023_26_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2023_26_q3_s1",
+          "subNumber": "a",
+          "text": "What is filter? Discuss the advantages of an active filter over a passive filter.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q3_s2",
+          "subNumber": "b",
+          "text": "What is band-pass filter? Derive the gain \\( \\left| \\frac{V_o}{V_{in}} \\right| \\) of a first order Butterworth active band-pass filter.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2023_26_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2023_26_q4_s1",
+          "subNumber": "a",
+          "text": "Explain clearly with the help of suitable examples the following terms used in network analysis: <br/>a) Oriented graph <br/>b) Tree <br/>c) Cut Set <br/>d) Tie Set <br/>e) Incidence matrix and its properties.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q4_s2",
+          "subNumber": "b",
+          "text": "For a symmetrical two port network prove that \\( AD - BC = 1 \\)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2023_26_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2023_26_q5_s1",
+          "subNumber": "a",
+          "text": "Obtain the first form of the Foster Network for the driving point impedance of LC network given as: \\( Z(S) = \\frac{10(S^2+4)(S^2+16)}{S(S^2+9)} \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q5_s2",
+          "subNumber": "b",
+          "text": "What is Cauer's form of circuit realization? Describe briefly.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2023_26_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2023_26_q6_s1",
+          "subNumber": "a",
+          "text": "Establish the \\( \\pi - T / Y - \\Delta \\) transformation relations. Convert the \\( \\pi / \\Delta \\) into an equivalent \\( T / Y \\) network given below.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/76.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2023_26_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2023_26_q7_s1",
+          "subNumber": "a",
+          "text": "For the following circuit draw the oriented graph and obtain the Tie-set matrix.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/75.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2023_26_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2023_26_q8_s1",
+          "subNumber": "a",
+          "text": "In the following circuit \\( V_s = 200\\sqrt{2}\\cos 500t \\), \\( R = 80 \\Omega \\), \\( L = 160 \\) mH.<br/>(a) Determine the current drawn from \\( V_s \\) and power absorbed by the LR circuit.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/74.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_network_2023_26_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_network_2023_26_q9_s1",
+          "subNumber": "a",
+          "text": "Active Band pass filter",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q9_s2",
+          "subNumber": "b",
+          "text": "Causal &amp; non causal signals with examples",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q9_s3",
+          "subNumber": "c",
+          "text": "Zero order hold circuit",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_network_2023_26_q9_s4",
+          "subNumber": "d",
+          "text": "Aliasing and its effect",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

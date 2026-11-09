@@ -1,0 +1,256 @@
+{
+  "id": "sem3_emachines2_2018_20",
+  "semester": 3,
+  "subject_code": "emachines2",
+  "subject_name": "Electrical Machines - II",
+  "year": "2018",
+  "exam_code": "031403",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 4th Semester Exam., 2018 ELECTRICAL MACHINES-II Time: 3 hours Code: 031403 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 5,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_emachines2_2018_20_q1",
+      "number": 1,
+      "title": "Q.1 Attempt any seven of the following short answer type questions:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2018_20_q1_s1",
+          "subNumber": "a",
+          "text": "Why is high-voltage winding of alternator placed on stator?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q1_s2",
+          "subNumber": "b",
+          "text": "Write the expression of distribution factor of synchronous machine.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q1_s3",
+          "subNumber": "c",
+          "text": "What do you mean by hunting in synchronous motor?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q1_s4",
+          "subNumber": "d",
+          "text": "Which parameters are used to draw inverted V curve of synchronous machine?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q1_s5",
+          "subNumber": "e",
+          "text": "What are the methods available for making a 1-\\( \\phi \\) induction motor self-starting?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q1_s6",
+          "subNumber": "f",
+          "text": "Differentiate between 'capacitor-start' and 'capacitor-start capacitor-run' for a 1-\\( \\phi \\) induction motor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q1_s7",
+          "subNumber": "g",
+          "text": "Suggest one domestic application of universal motor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q1_s8",
+          "subNumber": "h",
+          "text": "Write any one application of stepper motor.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q1_s9",
+          "subNumber": "i",
+          "text": "List two applications of synchronous motor.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q1_s10",
+          "subNumber": "j",
+          "text": "State any two uses of single-phase synchronous motor.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2018_20_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2018_20_q2_s1",
+          "subNumber": "a",
+          "text": "A 3-phase, Y-connected synchronous generator rated at 10 kVA and 230 V has a synchronous reactance of 1.2 ohm per phase and an armature resistance of 0.5 ohm per phase. Calculate the % voltage regulation at full load with 0.8 lagging power factor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2018_20_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2018_20_q3_s1",
+          "subNumber": "a",
+          "text": "Derive the e.m.f. equation of an alternator.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss the effects of field current on synchronous motor power factor with the help of phasor diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2018_20_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2018_20_q4_s1",
+          "subNumber": "a",
+          "text": "Show that for alternators running in parallel, the division load between them is governed mainly by the speed-load characteristics of their prime movers.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q4_s2",
+          "subNumber": "b",
+          "text": "A 4-pole alternator has an armature with 25 slots and 8 conductors per slot and rotates at 1500 r.p.m. and the flux per pole is 0.05 Wb. Find the e.m.f. generated, if winding factor is 0.96 and all the conductors are in series.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2018_20_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2018_20_q5_s1",
+          "subNumber": "a",
+          "text": "A universal series motor has a resistance of 20 ohms and an inductance of 0.2 H. When connected to a 200-V d.c. supply and loaded to take 0.5 A, it runs at 1500 r.p.m. Determine the speed, torque, p.f. and regulation, when connected to a 200-V, 50 Hz a.c. supply and loaded to take the same current.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q5_s2",
+          "subNumber": "b",
+          "text": "Define armature reaction and explain the effect of armature reaction on the different power system loads of synchronous generator.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2018_20_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2018_20_q6_s1",
+          "subNumber": "a",
+          "text": "Explain two-reaction theory of salient pole synchronous machine.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the principle of operation of the two-phase servomotor with the help of neat illustration. Also mention its advantages.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2018_20_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[8+6=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2018_20_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the e.m.f. method of determining the regulation of an alternator.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_emachines2_2018_20_q7_s2",
+          "subNumber": "b",
+          "text": "State and explain the conditions for parallel operation of alternators.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2018_20_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2018_20_q8_s1",
+          "subNumber": "a",
+          "text": "Describe in detail about the effect of load change on load angle and power factor of a 3-phase synchronous motor operating on infinite bus bar and constant excitation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2018_20_q9",
+      "number": 9,
+      "title": "Q.9 Explain any two of the following with neat and labelled diagram in detail:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2018_20_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

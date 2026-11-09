@@ -1,0 +1,287 @@
+{
+  "id": "sem1_phy_2025_1",
+  "semester": 1,
+  "subject_code": "phy",
+  "subject_name": "Engineering Physics",
+  "year": "2025",
+  "exam_code": "100201",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Examination, 2025 Engineering Physics Time: 03 Hours Code: 100201 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 24,
+  "max_freq": 5,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_phy_2025_1_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct option / answer the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_1_q1_s1",
+          "subNumber": "a",
+          "text": "For which angle of scattering is the Compton shift maximum?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 0^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 180^{\\circ} \\)",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "sem1_phy_2025_1_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following is the characteristic of wave function?",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "Continuous",
+            "Single valued",
+            "Normalizable",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem1_phy_2025_1_q1_s3",
+          "subNumber": "c",
+          "text": "Critical angle depends on",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Refractive Index of rarer medium",
+            "Refractive Index of denser medium",
+            "Refractive Index of both rarer and denser medium",
+            "Refractive Index of none"
+          ]
+        },
+        {
+          "id": "sem1_phy_2025_1_q1_s4",
+          "subNumber": "d",
+          "text": "Diamagnetic materials are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Weakly repelled by magnetic field",
+            "Strongly repelled by magnetic field",
+            "Weakly attracted by magnetic field",
+            "Strongly attracted by magnetic field"
+          ]
+        },
+        {
+          "id": "sem1_phy_2025_1_q1_s5",
+          "subNumber": "e",
+          "text": "Write down time-independent Schrödinger's wave equation in 1-dimension.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_phy_2025_1_q1_s6",
+          "subNumber": "f",
+          "text": "Young's double slit experiment was performed in a laboratory by taking monochromatic blue, orange and red light and fringe widths were obtained as \\( \\beta_{B}, \\beta_{O}, \\beta_{R} \\) respectively. Other variables had been kept constants. Write down the fringe widths in decreasing order.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2025_1_q1_s7",
+          "subNumber": "g",
+          "text": "Write down the Maxwell's equation which explains the non-existence of singular magnetic poles.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2025_1_q1_s8",
+          "subNumber": "h",
+          "text": "What is Lorentz force?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2025_1_q1_s9",
+          "subNumber": "i",
+          "text": "The maximum velocity and maximum acceleration in a simple harmonic oscillator are numerically equal. What is the time period?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2025_1_q1_s10",
+          "subNumber": "j",
+          "text": "What is the ratio of intensities of maxima and minima in interference if the intensity ratio is 9:1?",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_1_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_1_q2_s1",
+          "subNumber": "a",
+          "text": "Mention the forces acting in Forced Harmonic Oscillator. Set its differential equation. Derive expressions for the phase difference and resultant amplitude.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2025_1_q2_s2",
+          "subNumber": "b",
+          "text": "What is Coriolis acceleration? Explain its applications in weather system.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_1_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_1_q3_s1",
+          "subNumber": "a",
+          "text": "Discuss the structure and working of He-Ne LASER. Draw its energy band diagram.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_phy_2025_1_q3_s2",
+          "subNumber": "b",
+          "text": "What is population inversion? What is its importance in Lasing action?",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_1_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_1_q4_s1",
+          "subNumber": "a",
+          "text": "Derive an expression for resultant intensity in Fraunhoffer's single slit diffraction. Mention the conditions for maxima and minima. Draw the intensities distribution curve.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2025_1_q4_s2",
+          "subNumber": "b",
+          "text": "Write a short note on Michelson's interferometer.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_1_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_1_q5_s1",
+          "subNumber": "a",
+          "text": "What is ferromagnetic hysteresis? Draw the B-H plot and show the coercive field and remanent magnetisation in the plot.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_phy_2025_1_q5_s2",
+          "subNumber": "b",
+          "text": "Derive an expression for torque on a magnetic dipole inside a uniform magnetic field. Define magnetic moment.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_1_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_1_q6_s1",
+          "subNumber": "a",
+          "text": "Discuss Kronig-Penney model for the motion of an electron in a periodic potential and the existence of allowed and forbidden energy bands.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_phy_2025_1_q6_s2",
+          "subNumber": "b",
+          "text": "Draw the total Energy (E) vs. Wave number (k) curve for an electron in 1-D lattice.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_1_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_1_q7_s1",
+          "subNumber": "a",
+          "text": "What is Compton Effect? Give the expression for Compton shift. How does the shift depend upon the angle of scattering?",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem1_phy_2025_1_q7_s2",
+          "subNumber": "b",
+          "text": "Derive Einstein's photo-electric equation. Plot the variation of stopping potential vs frequency. Define threshold frequency.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_1_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_1_q8_s1",
+          "subNumber": "a",
+          "text": "Write down Schrödinger's wave equation for a particle inside 1-D Box given by \\( V(x)=0 \\) for \\( 0 &lt; x &lt; L \\) and \\( V(x)=\\infty \\) for \\( x &lt; 0 \\) and \\( x&gt; L \\). Solve it to obtain energy eigen values. Show that energy eigen values are discrete.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_phy_2025_1_q9",
+      "number": 9,
+      "title": "Q.9 Write short note on any two of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_phy_2025_1_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

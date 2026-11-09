@@ -1,0 +1,337 @@
+{
+  "id": "sem3_dsp_2024_11",
+  "semester": 3,
+  "subject_code": "dsp",
+  "subject_name": "Digital Signal Processing",
+  "year": "2024",
+  "exam_code": "100606",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Examination, 2024 Digital Signal Processing Time: 03 Hours Code: 100606 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_dsp_2024_11_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsp_2024_11_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is a continuous-time signal?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Sinusoidal wave",
+            "Impulse signal",
+            "Unit step signal",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem3_dsp_2024_11_q1_s2",
+          "subNumber": "b",
+          "text": "What does DTFT stand for?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Discrete-Time Fourier Transform",
+            "Digital-Time Fourier Transform",
+            "Dynamic-Time Fourier Transform",
+            "Discrete Transfer Fourier Transform"
+          ]
+        },
+        {
+          "id": "sem3_dsp_2024_11_q1_s3",
+          "subNumber": "c",
+          "text": "The process of converting continuous-time signals into discrete-time signals is called?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Quantization",
+            "Sampling",
+            "Lasing",
+            "Reconstruction"
+          ]
+        },
+        {
+          "id": "sem3_dsp_2024_11_q1_s4",
+          "subNumber": "d",
+          "text": "What is the frequency domain representation of LTI systems called?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Fourier Series",
+            "Fourier Transform",
+            "Laplace Transform",
+            "Both i and ii"
+          ]
+        },
+        {
+          "id": "sem3_dsp_2024_11_q1_s5",
+          "subNumber": "e",
+          "text": "A system is causal if:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Output depends on future inputs",
+            "Output depends only on present and past inputs",
+            "Output is independent of input",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_dsp_2024_11_q1_s6",
+          "subNumber": "f",
+          "text": "What is the result of convolving two impulse signals?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Impulse signal",
+            "Zero signal",
+            "Step signal",
+            "Constant signal"
+          ]
+        },
+        {
+          "id": "sem3_dsp_2024_11_q1_s7",
+          "subNumber": "g",
+          "text": "The sampling theorem states that to avoid aliasing, the sampling rate must be:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Less than the Nyquist rate",
+            "Equal to the Nyquist rate",
+            "Greater than or equal to twice the maximum signal frequency",
+            "Greater than the Nyquist rate"
+          ]
+        },
+        {
+          "id": "sem3_dsp_2024_11_q1_s8",
+          "subNumber": "h",
+          "text": "Which of the following is used to compute the convolution of two discrete signals?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Fourier Transform",
+            "Laplace Transform",
+            "Z-transform",
+            "Convolution sum"
+          ]
+        },
+        {
+          "id": "sem3_dsp_2024_11_q1_s9",
+          "subNumber": "i",
+          "text": "Which of the following represents the Nyquist rate?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Twice the highest frequency",
+            "Half the highest frequency",
+            "Equal to the highest frequency",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_dsp_2024_11_q1_s10",
+          "subNumber": "j",
+          "text": "Which property of DFT leads to a reduction in computational complexity?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Symmetry",
+            "Linearity",
+            "Circular convolution",
+            "Time-shifting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsp_2024_11_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsp_2024_11_q2_s1",
+          "subNumber": "a",
+          "text": "Explain the advantages of DSP over analog signal processing. Provide practical examples to support your explanation.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsp_2024_11_q2_s2",
+          "subNumber": "b",
+          "text": "Discuss the stability and causality conditions of discrete-time systems. Provide examples of systems that are stable and causal.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsp_2024_11_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsp_2024_11_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the basic elements of a DSP system with a block diagram. How does it function in practical applications?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsp_2024_11_q3_s2",
+          "subNumber": "b",
+          "text": "Compare the correlation and convolution of discrete-time signals with examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsp_2024_11_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsp_2024_11_q4_s1",
+          "subNumber": "a",
+          "text": "Differentiate between continuous-time and discrete-time signals. Use diagrams to illustrate their key characteristics.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsp_2024_11_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the properties of the Discrete-Time Fourier Transform (DTFT) for LTI system with applications.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsp_2024_11_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsp_2024_11_q5_s1",
+          "subNumber": "a",
+          "text": "Derive the formula for the Inverse Discrete-Time Fourier Transform with suitable examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsp_2024_11_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the process of sampling continuous-time signals and discuss the significance of the Nyquist rate in digital signal processing.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsp_2024_11_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsp_2024_11_q6_s1",
+          "subNumber": "a",
+          "text": "Discuss the relationship between the time-domain and frequency-domain representations of signals using the Fourier transform.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsp_2024_11_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the reconstruction of signals from their samples using an ideal low-pass filter.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsp_2024_11_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsp_2024_11_q7_s1",
+          "subNumber": "a",
+          "text": "Explain the difference between FIR and IIR filters. What are the advantages and disadvantages of each?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsp_2024_11_q7_s2",
+          "subNumber": "b",
+          "text": "Discuss the properties of the Discrete Fourier Transform (DFT). Explain its significance.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsp_2024_11_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsp_2024_11_q8_s1",
+          "subNumber": "a",
+          "text": "Derive the Fast Fourier Transform (FFT) algorithm and explain how it improves the computation of the DFT.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsp_2024_11_q8_s2",
+          "subNumber": "b",
+          "text": "Determine the convolution for the two sequences \\( x(n)=\\{3,2,1,2\\} \\), \\( h(n)=\\{1,2,1,2\\} \\).",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_dsp_2024_11_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_dsp_2024_11_q9_s1",
+          "subNumber": "a",
+          "text": "Illustrate how the properties of linearity and time-invariance simplify the analysis of discrete-time systems with examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_dsp_2024_11_q9_s2",
+          "subNumber": "b",
+          "text": "Explain the concept of periodicity in continuous-time and discrete-time signals. How do their periodicity conditions differ?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

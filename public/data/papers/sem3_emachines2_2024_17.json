@@ -1,0 +1,330 @@
+{
+  "id": "sem3_emachines2_2024_17",
+  "semester": 3,
+  "subject_code": "emachines2",
+  "subject_name": "Electrical Machines - II",
+  "year": "2024",
+  "exam_code": "103402",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2024 Electrical Machine - II Time: 03 Hours Code: 103402 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 5,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_emachines2_2024_17_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven question only):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2024_17_q1_s1",
+          "subNumber": "a",
+          "text": "Increasing the air gap in an induction motor generally leads to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Increased magnetic flux and improved efficiency",
+            "Reduced magnetizing inductance and a lower power factor",
+            "An increase in rotor speed",
+            "A higher starting torque"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q1_s2",
+          "subNumber": "b",
+          "text": "In V/f control (voltage-to-frequency control), if both voltage and frequency are reduced while keeping the ratio constant, the maximum torque of the motor:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Increases significantly",
+            "Decreases significantly",
+            "Remains approximately the same",
+            "Depends solely on rotor resistance"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q1_s3",
+          "subNumber": "c",
+          "text": "Hysteresis motors are particularly suited for applications requiring:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "High starting torque under heavy loads",
+            "Precise speed control with low ripple",
+            "Rapid acceleration and deceleration",
+            "High torque density for industrial drives"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q1_s4",
+          "subNumber": "d",
+          "text": "One disadvantage often encountered with reluctance motors is:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "High maintenance due to brush wear",
+            "Complex and noisy operation",
+            "Requirement for external excitation",
+            "Excessive starting current"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q1_s5",
+          "subNumber": "e",
+          "text": "The term \"step angle\" in a stepper motor refers to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The angle between the stator poles",
+            "The maximum rotation of the motor at full load",
+            "The angular displacement per input pulse",
+            "The phase shift between different windings"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q1_s6",
+          "subNumber": "f",
+          "text": "In a brushless DC motor, electronic commutation is performed by:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A built-in commutator and brushes",
+            "An external electronic controller",
+            "The natural inductance of the stator",
+            "Permanent magnets on the stator"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q1_s7",
+          "subNumber": "g",
+          "text": "Short-pitch (or chorded) windings are used in AC machines primarily to:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Increase the induced fundamental EMF",
+            "Reduce the harmonic content (with a slight reduction in fundamental EMF)",
+            "Simplify the winding process",
+            "Increase the number of coils per phase"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q1_s8",
+          "subNumber": "h",
+          "text": "Compared to a distributed winding, a concentrated winding:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Has a higher winding factor",
+            "Produces an EMF with a more sinusoidal waveform",
+            "Exhibits a lower distribution factor, leading to higher harmonic content",
+            "Is always used for high-power applications"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q1_s9",
+          "subNumber": "i",
+          "text": "At the minimum point on the V-curve of a synchronous machine, the armature current is minimum because:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "The machine is under-excited",
+            "The machine is over-excited",
+            "The armature reaction is minimized (approximately balanced), leading to nearly unity power factor",
+            "The field current is zero"
+          ]
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q1_s10",
+          "subNumber": "j",
+          "text": "When two alternators are paralleled. if one is over-excited and the other under-excited. then:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Both will share active load equally regardless of excitation",
+            "The over-excited unit will supply reactive power while the under-excited unit will absorb reactive power",
+            "The alternators will not be able to share load at all",
+            "Only the over-excited alternator will supply both active and reactive power"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2024_17_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2024_17_q2_s1",
+          "subNumber": "a",
+          "text": "Draw the torque-slip characteristic of three phase induction motor and show the suitable derivations that maximum torque is independent of rotor resistance.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q2_s2",
+          "subNumber": "b",
+          "text": "A 6-pole 50Hz induction motor has a rotor resistance of 0.03 \\( \\Omega \\) per phase and standstill reactance of 0.4 \\( \\Omega \\) per phase. Determine the speed at which the maximum torque is developed.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2024_17_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2024_17_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the working of single-phase induction motor using double revolving field theory.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q3_s2",
+          "subNumber": "b",
+          "text": "Explain construction and working of any type of capacitor split phase induction motor. What type of capacitor are used.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2024_17_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2024_17_q4_s1",
+          "subNumber": "a",
+          "text": "What are the similarities between brushless DC motor and conventional DC motor. Give the advantage of brushless DC motor over conventional DC motor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q4_s2",
+          "subNumber": "b",
+          "text": "Explain the construction, working and application of stepper motor.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2024_17_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2024_17_q5_s1",
+          "subNumber": "a",
+          "text": "The field excitation of three phase synchronous motor operating on fixed load is increased from a very low value with the help of a V curve.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q5_s2",
+          "subNumber": "b",
+          "text": "Explain the two-reaction theory applicable to salient pole synchronous machine.",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2024_17_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2024_17_q6_s1",
+          "subNumber": "a",
+          "text": "Explain how the desirable feature of high starting torque and low operating slip are obtained in a double cage polyphase induction motor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q6_s2",
+          "subNumber": "b",
+          "text": "Why is starter necessary for starting of induction motors? Name different starting methods for 3-phase induction motor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2024_17_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2024_17_q7_s1",
+          "subNumber": "a",
+          "text": "Draw the physical arrangement of winding in stator and cylindrical rotor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q7_s2",
+          "subNumber": "b",
+          "text": "Describe pulsating magnetic field of ac in winding with spatial displacement.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2024_17_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2024_17_q8_s1",
+          "subNumber": "a",
+          "text": "Draw and explain the phasor diagram of loaded synchronous generator under lagging, leading and unity power factor condition.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_emachines2_2024_17_q8_s2",
+          "subNumber": "b",
+          "text": "Calculate the rms value of induced EMF per phase of a 10 pole three phase 50 Hz alternator with 2 slots per pole per phase and 4 conductors per slots in two layers. The coil span is 150 degrees. The flux per pole has a fundamental component of 0.12 Wb and a 20% third harmonic component.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_emachines2_2024_17_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following: -",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_emachines2_2024_17_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

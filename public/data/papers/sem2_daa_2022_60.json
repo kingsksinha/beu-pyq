@@ -1,0 +1,305 @@
+{
+  "id": "sem2_daa_2022_60",
+  "semester": 2,
+  "subject_code": "daa",
+  "subject_name": "Design and Analysis of Algorithms",
+  "year": "2022",
+  "exam_code": "105402",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2022 Design and Analysis of Algorithms Time: 03 Hours Code: 105402 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 21,
+  "max_freq": 4,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_daa_2022_60_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven) :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2022_60_q1_s1",
+          "subNumber": "a",
+          "text": "Any decision trees that sorts elements has height",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( \\Omega(\\lg n) \\)",
+            "\\( \\Omega(n) \\)",
+            "\\( \\Omega(n \\lg n) \\)",
+            "\\( \\Omega(n^2) \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2022_60_q1_s2",
+          "subNumber": "b",
+          "text": "Which one of the following is an application of Queue Data Structure?",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "When a resource is shared among multiple consumers",
+            "When data is transferred asynchronously between two processes",
+            "Load balancing",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem2_daa_2022_60_q1_s3",
+          "subNumber": "c",
+          "text": "The complexity of binary search algorithm is",
+          "freq": 4,
+          "stars": "★★★★",
+          "options": [
+            "\\( O(n) \\)",
+            "\\( O(\\log n) \\)",
+            "\\( O(n^2) \\)",
+            "\\( O(n \\log n) \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2022_60_q1_s4",
+          "subNumber": "d",
+          "text": "In linear search algorithm the worst case occurs when",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "the item is somewhere in the middle of the array",
+            "the item is not in the array at all",
+            "the item is the last element in the array",
+            "the item is the last element in the array or is not there at all"
+          ]
+        },
+        {
+          "id": "sem2_daa_2022_60_q1_s5",
+          "subNumber": "e",
+          "text": "Given an unsorted array. The array has this property that every element in array is at most k distance from its position in sorted array where k is a positive integer smaller than size of array. Which sorting algorithm can be easily modified for sorting this array and what is the obtainable time complexity?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Insertion sort with time complexity \\( O(kn) \\)",
+            "Heap sort with time complexity \\( O(n \\log k) \\)",
+            "Quick sort with time complexity \\( O(k \\log k) \\)",
+            "Merge sort with time complexity \\( O(k \\log k) \\)"
+          ]
+        },
+        {
+          "id": "sem2_daa_2022_60_q1_s6",
+          "subNumber": "f",
+          "text": "Approach of dynamic programming is similar to",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "parsing",
+            "hash table",
+            "divide and conquer algorithm",
+            "greedy algorithm"
+          ]
+        },
+        {
+          "id": "sem2_daa_2022_60_q1_s7",
+          "subNumber": "g",
+          "text": "In the divide and conquer process, breaking the problem into smaller sub-problems is the responsibility of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "divide/break",
+            "sorting/divide",
+            "conquer/solve",
+            "merge/combine"
+          ]
+        },
+        {
+          "id": "sem2_daa_2022_60_q1_s8",
+          "subNumber": "h",
+          "text": "A priority queue is implemented as a Max-heap. Initially it has 5 elements. The level order traversal of the heap is 10, 8, 5, 3, 2. Two new elements '1' and '7' are inserted into the heap in that order. The level order traversal of the heap after the insertion of the elements is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "10, 8, 7, 5, 3, 2, 1",
+            "10, 8, 7, 2, 3, 1, 5",
+            "10, 8, 7, 1, 2, 3, 5",
+            "10, 8, 7, 3, 2, 1, 5"
+          ]
+        },
+        {
+          "id": "sem2_daa_2022_60_q1_s9",
+          "subNumber": "i",
+          "text": "If a problem can be solved by combining optimal solutions to non-overlapping problems, the strategy is called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "dynamic programming",
+            "greedy",
+            "divide and conquer",
+            "recursion"
+          ]
+        },
+        {
+          "id": "sem2_daa_2022_60_q1_s10",
+          "subNumber": "j",
+          "text": "The choice of polynomial class has led to the development of an extensive theory called",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "computational complexity",
+            "time complexity",
+            "problem complexity",
+            "decision complexity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2022_60_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2022_60_q2_s1",
+          "subNumber": "a",
+          "text": "Calculate the time complexity of the following problem using divide and conquer strategies:<br/> (i) \\( T(n) = \\sqrt{n} T(\\sqrt{n}) + n \\), \\( n &gt; 2 \\)<br/> \\( = a \\), \\( n \\le 2 \\)<br/> (ii) \\( T(n) = T(n-1) + 1/n \\), \\( n &gt; 1 \\)<br/> \\( = 1 \\), \\( n = 1 \\)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2022_60_q2_s2",
+          "subNumber": "b",
+          "text": "Write time function and calculate the time complexity, space complexity and number of function calls of the following pseudocode using substitution method:<br/> rec (n) {<br/> if (\\( n \\le 1 \\)) return(1);<br/> else { rec (n/2); for (\\( i=1; i \\le n; i++ \\)) printf(\"algorithm\"); }<br/> }",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2022_60_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2022_60_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the working of merge sort algorithm with an example. Give the complexity calculation of merge sort.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_daa_2022_60_q3_s2",
+          "subNumber": "b",
+          "text": "What are the rules of manipulate Big-Oh expression and about the typical growth rates of algorithms.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2022_60_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2022_60_q4_s1",
+          "subNumber": "a",
+          "text": "What is heap sort? What is the effect of calling MAX-HEAPIFY(A, i) when the element A[i] is larger than its children?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_daa_2022_60_q4_s2",
+          "subNumber": "b",
+          "text": "Explain how radix sort works, to what inputs it can be applied and what is its asymptotic complexity?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2022_60_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2022_60_q5_s1",
+          "subNumber": "a",
+          "text": "What do you mean by optimal solution in greedy approach? Define the properties and function of greedy approach. Consider the given graph \\( G=(V,E) \\) and find the minimum spanning tree by Prim's algorithms.",
+          "freq": 2,
+          "stars": "★★",
+          "images": [
+            "img/beu/diagram/2nd3rd/210.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2022_60_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2022_60_q6_s1",
+          "subNumber": "a",
+          "text": "Find the optimal way to multiply the following matrices to perform the fewest multiplications:<br/> A1: \\( 5 \\times 11 \\), A2: \\( 11 \\times 4 \\), A3: \\( 4 \\times 15 \\), A4: \\( 15 \\times 23 \\)",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2022_60_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2022_60_q7_s1",
+          "subNumber": "a",
+          "text": "You are given a graph containing n vertices and m edges and given that the graph doesn't contain cycle of odd length. What is the time complexity of the best known algorithm to find out whether the graph is bipartite or not?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2022_60_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2022_60_q8_s1",
+          "subNumber": "a",
+          "text": "What is activity selection problem? Suppose that instead of always selecting the first activity to finish, we select the last activity to start that is compatible with all previously selected activities. Describe how this approach is a greedy algorithm, and prove that it yields an optimal solution.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_daa_2022_60_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_daa_2022_60_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

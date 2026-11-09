@@ -1,0 +1,330 @@
+{
+  "id": "sem3_env1_2022_35",
+  "semester": 3,
+  "subject_code": "env1",
+  "subject_name": "Environmental Engineering -I",
+  "year": "2022",
+  "exam_code": "101502",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna End Semester Examination - 2022 Environmental Engineering-1 Time: 03 Hours Code: 101502 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_env1_2022_35_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (Any seven question only):",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2022_35_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following are the common problems associated with operation of rapid sand filter? (I) Air binding (II) Mud ball formation (III) Zoogleal layer development (IV) Cracking of sand beds",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "(I) and (II)",
+            "(II) and (III)",
+            "(I), (II) and (IV)",
+            "(I), (II), (III) and (IV)"
+          ]
+        },
+        {
+          "id": "sem3_env1_2022_35_q1_s2",
+          "subNumber": "b",
+          "text": "Modern turbidity meters working on the principle of 'scattering of light' are known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Jackson's turbidity meter",
+            "Turbidity rod or tape",
+            "Nephelometric turbidity meter",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem3_env1_2022_35_q1_s3",
+          "subNumber": "c",
+          "text": "The valve which allows the flow only in one direction is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "reflux valve",
+            "sluice valve",
+            "relief valve",
+            "gate valve"
+          ]
+        },
+        {
+          "id": "sem3_env1_2022_35_q1_s4",
+          "subNumber": "d",
+          "text": "As per IS: 4954 - 1964 an acceptable noise level for residential and business urban areas is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "40-50 dB",
+            "30-40 dB",
+            "15-25 dB",
+            "50-60 dB"
+          ]
+        },
+        {
+          "id": "sem3_env1_2022_35_q1_s5",
+          "subNumber": "e",
+          "text": "The correct sequence of treatment processes in water treatment plant is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Filtration-chlorination-sedimentation-coagulation",
+            "Chlorination-coagulation-sedimentation-Filtration",
+            "Coagulation-sedimentation-Filtration-Chlorination",
+            "Coagulation-sedimentation-Chlorination-Filtration"
+          ]
+        },
+        {
+          "id": "sem3_env1_2022_35_q1_s6",
+          "subNumber": "f",
+          "text": "Suitable layout of water distribution system for a well-planned city is",
+          "freq": 3,
+          "stars": "★★★",
+          "options": [
+            "Dead end system",
+            "Grid iron system",
+            "Ring system",
+            "Radial system"
+          ]
+        },
+        {
+          "id": "sem3_env1_2022_35_q1_s7",
+          "subNumber": "g",
+          "text": "Two primary air pollutants are",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Sulphur oxide and ozone",
+            "Nitrogen oxide and peroxyacetylnitrate",
+            "Sulphur oxide and hydrocarbon",
+            "Ozone and peroxyacetylnitrate"
+          ]
+        },
+        {
+          "id": "sem3_env1_2022_35_q1_s8",
+          "subNumber": "h",
+          "text": "The minimum dissolved oxygen which should always be present in water order to save the aquatic life is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "4 ppm",
+            "1 ppm",
+            "10 ppm",
+            "40 ppm"
+          ]
+        },
+        {
+          "id": "sem3_env1_2022_35_q1_s9",
+          "subNumber": "i",
+          "text": "BOD value of potable water should be",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0 mg/L",
+            "20 mg/L",
+            "5 mg/L",
+            "30 mg/L"
+          ]
+        },
+        {
+          "id": "sem3_env1_2022_35_q1_s10",
+          "subNumber": "j",
+          "text": "Tow pipe system contains:",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "A single pipe system without any separate ventilation pipe",
+            "One vertical pipe which collects wastewater and separate vent pipe",
+            "Two sets of vertical pipes (two for collection of wastewater &amp; two vent pipes)",
+            "None of the above."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2022_35_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2022_35_q2_s1",
+          "subNumber": "a",
+          "text": "What do you understand by design period of a water-supply scheme? Describe in brief the factors considered in estimating design period of a water supply scheme.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2022_35_q2_s2",
+          "subNumber": "b",
+          "text": "For water supply of a small town with daily requirement of 225000 litres, it is proposed to build a distribution reservoir. The pattern of draw of water is as follows:<br/> 7:00 AM - 8:00 AM: 30% of daily supply<br/> 8:00 AM - 5:00 PM: 35% of daily supply<br/> 5:00 PM - 6:30 PM: 30% of daily supply<br/> 6:30 PM - 7:00 AM: 5% of daily supply<br/> The pumping is to be done for 8 hours per day between 8:00 AM to 4:00 PM. Determine the storage capacity of reservoir.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2022_35_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2022_35_q3_s1",
+          "subNumber": "a",
+          "text": "What is the difference between BOD and COD? Calculate 2 days \\( 30^{\\circ}C \\) BOD of sewage sample whose 5 days \\( 20^{\\circ}C \\) BOD is 110 mg/l. Assume \\( K_{D} \\) at \\( 20^{\\circ}C \\) as 0.1.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_env1_2022_35_q3_s2",
+          "subNumber": "b",
+          "text": "Determine the surface area of a settling tank for \\( 0.5 m^{3}/sec \\) design flow using the design overflow rate as \\( 32.5 m^{3}/day/m^{2} \\). Find the depth of the clarifier for the overflow rate and detention time of 95 mins. Assume, length-to-width ratios for settling tank as 2:1 and length not to exceed 100 m. Recommend the dimensions of the tank.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2022_35_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2022_35_q4_s1",
+          "subNumber": "a",
+          "text": "Discuss the major sources of air pollutants observed in urban areas.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2022_35_q4_s2",
+          "subNumber": "b",
+          "text": "What are the effects of the following air pollutants on human body: (i) Particulates (ii) Sulphur Dioxide (iii) Nitrogen Oxides (iv) Photochemical Oxidants",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2022_35_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2022_35_q5_s1",
+          "subNumber": "a",
+          "text": "Discuss various sources of noise and ill effects of noise pollution.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2022_35_q5_s2",
+          "subNumber": "b",
+          "text": "Explain in brief the major factors and action that may help in noise abatement in society.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2022_35_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2022_35_q6_s1",
+          "subNumber": "a",
+          "text": "Explain the term Breakpoint chlorination and its chemistry in context of disinfection of water.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2022_35_q6_s2",
+          "subNumber": "b",
+          "text": "A water treatment plant is to treat water at the rate of \\( 6000 m^{3}/day \\). If there are two rectangular sedimentation tanks \\( (27 m \\times 5 m \\times 3.8 m) \\). Determine detection time and overflow rate.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2022_35_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2022_35_q7_s1",
+          "subNumber": "a",
+          "text": "What are the requirements of good water distribution system?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_env1_2022_35_q7_s2",
+          "subNumber": "b",
+          "text": "Compute the dimensions of continuous flow rectangular settling tank treating average of \\( 24 \\times 10^{6} \\) litres/day. Take detention period for raw water sedimentation to be 6 hours.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2022_35_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2022_35_q8_s1",
+          "subNumber": "a",
+          "text": "What is photochemical smog, how is it formed and how does it effect.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem3_env1_2022_35_q8_s2",
+          "subNumber": "b",
+          "text": "Define hardness of water. Describe various methods employed for the removal of hardness from water.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_env1_2022_35_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_env1_2022_35_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

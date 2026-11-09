@@ -1,0 +1,358 @@
+{
+  "id": "sem4_mantech_2022_8",
+  "semester": 4,
+  "subject_code": "mantech",
+  "subject_name": "Manufacturing Technology",
+  "year": "2022",
+  "exam_code": "102603",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 6th Semester Exam., 2022 Manufacturing Technology Time: 3 hours Code: 102603 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 29,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question Nos. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_mantech_2022_8_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer from the following (any seven):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2022_8_q1_s1",
+          "subNumber": "a",
+          "text": "Which of the following is/are the function(s) of a jig?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Holding",
+            "Locating",
+            "Guiding",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2022_8_q1_s2",
+          "subNumber": "b",
+          "text": "Which of the following materials is commonly used for making locating and clamping devices?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "High-carbon steel",
+            "Low-carbon steel",
+            "High-speed steel",
+            "Die steel"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2022_8_q1_s3",
+          "subNumber": "c",
+          "text": "Why tolerances are given to the parts?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "To reduce amount of material used",
+            "Because it is impossible to make perfect settings",
+            "To reduce weight of the component",
+            "Because of friction at the interface"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2022_8_q1_s4",
+          "subNumber": "d",
+          "text": "What is mean clearance?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Maximum size of hole minus maximum size of shaft",
+            "Minimum size of hole minus minimum size of shaft",
+            "Average of both size of shaft and hole",
+            "Mean size of hole minus mean size of shaft"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2022_8_q1_s5",
+          "subNumber": "e",
+          "text": "Nearest deviation between hole and shaft from the basic value is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "tolerance",
+            "clearance",
+            "fundamental deviation",
+            "interference"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2022_8_q1_s6",
+          "subNumber": "f",
+          "text": "Economy in material handling can be achieved by",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "employing gravity feed movements",
+            "minimizing distance of travel",
+            "carrying material to destination without using manual labour",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2022_8_q1_s7",
+          "subNumber": "g",
+          "text": "What is the generally considered value of pulse time used in EBM?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "0.004 \\( \\mu s \\) to 0.064 \\( \\mu s \\)",
+            "0.4 \\( \\mu s \\) to 640 \\( \\mu s \\)",
+            "4 \\( \\mu s \\) to 64000 \\( \\mu s \\)",
+            "0.04 \\( \\mu s \\) to 0.64 \\( \\mu s \\)"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2022_8_q1_s8",
+          "subNumber": "h",
+          "text": "Wheelbarrows is used for",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "vertical transportation",
+            "lifting and lowering",
+            "Both (i) and (ii)",
+            "None of the above"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2022_8_q1_s9",
+          "subNumber": "i",
+          "text": "Masks, which are used to confine the jet stream location on workpiece are made of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "copper",
+            "glass",
+            "rubber",
+            "All of the above"
+          ]
+        },
+        {
+          "id": "sem4_mantech_2022_8_q1_s10",
+          "subNumber": "j",
+          "text": "What is the temperature reached by cathode in order to produce plasma beam?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "\\( 12000^{\\circ}C \\)",
+            "\\( 1800^{\\circ}C \\)",
+            "\\( 28000^{\\circ}C \\)",
+            "\\( 40000^{\\circ}C \\)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2022_8_q2",
+      "number": 2,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2022_8_q2_s1",
+          "subNumber": "a",
+          "text": "How can kerf be controlled in electrical discharge machining (EDM)?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2022_8_q2_s2",
+          "subNumber": "b",
+          "text": "Why different advanced machining processes affect the fatigue strength of materials to different degrees?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2022_8_q2_s3",
+          "subNumber": "c",
+          "text": "In an electrochemical machining (ECM) operation with a flat surface, a 10 V DC supply is used. The conductivity of the electrolyte is \\( 0.2 \\, \\Omega^{-1}cm^{-1} \\), and a feed rate of \\( 1 \\, mm/min \\) is used. The workpiece is of pure iron. Calculate the equilibrium gap. Consider the total over-voltage to be 1.5 V.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2022_8_q3",
+      "number": 3,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2022_8_q3_s1",
+          "subNumber": "a",
+          "text": "How gauges are classifying? Discuss in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2022_8_q3_s2",
+          "subNumber": "b",
+          "text": "Discuss the term 'allocation of gauge tolerance' in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2022_8_q3_s3",
+          "subNumber": "c",
+          "text": "Discuss the important factors associated with process planning related to assembly.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2022_8_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2022_8_q4_s1",
+          "subNumber": "a",
+          "text": "While measuring the effective diameter of an external metric screw thread gauge of 3.5 mm pitch, a 30.5 mm diameter cylindrical standard and 2 mm diameter wire were used. The micrometre reading over the standard and wire was 13.3768 mm. The corresponding reading over the thread gauge and wire was 12.2428 mm. Calculate thread gauge effective diameter.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2022_8_q4_s2",
+          "subNumber": "b",
+          "text": "Describe the design factors that must be considered during the planning of a material handling systems.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2022_8_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2022_8_q5_s1",
+          "subNumber": "a",
+          "text": "Explain Taylor's principle of gauge design with example.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mantech_2022_8_q5_s2",
+          "subNumber": "b",
+          "text": "Discuss the advantages of wavelength standard over other standards of measurement. Why is the wave standard adopted universally?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2022_8_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2022_8_q6_s1",
+          "subNumber": "a",
+          "text": "What are the causes of errors in the design and operation of jigs and fixtures? What measures should be taken to minimize the effects of the causes of error?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2022_8_q6_s2",
+          "subNumber": "b",
+          "text": "With neat sketch, explain the different elements of jigs and fixtures.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2022_8_q7",
+      "number": 7,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2022_8_q7_s1",
+          "subNumber": "a",
+          "text": "What is meant by 3-2-1 principle of location?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2022_8_q7_s2",
+          "subNumber": "b",
+          "text": "It is required to punch a hole of 10 mm diameter in a mild steel plate of 10 mm thickness. Determine whether it is possible to punch a hole with shear stress of metal with \\( 60 \\, kg/mm^{2} \\) and compressive strength of punch is \\( 200 \\, kg/mm^{2} \\) Give suitable reason.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2022_8_q7_s3",
+          "subNumber": "c",
+          "text": "What do you understand by shear on dies? What is its effect on size and shape on the cut blank?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2022_8_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2022_8_q8_s1",
+          "subNumber": "a",
+          "text": "With neat sketch, explain the mechanics of material removal in EDM.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem4_mantech_2022_8_q8_s2",
+          "subNumber": "b",
+          "text": "A square through hole of \\( 5 \\, mm \\times 5 \\, mm \\) has to be drilled in a 5 mm thick tungsten carbide sheet. The slurry is made of 1 part of \\( 10 \\, \\mu m \\) radius boron carbide grains mixed with 1.5 parts of water. The feed force is 4 N. The tool oscillates with an amplitude of 0.015 mm at 25 kHz. Assuming that only 20% of the pulses are effective, calculate the time required to finish the job.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_mantech_2022_8_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_mantech_2022_8_q9_s1",
+          "subNumber": "a",
+          "text": "What is deburring? Are deburring operations still necessary for some parts produced by unconventional machining processes? Explain and give at least two specific examples.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_mantech_2022_8_q9_s2",
+          "subNumber": "b",
+          "text": "Draw a schematic diagram and point out the different elements of laser beam machining (LBM). Also calculate the time required for the surface to reach the melting temperature for the conditions mentioned below: A laser beam with a power intensity of \\( 10^{5}W/mm^{2} \\) falls on a tungsten sheet. The material properties are- melting temperature \\( = 3400^{\\circ}C \\), thermal conductivity \\( = 2.15 \\, W/cm^{\\circ}C \\), Volume specific heat \\( = 2.71 \\, W/cm^{\\circ}C \\). Assume that 10% of the beam is absorbed.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

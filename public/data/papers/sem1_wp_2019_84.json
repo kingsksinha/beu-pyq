@@ -1,0 +1,221 @@
+{
+  "id": "sem1_wp_2019_84",
+  "semester": 1,
+  "subject_code": "wp",
+  "subject_name": "Workshop + Workshop Practices",
+  "year": "2019",
+  "exam_code": "100205",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 2nd Semester Exam., 2019 (New Course) Workshop Manufacturing Practices Time: 3 hours Code: 100205 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 18,
+  "max_freq": 14,
+  "has_mcq": false,
+  "instructions": [
+    "All questions carry equal marks.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem1_wp_2019_84_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2019_84_q1_s1",
+          "subNumber": "a",
+          "text": "Explain the functions of Runner and Riser in casting.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_wp_2019_84_q1_s2",
+          "subNumber": "b",
+          "text": "Explain the different types of flames in gas welding.",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2019_84_q1_s3",
+          "subNumber": "c",
+          "text": "Explain the function of gating design in casting.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem1_wp_2019_84_q1_s4",
+          "subNumber": "d",
+          "text": "Differentiate between wood and timber.",
+          "freq": 14,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2019_84_q1_s5",
+          "subNumber": "e",
+          "text": "Explain forming with its applications.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2019_84_q1_s6",
+          "subNumber": "f",
+          "text": "Differentiate between hot working and cold working.",
+          "freq": 14,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2019_84_q1_s7",
+          "subNumber": "g",
+          "text": "Explain the types of joining operations.",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem1_wp_2019_84_q1_s8",
+          "subNumber": "h",
+          "text": "Mention various advanced manufacturing methods.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem1_wp_2019_84_q1_s9",
+          "subNumber": "i",
+          "text": "Discuss the operations that can be performed on lathe machine.",
+          "freq": 4,
+          "stars": "★★★★"
+        },
+        {
+          "id": "sem1_wp_2019_84_q1_s10",
+          "subNumber": "j",
+          "text": "Differentiate between machine and machine tool.",
+          "freq": 14,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2019_84_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2019_84_q2_s1",
+          "subNumber": "a",
+          "text": "What do you understand by manufacturing process? Classify various manufacturing processes.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2019_84_q3",
+      "number": 3,
+      "title": "Q.3 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2019_84_q3_s1",
+          "subNumber": "a",
+          "text": "What do you understand by additive manufacturing? Explain with neat sketch any one additive manufacturing process.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2019_84_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2019_84_q4_s1",
+          "subNumber": "a",
+          "text": "Explain the tapping operation in fitting. Also explain in detail the various taps used for the same.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2019_84_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2019_84_q5_s1",
+          "subNumber": "a",
+          "text": "Explain any two tools used for the following operations in carpentry: (a) Cutting (b) Finishing (c) Striking",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2019_84_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2019_84_q6_s1",
+          "subNumber": "a",
+          "text": "Explain in detail the technique for plastic moulding.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2019_84_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2019_84_q7_s1",
+          "subNumber": "a",
+          "text": "Explain with neat sketches the various casting of defects.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2019_84_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2019_84_q8_s1",
+          "subNumber": "a",
+          "text": "Explain in detail with neat sketch the gas welding process.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem1_wp_2019_84_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem1_wp_2019_84_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the various welding positions. Also clearly differentiate between soldering and brazing along with its applications.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    }
+  ]
+}

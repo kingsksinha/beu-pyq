@@ -1,0 +1,277 @@
+{
+  "id": "sem4_micro_2019_17",
+  "semester": 4,
+  "subject_code": "micro",
+  "subject_name": "Microprocessors",
+  "year": "2019",
+  "exam_code": "031511",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Aryabhatta Knowledge University, Patna B.Tech 5th Semester Examination, 2019 Microprocessors and its Applications Time: 03 Hours Code: 031511 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 26,
+  "max_freq": 9,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem4_micro_2019_17_q1",
+      "number": 1,
+      "title": "Q.1 Answer any seven of the following short answer-type questions:",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2019_17_q1_s1",
+          "subNumber": "a",
+          "text": "Write about the basic difference between microprocessor and microcontroller.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q1_s2",
+          "subNumber": "b",
+          "text": "Draw and explain the memory and I/O read cycle of 8085.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q1_s3",
+          "subNumber": "c",
+          "text": "Define the following: (i) Nibble (ii) Word",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q1_s4",
+          "subNumber": "d",
+          "text": "Explain the concept of memory segmentation in 8086 microprocessor.",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_micro_2019_17_q1_s5",
+          "subNumber": "e",
+          "text": "Why are the lower byte addresses bus (A0-A7) and data bus (D0-D7) multiplexed?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q1_s6",
+          "subNumber": "f",
+          "text": "Write basic operations of microprocessor with block diagram.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_micro_2019_17_q1_s7",
+          "subNumber": "g",
+          "text": "Compare between Procedure and Macros in assembler directives of 8086.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q1_s8",
+          "subNumber": "h",
+          "text": "Define compiler or interpreter in programming languages.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q1_s9",
+          "subNumber": "i",
+          "text": "How many instructions can 8085 support?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q1_s10",
+          "subNumber": "j",
+          "text": "Write about the types of addressing modes in 8086.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2019_17_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2019_17_q2_s1",
+          "subNumber": "a",
+          "text": "Differentiate between the following:<br/> (i) Microprocessor and microcontroller<br/> (ii) Low and high level languages<br/> (iii) RISC processor and CISC processor<br/> (iv) Compiler and interpreter",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q2_s2",
+          "subNumber": "b",
+          "text": "Explain minimum mode operation of 8086 microprocessor with block diagram.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2019_17_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2019_17_q3_s1",
+          "subNumber": "a",
+          "text": "Explain evolution of microprocessor with its different generations.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem4_micro_2019_17_q3_s2",
+          "subNumber": "b",
+          "text": "Explain the requirement of a program counter, stack pointer and status flags in the architecture of the 8085 microprocessor.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2019_17_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2019_17_q4_s1",
+          "subNumber": "a",
+          "text": "Define opcode and operand. Specify the opcode and the operand in the instruction MOV H,L.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q4_s2",
+          "subNumber": "b",
+          "text": "Write a program to add two 16-bit numbers for 8085 \\( \\mu p \\).",
+          "freq": 4,
+          "stars": "★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2019_17_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2019_17_q5_s1",
+          "subNumber": "a",
+          "text": "Explain ALE, HOLD, READY, S0, S1 SIGNALS for 8085 microprocessor.",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_micro_2019_17_q5_s2",
+          "subNumber": "b",
+          "text": "Explain working of 8257 DMA controller with the help of a functional block diagram.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2019_17_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2019_17_q6_s1",
+          "subNumber": "a",
+          "text": "Write the instruction to display the contents of stack pointer register at output ports.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the following:<br/> (i) 8259 programmable interrupt controller<br/> (ii) Development tools-Editor, Library builder, Linker, Emulator",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2019_17_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2019_17_q7_s1",
+          "subNumber": "a",
+          "text": "Design a system for 8085 such that it contains 4 KB of EPROM and 2 KB of RAM using two 2 KB of EPROM and two 1KB of RAM. Draw the complete interfacing diagram.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q7_s2",
+          "subNumber": "b",
+          "text": "Draw the architecture of 8086 and explain its different units. What do you mean by pipelining?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2019_17_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2019_17_q8_s1",
+          "subNumber": "a",
+          "text": "Draw the block diagram of 8251 USART and explain each block. Also draw its interfacing with 8086.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem4_micro_2019_17_q8_s2",
+          "subNumber": "b",
+          "text": "Draw and explain block diagram and pin configuration of IC-8253.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem4_micro_2019_17_q9",
+      "number": 9,
+      "title": "Q.9 Solve both questions :",
+      "marks": "[6+8=14]",
+      "subQuestions": [
+        {
+          "id": "sem4_micro_2019_17_q9_s1",
+          "subNumber": "a",
+          "text": "Explain the concept of memory segmentation.",
+          "freq": 9,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem4_micro_2019_17_q9_s2",
+          "subNumber": "b",
+          "text": "Explain assembler level programming and draw the flowchart of assembler level programming.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

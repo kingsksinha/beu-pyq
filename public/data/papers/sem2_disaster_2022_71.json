@@ -1,0 +1,213 @@
+{
+  "id": "sem2_disaster_2022_71",
+  "semester": 2,
+  "subject_code": "disaster",
+  "subject_name": "Disaster Preparedness & Planning",
+  "year": "2022",
+  "exam_code": "101402",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2022 Disaster Preparedness and Planning Time: 03 Hours Code: 101402 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 17,
+  "max_freq": 5,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_disaster_2022_71_q1",
+      "number": 1,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2022_71_q1_s1",
+          "subNumber": "a",
+          "text": "Two types of geological disasters are ________ and ________. (Fill in the blanks)",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2022_71_q1_s2",
+          "subNumber": "b",
+          "text": "List two man-made reasons for landslides in hilly areas.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2022_71_q1_s3",
+          "subNumber": "c",
+          "text": "Give a brief definition of climate change.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2022_71_q1_s4",
+          "subNumber": "d",
+          "text": "Name two gases that are classified amongst the three most important greenhouse gases (GHGs).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2022_71_q1_s5",
+          "subNumber": "e",
+          "text": "Name two important aspects of post-disaster environmental response.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_disaster_2022_71_q1_s6",
+          "subNumber": "f",
+          "text": "The Disaster Management Act presently in force in India was enacted by Parliament in the year ________ and received the assent of the President of India in the year ________. (Fill in the blanks)",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_disaster_2022_71_q1_s7",
+          "subNumber": "g",
+          "text": "Briefly define the term 'calamity' as applied to disaster management.",
+          "freq": 5,
+          "stars": "★★★★★"
+        },
+        {
+          "id": "sem2_disaster_2022_71_q1_s8",
+          "subNumber": "h",
+          "text": "Name two disasters caused by chemical plant spills.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2022_71_q1_s9",
+          "subNumber": "i",
+          "text": "Identify two natural disasters that hilly and mountainous areas are highly prone to.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_disaster_2022_71_q1_s10",
+          "subNumber": "j",
+          "text": "Two early-warning systems that are of utmost utility in coastal regions are ________ and ________. (Fill in the blanks)",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2022_71_q2",
+      "number": 2,
+      "title": "Q.2 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2022_71_q2_s1",
+          "subNumber": "a",
+          "text": "List and explain four types of man-made disasters.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2022_71_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": []
+    },
+    {
+      "id": "sem2_disaster_2022_71_q4",
+      "number": 4,
+      "title": "Q.4 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2022_71_q4_s1",
+          "subNumber": "a",
+          "text": "In disaster management terminology, we speak of the 'pre-disaster agenda', which focuses on P's that include preservation, prediction, prevention, and preparedness and E's which stand for environmental improvement, emergency needs assessment, empowerment of communities, and early warning. Briefly explain any two of each of the P's and E's mentioned above.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2022_71_q5",
+      "number": 5,
+      "title": "Q.5 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2022_71_q5_s1",
+          "subNumber": "a",
+          "text": "India, due to its, physiographic and climatic conditions, is believed to be one of the most disaster-prone countries of the world. Further, vulnerability to human-induced disasters/emergencies also exists. Elaborate upon two of each natural and man-made hazards that exist in India.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2022_71_q6",
+      "number": 6,
+      "title": "Q.6 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2022_71_q6_s1",
+          "subNumber": "a",
+          "text": "Outline the roles and responsibilities of local community and NGOs towards disaster risk preparedness and reduction.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2022_71_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2022_71_q7_s1",
+          "subNumber": "a",
+          "text": "Discuss the impact of environmental modifications such as urbanization on vulnerability.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2022_71_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2022_71_q8_s1",
+          "subNumber": "a",
+          "text": "Elaborate upon any four activities of the National Disaster Management Authority.",
+          "freq": 5,
+          "stars": "★★★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_disaster_2022_71_q9",
+      "number": 9,
+      "title": "Q.9 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_disaster_2022_71_q9_s1",
+          "subNumber": "a",
+          "text": "What do you understand by sustainable and environmentally-friendly development? Explain giving examples.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

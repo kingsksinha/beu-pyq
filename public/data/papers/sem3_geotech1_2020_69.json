@@ -1,0 +1,330 @@
+{
+  "id": "sem3_geotech1_2020_69",
+  "semester": 3,
+  "subject_code": "geotech1",
+  "subject_name": "Geotechnical Engineering -I",
+  "year": "2020",
+  "exam_code": "101503",
+  "full_marks": "70",
+  "duration": "3 hours",
+  "title": "Bihar Engineering University, Patna B.Tech 5th Semester Exam., 2020 Geotechnical Engineering - I Time: 3 hours Code: 101503 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 2,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem3_geotech1_2020_69_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven) :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2020_69_q1_s1",
+          "subNumber": "a",
+          "text": "Water transported soils are termed as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "alluvial",
+            "aeoline",
+            "talus",
+            "loess"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q1_s2",
+          "subNumber": "b",
+          "text": "The three-phase soil system consists of",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "soil, water and air",
+            "soil, semi-solid and air",
+            "solids, water and air",
+            "solids, semi-solids and water"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q1_s3",
+          "subNumber": "c",
+          "text": "The standard and most accurate method for determination of water content is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "calcium carbide method",
+            "torsion balance method",
+            "oven drying method",
+            "alcohol method"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q1_s4",
+          "subNumber": "d",
+          "text": "The property of fine grained soils to change from liquid state to plastic state with decrease of water content is known as",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "liquidity",
+            "plasticity",
+            "shrinkage",
+            "consistency"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q1_s5",
+          "subNumber": "e",
+          "text": "The meniscus and dispersing agent corrections to hydrometer reading are respectively",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "positive and positive",
+            "positive and negative",
+            "negative and negative",
+            "negative and positive"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q1_s6",
+          "subNumber": "f",
+          "text": "The maximum particle size for which Darcy's law is applicable is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "75 µm",
+            "0.2 mm",
+            "0.5 mm",
+            "0.1 mm"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q1_s7",
+          "subNumber": "g",
+          "text": "A soil has a discharge velocity of \\( 6 \\times 10^{-6} \\text{ m/s} \\) and the porosity of 0.40. Its seepage velocity is",
+          "freq": 2,
+          "stars": "★★",
+          "options": [
+            "\\( 15 \\times 10^{-6} \\text{ m/s} \\)",
+            "\\( 1.5 \\times 10^{-6} \\text{ m/s} \\)",
+            "\\( 2.4 \\times 10^{-6} \\text{ m/s} \\)",
+            "\\( 6 \\times 10^{-6} \\text{ m/s} \\)"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q1_s8",
+          "subNumber": "h",
+          "text": "If water rises (unit weight of water = \\( \\gamma_w \\)) by a height h above the groundwater table by capillary action, the pore water pressure the height at h above groundwater table is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "zero",
+            "\\( \\gamma_w h \\)",
+            "\\( -\\gamma_w h \\)",
+            "\\( \\gamma_w h^2 \\)"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q1_s9",
+          "subNumber": "i",
+          "text": "The number of blows used for compacting each layer in modified proctor test is",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "25 blows",
+            "56 blows",
+            "55 blows",
+            "76 blows"
+          ]
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q1_s10",
+          "subNumber": "j",
+          "text": "In which of the following footings of equal width, the vertical stress extends to larger depth below its base?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Square footing",
+            "Strip footing",
+            "Circular footing",
+            "Rectangular footing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2020_69_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2020_69_q2_s1",
+          "subNumber": "a",
+          "text": "Distinguish clearly between physical and chemical weathering.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q2_s2",
+          "subNumber": "b",
+          "text": "A saturated clay has a water content of 40% and a bulk specific gravity of 1.75. Determine the void ratio and specific gravity of particles. [Take unit weight of water = 10 kN/m³]",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2020_69_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2020_69_q3_s1",
+          "subNumber": "a",
+          "text": "Write a short note on the 'method of determination of Atterberg limits'.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q3_s2",
+          "subNumber": "b",
+          "text": "A fully saturated clay has a water content 40% and a mass specific gravity of 1.92. After oven drying, the mass specific gravity reduces to 1.81. Determine the specific gravity of soil solids and shrinkage limit.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2020_69_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2020_69_q4_s1",
+          "subNumber": "a",
+          "text": "Sketch the grain size distribution curve for uniformly graded, well-graded and gap-graded soils and discuss their Characteristics.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q4_s2",
+          "subNumber": "b",
+          "text": "Two soils \\( S_1 \\) and \\( S_2 \\) are tested in the laboratory for the consistency limits. The data available is as follows :",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2020_69_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2020_69_q5_s1",
+          "subNumber": "a",
+          "text": "How do you determine the permeability of cohesive soils in the laboratory? Derive the formula you used.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q5_s2",
+          "subNumber": "b",
+          "text": "A field pumping out test gave the following data : Diameter of well = 30 cm; Thickness of confined aquifer = 35 m; Radius of circle of influence = 300 m; Drawdown during the test = 5.5 m; Pump discharge = 0.9 cumecs. Compute the permeability of the aquifer.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2020_69_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2020_69_q6_s1",
+          "subNumber": "a",
+          "text": "What is quick sand? How would you calculate the hydraulic gradient required to create quick sand conditions in sand?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q6_s2",
+          "subNumber": "b",
+          "text": "A sand deposit consists of two layers. The top layer is 3.0 m thick (unit weight = 17 kN/m³) and the bottom layer is 4.0 m thick (unit weight = 18 kN/m³). The water table is at a depth of 4.0 m from the top. Draw the diagram and show the variation of total stress, neutral stress and effective stress.",
+          "freq": 2,
+          "stars": "★★"
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2020_69_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2020_69_q7_s1",
+          "subNumber": "a",
+          "text": "What are the factors that affect compaction? Discuss in detail.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q7_s2",
+          "subNumber": "b",
+          "text": "A laboratory compaction test on the soil having specific gravity 2.70 gave an MDD of 1.85 gm/cc and a water content of 19%. Determine the degree of saturation, air content and percentage air voids at the MDD. What would be theoretical MDD corresponding to zero air voids at the OMC?",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2020_69_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2020_69_q8_s1",
+          "subNumber": "a",
+          "text": "Derive the equation for vertical stress due to line load of intensity q.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem3_geotech1_2020_69_q8_s2",
+          "subNumber": "b",
+          "text": "A point load of 250 kN acts on the ground surface. Using the Boussinesq analysis, find the maximum vertical pressure on the vertical plane at a distance of 3 m from the loading.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem3_geotech1_2020_69_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any four of the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem3_geotech1_2020_69_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

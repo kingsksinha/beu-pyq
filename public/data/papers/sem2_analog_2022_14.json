@@ -1,0 +1,285 @@
+{
+  "id": "sem2_analog_2022_14",
+  "semester": 2,
+  "subject_code": "analog",
+  "subject_name": "Analog Circuits",
+  "year": "2022",
+  "exam_code": "110401",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Exam., 2022 Analog Electronic Circuits Time: 03 Hours Code: 110401 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 25,
+  "max_freq": 3,
+  "has_mcq": false,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_analog_2022_14_q1",
+      "number": 1,
+      "title": "Q.1 Attempt any seven from the following:",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2022_14_q1_s1",
+          "subNumber": "a",
+          "text": "What is avalanche multiplication?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q1_s2",
+          "subNumber": "b",
+          "text": "Compare CE, CC and CB for current gain, voltage gain, input and output impedance.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q1_s3",
+          "subNumber": "c",
+          "text": "Junction transistor is an active device. Justify.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q1_s4",
+          "subNumber": "d",
+          "text": "Write the equation of a diode and draw its VI characteristics.",
+          "freq": 3,
+          "stars": "★★★"
+        },
+        {
+          "id": "sem2_analog_2022_14_q1_s5",
+          "subNumber": "e",
+          "text": "What is early effect in bipolar junction transistors?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q1_s6",
+          "subNumber": "f",
+          "text": "Draw an npn transistor in CB configuration and draw its input characteristics.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q1_s7",
+          "subNumber": "g",
+          "text": "BJT has higher driving capability as compared to MOSFET. Justify.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q1_s8",
+          "subNumber": "h",
+          "text": "For an ideal negative feedback configuration, there is a virtual short circuit between the input terminals. Why?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q1_s9",
+          "subNumber": "i",
+          "text": "Draw a circuit which can be used as limiter or clamper or both.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2022_14_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2022_14_q2_s1",
+          "subNumber": "a",
+          "text": "Write brief notes on: (i) Avalanche breakdown (ii) Zener breakdown",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q2_s2",
+          "subNumber": "b",
+          "text": "The saturation currents of the diodes are 1 \\( \\mu A \\) and 2 \\( \\mu A \\). The breakdown voltages of the diodes are the same and are equal to 100 V: (i) Calculate the current and voltage for each diode if V = 90 V and V = 110 V (ii) Repeat part (i) if each diode is shunted by 10 M\\( \\Omega \\) resistor.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/252.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2022_14_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2022_14_q3_s1",
+          "subNumber": "a",
+          "text": "With reference to rectifying circuits, explain- (i) ripple factor (\\( \\gamma \\)); (ii) transformer utility factor (TUF); (iii) peak inverse voltage (PIV); (iv) rectifier efficiency (\\( \\eta \\)).",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q3_s2",
+          "subNumber": "b",
+          "text": "For HW rectifier and capacitor filter- (i) draw the circuit diagram; (ii) draw the waveforms; (iii) give a brief explanation of the functioning of the circuit.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2022_14_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2022_14_q4_s1",
+          "subNumber": "a",
+          "text": "Draw Ebers Moll model for pnp transistor and show that transistor action is not possible by connecting two diodes back to back.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q4_s2",
+          "subNumber": "b",
+          "text": "For the transistor shown below, \\( \\alpha = 0.98 \\) and \\( V_{BB} = 0.7 \\), find \\( R_1 \\) for an emitter current \\( I_E = -2 mA \\). Neglect \\( I_{CO} \\).",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/251.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2022_14_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2022_14_q5_s1",
+          "subNumber": "a",
+          "text": "Given the following measurements made at \\( I_C = 5 mA \\), \\( V_{CE} = 10 V \\) and at room temperature \\( h_{fe} = 100 \\), \\( h_{ie} = 600 \\Omega \\), \\( A_{ie} = 10 \\) at 10 MHz, \\( C_C = 3 pF \\). Find \\( f_T \\), \\( f_\\alpha \\), \\( r_{b'e} \\) and \\( r_{bb'} \\) for the transistor.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q5_s2",
+          "subNumber": "b",
+          "text": "A silicon transistor with \\( \\beta = h_{FE} = 100 \\), \\( V_{BE}(sat) = 0.8V \\), \\( V_{CE}(sat) = 0.2 V \\) is used in the circuit shown. Find the minimum value of \\( R_C \\) for which transistor remains in saturation.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/253.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2022_14_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2022_14_q6_s1",
+          "subNumber": "a",
+          "text": "Compare the performance of MOSFET and BJT.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q6_s2",
+          "subNumber": "b",
+          "text": "Explain the construction of p-channel MOSFET. Draw and explain both depletion and enhancement mode MOSFET.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2022_14_q7",
+      "number": 7,
+      "title": "Q.7 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2022_14_q7_s1",
+          "subNumber": "a",
+          "text": "Calculate \\( v_0 \\) and the op-amp's output current as shown in the circuit and if \\( E_i \\) equals (i) +5 V and (ii) -2 V. For each situation, state if the op-amp sources or sinks current.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/250.jpg"
+          ]
+        },
+        {
+          "id": "sem2_analog_2022_14_q7_s2",
+          "subNumber": "b",
+          "text": "(i) Design an inverting amplifier with a gain of -5 and an input resistance of 10 k\\( \\Omega \\). (ii) Design a non-inverting amplifier with a gain of 5.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2022_14_q8",
+      "number": 8,
+      "title": "Q.8 Solve both questions :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2022_14_q8_s1",
+          "subNumber": "a",
+          "text": "The circuit shown is required to supply on average voltage of 120 V. Determine the r.m.s. value of secondary voltage, average current delivered to the load, peak current through each diode and PIV of diodes.",
+          "freq": 1,
+          "stars": "",
+          "images": [
+            "img/beu/diagram/2nd3rd/249.jpg"
+          ]
+        },
+        {
+          "id": "sem2_analog_2022_14_q8_s2",
+          "subNumber": "b",
+          "text": "Explain different amplifiers with suitable example.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_analog_2022_14_q9",
+      "number": 9,
+      "title": "",
+      "marks": "",
+      "subQuestions": [
+        {
+          "id": "sem2_analog_2022_14_q9_s1",
+          "subNumber": "a",
+          "text": "Precision comparator",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_analog_2022_14_q9_s2",
+          "subNumber": "b",
+          "text": "Zero crossing detector with hysteresis",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}

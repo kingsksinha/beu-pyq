@@ -1,0 +1,316 @@
+{
+  "id": "sem2_coa_2024_46",
+  "semester": 2,
+  "subject_code": "coa",
+  "subject_name": "Computer Organization & Architecture",
+  "year": "2024",
+  "exam_code": "105401",
+  "full_marks": "70",
+  "duration": "03 Hours",
+  "title": "Bihar Engineering University, Patna B.Tech 4th Semester Examination, 2024 Computer Organization & Architecture Time: 03 Hours Code: 105401 Full Marks: 70",
+  "question_count": 9,
+  "total_subquestions": 23,
+  "max_freq": 3,
+  "has_mcq": true,
+  "instructions": [
+    "The marks are indicated in the right-hand margin.",
+    "There are NINE questions in this paper.",
+    "Attempt FIVE questions in all.",
+    "Question No. 1 is compulsory."
+  ],
+  "questions": [
+    {
+      "id": "sem2_coa_2024_46_q1",
+      "number": 1,
+      "title": "Q.1 Choose the correct answer of the following (any seven question only):",
+      "marks": "[2x7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2024_46_q1_s1",
+          "subNumber": "a",
+          "text": "What is the first step in the instruction execution cycle?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Decode",
+            "Execute",
+            "Fetch",
+            "Store"
+          ]
+        },
+        {
+          "id": "sem2_coa_2024_46_q1_s2",
+          "subNumber": "b",
+          "text": "What is the advantage of carry look-ahead adders over ripple carry adders?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Simplicity in design",
+            "Increased latency",
+            "Reduced power consumption",
+            "Faster addition by reducing carry propagation delay"
+          ]
+        },
+        {
+          "id": "sem2_coa_2024_46_q1_s3",
+          "subNumber": "c",
+          "text": "Which type of control unit is faster but more difficult to modify?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Hardwired Control Unit",
+            "Microprogrammed Control Unit",
+            "Cache Control Unit",
+            "Memory Management Unit"
+          ]
+        },
+        {
+          "id": "sem2_coa_2024_46_q1_s4",
+          "subNumber": "d",
+          "text": "Which of the following I/O transfer methods involves the CPU polling the device until data is ready?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "DMA",
+            "Interrupt-driven I/O",
+            "Program-controlled I/O",
+            "Asynchronous I/O"
+          ]
+        },
+        {
+          "id": "sem2_coa_2024_46_q1_s5",
+          "subNumber": "e",
+          "text": "What does a branch prediction mechanism in a CPU help reduce?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Data hazards",
+            "Structural hazards",
+            "Control hazards",
+            "Clock cycle delays"
+          ]
+        },
+        {
+          "id": "sem2_coa_2024_46_q1_s6",
+          "subNumber": "f",
+          "text": "Which of the following is NOT a type of parallel processor architecture?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "SIMD",
+            "MIMD",
+            "SISO",
+            "Multi-core"
+          ]
+        },
+        {
+          "id": "sem2_coa_2024_46_q1_s7",
+          "subNumber": "g",
+          "text": "Which cache replacement algorithm removes the least recently used block?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "FIFO",
+            "LFU",
+            "LRU",
+            "Random Replacement"
+          ]
+        },
+        {
+          "id": "sem2_coa_2024_46_q1_s8",
+          "subNumber": "h",
+          "text": "Which technique is used to handle data hazards in pipelining?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Increasing memory size",
+            "Instruction scheduling",
+            "Parallel processing",
+            "Increasing clock speed"
+          ]
+        },
+        {
+          "id": "sem2_coa_2024_46_q1_s9",
+          "subNumber": "i",
+          "text": "Which addressing mode directly specifies the operand within the instruction?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "Direct Addressing",
+            "Immediate Addressing",
+            "Indirect Addressing",
+            "Indexed Addressing"
+          ]
+        },
+        {
+          "id": "sem2_coa_2024_46_q1_s10",
+          "subNumber": "j",
+          "text": "A computer with 32 bit wide data bus uses \\( 1K \\times 8 \\) static RAM memory chips. What is smallest memory that this computer have?",
+          "freq": 1,
+          "stars": "",
+          "options": [
+            "32K",
+            "8K",
+            "16K",
+            "24K"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2024_46_q2",
+      "number": 2,
+      "title": "Q.2 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2024_46_q2_s1",
+          "subNumber": "a",
+          "text": "Describe the instruction execution cycle in a CPU. Explain some key features of the x86 architecture.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2024_46_q2_s2",
+          "subNumber": "b",
+          "text": "Explain different addressing modes in a CPU with an examples.",
+          "freq": 3,
+          "stars": "★★★"
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2024_46_q3",
+      "number": 3,
+      "title": "Q.3 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2024_46_q3_s1",
+          "subNumber": "a",
+          "text": "Explain the Addition and Subtraction Algorithm with the help of flowchart.",
+          "freq": 2,
+          "stars": "★★"
+        },
+        {
+          "id": "sem2_coa_2024_46_q3_s2",
+          "subNumber": "b",
+          "text": "What is a Carry-look ahead fast adder? Draw the circuit of an 8-bit carry-look ahead adder using 4-bit carry look ahead adder.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2024_46_q4",
+      "number": 4,
+      "title": "Q.4 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2024_46_q4_s1",
+          "subNumber": "a",
+          "text": "Explain different cache replacement algorithms used in memory management.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2024_46_q4_s2",
+          "subNumber": "b",
+          "text": "What are the different types of Registers? With the diagram show how the basic computer register connected to a common Bus.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2024_46_q5",
+      "number": 5,
+      "title": "Q.5 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2024_46_q5_s1",
+          "subNumber": "a",
+          "text": "Illustrate what are the challenges associated with concurrent access to memory in parallel processing?",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2024_46_q5_s2",
+          "subNumber": "b",
+          "text": "Describe different cache coherence protocols used in parallel processors.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2024_46_q6",
+      "number": 6,
+      "title": "Q.6 Solve both questions :",
+      "marks": "[7+7=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2024_46_q6_s1",
+          "subNumber": "a",
+          "text": "A non-pipeline system takes 50ns to process a task. The same task can be processed in a six-segment pipeline with a clock cycle of 10ns. Determine the speedup ratio of the pipeline for 100 task.",
+          "freq": 1,
+          "stars": ""
+        },
+        {
+          "id": "sem2_coa_2024_46_q6_s2",
+          "subNumber": "b",
+          "text": "What are pipeline hazards? Explain different types of hazards in pipelining.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2024_46_q7",
+      "number": 7,
+      "title": "Q.7 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2024_46_q7_s1",
+          "subNumber": "a",
+          "text": "Explain Booth's algorithm for multiplication with the help of flowchart. Provide an example for its implementation.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2024_46_q8",
+      "number": 8,
+      "title": "Q.8 Solve this question :",
+      "marks": "[14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2024_46_q8_s1",
+          "subNumber": "a",
+          "text": "Describe different types of Input/Output transfers. Explain how data transfer take place through DMA.",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    },
+    {
+      "id": "sem2_coa_2024_46_q9",
+      "number": 9,
+      "title": "Q.9 Write short notes on any two of the following:-",
+      "marks": "[7x2=14]",
+      "subQuestions": [
+        {
+          "id": "sem2_coa_2024_46_q9_s1",
+          "subNumber": "a",
+          "text": "",
+          "freq": 1,
+          "stars": ""
+        }
+      ]
+    }
+  ]
+}
