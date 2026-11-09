@@ -33,15 +33,15 @@ export const Sidebar: React.FC<SidebarProps> = ({ onOpenLegend }) => {
   ];
 
   return (
-    <aside className="hidden lg:flex flex-col w-64 border-r border-zinc-200 dark:border-zinc-800/80 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md h-screen sticky top-0 shrink-0 select-none">
+    <aside className="hidden lg:flex flex-col w-64 border-r border-slate-200 dark:border-slate-800/80 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md h-screen sticky top-0 shrink-0 select-none">
       {/* Brand Header */}
-      <div className="h-16 flex items-center px-5 border-b border-zinc-200 dark:border-zinc-800/80">
+      <div className="h-16 flex items-center px-5 border-b border-slate-200 dark:border-slate-800/80">
         <AppLogo size="md" />
       </div>
 
       {/* Nav List */}
       <div className="flex-1 px-3 py-4 space-y-1 overflow-y-auto">
-        <div className="px-3 pb-2 text-[11px] font-semibold uppercase tracking-wider text-zinc-400">
+        <div className="px-3 pb-2 text-[11px] font-semibold uppercase tracking-wider text-slate-400">
           Navigation
         </div>
         {navItems.map(item => {
@@ -54,8 +54,8 @@ export const Sidebar: React.FC<SidebarProps> = ({ onOpenLegend }) => {
               className={({ isActive }) =>
                 `flex items-center gap-3 px-3 py-2.5 rounded-xl text-xs font-medium transition ${
                   isActive
-                    ? 'bg-zinc-100 dark:bg-zinc-800/90 text-zinc-900 dark:text-zinc-100 font-semibold border border-zinc-200 dark:border-zinc-700 shadow-2xs'
-                    : 'text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/50'
+                    ? 'bg-indigo-50/80 dark:bg-slate-800 text-indigo-600 dark:text-indigo-400 font-semibold border border-indigo-200/60 dark:border-slate-700 shadow-2xs'
+                    : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100/60 dark:hover:bg-slate-800/50'
                 }`
               }
             >
@@ -67,7 +67,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ onOpenLegend }) => {
 
         {/* Legend trigger button */}
         <div className="pt-4">
-          <div className="px-3 pb-2 text-[11px] font-semibold uppercase tracking-wider text-zinc-400">
+          <div className="px-3 pb-2 text-[11px] font-semibold uppercase tracking-wider text-slate-400">
             Study Tools
           </div>
           <button
@@ -81,16 +81,16 @@ export const Sidebar: React.FC<SidebarProps> = ({ onOpenLegend }) => {
       </div>
 
       {/* Footer & Theme Toggle */}
-      <div className="p-3 border-t border-zinc-200 dark:border-zinc-800/80 space-y-2">
+      <div className="p-3 border-t border-slate-200 dark:border-slate-800/80 space-y-2">
         <button
           onClick={toggleTheme}
-          className="w-full flex items-center justify-between px-3 py-2 rounded-xl text-xs font-medium text-zinc-600 dark:text-zinc-400 hover:bg-zinc-100 dark:hover:bg-zinc-800 transition"
+          className="w-full flex items-center justify-between px-3 py-2 rounded-xl text-xs font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 transition"
         >
           <span className="flex items-center gap-2.5">
-            {theme === 'dark' ? <Moon className="w-4 h-4 text-zinc-300" /> : <Sun className="w-4 h-4 text-amber-500" />}
-            <span className="text-zinc-800 dark:text-zinc-200">{theme === 'dark' ? 'Dark Mode' : 'Light Mode'}</span>
+            {theme === 'dark' ? <Moon className="w-4 h-4 text-slate-300" /> : <Sun className="w-4 h-4 text-amber-500" />}
+            <span className="text-slate-800 dark:text-slate-200">{theme === 'dark' ? 'Dark Mode' : 'Light Mode'}</span>
           </span>
-          <span className="text-[10px] uppercase font-mono px-1.5 py-0.5 rounded bg-zinc-200 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400">
+          <span className="text-[10px] uppercase font-mono px-1.5 py-0.5 rounded bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-400">
             {theme}
           </span>
         </button>

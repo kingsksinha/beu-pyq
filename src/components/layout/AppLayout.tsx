@@ -24,7 +24,7 @@ export const AppLayout: React.FC = () => {
   }, []);
 
   return (
-    <div className="min-h-screen bg-slate-50 dark:bg-slate-900 text-slate-900 dark:text-slate-100 flex flex-col lg:flex-row antialiased selection:bg-indigo-100 selection:text-indigo-900 dark:selection:bg-slate-800 dark:selection:text-slate-100">
+    <div className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 flex flex-col lg:flex-row antialiased selection:bg-indigo-100 selection:text-indigo-900 dark:selection:bg-slate-800 dark:selection:text-slate-100">
       {/* Desktop Sidebar */}
       <Sidebar onOpenLegend={() => setIsLegendOpen(true)} />
 

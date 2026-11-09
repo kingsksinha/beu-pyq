@@ -127,10 +127,10 @@ export const PaperDetailPage: React.FC = () => {
       {/* Printable Area Wrapper */}
       <div id="printable-paper" className="space-y-6">
         {/* Navigation Breadcrumb & Actions Bar (Hidden during print) */}
-        <div className="print:hidden flex flex-wrap items-center justify-between gap-4 pb-2 border-b border-zinc-200 dark:border-zinc-800">
+        <div className="print:hidden flex flex-wrap items-center justify-between gap-4 pb-2 border-b border-slate-200 dark:border-slate-800">
           <button
             onClick={() => navigate(-1)}
-            className="inline-flex items-center gap-1.5 text-xs font-semibold text-zinc-500 hover:text-zinc-800 dark:hover:text-zinc-200 transition"
+            className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 transition"
           >
             <ArrowLeft className="w-4 h-4" />
             <span>Back</span>
@@ -140,7 +140,7 @@ export const PaperDetailPage: React.FC = () => {
             {/* Practice Mode Button */}
             <Link
               to={`/practice/${paper.id}`}
-              className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-zinc-900 text-white hover:bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white shadow-xs transition"
+              className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-indigo-600 hover:bg-indigo-500 text-white shadow-xs transition"
             >
               <PlayCircle className="w-4 h-4" />
               <span>Practice Mode</span>
@@ -149,7 +149,7 @@ export const PaperDetailPage: React.FC = () => {
             {/* Print / Download PDF */}
             <button
               onClick={handlePrint}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-zinc-800 hover:bg-zinc-100 dark:hover:bg-zinc-700 text-zinc-700 dark:text-zinc-200 border border-zinc-200 dark:border-zinc-700 transition"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 border border-slate-200 dark:border-slate-700 transition"
               title="Print or Save as A4 PDF"
             >
               <Printer className="w-3.5 h-3.5" />
@@ -162,7 +162,7 @@ export const PaperDetailPage: React.FC = () => {
               className={`p-2 rounded-xl border transition ${
                 isBookmarked
                   ? 'bg-amber-500/10 border-amber-500/30 text-amber-500'
-                  : 'bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 text-zinc-500 hover:text-zinc-800 dark:hover:text-zinc-200'
+                  : 'bg-white dark:bg-slate-800 border-slate-200 dark:border-slate-700 text-slate-500 hover:text-slate-800 dark:hover:text-slate-200'
               }`}
               title={isBookmarked ? 'Bookmarked' : 'Bookmark paper'}
             >
@@ -172,7 +172,7 @@ export const PaperDetailPage: React.FC = () => {
             {/* Copy shareable link */}
             <button
               onClick={handleCopyLink}
-              className="p-2 rounded-xl bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 hover:text-zinc-800 dark:hover:text-zinc-200 transition"
+              className="p-2 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 transition"
               title="Copy shareable link"
             >
               {copied ? <Check className="w-4 h-4 text-emerald-500" /> : <Copy className="w-4 h-4" />}
@@ -191,14 +191,14 @@ export const PaperDetailPage: React.FC = () => {
 
         {/* Paper Instructions */}
         {paper.instructions && paper.instructions.length > 0 && (
-          <div className="bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-2xl p-5 sm:p-6 shadow-xs space-y-2">
-            <h4 className="text-xs font-bold uppercase tracking-wider text-zinc-400 flex items-center gap-1.5">
-              <HelpCircle className="w-3.5 h-3.5 text-zinc-500" />
+          <div className="bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 sm:p-6 shadow-xs space-y-2">
+            <h4 className="text-xs font-bold uppercase tracking-wider text-slate-400 dark:text-slate-300 flex items-center gap-1.5">
+              <HelpCircle className="w-3.5 h-3.5 text-indigo-500 dark:text-indigo-400" />
               <span>Official Examination Instructions</span>
             </h4>
-            <ol className="list-decimal list-inside space-y-1 text-xs sm:text-sm text-zinc-600 dark:text-zinc-300 leading-relaxed pl-1">
+            <ol className="list-decimal list-inside space-y-1 text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed pl-1">
               {paper.instructions.map((inst, idx) => (
-                <li key={idx} className="marker:font-semibold marker:text-zinc-400">
+                <li key={idx} className="marker:font-semibold marker:text-indigo-400">
                   {inst}
                 </li>
               ))}
@@ -225,13 +225,13 @@ export const PaperDetailPage: React.FC = () => {
         </div>
 
         {/* Printable & Screen Archive Stamp with "By Love By FBi" */}
-        <div className="print-fbi-footer mt-8 pt-4 border-t border-zinc-200 dark:border-zinc-800 flex flex-col sm:flex-row items-center justify-between text-xs text-zinc-500 gap-2">
+        <div className="print-fbi-footer mt-8 pt-4 border-t border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-2">
           <div className="flex items-center gap-1.5 font-medium">
             <span>Bihar Engineering University (BEU) PYQ Archive</span>
             <span className="hidden sm:inline">•</span>
-            <span className="text-zinc-400">Code: {paper.exam_code}</span>
+            <span className="text-slate-400">Code: {paper.exam_code}</span>
           </div>
-          <div className="flex items-center gap-1.5 font-bold text-zinc-800 dark:text-zinc-200">
+          <div className="flex items-center gap-1.5 font-bold text-slate-800 dark:text-slate-200">
             <span>By Love By FBi</span>
             <span className="text-rose-500">❤️</span>
           </div>
@@ -240,14 +240,14 @@ export const PaperDetailPage: React.FC = () => {
 
       {/* Related Papers Section (Hidden in Print) */}
       {relatedPapers.length > 0 && (
-        <div className="print:hidden pt-8 border-t border-zinc-200 dark:border-zinc-800 space-y-4">
+        <div className="print:hidden pt-8 border-t border-slate-200 dark:border-slate-800 space-y-4">
           <div className="flex items-center justify-between">
-            <h3 className="font-bold text-base text-zinc-900 dark:text-white">
+            <h3 className="font-bold text-base text-slate-900 dark:text-white">
               Related Question Papers
             </h3>
             <Link
               to={`/papers?subject=${paper.subject_code}`}
-              className="text-xs font-semibold text-zinc-900 dark:text-zinc-100 hover:underline"
+              className="text-xs font-semibold text-indigo-600 dark:text-indigo-400 hover:underline"
             >
               View all {paper.subject_name} papers
             </Link>
@@ -258,16 +258,16 @@ export const PaperDetailPage: React.FC = () => {
               <Link
                 key={rel.id}
                 to={`/paper/${rel.id}`}
-                className="p-4 rounded-xl bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 hover:border-zinc-700 transition block shadow-xs"
+                className="p-4 rounded-xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 hover:border-slate-600 transition block shadow-xs"
               >
-                <div className="flex items-center justify-between text-[10px] text-zinc-400 font-mono mb-1">
+                <div className="flex items-center justify-between text-[10px] text-slate-400 font-mono mb-1">
                   <span>Sem {rel.semester}</span>
                   <span>{rel.year}</span>
                 </div>
-                <h4 className="font-semibold text-xs text-zinc-900 dark:text-white truncate">
+                <h4 className="font-semibold text-xs text-slate-900 dark:text-white truncate">
                   {rel.subject_name}
                 </h4>
-                <p className="text-[11px] text-zinc-500 mt-1">
+                <p className="text-[11px] text-slate-500 mt-1">
                   Code: {rel.exam_code} · {rel.question_count} Qs
                 </p>
               </Link>

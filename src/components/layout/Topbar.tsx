@@ -17,12 +17,12 @@ export const Topbar: React.FC<TopbarProps> = ({
   const { theme, toggleTheme } = useTheme();
 
   return (
-    <header className="h-16 sticky top-0 z-30 flex items-center justify-between px-4 sm:px-6 border-b border-zinc-200 dark:border-zinc-800/80 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md">
+    <header className="h-16 sticky top-0 z-30 flex items-center justify-between px-4 sm:px-6 border-b border-slate-200 dark:border-slate-800/80 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md">
       {/* Left: Mobile hamburger & Search bar */}
       <div className="flex items-center gap-3 flex-1 max-w-xl">
         <button
           onClick={onToggleMobileNav}
-          className="lg:hidden p-2 rounded-lg text-zinc-500 hover:bg-zinc-100 dark:hover:bg-zinc-800"
+          className="lg:hidden p-2 rounded-lg text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800"
           aria-label="Open Navigation Menu"
         >
           <Menu className="w-5 h-5" />
@@ -36,13 +36,13 @@ export const Topbar: React.FC<TopbarProps> = ({
         {/* Global Search trigger bar (Linear style) */}
         <button
           onClick={onOpenSearch}
-          className="w-full flex items-center justify-between gap-2 px-3.5 py-2 text-xs text-zinc-400 bg-zinc-100 dark:bg-zinc-900 hover:bg-zinc-200/70 dark:hover:bg-zinc-800/80 border border-zinc-200 dark:border-zinc-800 rounded-xl transition shadow-2xs text-left"
+          className="w-full flex items-center justify-between gap-2 px-3.5 py-2 text-xs text-slate-400 bg-slate-100 dark:bg-slate-800/80 hover:bg-slate-200/70 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-700/80 rounded-xl transition shadow-2xs text-left"
         >
           <span className="flex items-center gap-2.5">
-            <Search className="w-4 h-4 text-zinc-400" />
-            <span className="truncate text-zinc-500 dark:text-zinc-400">Search subjects, exam codes, question papers...</span>
+            <Search className="w-4 h-4 text-slate-400" />
+            <span className="truncate text-slate-500 dark:text-slate-400">Search subjects, exam codes, question papers...</span>
           </span>
-          <kbd className="hidden sm:inline-flex items-center gap-0.5 px-2 py-0.5 text-[10px] font-mono text-zinc-500 bg-white dark:bg-zinc-800 rounded border border-zinc-200 dark:border-zinc-700">
+          <kbd className="hidden sm:inline-flex items-center gap-0.5 px-2 py-0.5 text-[10px] font-mono text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-800 rounded border border-slate-200 dark:border-slate-700">
             <span>Ctrl</span><span>K</span>
           </kbd>
         </button>
@@ -67,10 +67,10 @@ export const Topbar: React.FC<TopbarProps> = ({
 
         <button
           onClick={toggleTheme}
-          className="p-2 rounded-lg text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-100 hover:bg-zinc-100 dark:hover:bg-zinc-800 transition cursor-pointer"
+          className="p-2 rounded-lg text-slate-500 hover:text-slate-900 dark:hover:text-slate-100 hover:bg-slate-100 dark:hover:bg-slate-800 transition cursor-pointer"
           title={`Switch to ${theme === 'dark' ? 'Light' : 'Dark'} Mode`}
         >
-          {theme === 'dark' ? <Sun className="w-4 h-4 text-zinc-300" /> : <Moon className="w-4 h-4 text-zinc-700" />}
+          {theme === 'dark' ? <Sun className="w-4 h-4 text-slate-300" /> : <Moon className="w-4 h-4 text-slate-700" />}
         </button>
       </div>
     </header>
