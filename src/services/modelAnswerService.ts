@@ -1,3 +1,5 @@
+import { SAWTOOTH_WAVEFORM_SVG } from '../components/ui/QuestionDiagram';
+
 export interface ModelAnswer {
   questionSummary: string;
   source: string; // e.g., 'BEU Evaluation Scheme / AICTE Model Curriculum'
@@ -71,40 +73,11 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
     examTip: 'The 450°C (840°F) boundary is the universal standard defined by the American Welding Society (AWS) and tested repeatedly in BEU.'
   },
 
-  // --- Basic Electrical Engineering (High Yield) ---
+  // --- Basic Electrical Engineering (High Yield & 2022 Verification) ---
   bridge_resistance_ab: {
     questionSummary: 'Equivalent Resistance between Terminals A and B (Bridge Network)',
-    source: 'BEU Basic Electrical Engineering Examination Key (2022)',
+    source: 'BEU Basic Electrical Engineering Examination Key (2022 Q.2b)',
     marksDistribution: '2 Marks (Circuit Schematic & Identification) + 3 Marks (Bridge Balance / Star-Delta Reduction) + 2 Marks (Final Equivalent Resistance)',
-    schematicSvg: `<svg width="340" height="200" viewBox="0 0 340 200" fill="none" xmlns="http://www.w3.org/2000/svg" class="max-w-full">
-  <line x1="20" y1="100" x2="70" y2="100" stroke="#6366f1" stroke-width="2.5" />
-  <line x1="270" y1="100" x2="320" y2="100" stroke="#6366f1" stroke-width="2.5" />
-  <circle cx="20" cy="100" r="5" fill="#4f46e5" />
-  <text x="14" y="85" font-family="monospace" font-size="13" font-weight="bold" fill="#6366f1">A</text>
-  <circle cx="320" cy="100" r="5" fill="#4f46e5" />
-  <text x="314" y="85" font-family="monospace" font-size="13" font-weight="bold" fill="#6366f1">B</text>
-  <line x1="70" y1="100" x2="170" y2="30" stroke="#64748b" stroke-width="2" />
-  <line x1="70" y1="100" x2="170" y2="170" stroke="#64748b" stroke-width="2" />
-  <line x1="170" y1="30" x2="270" y2="100" stroke="#64748b" stroke-width="2" />
-  <line x1="170" y1="170" x2="270" y2="100" stroke="#64748b" stroke-width="2" />
-  <line x1="170" y1="30" x2="170" y2="170" stroke="#ef4444" stroke-width="2.5" stroke-dasharray="4 2" />
-  <circle cx="70" cy="100" r="4" fill="#6366f1" />
-  <circle cx="270" cy="100" r="4" fill="#6366f1" />
-  <circle cx="170" cy="30" r="4" fill="#3b82f6" />
-  <text x="165" y="20" font-family="sans-serif" font-size="11" font-weight="bold" fill="#3b82f6">C</text>
-  <circle cx="170" cy="170" r="4" fill="#3b82f6" />
-  <text x="165" y="190" font-family="sans-serif" font-size="11" font-weight="bold" fill="#3b82f6">D</text>
-  <rect x="95" y="50" width="46" height="20" rx="5" fill="#f8fafc" stroke="#6366f1" stroke-width="1.5" />
-  <text x="100" y="64" font-family="monospace" font-size="11" font-weight="bold" fill="#4338ca">2 Ω</text>
-  <rect x="95" y="130" width="46" height="20" rx="5" fill="#f8fafc" stroke="#6366f1" stroke-width="1.5" />
-  <text x="100" y="144" font-family="monospace" font-size="11" font-weight="bold" fill="#4338ca">4 Ω</text>
-  <rect x="195" y="50" width="46" height="20" rx="5" fill="#f8fafc" stroke="#6366f1" stroke-width="1.5" />
-  <text x="200" y="64" font-family="monospace" font-size="11" font-weight="bold" fill="#4338ca">3 Ω</text>
-  <rect x="195" y="130" width="46" height="20" rx="5" fill="#f8fafc" stroke="#6366f1" stroke-width="1.5" />
-  <text x="200" y="144" font-family="monospace" font-size="11" font-weight="bold" fill="#4338ca">6 Ω</text>
-  <rect x="148" y="90" width="44" height="20" rx="5" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5" />
-  <text x="153" y="104" font-family="monospace" font-size="11" font-weight="bold" fill="#b91c1c">5 Ω</text>
-</svg>`,
     points: [
       {
         heading: '1. Standard BEU Examination Circuit Representation',
@@ -129,7 +102,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
 
   ac_sinusoidal_current: {
     questionSummary: 'Sinusoidal AC Waveform: Instantaneous Value and Equation',
-    source: 'BEU Basic Electrical Engineering Examination Solution',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.2a)',
     marksDistribution: '2 Marks (Peak Value) + 2 Marks (Angular Frequency & Equation) + 3 Marks (Value Calculation)',
     points: [
       {
@@ -143,6 +116,280 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
     ],
     keyFormula: 'i(t) = 28.284 \\sin(100\\pi t), \\quad i(t = t_{\\text{max}} + 0.0125) = -20\\text{ A}',
     examTip: 'Notice that 0.0125 seconds corresponds to \\(5/8\\) of a cycle (\\(225^\\circ\\) after the peak), bringing the value to \\(-I_{\\text{rms}} = -20\\text{ A}\\).'
+  },
+
+  rms_waveform_calculation: {
+    questionSummary: 'RMS Value: Definition & Mathematical Derivation for Sawtooth Waveform',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.3a)',
+    marksDistribution: '2 Marks (RMS Physical Definition) + 4 Marks (Analytical Calculus Integration) + 1 Mark (Comparison & Units)',
+    schematicSvg: SAWTOOTH_WAVEFORM_SVG,
+    points: [
+      {
+        heading: '1. Physical Definition of Root-Mean-Square (RMS) Value',
+        body: 'The **Root-Mean-Square (RMS)** or effective value of an alternating current/voltage is defined as that value of steady direct current (DC) which, when flowing through a given circuit resistance $R$ for a given time $T$, produces the **same amount of heat energy** as produced by the alternating current flowing through the same circuit for the same time.\n\n• Heat generated by AC over cycle $T$: $H_{\\text{AC}} = \\int_0^T i(t)^2 R \\, dt$\n• Heat generated by DC over cycle $T$: $H_{\\text{DC}} = I_{\\text{rms}}^2 R T$\n• Equating heat quantities:\n$$I_{\\text{rms}} = \\sqrt{\\frac{1}{T} \\int_0^T i(t)^2 \\, dt}, \\quad V_{\\text{rms}} = \\sqrt{\\frac{1}{T} \\int_0^T v(t)^2 \\, dt}$$'
+      },
+      {
+        heading: '2. Mathematical Formulation of the Given Waveform (One Cycle: 0 ≤ t ≤ T)',
+        body: 'From the given periodic sawtooth voltage waveform:\n• At $t = 0$: $v(0) = 0$\n• At $t = T$: $v(T) = V_m$ (peak voltage)\n\nThe slope of the linear ramp is:\n$$m = \\frac{V_m - 0}{T - 0} = \\frac{V_m}{T}$$\nTherefore, the instantaneous voltage equation over the period $0 \\le t \\le T$ is:\n$$v(t) = \\frac{V_m}{T} t$$'
+      },
+      {
+        heading: '3. Step-by-Step Analytical Integration for V_rms',
+        body: 'Substitute $v(t) = \\frac{V_m}{T} t$ into the RMS definition:\n$$V_{\\text{rms}}^2 = \\frac{1}{T} \\int_0^T v(t)^2 \\, dt = \\frac{1}{T} \\int_0^T \\left(\\frac{V_m}{T} t\\right)^2 \\, dt$$\n$$V_{\\text{rms}}^2 = \\frac{V_m^2}{T^3} \\int_0^T t^2 \\, dt = \\frac{V_m^2}{T^3} \\left[ \\frac{t^3}{3} \\right]_0^T$$\n$$V_{\\text{rms}}^2 = \\frac{V_m^2}{T^3} \\left(\\frac{T^3}{3} - 0\\right) = \\frac{V_m^2}{3}$$\n\nTaking the square root on both sides:\n$$V_{\\text{rms}} = \\sqrt{\\frac{V_m^2}{3}} = \\frac{V_m}{\\sqrt{3}} \\approx 0.57735 \\, V_m$$'
+      },
+      {
+        heading: '4. Summary & Comparison Table',
+        body: '• **Sawtooth / Triangular Wave**: $V_{\\text{rms}} = \\frac{V_m}{\\sqrt{3}} \\approx 0.577 V_m$, Form Factor $k_f = \\frac{2}{\\sqrt{3}} \\approx 1.155$\n• **Sinusoidal Wave**: $V_{\\text{rms}} = \\frac{V_m}{\\sqrt{2}} \\approx 0.707 V_m$, Form Factor $k_f = 1.11$\n• **Square Wave**: $V_{\\text{rms}} = V_m$, Form Factor $k_f = 1.0$'
+      }
+    ],
+    keyFormula: 'V_{\\text{rms}} = \\sqrt{\\frac{1}{T}\\int_0^T v(t)^2 dt} = \\frac{V_m}{\\sqrt{3}} \\approx 0.577 V_m',
+    examTip: 'Always write the DC heating equivalence definition first to secure the 2 theory marks, then explicitly show the limits [0, T] and the integration of t² to t³/3.'
+  },
+
+  series_coils_inductance: {
+    questionSummary: 'Coupled Coils in Series-Adding & Series-Opposing: L1, L2, M and k',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.3b)',
+    marksDistribution: '2 Marks (Mutual Inductance M) + 3 Marks (Self-Inductances L1, L2) + 2 Marks (Coupling Coefficient k)',
+    points: [
+      {
+        heading: '1. Governing Equations for Coupled Coils in Series',
+        body: 'When two coils of self-inductances $L_1$ and $L_2$ with mutual inductance $M$ are connected in series:\n• **Series-Adding Connection** (fluxes aid each other):\n$$L_{\\text{add}} = L_1 + L_2 + 2M = 250\\text{ mH} \\quad \\text{--- (Eq. 1)}$$\n• **Series-Opposing Connection** (fluxes oppose each other):\n$$L_{\\text{opp}} = L_1 + L_2 - 2M = 150\\text{ mH} \\quad \\text{--- (Eq. 2)}$$'
+      },
+      {
+        heading: '2. Calculating Mutual Inductance (M)',
+        body: 'Subtract Equation (2) from Equation (1):\n$$L_{\\text{add}} - L_{\\text{opp}} = 4M$$\n$$4M = 250 - 150 = 100\\text{ mH}$$\n$$M = \\frac{100}{4} = 25\\text{ mH}$$'
+      },
+      {
+        heading: '3. Calculating Self-Inductances (L1 and L2)',
+        body: 'Add Equation (1) and Equation (2):\n$$L_{\\text{add}} + L_{\\text{opp}} = 2(L_1 + L_2)$$\n$$2(L_1 + L_2) = 250 + 150 = 400\\text{ mH} \\implies L_1 + L_2 = 200\\text{ mH} \\quad \\text{--- (Eq. 3)}$$\n\nGiven in the question: $L_1 = 3L_2$. Substituting into Eq. (3):\n$$3L_2 + L_2 = 200\\text{ mH} \\implies 4L_2 = 200\\text{ mH}$$\n$$L_2 = 50\\text{ mH}$$\n$$L_1 = 3 \\times 50 = 150\\text{ mH}$$'
+      },
+      {
+        heading: '4. Calculating Coefficient of Coupling (k)',
+        body: 'The coefficient of magnetic coupling is given by:\n$$k = \\frac{M}{\\sqrt{L_1 L_2}}$$\n$$k = \\frac{25}{\\sqrt{150 \\times 50}} = \\frac{25}{\\sqrt{7500}} = \\frac{25}{50\\sqrt{3}} = \\frac{1}{2\\sqrt{3}} \\approx 0.2887$$\n\n**Final Result Summary**:\n• $L_1 = 150\\text{ mH}$\n• $L_2 = 50\\text{ mH}$\n• $M = 25\\text{ mH}$\n• $k = 0.2887$ (dimensionless, $k < 1$, physically valid)'
+      }
+    ],
+    keyFormula: 'M = \\frac{L_{\\text{add}} - L_{\\text{opp}}}{4} = 25\\text{ mH}, \\quad k = \\frac{M}{\\sqrt{L_1 L_2}} = 0.2887',
+    examTip: 'Double-check that k ≤ 1. In real-world physical air or iron coils, k is strictly between 0 and 1.'
+  },
+
+  transformer_principle: {
+    questionSummary: 'Principle of Transformer Action & Working Operation',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.4a)',
+    marksDistribution: '2 Marks (Mutual Induction Principle) + 3 Marks (EMF Equation & Flux Action) + 2 Marks (Transformation Ratio & DC Constraint)',
+    points: [
+      {
+        heading: '1. Core Operating Principle',
+        body: 'A transformer is a static electromagnetic machine that transfers alternating electrical energy from one circuit to another at identical frequency via mutual electromagnetic induction, without any moving parts or direct conductive connection between primary and secondary windings.\n\n• **Governing Law**: Faraday\'s Law of Electromagnetic Induction ($e = -N \\frac{d\\Phi}{dt}$) and Lenz\'s Law.'
+      },
+      {
+        heading: '2. Working Mechanism & Core Mutual Flux',
+        body: 'When an alternating sinusoidal voltage $V_1$ is applied to the primary winding of $N_1$ turns, a magnetizing current flows, setting up an alternating magnetic flux $\\Phi(t) = \\Phi_m \\sin(\\omega t)$ in the high-permeability laminated silicon steel core.\n\nThis mutual flux links both windings:\n• **Self-induced EMF in primary**: $E_1 = 4.44 f N_1 \\Phi_m$\n• **Mutually-induced EMF in secondary**: $E_2 = 4.44 f N_2 \\Phi_m$'
+      },
+      {
+        heading: '3. Voltage Transformation Ratio (K)',
+        body: '$$\\frac{E_2}{E_1} = \\frac{N_2}{N_1} = K$$\nFor an ideal transformer:\n$$\\frac{V_2}{V_1} \\approx \\frac{E_2}{E_1} = \\frac{N_2}{N_1} = \\frac{I_1}{I_2} = K$$\n• If $K > 1$ ($N_2 > N_1$): Step-up transformer ($V_2 > V_1$, $I_2 < I_1$)\n• If $K < 1$ ($N_2 < N_1$): Step-down transformer ($V_2 < V_1$, $I_2 > I_1$)'
+      },
+      {
+        heading: '4. Why a Transformer Cannot Operate on DC',
+        body: 'If connected to a DC supply, flux $\\Phi$ is constant ($\\frac{d\\Phi}{dt} = 0$). Hence, back EMF $E_1 = 0$. The primary current is limited only by tiny winding resistance ($I_1 = \\frac{V_{\\text{dc}}}{R_1}$), causing dangerously excessive current that burns the primary winding.'
+      }
+    ],
+    keyFormula: 'E = 4.44 f N \\Phi_m, \\quad \\frac{V_2}{V_1} = \\frac{N_2}{N_1} = \\frac{I_1}{I_2} = K',
+    examTip: 'Always include the explanation of why a transformer burns on DC—examiners frequently look for this 1-mark check!'
+  },
+
+  series_resonance_rlc: {
+    questionSummary: 'Series RLC Resonance: Resonant Capacitance, Current & Element Voltages',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.4b)',
+    marksDistribution: '2 Marks (Resonance Condition & Capacitance C) + 2 Marks (Resonant Current I0) + 3 Marks (Inductor and Capacitor Voltages VL & VC)',
+    points: [
+      {
+        heading: '1. Given Parameters & Resonance Condition',
+        body: 'Given:\n• Resistance $R = 4\\,\\Omega$\n• Inductance $L = 500\\text{ mH} = 0.5\\text{ H}$\n• Supply Voltage $V = 100\\text{ V}$, Frequency $f = 50\\text{ Hz}$\n• Angular frequency: $\\omega = 2\\pi f = 2\\pi \\times 50 = 100\\pi \\approx 314.159\\text{ rad/s}$\n• Inductive reactance: $X_L = \\omega L = 100\\pi \\times 0.5 = 50\\pi \\approx 157.08\\,\\Omega$\n\nAt series resonance, the circuit power factor is unity, inductive and capacitive reactances cancel: $X_L = X_C$.'
+      },
+      {
+        heading: '2. Capacitance Required for Resonance (C)',
+        body: '$$\\omega L = \\frac{1}{\\omega C} \\implies C = \\frac{1}{\\omega^2 L}$$\n$$C = \\frac{1}{(100\\pi)^2 \\times 0.5} = \\frac{1}{98696.04 \\times 0.5} = \\frac{1}{49348.02} \\approx 20.264 \\times 10^{-6}\\text{ F} = 20.264\\,\\mu\\text{F}$$'
+      },
+      {
+        heading: '3. Circuit Current at Resonance (I0)',
+        body: 'At resonance, net reactance $X = X_L - X_C = 0$. Circuit impedance is purely resistive:\n$$Z_0 = R = 4\\,\\Omega$$\n$$I_0 = \\frac{V}{Z_0} = \\frac{100\\text{ V}}{4\\,\\Omega} = 25\\text{ A}$$'
+      },
+      {
+        heading: '4. Voltages Generated Across Inductor (VL) and Capacitor (VC)',
+        body: '• Voltage across inductor:\n$$V_L = I_0 \\times X_L = 25\\text{ A} \\times 157.08\\,\\Omega = 3927.0\\text{ V}$$\n• Voltage across capacitor:\n$$V_C = I_0 \\times X_C = 25\\text{ A} \\times 157.08\\,\\Omega = 3927.0\\text{ V}$$\n\n**Physical Remark (Voltage Magnification)**:\nNotice that $V_L = V_C = 3927\\text{ V}$ is **nearly 40 times higher than the 100 V input supply**! This voltage magnification occurs because of the high Quality Factor ($Q = \\frac{\\omega L}{R} = \\frac{157.08}{4} = 39.27$).'
+      }
+    ],
+    keyFormula: 'C = \\frac{1}{\\omega^2 L} = 20.26\\,\\mu\\text{F}, \\quad V_L = V_C = Q \\cdot V = 3927\\text{ V}',
+    examTip: 'Explicitly highlight voltage magnification Q = VL / V = 39.27 to demonstrate deep circuit insight to the university examiner.'
+  },
+
+  parallel_resonance: {
+    questionSummary: 'Parallel Resonance (Tank Circuit): Resonant Frequency, Resultant Current & Q-Factor',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.5a)',
+    marksDistribution: '2 Marks (Definition) + 3 Marks (Resultant Current & Dynamic Resistance) + 2 Marks (Quality Factor Derivation)',
+    points: [
+      {
+        heading: '1. Definition of Parallel Resonance',
+        body: 'Parallel resonance (or anti-resonance) occurs in a circuit having an inductive branch ($R-L$) in parallel with a capacitive branch ($C$) when the net reactive component of the total admittance becomes zero ($B = 0$). At this point, the total supply current is in phase with the applied voltage (unity power factor).'
+      },
+      {
+        heading: '2. Dynamic Impedance & Resultant Current',
+        body: 'Admittance of parallel network:\n$$Y = \\frac{R - j\\omega L}{R^2 + \\omega^2 L^2} + j\\omega C$$\nEquating reactive part to zero:\n$$\\omega_r = \\sqrt{\\frac{1}{LC} - \\frac{R^2}{L^2}}$$\nAt resonance, admittance is purely real and minimum:\n$$Y_r = \\frac{R}{R^2 + \\omega_r^2 L^2} = \\frac{CR}{L}$$\nDynamic Impedance (maximum at resonance):\n$$Z_d = \\frac{1}{Y_r} = \\frac{L}{CR}$$\nResultant current (minimum at resonance):\n$$I_{\\text{min}} = \\frac{V}{Z_d} = \\frac{VCR}{L}$$'
+      },
+      {
+        heading: '3. Quality Factor (Q)',
+        body: '$$Q = \\frac{\\omega_r L}{R} \\approx \\frac{1}{R}\\sqrt{\\frac{L}{C}}$$'
+      }
+    ],
+    keyFormula: 'Z_d = \\frac{L}{CR}, \\quad I_{\\text{min}} = \\frac{VCR}{L}, \\quad Q = \\frac{\\omega_r L}{R}',
+    examTip: 'Contrast parallel resonance (current rejector circuit, maximum impedance) with series resonance (current acceptor circuit, minimum impedance).'
+  },
+
+  rotating_field_alternator: {
+    questionSummary: 'Advantages of Rotating Field (Stationary Armature) Alternator Design',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.5b)',
+    marksDistribution: '1 Mark each for 7 key engineering advantages',
+    points: [
+      {
+        heading: '1. High Voltage Handling on Stationary Armature',
+        body: 'Generating voltages are high (11 kV to 33 kV). Having stationary stator armature windings eliminates the hazardous problem of collecting high voltages through high-speed rotating slip rings and brushes.'
+      },
+      {
+        heading: '2. Simple Low-Voltage DC Field Excitation',
+        body: 'The rotor carries only low-voltage DC excitation (110 V to 250 V), requiring only two small, lightweight slip rings that do not experience arcing.'
+      },
+      {
+        heading: '3. Superior Insulation & Slot Bracing',
+        body: 'Stationary stator slots provide ample room for thick dielectric insulation and heavy mechanical bracing against massive electromagnetic forces during sudden short-circuit faults.'
+      },
+      {
+        heading: '4. Higher Mechanical Strength & Speed',
+        body: 'A rotating field rotor (cylindrical or salient) can be designed for extreme centrifugal stresses, allowing turbo-alternators to rotate at 3000 rpm safely.'
+      },
+      {
+        heading: '5. Efficient Forced Ventilation & Cooling',
+        body: 'Stator cores are easily cooled with forced air, hydrogen, or circulating water cooling ducts.'
+      }
+    ],
+    examTip: 'List all 5 clear bullet points with concise headings to score full 7 marks.'
+  },
+
+  alternator_generated_voltage: {
+    questionSummary: 'Generated Line & Phase EMF of 3-Phase Alternator: 6-Pole, 1000 RPM',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.6a)',
+    marksDistribution: '2 Marks (Frequency & Conductors/Phase) + 3 Marks (Phase EMF Calculation) + 2 Marks (Star Line Voltage)',
+    points: [
+      {
+        heading: '1. Frequency & Stator Winding Parameters',
+        body: 'Given:\n• Poles $P = 6$\n• Speed $N = 1000\\text{ rpm}$\n• Slots $S = 90$, Conductors/slot $= 8$\n• Flux per pole $\\Phi = 0.05\\text{ Wb}$\n• Winding factor $K_w = 0.96$\n\n• Supply Frequency:\n$$f = \\frac{PN}{120} = \\frac{6 \\times 1000}{120} = 50\\text{ Hz}$$\n• Total stator conductors:\n$$Z = 90 \\times 8 = 720$$\n• Conductors per phase ($m = 3$ phases):\n$$Z_{ph} = \\frac{Z}{3} = \\frac{720}{3} = 240$$\n• Turns per phase (since 1 turn $= 2$ conductors):\n$$T_{ph} = \\frac{Z_{ph}}{2} = \\frac{240}{2} = 120\\text{ turns}$$'
+      },
+      {
+        heading: '2. Generated Phase Voltage (E_ph)',
+        body: 'Using the alternator EMF equation:\n$$E_{ph} = 4.44 \\times K_w \\times f \\times \\Phi \\times T_{ph}$$\n$$E_{ph} = 4.44 \\times 0.96 \\times 50 \\times 0.05 \\times 120$$\n$$E_{ph} = 4.44 \\times 0.96 \\times 300 = 1278.72\\text{ V}$$'
+      },
+      {
+        heading: '3. Generated Line Voltage (E_L)',
+        body: 'For a star-connected stator winding:\n$$E_L = \\sqrt{3} \\times E_{ph}$$\n$$E_L = \\sqrt{3} \\times 1278.72\\text{ V} \\approx 1.73205 \\times 1278.72 = 2214.8\\text{ V} \\approx 2.215\\text{ kV}$$\n\n**Final Result**:\n• Phase Voltage $E_{ph} = 1278.72\\text{ V}$\n• Line Voltage $E_L = 2214.8\\text{ V}$ ($2.215\\text{ kV}$)'
+      }
+    ],
+    keyFormula: 'E_{ph} = 4.44 K_w f \\Phi T_{ph} = 1278.72\\text{ V}, \\quad E_L = \\sqrt{3} E_{ph} = 2214.8\\text{ V}',
+    examTip: 'Remember to multiply Eph by √3 for star-connected alternators to obtain the Line Voltage.'
+  },
+
+  dc_motor_operation: {
+    questionSummary: 'Working Principle of DC Motor, Lorentz Force & Back EMF Significance',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.7a)',
+    marksDistribution: '2 Marks (Lorentz Principle & Fleming Rule) + 3 Marks (Back EMF Self-Regulating Action) + 2 Marks (Torque Equation)',
+    points: [
+      {
+        heading: '1. Operating Principle',
+        body: 'A DC motor converts direct electrical energy into mechanical rotational energy. Its operation is based on the **Lorentz Magnetic Force Principle**: when a current-carrying conductor is placed in an orthogonal magnetic field, it experiences a mechanical force given by:\n$$F = B I L \\sin\\theta \\text{ [N]}$$\nThe direction of this electromagnetic force is governed by **Fleming\'s Left-Hand Rule** (Forefinger = Field, Middle finger = Current, Thumb = Motion/Force).'
+      },
+      {
+        heading: '2. Self-Regulating Role of Back EMF (Eb)',
+        body: 'As armature conductors rotate through the stator magnetic field, an EMF is induced in them by generator action. By Lenz\'s law, this induced EMF opposes the applied terminal voltage $V$, and is called **Back EMF** ($E_b$):\n$$E_b = \\frac{P \\Phi Z N}{60 A}$$\nArmature current is governed by:\n$$I_a = \\frac{V - E_b}{R_a}$$\n• **Self-Governing Mechanism**: If load increases, motor slows down ($N \\downarrow \\implies E_b \\downarrow$). A lower $E_b$ allows more armature current $I_a \\uparrow$ to flow, generating more motor torque $T$ to match the increased load automatically.'
+      },
+      {
+        heading: '3. Torque Equation',
+        body: '$$T_a = \\frac{1}{2\\pi} \\cdot \\frac{P Z}{A} \\cdot \\Phi I_a = 0.159 \\Phi I_a \\left(\\frac{P Z}{A}\\right) \\text{ [N·m]}$$'
+      }
+    ],
+    keyFormula: 'I_a = \\frac{V - E_b}{R_a}, \\quad T_a \\propto \\Phi I_a',
+    examTip: 'Explain why Back EMF is called a "governor" of the motor—it automatically balances electrical input with mechanical output.'
+  },
+
+  three_phase_star_load: {
+    questionSummary: 'Balanced Star-Connected 3-Phase Load: Line Current, pf, Active & Apparent Power',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.7b)',
+    marksDistribution: '2 Marks (Phase Impedance & pf) + 2 Marks (Line/Phase Current) + 3 Marks (Active and Apparent Power)',
+    points: [
+      {
+        heading: '1. Phase Impedance & Power Factor',
+        body: 'Given per-phase load impedance: $Z_{ph} = 8 + j6\\,\\Omega$\n• Magnitude of impedance:\n$$|Z_{ph}| = \\sqrt{8^2 + 6^2} = \\sqrt{64 + 36} = \\sqrt{100} = 10\\,\\Omega$$\n• Power factor angle:\n$$\\phi = \\tan^{-1}\\left(\\frac{6}{8}\\right) = 36.87^\\circ$$\n• Power factor:\n$$\\cos\\phi = \\frac{R}{Z} = \\frac{8}{10} = 0.8\\text{ (lagging, since load is inductive)}$$'
+      },
+      {
+        heading: '2. Line Voltage, Phase Voltage & Currents',
+        body: 'Supply line voltage: $V_L = 400\\text{ V}$.\nFor a star (Y) connected system:\n$$V_{ph} = \\frac{V_L}{\\sqrt{3}} = \\frac{400}{\\sqrt{3}} \\approx 230.94\\text{ V}$$\nPhase current:\n$$I_{ph} = \\frac{V_{ph}}{|Z_{ph}|} = \\frac{230.94}{10} = 23.094\\text{ A}$$\nIn a star connection, Line current equals Phase current:\n$$I_L = I_{ph} = 23.094\\text{ A}$$'
+      },
+      {
+        heading: '3. Active Real Power (P)',
+        body: '$$P = \\sqrt{3} \\cdot V_L \\cdot I_L \\cdot \\cos\\phi = 3 \\cdot I_{ph}^2 \\cdot R_{ph}$$\n$$P = \\sqrt{3} \\times 400 \\times 23.094 \\times 0.8 = 12800\\text{ W} = 12.8\\text{ kW}$$'
+      },
+      {
+        heading: '4. Total Apparent Power (S / Volt-Amperes)',
+        body: '$$S = \\sqrt{3} \\cdot V_L \\cdot I_L$$\n$$S = \\sqrt{3} \\times 400 \\times 23.094 = 16000\\text{ VA} = 16\\text{ kVA}$$\n\n**Final Result Summary**:\n• Line Current $I_L = 23.094\\text{ A}$\n• Power Factor $\\cos\\phi = 0.8\\text{ lagging}$\n• Active Power $P = 12.8\\text{ kW}$\n• Apparent Power $S = 16.0\\text{ kVA}$'
+      }
+    ],
+    keyFormula: 'I_L = 23.094\\text{ A}, \\quad \\cos\\phi = 0.8\\text{ lag}, \\quad P = 12.8\\text{ kW}, \\quad S = 16\\text{ kVA}',
+    examTip: 'Remember: In star connection, VL = √3 Vph and IL = Iph. Use these relationships cleanly.'
+  },
+
+  induction_motor_slip_speed: {
+    questionSummary: 'Induction Motor Fed from Alternator: Slip & Actual Rotor Speed',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.8a)',
+    marksDistribution: '2 Marks (Supply Frequency from Alternator) + 2 Marks (Synchronous Speed Ns) + 3 Marks (Slip s and Motor Speed N)',
+    points: [
+      {
+        heading: '1. Alternator Frequency (Supply Frequency f)',
+        body: 'Given for Alternator:\n• Poles $P_a = 6$, Speed $N_a = 1000\\text{ rpm}$\n$$f = \\frac{P_a N_a}{120} = \\frac{6 \\times 1000}{120} = 50\\text{ Hz}$$\nTherefore, the 3-phase induction motor is fed from a $50\\text{ Hz}$ electrical supply.'
+      },
+      {
+        heading: '2. Synchronous Speed of Induction Motor (Ns)',
+        body: 'Given for Induction Motor:\n• Poles $P_m = 4$, Supply frequency $f = 50\\text{ Hz}$\n$$N_s = \\frac{120 f}{P_m} = \\frac{120 \\times 50}{4} = 1500\\text{ rpm}$$'
+      },
+      {
+        heading: '3. Calculating Fractional Slip (s)',
+        body: 'Rotor current frequency $f_r$ is related to stator supply frequency $f$ by:\n$$f_r = s \\cdot f$$\nGiven: $f_r = 2\\text{ Hz}$. Therefore:\n$$s = \\frac{f_r}{f} = \\frac{2}{50} = 0.04 = 4\\%$$\n**Slip $s = 0.04$** (or $4\\%$).'
+      },
+      {
+        heading: '4. Calculating Actual Motor Speed (N)',
+        body: 'The actual rotational speed of the rotor is:\n$$N = N_s(1 - s)$$\n$$N = 1500 \\times (1 - 0.04) = 1500 \\times 0.96 = 1440\\text{ rpm}$$\n\n**Final Result Summary**:\n• Alternator Supply Frequency $f = 50\\text{ Hz}$\n• Synchronous Speed $N_s = 1500\\text{ rpm}$\n• Slip $s = 0.04$ ($4\\%$)\n• Motor Speed $N = 1440\\text{ rpm}$'
+      }
+    ],
+    keyFormula: 's = \\frac{f_r}{f} = \\frac{2}{50} = 0.04, \\quad N = N_s(1 - s) = 1440\\text{ rpm}',
+    examTip: 'Ensure you calculate the supply frequency from the alternator poles and speed first before evaluating the induction motor.'
+  },
+
+  mutually_coupled_coils_xy: {
+    questionSummary: 'Mutually Coupled Coils X and Y: M, k, and Secondary Linking Flux',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.9a)',
+    marksDistribution: '2 Marks (Mutual Inductance M) + 3 Marks (Coupling Coefficient k) + 2 Marks (Percentage Flux Linking X)',
+    points: [
+      {
+        heading: '1. Mutual Inductance Calculation (M)',
+        body: 'Given:\n• Turns on Coil X: $N_X = 12000$\n• Turns on Coil Y: $N_Y = 15000$\n• Current in X: $I_X = 5\\text{ A}$\n• Total flux produced by X: $\\Phi_X = 0.05\\text{ Wb}$\n• Flux produced by X linking Y: $\\Phi_{XY} = 45\\% \\times 0.05 = 0.45 \\times 0.05 = 0.0225\\text{ Wb}$\n\nMutual inductance is given by:\n$$M = \\frac{N_Y \\Phi_{XY}}{I_X} = \\frac{15000 \\times 0.0225}{5} = 3000 \\times 0.0225 = 67.5\\text{ H}$$'
+      },
+      {
+        heading: '2. Self-Inductances and Coupling Coefficient (k)',
+        body: '• Self-inductance of coil X:\n$$L_X = \\frac{N_X \\Phi_X}{I_X} = \\frac{12000 \\times 0.05}{5} = 120\\text{ H}$$\n• Self-inductance of coil Y (with $I_Y = 5\\text{ A}$ and $\\Phi_Y = 0.075\\text{ Wb}$):\n$$L_Y = \\frac{N_Y \\Phi_Y}{I_Y} = \\frac{15000 \\times 0.075}{5} = 225\\text{ H}$$\n\n• Coupling coefficient $k$:\n$$k = \\frac{M}{\\sqrt{L_X L_Y}} = \\frac{67.5}{\\sqrt{120 \\times 225}} = \\frac{67.5}{\\sqrt{27000}} = \\frac{67.5}{164.317} \\approx 0.4108 \\quad (41.08\\%)$$'
+      },
+      {
+        heading: '3. Percentage of Flux Produced by Coil Y Linking Coil X',
+        body: 'We know that $k = \\sqrt{k_1 k_2}$, where $k_1 = 0.45$ ($45\\%$).\n$$k^2 = k_1 k_2 \\implies k_2 = \\frac{k^2}{k_1}$$\n$$k_2 = \\frac{0.16875}{0.45} = 0.375 = 37.5\\%$$\n\nVerification via Mutual Inductance formula:\n$$\\Phi_{YX} = 0.375 \\times 0.075 = 0.028125\\text{ Wb}$$\n$$M = \\frac{N_X \\Phi_{YX}}{I_Y} = \\frac{12000 \\times 0.028125}{5} = 67.5\\text{ H} \\quad \\text{(Matches)}$$'
+      }
+    ],
+    keyFormula: 'M = 67.5\\text{ H}, \\quad k = 0.4108 \\; (41.08\\%), \\quad k_2 = 37.5\\%',
+    examTip: 'Remember the relationship k = √(k1 · k2) connects the mutual linkage fractions of both coils.'
   },
 
   thevenin_theorem: {
@@ -159,145 +406,121 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
         body: '• **Thévenin Voltage ($V_{\\text{th}}$)**: Remove the load resistor $R_L$. Calculate the open-circuit voltage across terminals A and B using nodal or mesh analysis: $V_{\\text{th}} = V_{oc}$.\n• **Thévenin Resistance ($R_{\\text{th}}$)**: Deactivate all independent sources (short-circuit independent voltage sources, open-circuit independent current sources). Calculate the equivalent internal resistance looking back into terminals A and B.'
       },
       {
-        heading: '3. Load Current Formulation',
-        body: 'Reconnecting load resistor $R_L$ across terminals A and B yields the load current:\n$$I_L = \\frac{V_{\\text{th}}}{R_{\\text{th}} + R_L}$$\n$$V_L = I_L R_L = V_{\\text{th}} \\left(\\frac{R_L}{R_{\\text{th}} + R_L}\\right)$$'
+        heading: '3. Load Current Formula',
+        body: '$$I_L = \\frac{V_{\\text{th}}}{R_{\\text{th}} + R_L}, \\quad V_L = I_L R_L$$'
       }
     ],
     keyFormula: 'I_L = \\frac{V_{\\text{th}}}{R_{\\text{th}} + R_L}',
-    examTip: "Always draw the final single-loop Thévenin equivalent circuit with labeled terminals A and B to receive full marks."
+    examTip: 'Draw the Thévenin equivalent circuit clearly with load resistor RL connected across terminals A and B.'
   },
 
-  // --- Physics ---
+  // --- Physics & Semiconductor Physics ---
   lorentz: {
-    questionSummary: 'Lorentz Force on a charged particle',
-    source: 'BEU End-Semester Examination Model Answer Key',
-    marksDistribution: '2 Marks (Definition) + 3 Marks (Vector Formula) + 2 Marks (Special Cases)',
+    questionSummary: 'Lorentz Force Equation and Electromagnetic Dynamics',
+    source: 'BEU Engineering Physics Marking Scheme',
+    marksDistribution: '2 Marks (Vector Formula) + 3 Marks (Trajectory Analysis) + 2 Marks (Applications)',
     points: [
       {
-        heading: '1. Definition & Physical Meaning',
-        body: 'The Lorentz force is the total electromagnetic force exerted on a charged particle moving through a region where both an electric field $\\vec{E}$ and a magnetic field $\\vec{B}$ coexist simultaneously.'
+        heading: '1. Definition & Governing Equation',
+        body: 'The total electromagnetic force exerted on a test particle carrying charge $q$ moving with velocity $\\vec{v}$ in the presence of both an electric field $\\vec{E}$ and a magnetic field $\\vec{B}$ is known as the **Lorentz Force**:\n$$\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})$$'
       },
       {
-        heading: '2. Mathematical Formulation',
-        body: 'The total Lorentz force $\\vec{F}$ is the vector sum of electrostatic force $\\vec{F}_e$ and magnetic force $\\vec{F}_m$:\n$$\\vec{F} = \\vec{F}_e + \\vec{F}_m = q\\vec{E} + q(\\vec{v} \\times \\vec{B})$$\n$$\\vec{F} = q\\left(\\vec{E} + \\vec{v} \\times \\vec{B}\\right)$$\nWhere $q$ is the electric charge, $\\vec{v}$ is the particle velocity, $\\vec{E}$ is electric field intensity, and $\\vec{B}$ is magnetic flux density.'
-      },
-      {
-        heading: '3. Special Cases in University Exams',
-        body: '• When $\\vec{v} \\parallel \\vec{B}$: Magnetic force $F_m = qvB\\sin(0^\\circ) = 0$; particle experiences only electric force.\n• Velocity Selector condition: When $\\vec{E} \\perp \\vec{B}$ and net force is zero, $qE = qvB \\implies v = \\frac{E}{B}$. Only particles with speed $v = E/B$ pass undeflected.'
+        heading: '2. Physical Behavior',
+        body: '• Electric force $\\vec{F}_e = q\\vec{E}$ acts along the direction of $\\vec{E}$ and performs work on the charge, changing its kinetic energy.\n• Magnetic force $\\vec{F}_m = q(\\vec{v} \\times \\vec{B})$ acts perpendicular to both velocity $\\vec{v}$ and $\\vec{B}$ (Fleming\'s Left Hand Rule). It performs zero work ($W = 0$) and only changes the particle\'s direction of motion.'
       }
     ],
     keyFormula: '\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})',
-    examTip: 'Always write the vector cross product $(\\vec{v} \\times \\vec{B})$ explicitly with arrows above vectors to score full marks in BEU papers.'
+    examTip: 'Mention that magnetic force does zero work because force is orthogonal to displacement vector.'
   },
 
   compton: {
-    questionSummary: 'Compton Effect and Derivation of Compton Shift',
-    source: 'BEU Engineering Physics Evaluation Scheme',
-    marksDistribution: '2 Marks (Statement) + 3 Marks (Energy/Momentum Conservation) + 2 Marks (Shift Formula)',
+    questionSummary: 'Compton Scattering Effect and Wavelength Shift',
+    source: 'BEU Quantum Mechanics Evaluation Scheme',
+    marksDistribution: '2 Marks (Physical Concept) + 3 Marks (Derivation) + 2 Marks (Compton Wavelength)',
     points: [
       {
-        heading: '1. Statement of Compton Effect',
-        body: 'When a monochromatic beam of high-frequency electromagnetic radiation (such as X-rays or $\\gamma$-rays) is scattered by a target of light elements (nearly free electrons), the scattered radiation consists of two components: unmodified wavelength $\\lambda$ and modified (longer) wavelength $\\lambda\'>\\lambda$.'
+        heading: '1. Compton Effect Principle',
+        body: 'When a high-energy X-ray or gamma-ray photon strikes a stationary electron, the scattered photon emerges with lower energy and longer wavelength. The difference between scattered wavelength $\\lambda\'$ and incident wavelength $\\lambda$ is called the **Compton Shift** $\\Delta \\lambda$.'
       },
       {
         heading: '2. Compton Shift Formula',
-        body: 'The change in wavelength $\\Delta\\lambda = \\lambda\' - \\lambda$ is given by:\n$$\\Delta\\lambda = \\frac{h}{m_0 c}(1 - \\cos\\theta)$$\nWhere $\\lambda_c = \\frac{h}{m_0 c} = 0.02426\\text{ \\AA} = 2.426 \\times 10^{-12}\\text{ m}$ is the Compton Wavelength of electron, and $\\theta$ is the scattering angle.'
-      },
-      {
-        heading: '3. Angle Dependence',
-        body: '• For $\\theta = 0^\\circ$: $\\Delta\\lambda = 0$ (no wavelength shift in forward direction).\n• For $\\theta = 90^\\circ$: $\\Delta\\lambda = \\frac{h}{m_0 c} = 0.0243\\text{ \\AA}$.\n• For $\\theta = 180^\\circ$: $\\Delta\\lambda = \\frac{2h}{m_0 c} = 0.0485\\text{ \\AA}$ (maximum back-scattering shift).'
+        body: '$$\\Delta \\lambda = \\lambda\' - \\lambda = \\frac{h}{m_0 c}(1 - \\cos\\theta)$$\nWhere:\n• $\\frac{h}{m_0 c} = \\lambda_c \\approx 0.02426\\text{ \\AA} = 2.426 \\times 10^{-12}\\text{ m}$ is the Compton wavelength of an electron.\n• $\\theta$ is the scattering angle of the photon.'
       }
     ],
-    keyFormula: '\\Delta\\lambda = \\frac{h}{m_0 c}(1 - \\cos\\theta)',
-    examTip: 'Mention the particle nature of light (photon-electron elastic collision) to demonstrate theoretical clarity.'
+    keyFormula: '\\Delta \\lambda = \\frac{h}{m_0 c}(1 - \\cos\\theta)',
+    examTip: 'Note that Compton shift depends only on scattering angle theta and is completely independent of incident photon wavelength.'
   },
 
   schrodinger: {
-    questionSummary: 'Time-Independent Schrödinger Wave Equation',
-    source: 'BEU Quantum Mechanics Syllabus Solution Guide',
-    marksDistribution: '2 Marks (Wave function) + 3 Marks (Kinetic/Potential derivation) + 2 Marks (Standard form)',
+    questionSummary: "Schrödinger's Time-Independent Wave Equation",
+    source: 'BEU Engineering Physics Evaluation Scheme',
+    marksDistribution: '2 Marks (Equation Formulation) + 3 Marks (Physical Interpretation) + 2 Marks (Normalization)',
     points: [
       {
-        heading: '1. Basic Postulate',
-        body: 'The total energy $E$ of a non-relativistic quantum particle of mass $m$ moving in a potential field $V(x)$ is the sum of kinetic energy $K$ and potential energy $V$: $E = K + V = \\frac{p^2}{2m} + V(x)$.'
+        heading: '1. Time-Independent Wave Equation (1D and 3D)',
+        body: 'For a particle of mass $m$ moving in a potential $V(x)$:\n$$\\frac{d^2 \\psi}{dx^2} + \\frac{2m}{\\hbar^2}(E - V)\\psi = 0$$\nIn three dimensions using the Laplacian operator $\\nabla^2$:\n$$\\nabla^2 \\psi + \\frac{2m}{\\hbar^2}(E - V)\\psi = 0 \\quad \\iff \\quad \\hat{H}\\psi = E\\psi$$'
       },
       {
-        heading: '2. Standard One-Dimensional Form',
-        body: 'Using the de Broglie relation $p = \\hbar k$ and the differential operator for momentum $\\hat{p} = -i\\hbar\\frac{\\partial}{\\partial x}$, the 1-D steady state equation is:\n$$\\frac{d^2\\psi(x)}{dx^2} + \\frac{2m}{\\hbar^2}[E - V(x)]\\psi(x) = 0$$\nOr in operator form: $\\hat{H}\\psi = E\\psi$, where $\\hat{H} = -\\frac{\\hbar^2}{2m}\\nabla^2 + V$ is the Hamiltonian operator.'
-      },
-      {
-        heading: '3. Physical Requirements on Wave Function $\\psi$',
-        body: 'For $\\psi$ to represent a physically acceptable quantum state, it must be:\n(a) Continuous and single-valued everywhere.\n(b) Its first derivative $\\frac{d\\psi}{dx}$ must be continuous.\n(c) Quadratically integrable (normalizable): $\\int_{-\\infty}^{+\\infty} |\\psi|^2 dx = 1$.'
+        heading: '2. Physical Interpretation of Wavefunction (Born Rule)',
+        body: '• The wave function $\\psi$ itself has no direct physical meaning, but $|\\psi(x,t)|^2 = \\psi^*\\psi$ represents the **probability density** of locating the particle at position $x$ at time $t$.\n• Normalization condition: $\\int_{-\\infty}^{\\infty} |\\psi|^2 dx = 1$.'
       }
     ],
-    keyFormula: '\\frac{d^2\\psi}{dx^2} + \\frac{2m}{\\hbar^2}(E - V)\\psi = 0',
-    examTip: 'Define $\\hbar = \\frac{h}{2\\pi}$ clearly so that the substitution in the second derivative is unambiguous.'
+    keyFormula: '\\hat{H}\\psi = E\\psi \\quad \\iff \\quad \\left[-\\frac{\\hbar^2}{2m}\\nabla^2 + V\\right]\\psi = E\\psi',
+    examTip: 'Remember to state the three boundary conditions: psi must be single-valued, continuous, and normalizable.'
   },
 
   laser: {
-    questionSummary: 'Structure and Working of Helium-Neon (He-Ne) Laser',
-    source: 'BEU Laser Physics & Optics Official Solution',
-    marksDistribution: '2 Marks (Construction diagram) + 3 Marks (Energy level diagram) + 2 Marks (Working)',
+    questionSummary: 'Working Principle and Construction of He-Ne Laser',
+    source: 'BEU Optics & Lasers Marking Scheme',
+    marksDistribution: '2 Marks (Components & Gas Ratio) + 3 Marks (Energy Level Diagram) + 2 Marks (Lasing Action)',
     points: [
       {
-        heading: '1. Principle & Active Medium',
-        body: 'He-Ne laser is a four-level gas laser producing a continuous beam of red light at $\\lambda = 632.8\\text{ nm}$. The active medium consists of a mixture of Helium and Neon gas in a ratio of approximately $10:1$ at low pressure ($\\approx 1\\text{ torr}$).'
+        heading: '1. Construction and Active Medium',
+        body: 'A Helium-Neon (He-Ne) laser consists of a discharge tube filled with a mixture of Helium and Neon gas in the ratio **10:1** at low pressure (~1 mm of Hg). The optical resonator consists of two mirrors: one 100% reflective and one partially reflective (~99%).'
       },
       {
-        heading: '2. Pumping & Resonant Energy Transfer',
-        body: '• Electrical discharge excites Helium atoms from ground state to metastable levels $2^1S$ and $2^3S$.\n• Resonant energy transfer occurs via collision with unexcited Neon atoms, raising Neon to $3s$ and $2s$ levels having almost identical excitation energies ($20.61\\text{ eV}$ and $19.82\\text{ eV}$).'
-      },
-      {
-        heading: '3. Population Inversion & Laser Transition',
-        body: 'Population inversion is established between the $3s$ level and $2p$ level of Neon. Transition from $3s_2 \\to 2p_4$ generates the characteristic coherent visible red laser output at $\\lambda = 632.8\\text{ nm}$. Depopulation of $2p$ to ground state occurs via rapid collisions with the tube walls.'
+        heading: '2. Pumping & Population Inversion',
+        body: '1. Electrical discharge excites Helium atoms from ground state to metastable levels ($2^1S$ and $2^3S$) via electron collision.\n2. Through resonant energy transfer collision, excited He atoms transfer energy to closely matching Neon energy levels ($2s$ and $3s$).\n3. This creates **population inversion** in Neon between $3s$ and $2p$ levels.\n4. Stimulated emission produces the coherent red laser output at **632.8 nm** ($0.6328\\,\\mu\\text{m}$).'
       }
     ],
-    keyFormula: '\\lambda = 632.8\\text{ nm} \\quad (3s_2 \\to 2p_4 \\text{ transition in Neon})',
-    examTip: 'Clarify that Helium is the pumping gas that transfers energy to Neon, which is the actual lasing atom.'
+    keyFormula: '\\lambda = 632.8\\text{ nm} \\quad (\\text{Red coherent beam})',
+    examTip: 'Emphasize that Helium is the pumping gas while Neon is the lasing medium that emits photons.'
   },
 
   population_inversion: {
-    questionSummary: 'Population Inversion and Metastable State',
-    source: 'BEU Optics & Lasers Marking Scheme',
-    marksDistribution: '3 Marks (Definition & Boltzmann Distribution) + 4 Marks (Metastable states & achieving method)',
+    questionSummary: 'Concept of Population Inversion & Metastable States in Lasers',
+    source: 'BEU Laser Physics Key',
+    marksDistribution: '2 Marks (Thermal equilibrium vs Inversion) + 3 Marks (Metastable state role) + 2 Marks (Pumping methods)',
     points: [
       {
-        heading: '1. Definition & Condition',
-        body: 'Under thermal equilibrium, the population of atoms in energy states follows Boltzmann distribution: $N_2 = N_1 e^{-(E_2 - E_1)/k_B T}$, where $N_2 < N_1$. Population inversion is the non-equilibrium state in which the number of atoms in a higher excited energy state $N_2$ exceeds that in the lower state $N_1$ ($N_2 > N_1$).'
+        heading: '1. Concept of Population Inversion',
+        body: 'Under normal thermal equilibrium, population of atoms in energy states follows Boltzmann distribution:\n$$N_2 = N_1 e^{-(E_2 - E_1)/k_B T}$$\nSince $E_2 > E_1$, $N_1 > N_2$. **Population inversion** is the non-equilibrium condition where the number of atoms in the higher excited energy state exceeds that in the ground/lower state ($N_2 > N_1$).'
       },
       {
         heading: '2. Role of Metastable State',
-        body: 'Normal excited states have extremely short lifespans ($\\approx 10^{-8}\\text{ s}$). A metastable state has a significantly longer lifespan ($\\approx 10^{-3}\\text{ s}$ to $10^{-2}\\text{ s}$), allowing atoms to accumulate until $N_2 > N_1$ is achieved.'
-      },
-      {
-        heading: '3. Pumping Methods to Achieve Inversion',
-        body: '• Optical Pumping (e.g., Ruby laser using Xenon flash lamp)\n• Electrical Discharge / Electron Excitation (e.g., He-Ne and $CO_2$ gas lasers)\n• Chemical reactions and direct carrier injection in semiconductor diodes.'
+        body: 'Ordinary excited states have very short lifetimes (~$10^{-8}\\text{ s}$), leading to rapid spontaneous emission. A **metastable state** has a much longer lifetime (~$10^{-3}\\text{ s}$), allowing atoms to accumulate and achieve $N_2 > N_1$.'
       }
     ],
-    keyFormula: 'N_2 > N_1 \\quad \\text{where } N_2 = N_1 e^{-\\Delta E / k_B T}',
-    examTip: 'State clearly that stimulated emission cannot dominate over stimulated absorption unless population inversion is achieved.'
+    keyFormula: 'N_2 > N_1 \\quad (\\text{Condition for light amplification})',
+    examTip: 'Draw a three-level or four-level energy diagram showing rapid non-radiative transition to the metastable level.'
   },
 
   kronig_penney: {
-    questionSummary: 'Kronig-Penney Model & Energy Band Formation',
-    source: 'BEU Solid State Physics Model Solution',
-    marksDistribution: '2 Marks (Periodic Potential) + 3 Marks (Bloch theorem) + 2 Marks (Allowed/Forbidden bands)',
+    questionSummary: 'Kronig-Penney Model and Energy Band Formation in Solids',
+    source: 'BEU Solid State Physics Evaluation Scheme',
+    marksDistribution: '2 Marks (Periodic potential) + 3 Marks (Dispersion relation) + 2 Marks (Allowed and forbidden bands)',
     points: [
       {
         heading: '1. Model Assumptions',
-        body: 'The Kronig-Penney model assumes an idealized periodic square-well potential for an electron moving through a crystalline lattice, where potential wells represent atomic cores with periodic lattice parameter $a+b$.'
+        body: 'The Kronig-Penney model approximates the periodic potential of a crystalline lattice by an array of rectangular potential wells and barriers of height $V_0$ and width $b$, separated by spacing $a$ (lattice constant).'
       },
       {
-        heading: '2. Solution Formulation (Bloch Theorem)',
-        body: 'Solving 1-D Schrödinger equation using Bloch function $\\psi(x) = u_k(x) e^{ikx}$ and taking the limit of potential barriers $V_0 \\to \\infty, b \\to 0$ with finite barrier strength yields:\n$$P \\frac{\\sin(\\alpha a)}{\\alpha a} + \\cos(\\alpha a) = \\cos(ka)$$\nWhere $P = \\frac{m V_0 b a}{\\hbar^2}$ is the scattering power of the potential barrier, and $\\alpha = \\sqrt{\\frac{2mE}{\\hbar^2}}$.'
-      },
-      {
-        heading: '3. Physical Conclusions',
-        body: '• The function can only oscillate between $-1$ and $+1$ since $|\\cos(ka)| \\le 1$.\n• Values where $|P \\frac{\\sin(\\alpha a)}{\\alpha a} + \\cos(\\alpha a)| > 1$ are forbidden (Band Gaps / Energy Gaps $E_g$).\n• Explains the classification of solids into Conductors, Semiconductors, and Insulators.'
+        heading: '2. Governing Equation & Band Formation',
+        body: 'Solving Schrödinger\'s equation with Bloch\'s theorem yields:\n$$P\\frac{\\sin(\\alpha a)}{\\alpha a} + \\cos(\\alpha a) = \\cos(ka)$$\nWhere $P = \\frac{m V_0 b a}{\\hbar^2}$ is the barrier strength.\n• Since $-1 \\le \\cos(ka) \\le +1$, the LHS must lie between $-1$ and $+1$.\n• Energy ranges where the condition is satisfied form **allowed energy bands**.\n• Regions where LHS exceeds $\\pm 1$ form **forbidden energy gaps** ($E_g$).'
       }
     ],
-    keyFormula: 'P \\frac{\\sin(\\alpha a)}{\\alpha a} + \\cos(\\alpha a) = \\cos(ka)',
-    examTip: 'Sketch the dispersion relation $E$ vs $k$ showing discontinuities at $k = \\pm \\frac{n\\pi}{a}$ (Brillouin zone boundaries).'
+    keyFormula: 'P\\frac{\\sin(\\alpha a)}{\\alpha a} + \\cos(\\alpha a) = \\cos(ka)',
+    examTip: 'Sketch the dispersion relation E vs k showing discontinuities at k = ± nπ/a (Brillouin zone boundaries).'
   },
 
   // --- Programming / DSA ---
@@ -320,7 +543,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
       }
     ],
     keyFormula: '\\text{Time Complexity: Push/Pop/Peek } = O(1), \\quad \\text{Space } = O(n)',
-    examTip: 'Write the underflow condition (`if top == -1`) and overflow condition (`if top == MAX-1`) explicitly in C pseudocode.'
+    examTip: 'Write the underflow condition (if top == -1) and overflow condition (if top == MAX-1) explicitly in C pseudocode.'
   },
 
   operating_system_process_thread: {
@@ -356,7 +579,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
       }
     ],
     keyFormula: 'f_s \\ge 2f_m \\quad \\iff \\quad \\omega_s \\ge 2\\omega_m',
-    examTip: 'Draw the spectrum of $X_s(f)$ showing clear guard bands when $f_s > 2f_m$ and overlapping bands when $f_s < 2f_m$.'
+    examTip: 'Draw the spectrum of Xs(f) showing clear guard bands when fs > 2fm and overlapping bands when fs < 2fm.'
   }
 };
 
@@ -375,21 +598,119 @@ export const modelAnswerService = {
     if (text.includes('commonly used in sheet metal') || text.includes('metal used in sheet metal')) {
       return CURATED_MODEL_ANSWERS.sheet_metal_material;
     }
-    if (text.includes('soldering uses a filler') || text.includes('melting temperature') && text.includes('soldering')) {
+    if (text.includes('soldering uses a filler') || (text.includes('melting temperature') && text.includes('soldering'))) {
       return CURATED_MODEL_ANSWERS.soldering_filler;
     }
 
-    // Electrical Circuit & Figure Problems
+    // BEE 2022 Specific Problems (Strict, Accurate Question Verification)
+    // 1. Sawtooth AC Waveform V_rms (Q.3a)
     if (
-      text.includes('resistance between a and b') ||
-      text.includes('calculate the resistance between') ||
-      (text.includes('resistance') && text.includes('figure given below'))
+      (text.includes('waveform') || text.includes('given waveform')) &&
+      (text.includes('r.m.s') || text.includes('rms') || text.includes('v_rms') || text.includes('v_{\\text{rms}}'))
+    ) {
+      return CURATED_MODEL_ANSWERS.rms_waveform_calculation;
+    }
+
+    // 2. Resistor Bridge Network between Terminals A and B (Q.2b)
+    if (
+      (text.includes('resistance between a and b') || text.includes('resistance between a & b') || (text.includes('resistance between') && text.includes('bridge'))) &&
+      !text.includes('waveform') &&
+      !text.includes('r.m.s') &&
+      !text.includes('rms')
     ) {
       return CURATED_MODEL_ANSWERS.bridge_resistance_ab;
     }
-    if (text.includes('sinusoidal with frequency 50 hz') || (text.includes('r.m.s. value') && text.includes('instantaneous value'))) {
+
+    // 3. Sinusoidal instantaneous current equation (Q.2a)
+    if (
+      (text.includes('sinusoidal') && text.includes('50 hz')) ||
+      (text.includes('instantaneous value') && text.includes('0.0125'))
+    ) {
       return CURATED_MODEL_ANSWERS.ac_sinusoidal_current;
     }
+
+    // 4. Coupled coils series-adding and series-opposing (Q.3b)
+    if (
+      text.includes('series-adding') ||
+      text.includes('series-opposing') ||
+      (text.includes('coupling coefficient') && text.includes('250 mh'))
+    ) {
+      return CURATED_MODEL_ANSWERS.series_coils_inductance;
+    }
+
+    // 5. Principle of transformer action (Q.4a)
+    if (
+      text.includes('transformer action') ||
+      text.includes('principle of transformer') ||
+      (text.includes('transformer') && text.includes('working principle'))
+    ) {
+      return CURATED_MODEL_ANSWERS.transformer_principle;
+    }
+
+    // 6. Series RLC resonance with variable capacitance (Q.4b)
+    if (
+      text.includes('variable capacitance') ||
+      (text.includes('series resonance') && (text.includes('500 mh') || text.includes('400 v') || text.includes('100 v, 50 hz')))
+    ) {
+      return CURATED_MODEL_ANSWERS.series_resonance_rlc;
+    }
+
+    // 7. Parallel resonance (Q.5a)
+    if (text.includes('parallel resonance')) {
+      return CURATED_MODEL_ANSWERS.parallel_resonance;
+    }
+
+    // 8. Rotating field alternator (Q.5b)
+    if (text.includes('rotating field') && (text.includes('alternator') || text.includes('advantages'))) {
+      return CURATED_MODEL_ANSWERS.rotating_field_alternator;
+    }
+
+    // 9. Alternator generated voltage (Q.6a)
+    if (
+      text.includes('conductors per slot') ||
+      (text.includes('90 slots') && text.includes('0.05 wb')) ||
+      (text.includes('k_w = 0.96') || text.includes('kw = 0.96'))
+    ) {
+      return CURATED_MODEL_ANSWERS.alternator_generated_voltage;
+    }
+
+    // 10. Principle of operation of DC motor (Q.7a)
+    if (
+      text.includes('operation of d.c. motor') ||
+      text.includes('operation of dc motor') ||
+      (text.includes('principle of operation') && text.includes('d.c. motor'))
+    ) {
+      return CURATED_MODEL_ANSWERS.dc_motor_operation;
+    }
+
+    // 11. Balanced star-connected 3-phase load (Q.7b)
+    if (
+      text.includes('8+j6') ||
+      text.includes('8 + j6') ||
+      (text.includes('star-connected load') && text.includes('400 v supply'))
+    ) {
+      return CURATED_MODEL_ANSWERS.three_phase_star_load;
+    }
+
+    // 12. Slip and speed of 3-phase induction motor fed from alternator (Q.8a)
+    if (
+      text.includes('rotor of induction motor is 2 hz') ||
+      (text.includes('6-pole alternator') && text.includes('induction motor')) ||
+      (text.includes('slip and speed of the motor') && text.includes('2 hz'))
+    ) {
+      return CURATED_MODEL_ANSWERS.induction_motor_slip_speed;
+    }
+
+    // 13. Mutually coupled coils X and Y (Q.9a)
+    if (
+      text.includes('12000 turns') ||
+      text.includes('15000 turns') ||
+      (text.includes('coil x') && text.includes('coil y') && text.includes('45%'))
+    ) {
+      return CURATED_MODEL_ANSWERS.mutually_coupled_coils_xy;
+    }
+
+    // 14. Thévenin's Theorem
     if (text.includes('thevenin') || text.includes('thévenin')) {
       return CURATED_MODEL_ANSWERS.thevenin_theorem;
     }
