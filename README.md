@@ -207,3 +207,11 @@ vercel --prod
    - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
 4. Click **Deploy**. Your BEU PYQ platform will be live in seconds!
+
+---
+
+## 💖 Credits & Author
+- **Architect & Lead Developer**: **FBi**
+- **Repository**: [https://github.com/kingsksinha/beu-pyq](https://github.com/kingsksinha/beu-pyq)
+- Dedicated with ❤️ to the engineering students of **Bihar Engineering University (BEU)** across all 92 branches and affiliated engineering colleges.
+- Inspired by the original repository [`mrityunjaykr191-cell/beu_pyqs`](https://github.com/mrityunjaykr191-cell/beu_pyqs).
