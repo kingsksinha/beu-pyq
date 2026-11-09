@@ -32,11 +32,18 @@ export const SemesterDirectoryPage: React.FC = () => {
     );
   }
 
-  const semesterDescriptions: Record<number, string> = {
-    1: 'Foundation engineering courses including Engineering Physics, Mathematics-1, Basic Electrical, English, and Engineering Mechanics.',
-    2: 'Second semester core syllabus covering Engineering Chemistry, Programming for Problem Solving (PPS), Mathematics-2, and Workshop Practices.',
-    3: 'Branch specific foundational courses: Data Structures, Discrete Mathematics, Digital Electronics, Analog Circuits, and Mechanics of Materials.',
-    4: 'Advanced core curriculum including Design and Analysis of Algorithms (DAA), Operating Systems, DBMS, Computer Organization, and Fluid Mechanics.'
+  const yearLabels: Record<number, string> = {
+    1: '1st Year',
+    2: '2nd Year',
+    3: '3rd Year',
+    4: '4th Year'
+  };
+
+  const yearDescriptions: Record<number, string> = {
+    1: '1st Year foundation engineering curriculum (Semesters 1 & 2): Engineering Physics, Chemistry, Mathematics-1 & 2, Basic Electrical, English, and Workshop Practices.',
+    2: '2nd Year core foundational curriculum (Semesters 3 & 4): Data Structures, Discrete Mathematics, Digital Electronics, Analog Circuits, and Mechanics of Materials.',
+    3: '3rd Year advanced branch engineering curriculum (Semesters 5 & 6): Operating Systems, Database Management (DBMS), Design of Steel Structures, Theory of Computation, and Computer Networks.',
+    4: '4th Year final year curriculum (Semesters 7 & 8): Machine Learning, Cloud Computing, Transportation Engineering, Disaster Management, and Specialized Electives.'
   };
 
   return (
@@ -48,14 +55,14 @@ export const SemesterDirectoryPage: React.FC = () => {
           <span>Curriculum Organization</span>
         </div>
         <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white mt-1">
-          Semester-wise Question Papers
+          B.Tech Year-wise Question Papers
         </h1>
         <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
-          Select your engineering semester to explore subject catalogs and past examination papers.
+          Select your engineering year (1st to 4th Year) to explore subject catalogs and past examination papers.
         </p>
       </div>
 
-      {/* Semester Tab Switcher */}
+      {/* Year Tab Switcher */}
       <div className="flex items-center gap-2 overflow-x-auto pb-2 border-b border-slate-200 dark:border-slate-800 no-scrollbar">
         {[1, 2, 3, 4].map(sem => {
           const isSelected = sem === selectedSem;
@@ -63,37 +70,37 @@ export const SemesterDirectoryPage: React.FC = () => {
             <button
               key={sem}
               onClick={() => handleSemChange(sem)}
-              className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition shrink-0 ${
+              className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition shrink-0 cursor-pointer ${
                 isSelected
                   ? 'bg-indigo-600 text-white shadow-md shadow-indigo-500/20'
                   : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700'
               }`}
             >
-              Semester {sem}
+              {yearLabels[sem]}
             </button>
           );
         })}
       </div>
 
-      {/* Selected Semester Banner */}
+      {/* Selected Year Banner */}
       <div className="p-5 sm:p-6 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 shadow-xs">
         <div className="flex flex-wrap items-center justify-between gap-3 mb-2">
           <h2 className="text-lg font-bold text-slate-900 dark:text-white">
-            Semester {selectedSem} Engineering Subjects
+            {yearLabels[selectedSem]} Engineering Subjects
           </h2>
           <span className="px-3 py-1 text-xs font-bold rounded-full bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/80 font-mono">
             {semSubjects.length} Subjects Available
           </span>
         </div>
         <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 leading-relaxed">
-          {semesterDescriptions[selectedSem]}
+          {yearDescriptions[selectedSem]}
         </p>
         <div className="mt-4">
           <Link
             to={`/papers?semester=${selectedSem}`}
             className="inline-flex items-center gap-2 text-xs font-bold text-indigo-600 dark:text-indigo-400 hover:underline"
           >
-            <span>View all question papers for Semester {selectedSem}</span>
+            <span>View all question papers for {yearLabels[selectedSem]}</span>
             <ArrowRight className="w-3.5 h-3.5" />
           </Link>
         </div>

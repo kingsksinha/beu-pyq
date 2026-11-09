@@ -18,8 +18,9 @@ export const ActiveFilterChips: React.FC<ActiveFilterChipsProps> = ({
   const chips: { label: string; onRemove: () => void }[] = [];
 
   if (filters.semester !== 'ALL') {
+    const yearLabels: Record<string, string> = { '1': '1st Year', '2': '2nd Year', '3': '3rd Year', '4': '4th Year' };
     chips.push({
-      label: `Sem ${filters.semester}`,
+      label: yearLabels[filters.semester] || `Year ${filters.semester}`,
       onRemove: () => onRemoveFilter({ semester: 'ALL' })
     });
   }
@@ -34,7 +35,7 @@ export const ActiveFilterChips: React.FC<ActiveFilterChipsProps> = ({
 
   if (filters.year !== 'ALL') {
     chips.push({
-      label: `Year: ${filters.year}`,
+      label: `Session: ${filters.year}`,
       onRemove: () => onRemoveFilter({ year: 'ALL' })
     });
   }

@@ -30,7 +30,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({
   const navItems = [
     { label: 'Dashboard', icon: Home, to: '/' },
     { label: 'All Question Papers', icon: Compass, to: '/papers' },
-    { label: 'Semester-wise', icon: Layers, to: '/semesters' },
+    { label: 'B.Tech Years', icon: Layers, to: '/semesters' },
     { label: 'Subject-wise', icon: Library, to: '/subjects' },
     { label: 'Year Archive', icon: Calendar, to: '/years' },
     { label: 'Bookmarks', icon: Bookmark, to: '/bookmarks' },
@@ -153,7 +153,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({
           }
         >
           <Layers className="w-4 h-4" />
-          <span>Semesters</span>
+          <span>Years</span>
         </NavLink>
 
         <NavLink

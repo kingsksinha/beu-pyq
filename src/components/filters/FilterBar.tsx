@@ -14,6 +14,11 @@ interface FilterBarProps {
   onResetFilters: () => void;
 }
 
+const formatYearLabel = (val: string) => {
+  const map: Record<string, string> = { '1': '1st Year', '2': '2nd Year', '3': '3rd Year', '4': '4th Year' };
+  return map[val] || `Year ${val}`;
+};
+
 export const FilterBar: React.FC<FilterBarProps> = ({
   filters,
   subjects,
@@ -79,25 +84,25 @@ export const FilterBar: React.FC<FilterBarProps> = ({
 
       {/* Select Controls Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2.5 sm:gap-3">
-        {/* Semester Filter */}
+        {/* Academic Year Filter (1st to 4th Year) */}
         <div>
           <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
-            Semester
+            B.Tech Year
           </label>
           <select
             value={filters.semester}
             onChange={e => handleSemesterChange(e.target.value)}
             className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 cursor-pointer"
           >
-            <option value="ALL">All Semesters (1–4)</option>
-            <option value="1">Semester 1</option>
-            <option value="2">Semester 2</option>
-            <option value="3">Semester 3</option>
-            <option value="4">Semester 4</option>
+            <option value="ALL">All Years (1st–4th)</option>
+            <option value="1">1st Year</option>
+            <option value="2">2nd Year</option>
+            <option value="3">3rd Year</option>
+            <option value="4">4th Year</option>
           </select>
         </div>
 
-        {/* Subject Filter - Dynamically filtered to only show subjects of the selected semester */}
+        {/* Subject Filter - Dynamically filtered to only show subjects of the selected year */}
         <div>
           <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
             Subject ({availableSubjects.length})
@@ -110,7 +115,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             <option value="ALL">
               {filters.semester === 'ALL'
                 ? `All Subjects (${subjects.length})`
-                : `All Sem ${filters.semester} Subjects (${availableSubjects.length})`}
+                : `All ${formatYearLabel(filters.semester)} Subjects (${availableSubjects.length})`}
             </option>
             {availableSubjects.map(s => (
               <option key={s.code} value={s.code}>
@@ -120,20 +125,20 @@ export const FilterBar: React.FC<FilterBarProps> = ({
           </select>
         </div>
 
-        {/* Examination Year Filter */}
+        {/* Examination Session / Year Filter */}
         <div>
           <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
-            Exam Year
+            Exam Session
           </label>
           <select
             value={filters.year}
             onChange={e => onFilterChange({ year: e.target.value })}
-            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500"
+            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 cursor-pointer"
           >
-            <option value="ALL">All Years (2012–2025)</option>
+            <option value="ALL">All Sessions (2012–2025)</option>
             {availableYears.map(yr => (
               <option key={yr} value={yr}>
-                Year {yr}
+                Session {yr}
               </option>
             ))}
           </select>

@@ -25,7 +25,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ onOpenLegend }) => {
   const navItems = [
     { label: 'Dashboard', icon: Home, to: '/' },
     { label: 'All Question Papers', icon: Compass, to: '/papers' },
-    { label: 'Semesters', icon: Layers, to: '/semesters' },
+    { label: 'B.Tech Years', icon: Layers, to: '/semesters' },
     { label: 'Subjects', icon: Library, to: '/subjects' },
     { label: 'Year Archive', icon: Calendar, to: '/years' },
     { label: 'Bookmarks', icon: Bookmark, to: '/bookmarks' },
