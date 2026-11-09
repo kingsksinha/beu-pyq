@@ -245,6 +245,24 @@ export const PracticeModePage: React.FC = () => {
     };
   }, [activeItems, userAnswers, descriptiveSolved]);
 
+  const handleSubmitAndShowScore = () => {
+    if (paper && scoreStats.totalAttempted > 0) {
+      storageService.savePracticeScore({
+        paperId: paper.id,
+        subject_name: paper.subject_name,
+        semester: paper.semester,
+        year: paper.year,
+        marksEarned: scoreStats.totalMarksEarned,
+        possibleMarks: scoreStats.totalPossibleMarks,
+        percentage: scoreStats.percentage,
+        accuracy: scoreStats.accuracy,
+        attemptedCount: scoreStats.totalAttempted,
+        totalItems: scoreStats.totalItems
+      });
+    }
+    setShowScoreModal(true);
+  };
+
   const handleResetSession = () => {
     if (window.confirm('Reset all answers and restart practice session?')) {
       setUserAnswers({});
@@ -326,8 +344,8 @@ export const PracticeModePage: React.FC = () => {
 
           {/* Submit Practice & View Score Button */}
           <button
-            onClick={() => setShowScoreModal(true)}
-            className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-xl text-xs font-semibold bg-emerald-600 hover:bg-emerald-500 text-white shadow-xs transition"
+            onClick={handleSubmitAndShowScore}
+            className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-xl text-xs font-semibold bg-emerald-600 hover:bg-emerald-500 text-white shadow-xs transition cursor-pointer"
           >
             <Trophy className="w-3.5 h-3.5" />
             <span>Submit & View Score</span>
@@ -512,7 +530,7 @@ export const PracticeModePage: React.FC = () => {
         {/* Center Submit Button if at the last question */}
         {safeIndex === activeItems.length - 1 ? (
           <button
-            onClick={() => setShowScoreModal(true)}
+            onClick={handleSubmitAndShowScore}
             className="inline-flex items-center gap-2 px-6 py-2.5 rounded-xl text-xs sm:text-sm font-bold bg-emerald-600 hover:bg-emerald-500 text-white shadow-md transition cursor-pointer"
           >
             <Trophy className="w-4 h-4" />

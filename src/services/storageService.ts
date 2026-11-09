@@ -153,6 +153,34 @@ export const storageService = {
     }
   },
 
+  // --- Practice Scores History ---
+  getPracticeScores(): PracticeScoreRecord[] {
+    try {
+      const data = localStorage.getItem('beu_pyq_scores_v1');
+      return data ? JSON.parse(data) : [];
+    } catch {
+      return [];
+    }
+  },
+
+  savePracticeScore(record: Omit<PracticeScoreRecord, 'id' | 'timestamp'>): void {
+    const list = this.getPracticeScores();
+    const newRecord: PracticeScoreRecord = {
+      ...record,
+      id: `score_${Date.now()}`,
+      timestamp: Date.now()
+    };
+    list.unshift(newRecord);
+    if (list.length > 50) list.length = 50;
+    localStorage.setItem('beu_pyq_scores_v1', JSON.stringify(list));
+    window.dispatchEvent(new Event('beu-score-updated'));
+  },
+
+  clearPracticeScores(): void {
+    localStorage.removeItem('beu_pyq_scores_v1');
+    window.dispatchEvent(new Event('beu-score-updated'));
+  },
+
   // --- Theme ---
   getTheme(): 'dark' | 'light' {
     const stored = localStorage.getItem(STORAGE_KEYS.THEME);
@@ -164,3 +192,18 @@ export const storageService = {
     localStorage.setItem(STORAGE_KEYS.THEME, theme);
   }
 };
+
+export interface PracticeScoreRecord {
+  id: string;
+  paperId: string;
+  subject_name: string;
+  semester: number;
+  year: string;
+  marksEarned: number;
+  possibleMarks: number;
+  percentage: number;
+  accuracy: number;
+  attemptedCount: number;
+  totalItems: number;
+  timestamp: number;
+}
