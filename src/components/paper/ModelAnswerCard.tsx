@@ -135,17 +135,31 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
 
       {/* Expanded Solution Body (When Unlocked) */}
       {unlocked && isExpanded && (
-        <div className="px-4 sm:px-6 pb-5 pt-2 border-t border-indigo-100 dark:border-indigo-950/80 space-y-4 animate-in fade-in duration-200">
+        <div className="px-3.5 sm:px-6 pb-5 pt-2 border-t border-indigo-100 dark:border-indigo-950/80 space-y-4 animate-in fade-in duration-200">
           {/* Marks Distribution Banner */}
           {modelAnswer.marksDistribution && (
-            <div className="p-3 rounded-xl bg-white dark:bg-slate-900 border border-indigo-100 dark:border-slate-700 text-xs text-indigo-900 dark:text-indigo-200 flex flex-wrap items-center justify-between gap-2">
-              <span className="font-semibold flex items-center gap-1.5">
-                <BookOpen className="w-3.5 h-3.5 text-indigo-600 dark:text-indigo-400" />
-                <span>Marking Weightage:</span>
-              </span>
-              <span className="font-mono font-medium text-slate-700 dark:text-slate-300">
+            <div className="p-3 sm:p-3.5 rounded-xl bg-white dark:bg-slate-900 border border-indigo-100 dark:border-slate-800 text-xs text-indigo-900 dark:text-indigo-200 space-y-1">
+              <div className="font-bold flex items-center gap-1.5 text-indigo-600 dark:text-indigo-400">
+                <BookOpen className="w-3.5 h-3.5" />
+                <span>Marking Weightage Breakdown:</span>
+              </div>
+              <p className="text-xs font-mono font-medium text-slate-700 dark:text-slate-300 leading-relaxed break-words">
                 {modelAnswer.marksDistribution}
-              </span>
+              </p>
+            </div>
+          )}
+
+          {/* Schematic Diagram if provided */}
+          {modelAnswer.schematicSvg && (
+            <div className="p-4 rounded-xl bg-white dark:bg-slate-900 border border-indigo-100 dark:border-slate-800 space-y-2">
+              <div className="text-[11px] uppercase tracking-wider font-bold text-slate-500 dark:text-slate-400 flex items-center gap-1.5">
+                <span className="w-2 h-2 rounded-full bg-indigo-500 animate-pulse" />
+                <span>Reconstructed Official Circuit Diagram</span>
+              </div>
+              <div
+                className="overflow-x-auto flex justify-center py-2"
+                dangerouslySetInnerHTML={{ __html: modelAnswer.schematicSvg }}
+              />
             </div>
           )}
 

@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
-import { Bookmark, CheckCircle2, Image as ImageIcon } from 'lucide-react';
+import { Bookmark, CheckCircle2 } from 'lucide-react';
 import { storageService } from '../../services/storageService';
 import type { Question, SubQuestion } from '../../types/paper';
 import { MathText } from '../ui/MathText';
+import { QuestionDiagram } from '../ui/QuestionDiagram';
 import { StarFrequency } from '../ui/StarFrequency';
 import { ModelAnswerCard } from './ModelAnswerCard';
 
@@ -148,12 +149,7 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
             <MathText text={cleanSubText || sub.text} className="text-sm sm:text-[15px] text-slate-800 dark:text-slate-100 print:text-black" />
 
             {/* Images/Diagrams if any */}
-            {sub.images && sub.images.length > 0 && (
-              <div className="my-2 p-3 rounded-xl bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-xs text-slate-600 dark:text-slate-300 flex items-center gap-2">
-                <ImageIcon className="w-4 h-4 shrink-0 text-slate-400" />
-                <span>Question Diagram referenced in official university examination sheet.</span>
-              </div>
-            )}
+            <QuestionDiagram images={sub.images} questionText={sub.text} />
 
             {/* MCQs Option List */}
             {sub.options && sub.options.length > 0 && (

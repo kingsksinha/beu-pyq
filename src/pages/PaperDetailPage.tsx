@@ -5,6 +5,7 @@ import {
   Bookmark, 
   Check, 
   Copy, 
+  Download,
   FileText, 
   HelpCircle, 
   PlayCircle, 
@@ -14,6 +15,7 @@ import { PaperHeader } from '../components/paper/PaperHeader';
 import { QuestionItem } from '../components/paper/QuestionItem';
 import { dataService } from '../services/dataService';
 import { storageService } from '../services/storageService';
+import { downloadPaperOfflineHtml } from '../utils/paperDownloader';
 import type { PaperCatalogItem, PaperDetail } from '../types/paper';
 
 export const PaperDetailPage: React.FC = () => {
@@ -123,14 +125,14 @@ export const PaperDetailPage: React.FC = () => {
   }
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 pb-28 sm:pb-16">
       {/* Printable Area Wrapper */}
       <div id="printable-paper" className="space-y-6">
         {/* Navigation Breadcrumb & Actions Bar (Hidden during print) */}
-        <div className="print:hidden flex flex-wrap items-center justify-between gap-4 pb-2 border-b border-slate-200 dark:border-slate-800">
+        <div className="print:hidden flex flex-wrap items-center justify-between gap-3 pb-2 border-b border-slate-200 dark:border-slate-800">
           <button
             onClick={() => navigate(-1)}
-            className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 transition"
+            className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 transition cursor-pointer"
           >
             <ArrowLeft className="w-4 h-4" />
             <span>Back</span>
@@ -140,16 +142,26 @@ export const PaperDetailPage: React.FC = () => {
             {/* Practice Mode Button */}
             <Link
               to={`/practice/${paper.id}`}
-              className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-indigo-600 hover:bg-indigo-500 text-white shadow-xs transition"
+              className="inline-flex items-center gap-1.5 px-3 sm:px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-indigo-600 hover:bg-indigo-500 text-white shadow-xs transition"
             >
               <PlayCircle className="w-4 h-4" />
               <span>Practice Mode</span>
             </Link>
 
+            {/* Download Offline Paper Button */}
+            <button
+              onClick={() => downloadPaperOfflineHtml(paper)}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-indigo-50 dark:bg-indigo-950/60 hover:bg-indigo-100 dark:hover:bg-indigo-900/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800 transition cursor-pointer"
+              title="Download Complete Paper (Offline HTML & Printable)"
+            >
+              <Download className="w-3.5 h-3.5" />
+              <span>Download</span>
+            </button>
+
             {/* Print / Download PDF */}
             <button
               onClick={handlePrint}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 border border-slate-200 dark:border-slate-700 transition"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 border border-slate-200 dark:border-slate-700 transition cursor-pointer"
               title="Print or Save as A4 PDF"
             >
               <Printer className="w-3.5 h-3.5" />

@@ -29,7 +29,7 @@ export const AppLayout: React.FC = () => {
       <Sidebar onOpenLegend={() => setIsLegendOpen(true)} />
 
       {/* Main Content Area */}
-      <div className="flex-1 flex flex-col min-w-0 pb-20 lg:pb-8">
+      <div className="flex-1 flex flex-col min-w-0 pb-28 lg:pb-8">
         <Topbar
           onOpenSearch={() => setIsSearchOpen(true)}
           onOpenLegend={() => setIsLegendOpen(true)}

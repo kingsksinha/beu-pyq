@@ -9,13 +9,13 @@ import {
   Circle, 
   FileText, 
   Flame, 
-  Image as ImageIcon,
   RotateCcw, 
   Trophy, 
   X, 
   XCircle 
 } from 'lucide-react';
 import { MathText } from '../components/ui/MathText';
+import { QuestionDiagram } from '../components/ui/QuestionDiagram';
 import { StarFrequency } from '../components/ui/StarFrequency';
 import { ModelAnswerCard } from '../components/paper/ModelAnswerCard';
 import { dataService } from '../services/dataService';
@@ -311,7 +311,7 @@ export const PracticeModePage: React.FC = () => {
   const progressPercent = Math.round(((safeIndex + 1) / activeItems.length) * 100);
 
   return (
-    <div className="max-w-4xl mx-auto space-y-6">
+    <div className="max-w-4xl mx-auto space-y-6 pb-28 sm:pb-16">
       {/* Top Controls Bar */}
       <div className="flex flex-wrap items-center justify-between gap-4 pb-3 border-b border-slate-200 dark:border-slate-800">
         <div className="flex items-center gap-3">
@@ -436,12 +436,7 @@ export const PracticeModePage: React.FC = () => {
         </div>
 
         {/* Question Diagram / Image Notice */}
-        {currentItem.sub.images && currentItem.sub.images.length > 0 && (
-          <div className="p-3.5 sm:p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700/80 text-xs sm:text-sm text-slate-600 dark:text-slate-300 flex items-center gap-2.5">
-            <ImageIcon className="w-4 h-4 shrink-0 text-indigo-500" />
-            <span>Question diagram / schematic referenced in official university examination sheet ({currentItem.sub.images.join(', ')}).</span>
-          </div>
-        )}
+        <QuestionDiagram images={currentItem.sub.images} questionText={currentItem.sub.text} />
 
         {/* MCQ Option Choices with Answer Feedback */}
         {isMcq && currentItem.sub.options && (
@@ -518,7 +513,7 @@ export const PracticeModePage: React.FC = () => {
         )}
 
         {/* Official Model Answer & Marking Scheme */}
-        <div className="pt-2">
+        <div className="pt-4 mt-2 border-t border-slate-100 dark:border-slate-800/80">
           <ModelAnswerCard
             questionText={currentItem.sub.text}
             marks={currentItem.marks}
