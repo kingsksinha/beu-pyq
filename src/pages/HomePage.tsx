@@ -155,12 +155,16 @@ export const HomePage: React.FC = () => {
       <section className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-indigo-950 via-slate-900 to-slate-950 text-white p-6 sm:p-8 border border-indigo-500/30 shadow-xl">
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6 relative z-10">
           <div className="flex items-center gap-4 sm:gap-5">
-            {/* FBi Avatar Badge with Gradient Ring */}
-            <div className="relative w-14 h-14 sm:w-16 sm:h-16 rounded-2xl bg-gradient-to-tr from-indigo-500 via-purple-500 to-pink-500 p-0.5 shadow-lg shadow-indigo-500/30 shrink-0">
-              <div className="w-full h-full bg-slate-950 rounded-[14px] flex items-center justify-center font-black text-xl sm:text-2xl text-transparent bg-clip-text bg-gradient-to-br from-white via-indigo-200 to-pink-300">
-                FBi
+            {/* FBi Avatar Badge with User Photo */}
+            <div className="relative w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-gradient-to-tr from-indigo-500 via-purple-500 to-pink-500 p-0.5 shadow-xl shadow-indigo-500/30 shrink-0">
+              <div className="w-full h-full bg-slate-950 rounded-[14px] overflow-hidden flex items-center justify-center">
+                <img
+                  src="/fbi_avatar.jpg"
+                  alt="FBi - Creator & Platform Architect"
+                  className="w-full h-full object-cover rounded-[14px] scale-105 hover:scale-115 transition duration-300"
+                />
               </div>
-              <div className="absolute -top-1 -right-1 w-4 h-4 rounded-full bg-emerald-500 border-2 border-slate-950" title="Active Platform Lead" />
+              <div className="absolute -top-1 -right-1 w-4 h-4 rounded-full bg-emerald-500 border-2 border-slate-950 shadow-xs" title="Active Platform Lead" />
             </div>
 
             <div>
