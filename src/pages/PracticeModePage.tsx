@@ -9,6 +9,7 @@ import {
   Circle, 
   FileText, 
   Flame, 
+  Image as ImageIcon,
   RotateCcw, 
   Trophy, 
   X, 
@@ -395,9 +396,11 @@ export const PracticeModePage: React.FC = () => {
               )}
             </div>
 
-            <p className="text-xs text-slate-400">
-              Section: <MathText text={currentItem.questionTitle} inline className="font-medium text-slate-600 dark:text-slate-300" />
-            </p>
+            {currentItem.questionTitle && currentItem.questionTitle.trim() !== '' && (
+              <p className="text-xs text-slate-400">
+                Section: <MathText text={currentItem.questionTitle} inline className="font-medium text-slate-600 dark:text-slate-300" />
+              </p>
+            )}
           </div>
 
           <div className="flex items-center gap-1.5 shrink-0">
@@ -431,6 +434,14 @@ export const PracticeModePage: React.FC = () => {
         <div className="text-base sm:text-lg leading-relaxed text-slate-900 dark:text-slate-100">
           <MathText text={currentItem.sub.text} />
         </div>
+
+        {/* Question Diagram / Image Notice */}
+        {currentItem.sub.images && currentItem.sub.images.length > 0 && (
+          <div className="p-3.5 sm:p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700/80 text-xs sm:text-sm text-slate-600 dark:text-slate-300 flex items-center gap-2.5">
+            <ImageIcon className="w-4 h-4 shrink-0 text-indigo-500" />
+            <span>Question diagram / schematic referenced in official university examination sheet ({currentItem.sub.images.join(', ')}).</span>
+          </div>
+        )}
 
         {/* MCQ Option Choices with Answer Feedback */}
         {isMcq && currentItem.sub.options && (

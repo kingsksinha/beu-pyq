@@ -40,8 +40,17 @@ export const PapersExplorerPage: React.FC = () => {
   // Update URL params when filters change
   const handleFilterChange = (newFilters: Partial<FilterState>) => {
     const updated = { ...filters, ...newFilters };
-    const params = new URLSearchParams();
 
+    // If semester is set and subject is set, ensure subject belongs to semester; otherwise reset to ALL
+    if (updated.semester !== 'ALL' && updated.subject !== 'ALL' && subjects.length > 0) {
+      const semNum = parseInt(updated.semester, 10);
+      const isSubjInSem = subjects.some(s => s.code === updated.subject && s.semesters.includes(semNum));
+      if (!isSubjInSem) {
+        updated.subject = 'ALL';
+      }
+    }
+
+    const params = new URLSearchParams();
     if (updated.semester !== 'ALL') params.set('semester', updated.semester);
     if (updated.subject !== 'ALL') params.set('subject', updated.subject);
     if (updated.year !== 'ALL') params.set('year', updated.year);
@@ -58,11 +67,32 @@ export const PapersExplorerPage: React.FC = () => {
     setSearchParams(new URLSearchParams(), { replace: true });
   };
 
-  // Compute available examination years from catalog
+  // Keep URL parameters consistent if invalid semester/subject combination is provided
+  useEffect(() => {
+    if (subjects.length > 0 && filters.semester !== 'ALL' && filters.subject !== 'ALL') {
+      const semNum = parseInt(filters.semester, 10);
+      const isSubjInSem = subjects.some(s => s.code === filters.subject && s.semesters.includes(semNum));
+      if (!isSubjInSem) {
+        const nextParams = new URLSearchParams(searchParams);
+        nextParams.delete('subject');
+        setSearchParams(nextParams, { replace: true });
+      }
+    }
+  }, [subjects, filters.semester, filters.subject, searchParams, setSearchParams]);
+
+  // Compute available examination years from catalog matching active semester & subject
   const availableYears = useMemo(() => {
-    const yearsSet = new Set(catalog.map(p => p.year));
+    let pool = catalog;
+    if (filters.semester !== 'ALL') {
+      const semNum = parseInt(filters.semester, 10);
+      pool = pool.filter(p => p.semester === semNum);
+    }
+    if (filters.subject !== 'ALL') {
+      pool = pool.filter(p => p.subject_code === filters.subject);
+    }
+    const yearsSet = new Set(pool.map(p => p.year));
     return Array.from(yearsSet).sort((a, b) => parseInt(b, 10) - parseInt(a, 10));
-  }, [catalog]);
+  }, [catalog, filters.semester, filters.subject]);
 
   // Apply filtering and sorting to underlying dataset
   const filteredPapers = useMemo(() => {

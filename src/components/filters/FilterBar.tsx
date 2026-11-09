@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { Filter, RotateCcw, Sparkles } from 'lucide-react';
 import type { FilterState, SortMode, SubjectItem } from '../../types/paper';
 import { ActiveFilterChips } from './ActiveFilterChips';
@@ -23,6 +23,32 @@ export const FilterBar: React.FC<FilterBarProps> = ({
   onFilterChange,
   onResetFilters
 }) => {
+  // Only show subjects belonging to the currently selected semester
+  const availableSubjects = useMemo(() => {
+    if (filters.semester === 'ALL') {
+      return subjects;
+    }
+    const semNum = parseInt(filters.semester, 10);
+    return subjects.filter(s => s.semesters.includes(semNum));
+  }, [subjects, filters.semester]);
+
+  const handleSemesterChange = (newSem: string) => {
+    const changes: Partial<FilterState> = { semester: newSem };
+
+    // If a subject was selected, verify it belongs to the newly chosen semester; otherwise reset to ALL
+    if (newSem !== 'ALL' && filters.subject !== 'ALL') {
+      const semNum = parseInt(newSem, 10);
+      const isSubjValid = subjects.some(
+        s => s.code === filters.subject && s.semesters.includes(semNum)
+      );
+      if (!isSubjValid) {
+        changes.subject = 'ALL';
+      }
+    }
+
+    onFilterChange(changes);
+  };
+
   return (
     <div className="space-y-4 bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 sm:p-5 shadow-xs">
       {/* Top Controls Row */}
@@ -42,7 +68,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
           />
           <button
             onClick={onResetFilters}
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold text-slate-500 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition border border-slate-200 dark:border-slate-800"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold text-slate-500 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition border border-slate-200 dark:border-slate-800 cursor-pointer"
             title="Reset all filters"
           >
             <RotateCcw className="w-3.5 h-3.5" />
@@ -60,8 +86,8 @@ export const FilterBar: React.FC<FilterBarProps> = ({
           </label>
           <select
             value={filters.semester}
-            onChange={e => onFilterChange({ semester: e.target.value })}
-            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500"
+            onChange={e => handleSemesterChange(e.target.value)}
+            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 cursor-pointer"
           >
             <option value="ALL">All Semesters (1–4)</option>
             <option value="1">Semester 1</option>
@@ -71,18 +97,22 @@ export const FilterBar: React.FC<FilterBarProps> = ({
           </select>
         </div>
 
-        {/* Subject Filter */}
+        {/* Subject Filter - Dynamically filtered to only show subjects of the selected semester */}
         <div>
           <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
-            Subject ({subjects.length})
+            Subject ({availableSubjects.length})
           </label>
           <select
             value={filters.subject}
             onChange={e => onFilterChange({ subject: e.target.value })}
-            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 truncate"
+            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 truncate cursor-pointer"
           >
-            <option value="ALL">All Subjects ({subjects.length})</option>
-            {subjects.map(s => (
+            <option value="ALL">
+              {filters.semester === 'ALL'
+                ? `All Subjects (${subjects.length})`
+                : `All Sem ${filters.semester} Subjects (${availableSubjects.length})`}
+            </option>
+            {availableSubjects.map(s => (
               <option key={s.code} value={s.code}>
                 {s.name} ({s.paperCount}p)
               </option>
