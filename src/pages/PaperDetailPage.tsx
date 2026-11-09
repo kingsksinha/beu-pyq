@@ -191,7 +191,7 @@ export const PaperDetailPage: React.FC = () => {
 
         {/* Paper Instructions */}
         {paper.instructions && paper.instructions.length > 0 && (
-          <div className="bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 sm:p-6 shadow-xs space-y-2">
+          <div className="paper-instructions-card bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 sm:p-6 shadow-xs space-y-2">
             <h4 className="text-xs font-bold uppercase tracking-wider text-slate-400 dark:text-slate-300 flex items-center gap-1.5">
               <HelpCircle className="w-3.5 h-3.5 text-indigo-500 dark:text-indigo-400" />
               <span>Official Examination Instructions</span>

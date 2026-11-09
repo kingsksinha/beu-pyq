@@ -8,7 +8,7 @@ interface PaperHeaderProps {
 
 export const PaperHeader: React.FC<PaperHeaderProps> = ({ paper }) => {
   return (
-    <div className="bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 sm:p-8 text-center shadow-xs">
+    <div className="paper-header-card bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 sm:p-8 text-center shadow-xs">
       <div className="text-xs uppercase tracking-widest font-bold text-indigo-600 dark:text-indigo-400">
         Bihar Engineering University, Patna
       </div>

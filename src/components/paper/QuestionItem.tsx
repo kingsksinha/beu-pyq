@@ -96,10 +96,11 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
   const [isDescriptiveAttempted, setIsDescriptiveAttempted] = useState(false);
 
   const subLabel = (sub.subNumber || String.fromCharCode(97 + subIndex)).trim();
-  // Strip duplicate leading (a), a), etc. if sub.text begins with the sub question letter
   const escapedLabel = subLabel.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
+  // ONLY strip if explicitly formatted as a subquestion prefix like "(a) ", "a) ", or "a. "
+  // NEVER strip bare letters from real words like "Critical" or "Calculate"
   const cleanSubText = (sub.text || '').replace(
-    new RegExp(`^\\(?\\s*${escapedLabel}\\s*\\)?[.:-]*\\s*`, 'i'),
+    new RegExp(`^(?:\\(\\s*${escapedLabel}\\s*\\)|${escapedLabel}\\)|${escapedLabel}\\.)\\s+`, 'i'),
     ''
   ).trim();
 
@@ -139,12 +140,12 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
       <div className="flex items-start justify-between gap-3">
         {/* Left: sub question number e.g. (a), (b) */}
         <div className="flex items-start gap-2.5 flex-1">
-          <span className="font-bold text-xs sm:text-sm text-indigo-600 dark:text-indigo-400 font-mono mt-0.5 shrink-0">
+          <span className="font-bold text-xs sm:text-sm text-indigo-600 dark:text-indigo-400 font-mono mt-0.5 shrink-0 print:text-black">
             ({subLabel})
           </span>
 
           <div className="flex-1 space-y-2">
-            <MathText text={cleanSubText || sub.text} className="text-sm sm:text-[15px] text-slate-800 dark:text-slate-100" />
+            <MathText text={cleanSubText || sub.text} className="text-sm sm:text-[15px] text-slate-800 dark:text-slate-100 print:text-black" />
 
             {/* Images/Diagrams if any */}
             {sub.images && sub.images.length > 0 && (
@@ -156,7 +157,7 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
 
             {/* MCQs Option List */}
             {sub.options && sub.options.length > 0 && (
-              <div className="mt-3 space-y-1.5 pl-2 sm:pl-4">
+              <div className="mt-3 space-y-1.5 pl-2 sm:pl-4 print:mt-1 print:space-y-0.5 print:pl-1">
                 {sub.options.map((opt, optIdx) => {
                   const letter = String.fromCharCode(97 + optIdx);
                   const isSelected = selectedOption === optIdx;
@@ -165,20 +166,23 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
                       key={optIdx}
                       type="button"
                       onClick={() => setSelectedOption(optIdx)}
-                      className={`mcq-option w-full text-left flex items-start gap-2.5 p-2.5 rounded-xl text-xs sm:text-sm border transition ${
+                      className={`mcq-option w-full text-left flex items-start gap-2.5 p-2.5 rounded-xl text-xs sm:text-sm border transition print:border-none print:p-0 print:gap-1.5 print:rounded-none print:bg-transparent ${
                         isSelected
                           ? 'bg-indigo-50/70 dark:bg-indigo-950/40 border-indigo-500 dark:border-indigo-400 text-slate-900 dark:text-white font-semibold'
                           : 'bg-slate-50 dark:bg-slate-800/50 border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 text-slate-700 dark:text-slate-300'
                       }`}
                     >
-                      <span className={`w-5 h-5 rounded-md flex items-center justify-center font-mono text-xs shrink-0 ${
+                      <span className={`print:hidden w-5 h-5 rounded-md flex items-center justify-center font-mono text-xs shrink-0 ${
                         isSelected
                           ? 'bg-indigo-600 text-white font-bold'
                           : 'bg-slate-200 dark:bg-slate-700 text-slate-600 dark:text-slate-300'
                       }`}>
                         {letter}
                       </span>
-                      <MathText text={opt} inline className="flex-1" />
+                      <span className="hidden print:inline-block font-mono font-bold text-xs text-black shrink-0">
+                        ({letter})
+                      </span>
+                      <MathText text={opt} inline className="flex-1 print:text-black" />
                     </button>
                   );
                 })}

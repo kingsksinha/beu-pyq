@@ -123,17 +123,17 @@
     text-shadow: none !important;
   }
 
+  /* Question card containers in print */
   .question-block,
-  #printable-paper .bg-white,
-  #printable-paper .dark\:bg-zinc-900,
-  #printable-paper .dark\:bg-slate-900,
-  #printable-paper .dark\:bg-slate-800 {
+  .paper-header-card,
+  .paper-instructions-card {
     break-inside: auto !important;
     page-break-inside: auto !important;
     border: 1px solid #cbd5e1 !important;
     border-radius: 8px !important;
     margin-bottom: 12px !important;
     padding: 10px 14px !important;
+    background: #ffffff !important;
   }
 
   .subquestion-row {
@@ -141,22 +141,33 @@
     page-break-inside: avoid !important;
   }
 
-  /* MCQ options printed cleanly as examination options */
-  .mcq-option {
+  /* MCQ options printed completely clean without button or span borders */
+  .mcq-option,
+  button.mcq-option {
     display: flex !important;
+    align-items: baseline !important;
     background: transparent !important;
     border: none !important;
-    padding: 2px 0 !important;
+    border-radius: 0 !important;
     box-shadow: none !important;
+    padding: 1px 0 !important;
+    margin: 1px 0 !important;
+    width: 100% !important;
   }
 
-  .mcq-option span {
-    border: 1px solid #a1a1aa !important;
+  .mcq-option *,
+  button.mcq-option * {
+    border: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+  }
+
+  /* Protect KaTeX from having any borders, boxes or vertical lines */
+  .katex,
+  .katex * {
+    border: none !important;
+    box-shadow: none !important;
     background: transparent !important;
-    color: #000000 !important;
-  }
-
-  .katex {
     color: #000000 !important;
   }
 
