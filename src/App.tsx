@@ -1,5 +1,6 @@
 import React from 'react';
 import { HashRouter, Navigate, Route, Routes } from 'react-router-dom';
+import { Analytics } from '@vercel/analytics/react';
 import { AppLayout } from './components/layout/AppLayout';
 import { ThemeProvider } from './context/ThemeContext';
 import { BookmarksPage } from './pages/BookmarksPage';
@@ -31,6 +32,7 @@ export const App: React.FC = () => {
           </Route>
         </Routes>
       </HashRouter>
+      <Analytics />
     </ThemeProvider>
   );
 };
