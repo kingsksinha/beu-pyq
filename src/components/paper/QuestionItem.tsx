@@ -25,14 +25,21 @@ export const QuestionItem: React.FC<QuestionItemProps> = ({
   paperInfo,
   highlightSubQuestionId
 }) => {
+  // Strip duplicate Q.X or Question X prefix if question.title already includes it
+  const cleanTitle = (question.title || '').replace(/^(?:Q|Question)\.?\s*\d+[\s.:-]*/i, '').trim();
+
   return (
-    <div className="bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-2xl p-5 sm:p-7 shadow-xs space-y-4">
+    <div className="question-block bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-2xl p-5 sm:p-7 shadow-xs space-y-4">
       {/* Question Title & Marks */}
       <div className="flex items-start justify-between gap-4 pb-3 border-b border-zinc-100 dark:border-zinc-800/80">
         <div className="flex-1">
-          <h3 className="font-bold text-sm sm:text-base text-zinc-900 dark:text-zinc-100 flex items-center gap-2">
-            <span className="text-zinc-500 font-mono">Q.{question.number}</span>
-            <MathText text={question.title} inline />
+          <h3 className="font-bold text-sm sm:text-base text-zinc-900 dark:text-zinc-100 flex items-start gap-2">
+            <span className="text-zinc-500 font-mono shrink-0">Q.{question.number}.</span>
+            {cleanTitle ? (
+              <MathText text={cleanTitle} inline />
+            ) : (
+              <MathText text={question.title} inline />
+            )}
           </h3>
         </div>
         {question.marks && (
@@ -88,6 +95,14 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [isDescriptiveAttempted, setIsDescriptiveAttempted] = useState(false);
 
+  const subLabel = (sub.subNumber || String.fromCharCode(97 + subIndex)).trim();
+  // Strip duplicate leading (a), a), etc. if sub.text begins with the sub question letter
+  const escapedLabel = subLabel.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
+  const cleanSubText = (sub.text || '').replace(
+    new RegExp(`^\\(?\\s*${escapedLabel}\\s*\\)?[.:-]*\\s*`, 'i'),
+    ''
+  ).trim();
+
   const hasOptions = !!(sub.options && sub.options.length > 0);
   const isAttempted = hasOptions ? selectedOption !== null : isDescriptiveAttempted;
 
@@ -115,7 +130,7 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
   return (
     <div
       id={sub.id}
-      className={`pt-3 first:pt-0 transition-all rounded-xl ${
+      className={`subquestion-row pt-3 first:pt-0 transition-all rounded-xl ${
         isHighlighted
           ? 'ring-2 ring-zinc-500 bg-zinc-100 dark:bg-zinc-800/60 p-3'
           : ''
@@ -124,12 +139,12 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
       <div className="flex items-start justify-between gap-3">
         {/* Left: sub question number e.g. (a), (b) */}
         <div className="flex items-start gap-2.5 flex-1">
-          <span className="font-bold text-xs sm:text-sm text-zinc-400 font-mono mt-0.5">
-            ({sub.subNumber || String.fromCharCode(97 + subIndex)})
+          <span className="font-bold text-xs sm:text-sm text-zinc-400 font-mono mt-0.5 shrink-0">
+            ({subLabel})
           </span>
 
           <div className="flex-1 space-y-2">
-            <MathText text={sub.text} className="text-sm sm:text-[15px]" />
+            <MathText text={cleanSubText || sub.text} className="text-sm sm:text-[15px]" />
 
             {/* Images/Diagrams if any */}
             {sub.images && sub.images.length > 0 && (
@@ -150,7 +165,7 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
                       key={optIdx}
                       type="button"
                       onClick={() => setSelectedOption(optIdx)}
-                      className={`w-full text-left flex items-start gap-2.5 p-2.5 rounded-xl text-xs sm:text-sm border transition ${
+                      className={`mcq-option w-full text-left flex items-start gap-2.5 p-2.5 rounded-xl text-xs sm:text-sm border transition ${
                         isSelected
                           ? 'bg-zinc-100 dark:bg-zinc-800 border-zinc-500 dark:border-zinc-400 text-zinc-900 dark:text-zinc-100 font-semibold'
                           : 'bg-zinc-50 dark:bg-zinc-850 border-zinc-200 dark:border-zinc-800 hover:border-zinc-300 dark:hover:border-zinc-700 text-zinc-700 dark:text-zinc-300'
@@ -181,8 +196,8 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
           </div>
         </div>
 
-        {/* Right: Star frequency & Quick Action icons */}
-        <div className="flex items-center gap-1.5 shrink-0">
+        {/* Right: Star frequency & Quick Action icons (Hidden in Print) */}
+        <div className="flex items-center gap-1.5 shrink-0 print:hidden">
           {sub.freq > 1 && (
             <StarFrequency freq={sub.freq} stars={sub.stars} size="sm" />
           )}

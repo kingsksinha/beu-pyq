@@ -65,54 +65,95 @@
 /* Dedicated A4 Portrait Print Stylesheet */
 @page {
   size: A4 portrait;
-  margin: 12mm 14mm 16mm 14mm;
+  margin: 0;
 }
 
 @media print {
+  /* Suppress UI elements and browser header margins */
   header,
   aside,
   nav,
   .print\:hidden,
-  button,
   .no-print {
     display: none !important;
   }
 
-  html, body, #root {
+  html, body {
     background: #ffffff !important;
     color: #000000 !important;
-    font-size: 11pt !important;
+    font-size: 10pt !important;
     line-height: 1.4 !important;
     margin: 0 !important;
     padding: 0 !important;
     width: 100% !important;
+    min-width: 100% !important;
+  }
+
+  #root, .min-h-screen {
+    background: #ffffff !important;
+    color: #000000 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    min-height: auto !important;
+    display: block !important;
   }
 
   main {
     max-width: 100% !important;
     padding: 0 !important;
     margin: 0 !important;
+    width: 100% !important;
+    display: block !important;
   }
 
-  #printable-paper,
+  #printable-paper {
+    padding: 10mm 14mm 14mm 14mm !important;
+    margin: 0 auto !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+
   #printable-paper * {
     background: transparent !important;
     color: #000000 !important;
     box-shadow: none !important;
     text-shadow: none !important;
-    border-color: #cbd5e1 !important;
   }
 
   .question-block,
-  .bg-white,
-  .dark\:bg-zinc-900,
-  .dark\:bg-slate-900,
-  .dark\:bg-slate-800 {
+  #printable-paper .bg-white,
+  #printable-paper .dark\:bg-zinc-900,
+  #printable-paper .dark\:bg-slate-900,
+  #printable-paper .dark\:bg-slate-800 {
     break-inside: auto !important;
     page-break-inside: auto !important;
     border: 1px solid #cbd5e1 !important;
+    border-radius: 8px !important;
     margin-bottom: 12px !important;
     padding: 10px 14px !important;
+  }
+
+  .subquestion-row {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  /* MCQ options printed cleanly as examination options */
+  .mcq-option {
+    display: flex !important;
+    background: transparent !important;
+    border: none !important;
+    padding: 2px 0 !important;
+    box-shadow: none !important;
+  }
+
+  .mcq-option span {
+    border: 1px solid #a1a1aa !important;
+    background: transparent !important;
+    color: #000000 !important;
   }
 
   .katex {
@@ -123,12 +164,14 @@
   .print-fbi-footer {
     display: block !important;
     border-top: 1.5px solid #000000 !important;
-    margin-top: 25px !important;
+    margin-top: 20px !important;
     padding-top: 8px !important;
     text-align: center !important;
-    font-size: 9pt !important;
+    font-size: 8.5pt !important;
     font-weight: 700 !important;
     color: #000000 !important;
     letter-spacing: 0.05em !important;
+    break-inside: avoid !important;
   }
 }
+

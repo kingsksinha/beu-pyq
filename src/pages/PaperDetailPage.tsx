@@ -86,7 +86,16 @@ export const PaperDetailPage: React.FC = () => {
   };
 
   const handlePrint = () => {
-    window.print();
+    if (paper) {
+      const origTitle = document.title;
+      document.title = `${paper.subject_name}_${paper.year}_BEU_PYQ`;
+      window.print();
+      setTimeout(() => {
+        document.title = origTitle;
+      }, 1500);
+    } else {
+      window.print();
+    }
   };
 
   if (loading) {
