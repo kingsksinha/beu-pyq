@@ -71,8 +71,8 @@ export const PapersExplorerPage: React.FC = () => {
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center py-24 text-zinc-400">
-        <div className="w-8 h-8 border-2 border-zinc-400 border-t-transparent rounded-full animate-spin" />
+      <div className="flex items-center justify-center py-24 text-slate-400">
+        <div className="w-8 h-8 border-2 border-indigo-500 border-t-transparent rounded-full animate-spin" />
       </div>
     );
   }
@@ -81,14 +81,14 @@ export const PapersExplorerPage: React.FC = () => {
     <div className="space-y-6">
       {/* Header */}
       <div>
-        <div className="flex items-center gap-2 text-zinc-500 dark:text-zinc-400 text-xs font-semibold uppercase tracking-wider">
-          <Compass className="w-4 h-4 text-zinc-700 dark:text-zinc-300" />
+        <div className="flex items-center gap-2 text-indigo-600 dark:text-indigo-400 text-xs font-bold uppercase tracking-wider">
+          <Compass className="w-4 h-4" />
           <span>Complete Repository Archive</span>
         </div>
-        <h1 className="text-2xl sm:text-3xl font-extrabold text-zinc-900 dark:text-white mt-1">
+        <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white mt-1">
           All Question Papers
         </h1>
-        <p className="text-xs sm:text-sm text-zinc-500 dark:text-zinc-400 mt-1">
+        <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
           Filter and sort across all 363 semester exam papers from Bihar Engineering University
         </p>
       </div>
@@ -113,19 +113,19 @@ export const PapersExplorerPage: React.FC = () => {
         </div>
       ) : (
         /* Empty State */
-        <div className="py-16 text-center bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-2xl p-8 space-y-4 shadow-xs">
-          <FileQuestion className="w-12 h-12 mx-auto text-zinc-300 dark:text-zinc-600" />
+        <div className="py-16 text-center bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-8 space-y-4 shadow-xs">
+          <FileQuestion className="w-12 h-12 mx-auto text-slate-300 dark:text-slate-600" />
           <div>
-            <h3 className="text-base font-bold text-zinc-900 dark:text-white">
+            <h3 className="text-base font-bold text-slate-900 dark:text-white">
               No Question Papers Matched Your Filters
             </h3>
-            <p className="text-xs text-zinc-500 dark:text-zinc-400 max-w-md mx-auto mt-1">
+            <p className="text-xs text-slate-500 dark:text-slate-400 max-w-md mx-auto mt-1">
               Try relaxing your filter criteria or search for a broader subject title or examination code.
             </p>
           </div>
           <button
             onClick={handleResetFilters}
-            className="px-4 py-2 text-xs font-semibold rounded-xl bg-zinc-900 hover:bg-zinc-800 text-white dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-zinc-200 transition shadow-xs"
+            className="px-4 py-2 text-xs font-bold rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white transition shadow-md shadow-indigo-500/20"
           >
             Clear All Active Filters
           </button>

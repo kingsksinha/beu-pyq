@@ -24,25 +24,25 @@ export const FilterBar: React.FC<FilterBarProps> = ({
   onResetFilters
 }) => {
   return (
-    <div className="space-y-4 bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-2xl p-4 sm:p-5 shadow-xs">
+    <div className="space-y-4 bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 sm:p-5 shadow-xs">
       {/* Top Controls Row */}
       <div className="flex flex-wrap items-center justify-between gap-3">
         <div className="flex items-center gap-2">
-          <Filter className="w-4 h-4 text-zinc-700 dark:text-zinc-300" />
-          <h2 className="font-semibold text-sm text-zinc-900 dark:text-white">Filter & Sort Papers</h2>
-          <span className="text-xs text-zinc-400 font-medium">
+          <Filter className="w-4 h-4 text-slate-700 dark:text-slate-300" />
+          <h2 className="font-bold text-sm text-slate-900 dark:text-white">Filter & Sort Papers</h2>
+          <span className="text-xs text-slate-500 dark:text-slate-400 font-medium">
             (Showing {totalMatches} of {totalPapers})
           </span>
         </div>
 
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2.5 sm:gap-3">
           <SortDropdown
             currentSort={filters.sort}
             onSortChange={(sort: SortMode) => onFilterChange({ sort })}
           />
           <button
             onClick={onResetFilters}
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold text-zinc-500 hover:text-zinc-800 dark:hover:text-zinc-200 hover:bg-zinc-100 dark:hover:bg-zinc-800 transition border border-zinc-200 dark:border-zinc-800"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold text-slate-500 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition border border-slate-200 dark:border-slate-800"
             title="Reset all filters"
           >
             <RotateCcw className="w-3.5 h-3.5" />
@@ -52,16 +52,16 @@ export const FilterBar: React.FC<FilterBarProps> = ({
       </div>
 
       {/* Select Controls Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2.5 sm:gap-3">
         {/* Semester Filter */}
         <div>
-          <label className="block text-[11px] font-semibold uppercase tracking-wider text-zinc-400 mb-1">
+          <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
             Semester
           </label>
           <select
             value={filters.semester}
             onChange={e => onFilterChange({ semester: e.target.value })}
-            className="w-full text-xs font-medium bg-zinc-50 dark:bg-slate-800 border border-zinc-200 dark:border-zinc-800 rounded-xl px-3 py-2 text-zinc-800 dark:text-zinc-200 focus:outline-none focus:border-zinc-500"
+            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500"
           >
             <option value="ALL">All Semesters (1–4)</option>
             <option value="1">Semester 1</option>
@@ -73,13 +73,13 @@ export const FilterBar: React.FC<FilterBarProps> = ({
 
         {/* Subject Filter */}
         <div>
-          <label className="block text-[11px] font-semibold uppercase tracking-wider text-zinc-400 mb-1">
+          <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
             Subject ({subjects.length})
           </label>
           <select
             value={filters.subject}
             onChange={e => onFilterChange({ subject: e.target.value })}
-            className="w-full text-xs font-medium bg-zinc-50 dark:bg-slate-800 border border-zinc-200 dark:border-zinc-800 rounded-xl px-3 py-2 text-zinc-800 dark:text-zinc-200 focus:outline-none focus:border-zinc-500 truncate"
+            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 truncate"
           >
             <option value="ALL">All Subjects ({subjects.length})</option>
             {subjects.map(s => (
@@ -92,13 +92,13 @@ export const FilterBar: React.FC<FilterBarProps> = ({
 
         {/* Examination Year Filter */}
         <div>
-          <label className="block text-[11px] font-semibold uppercase tracking-wider text-zinc-400 mb-1">
+          <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
             Exam Year
           </label>
           <select
             value={filters.year}
             onChange={e => onFilterChange({ year: e.target.value })}
-            className="w-full text-xs font-medium bg-zinc-50 dark:bg-slate-800 border border-zinc-200 dark:border-zinc-800 rounded-xl px-3 py-2 text-zinc-800 dark:text-zinc-200 focus:outline-none focus:border-zinc-500"
+            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500"
           >
             <option value="ALL">All Years (2012–2025)</option>
             {availableYears.map(yr => (
@@ -111,7 +111,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
 
         {/* Exam Code Input Filter */}
         <div>
-          <label className="block text-[11px] font-semibold uppercase tracking-wider text-zinc-400 mb-1">
+          <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
             Exam Code
           </label>
           <input
@@ -119,34 +119,34 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             value={filters.examCode}
             onChange={e => onFilterChange({ examCode: e.target.value })}
             placeholder="E.g. 100201 or ESC..."
-            className="w-full text-xs font-medium bg-zinc-50 dark:bg-slate-800 border border-zinc-200 dark:border-zinc-800 rounded-xl px-3 py-2 text-zinc-800 dark:text-zinc-200 focus:outline-none focus:border-zinc-500"
+            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500"
           />
         </div>
       </div>
 
       {/* Feature Toggles Row */}
-      <div className="flex flex-wrap items-center gap-2 pt-1 border-t border-zinc-100 dark:border-zinc-800/80">
-        <label className="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-slate-800/60 text-xs font-medium cursor-pointer hover:border-zinc-300 dark:hover:border-zinc-700 select-none">
+      <div className="flex flex-wrap items-center gap-2 pt-2 border-t border-slate-100 dark:border-slate-800">
+        <label className="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-800/60 text-xs font-medium cursor-pointer hover:border-slate-300 dark:hover:border-slate-700 select-none">
           <input
             type="checkbox"
             checked={!!filters.highFreqOnly}
             onChange={e => onFilterChange({ highFreqOnly: e.target.checked })}
-            className="rounded border-zinc-300 text-amber-500 focus:ring-amber-500"
+            className="rounded border-slate-300 text-amber-500 focus:ring-amber-500"
           />
-          <span className="flex items-center gap-1.5 text-amber-600 dark:text-amber-400 font-medium">
+          <span className="flex items-center gap-1.5 text-amber-600 dark:text-amber-400 font-semibold">
             <Sparkles className="w-3.5 h-3.5" />
             <span>High-Yield / Repeated Only (≥3★)</span>
           </span>
         </label>
 
-        <label className="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-slate-800/60 text-xs font-medium cursor-pointer hover:border-zinc-300 dark:hover:border-zinc-700 select-none">
+        <label className="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-800/60 text-xs font-medium cursor-pointer hover:border-slate-300 dark:hover:border-slate-700 select-none">
           <input
             type="checkbox"
             checked={!!filters.hasMcqOnly}
             onChange={e => onFilterChange({ hasMcqOnly: e.target.checked })}
-            className="rounded border-zinc-300 text-zinc-800 focus:ring-zinc-800 dark:text-zinc-200"
+            className="rounded border-slate-300 text-indigo-600 focus:ring-indigo-600 dark:text-indigo-400"
           />
-          <span className="text-zinc-700 dark:text-zinc-300 font-medium">
+          <span className="text-slate-700 dark:text-slate-300 font-semibold">
             Contains MCQs
           </span>
         </label>

@@ -10,11 +10,11 @@ interface SortDropdownProps {
 export const SortDropdown: React.FC<SortDropdownProps> = ({ currentSort, onSortChange }) => {
   return (
     <div className="flex items-center gap-2">
-      <ArrowDownUp className="w-3.5 h-3.5 text-zinc-400 shrink-0" />
+      <ArrowDownUp className="w-3.5 h-3.5 text-slate-400 shrink-0" />
       <select
         value={currentSort}
         onChange={e => onSortChange(e.target.value as SortMode)}
-        className="text-xs font-medium bg-zinc-100 dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-xl px-3 py-1.5 text-zinc-800 dark:text-zinc-200 focus:outline-none focus:border-zinc-500 cursor-pointer transition"
+        className="text-xs font-semibold bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-1.5 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 cursor-pointer transition shadow-2xs"
       >
         <option value="newest">Newest Exam Year (2025 → 2012)</option>
         <option value="oldest">Oldest Exam Year (2012 → 2025)</option>

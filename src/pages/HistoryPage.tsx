@@ -65,10 +65,10 @@ export const HistoryPage: React.FC = () => {
             <Clock className="w-4 h-4" />
             <span>Activity & Score Tracking</span>
           </div>
-          <h1 className="text-2xl sm:text-3xl font-extrabold text-zinc-900 dark:text-zinc-100 mt-1">
+          <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white mt-1">
             History & Practice Scorecards
           </h1>
-          <p className="text-xs sm:text-sm text-zinc-500 dark:text-zinc-400 mt-1">
+          <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
             Track your recently accessed papers and review your past exam practice scores.
           </p>
         </div>
@@ -76,7 +76,7 @@ export const HistoryPage: React.FC = () => {
         {((activeTab === 'papers' && history.length > 0) || (activeTab === 'scores' && scores.length > 0)) && (
           <button
             onClick={handleClearHistory}
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold text-rose-500 hover:text-rose-600 hover:bg-rose-500/10 border border-rose-500/20 transition cursor-pointer"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold text-rose-500 hover:text-rose-600 hover:bg-rose-500/10 border border-rose-500/20 transition cursor-pointer"
           >
             <Trash2 className="w-3.5 h-3.5" />
             <span>Clear {activeTab === 'papers' ? 'History' : 'Scores'}</span>
@@ -85,13 +85,13 @@ export const HistoryPage: React.FC = () => {
       </div>
 
       {/* Tabs */}
-      <div className="flex items-center gap-2 border-b border-zinc-200 dark:border-zinc-800 pb-2">
+      <div className="flex items-center gap-2 border-b border-slate-200 dark:border-slate-800 pb-2">
         <button
           onClick={() => setActiveTab('papers')}
           className={`flex items-center gap-2 px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition cursor-pointer ${
             activeTab === 'papers'
-              ? 'bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900 shadow-xs'
-              : 'text-zinc-600 dark:text-zinc-400 hover:bg-zinc-100 dark:hover:bg-zinc-800'
+              ? 'bg-indigo-600 text-white shadow-md shadow-indigo-500/20'
+              : 'text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'
           }`}
         >
           <Clock className="w-4 h-4" />
@@ -102,8 +102,8 @@ export const HistoryPage: React.FC = () => {
           onClick={() => setActiveTab('scores')}
           className={`flex items-center gap-2 px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition cursor-pointer ${
             activeTab === 'scores'
-              ? 'bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900 shadow-xs'
-              : 'text-zinc-600 dark:text-zinc-400 hover:bg-zinc-100 dark:hover:bg-zinc-800'
+              ? 'bg-indigo-600 text-white shadow-md shadow-indigo-500/20'
+              : 'text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'
           }`}
         >
           <Trophy className="w-4 h-4 text-amber-500" />
@@ -119,11 +119,11 @@ export const HistoryPage: React.FC = () => {
               {history.map(item => (
                 <div
                   key={item.paperId}
-                  className="p-4 sm:p-5 rounded-2xl bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 flex items-center justify-between gap-4 shadow-xs hover:border-zinc-400 dark:hover:border-zinc-700 transition"
+                  className="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 flex items-center justify-between gap-4 shadow-xs hover:border-indigo-400 dark:hover:border-indigo-500 transition hover:shadow-md"
                 >
                   <div className="min-w-0">
-                    <div className="flex items-center gap-2 text-xs text-zinc-400 font-mono mb-1">
-                      <span className="px-2 py-0.5 rounded bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 font-semibold border border-zinc-200 dark:border-zinc-700">
+                    <div className="flex items-center gap-2 text-xs text-slate-400 font-mono mb-1">
+                      <span className="px-2 py-0.5 rounded-md bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 font-bold border border-indigo-200 dark:border-indigo-800/80">
                         Sem {item.semester} · {item.year}
                       </span>
                       <span>Code: {item.exam_code}</span>
@@ -132,7 +132,7 @@ export const HistoryPage: React.FC = () => {
                     </div>
 
                     <Link to={`/paper/${item.paperId}`}>
-                      <h3 className="font-bold text-sm sm:text-base text-zinc-900 dark:text-zinc-100 hover:text-zinc-600 dark:hover:text-zinc-300 transition truncate">
+                      <h3 className="font-bold text-sm sm:text-base text-slate-900 dark:text-white hover:text-indigo-600 dark:hover:text-indigo-400 transition truncate">
                         {item.subject_name}
                       </h3>
                     </Link>
@@ -141,14 +141,14 @@ export const HistoryPage: React.FC = () => {
                   <div className="flex items-center gap-2 shrink-0">
                     <Link
                       to={`/practice/${item.paperId}`}
-                      className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-zinc-100 dark:bg-zinc-800 hover:bg-zinc-200 dark:hover:bg-zinc-700 text-zinc-800 dark:text-zinc-200 transition"
+                      className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-200 border border-slate-200 dark:border-slate-700 transition"
                     >
                       <span>Practice</span>
                     </Link>
 
                     <Link
                       to={`/paper/${item.paperId}`}
-                      className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900 hover:opacity-90 transition"
+                      className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 text-white hover:bg-indigo-500 transition shadow-md shadow-indigo-500/20"
                     >
                       <span>View</span>
                       <ExternalLink className="w-3.5 h-3.5" />
@@ -158,16 +158,16 @@ export const HistoryPage: React.FC = () => {
               ))}
             </div>
           ) : (
-            <div className="py-16 text-center space-y-3 bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-2xl p-8">
-              <Clock className="w-10 h-10 mx-auto text-zinc-400 dark:text-zinc-600" />
-              <h3 className="font-bold text-zinc-800 dark:text-zinc-200">No Viewed Papers Yet</h3>
-              <p className="text-xs text-zinc-400 max-w-sm mx-auto">
+            <div className="py-16 text-center space-y-3 bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-8">
+              <Clock className="w-10 h-10 mx-auto text-slate-400 dark:text-slate-600" />
+              <h3 className="font-bold text-slate-800 dark:text-slate-200">No Viewed Papers Yet</h3>
+              <p className="text-xs text-slate-400 max-w-sm mx-auto">
                 Papers you inspect or practice will automatically appear here for easy resumption.
               </p>
               <div className="pt-2">
                 <Link
                   to="/papers"
-                  className="inline-block px-4 py-2 rounded-xl bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900 text-xs font-semibold"
+                  className="inline-block px-4 py-2 rounded-xl bg-indigo-600 text-white hover:bg-indigo-500 text-xs font-bold transition shadow-md shadow-indigo-500/20"
                 >
                   Browse Question Papers
                 </Link>
@@ -185,34 +185,34 @@ export const HistoryPage: React.FC = () => {
               {scores.map(sc => (
                 <div
                   key={sc.id}
-                  className="p-4 sm:p-5 rounded-2xl bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 shadow-xs hover:border-indigo-400 dark:hover:border-indigo-600 transition"
+                  className="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 shadow-xs hover:border-indigo-400 dark:hover:border-indigo-500 transition hover:shadow-md"
                 >
                   <div className="min-w-0 space-y-1">
-                    <div className="flex items-center gap-2 text-xs text-zinc-400 font-mono">
-                      <span className="px-2 py-0.5 rounded bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 font-semibold border border-zinc-200 dark:border-zinc-700">
+                    <div className="flex items-center gap-2 text-xs text-slate-400 font-mono">
+                      <span className="px-2 py-0.5 rounded-md bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 font-bold border border-indigo-200 dark:border-indigo-800/80">
                         Sem {sc.semester} · {sc.year}
                       </span>
                       <span>·</span>
                       <span>{formatTime(sc.timestamp)}</span>
                     </div>
 
-                    <h3 className="font-bold text-base text-zinc-900 dark:text-zinc-100 truncate">
+                    <h3 className="font-bold text-base text-slate-900 dark:text-white truncate">
                       {sc.subject_name}
                     </h3>
 
-                    <div className="flex items-center gap-3 text-xs text-zinc-500 dark:text-zinc-400 font-medium pt-0.5">
+                    <div className="flex items-center gap-3 text-xs text-slate-500 dark:text-slate-400 font-medium pt-0.5">
                       <span>{sc.attemptedCount} of {sc.totalItems} attempted</span>
                       <span>·</span>
                       <span>Accuracy: <strong>{sc.accuracy}%</strong></span>
                     </div>
                   </div>
 
-                  <div className="flex items-center gap-4 shrink-0 w-full sm:w-auto justify-between sm:justify-end border-t sm:border-t-0 pt-3 sm:pt-0 border-zinc-100 dark:border-zinc-800">
+                  <div className="flex items-center gap-4 shrink-0 w-full sm:w-auto justify-between sm:justify-end border-t sm:border-t-0 pt-3 sm:pt-0 border-slate-100 dark:border-slate-800">
                     <div className="text-right">
                       <div className="text-xl sm:text-2xl font-black font-mono text-emerald-600 dark:text-emerald-400">
-                        {sc.marksEarned} <span className="text-xs text-zinc-400 font-normal">/ {sc.possibleMarks} M</span>
+                        {sc.marksEarned} <span className="text-xs text-slate-400 font-normal">/ {sc.possibleMarks} M</span>
                       </div>
-                      <div className="text-[10px] font-bold uppercase tracking-wider text-zinc-400">
+                      <div className="text-[10px] font-bold uppercase tracking-wider text-slate-400">
                         {sc.percentage}% Score
                       </div>
                     </div>
@@ -229,16 +229,16 @@ export const HistoryPage: React.FC = () => {
               ))}
             </div>
           ) : (
-            <div className="py-16 text-center space-y-3 bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-2xl p-8">
+            <div className="py-16 text-center space-y-3 bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-8">
               <Trophy className="w-10 h-10 mx-auto text-amber-500/50" />
-              <h3 className="font-bold text-zinc-800 dark:text-zinc-200">No Practice Tests Completed Yet</h3>
-              <p className="text-xs text-zinc-400 max-w-sm mx-auto">
+              <h3 className="font-bold text-slate-800 dark:text-slate-200">No Practice Tests Completed Yet</h3>
+              <p className="text-xs text-slate-400 max-w-sm mx-auto">
                 Take an interactive practice test on any paper to generate and track your scorecards here.
               </p>
               <div className="pt-2">
                 <Link
                   to="/papers?sort=newest"
-                  className="inline-block px-4 py-2 rounded-xl bg-emerald-600 text-white hover:bg-emerald-500 text-xs font-semibold shadow-xs"
+                  className="inline-block px-4 py-2 rounded-xl bg-indigo-600 text-white hover:bg-indigo-500 text-xs font-bold transition shadow-md shadow-indigo-500/20"
                 >
                   Start a Practice Test
                 </Link>

@@ -45,7 +45,7 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
     <div className={`mt-4 rounded-2xl border transition overflow-hidden shadow-2xs ${
       unlocked
         ? 'border-indigo-200 dark:border-indigo-900/60 bg-indigo-50/40 dark:bg-slate-800/80'
-        : 'border-zinc-200 dark:border-zinc-800 bg-zinc-50/70 dark:bg-zinc-900/50'
+        : 'border-slate-200 dark:border-slate-800 bg-slate-50/70 dark:bg-slate-900/50'
     }`}>
       {/* Header / Toggle Button */}
       <button
@@ -56,7 +56,7 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
           <div className={`p-1.5 rounded-lg shrink-0 ${
             unlocked 
               ? 'bg-indigo-600 text-white' 
-              : 'bg-zinc-200 dark:bg-zinc-700 text-zinc-600 dark:text-zinc-300'
+              : 'bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-300'
           }`}>
             {unlocked ? <FileCheck2 className="w-4 h-4" /> : <Lock className="w-4 h-4" />}
           </div>
@@ -65,7 +65,7 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
               <span className={`text-xs sm:text-sm font-bold ${
                 unlocked 
                   ? 'text-indigo-950 dark:text-indigo-200' 
-                  : 'text-zinc-700 dark:text-zinc-300'
+                  : 'text-slate-700 dark:text-slate-300'
               }`}>
                 Official Model Answer & Marking Scheme
               </span>
@@ -105,16 +105,16 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
 
       {/* Locked Body Prompt (If user expands while locked) */}
       {!unlocked && isExpanded && (
-        <div className="px-4 sm:px-6 py-4 border-t border-zinc-200 dark:border-zinc-800 bg-white/80 dark:bg-zinc-900/80 space-y-3 animate-in fade-in duration-200">
+        <div className="px-4 sm:px-6 py-4 border-t border-slate-200 dark:border-slate-800 bg-white/80 dark:bg-slate-900/80 space-y-3 animate-in fade-in duration-200">
           <div className="flex items-start gap-3">
             <div className="p-2 rounded-xl bg-amber-500/10 text-amber-500 shrink-0">
               <Lock className="w-5 h-5" />
             </div>
             <div className="space-y-1">
-              <h4 className="text-xs font-bold text-zinc-900 dark:text-zinc-100">
+              <h4 className="text-xs font-bold text-slate-900 dark:text-slate-100">
                 Answer Key Locked During Practice
               </h4>
-              <p className="text-xs text-zinc-500 dark:text-zinc-400 leading-relaxed">
+              <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">
                 To maximize your exam recall, attempt this question first by choosing an MCQ option or marking it as practiced.
               </p>
             </div>

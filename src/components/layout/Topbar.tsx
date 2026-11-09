@@ -17,12 +17,12 @@ export const Topbar: React.FC<TopbarProps> = ({
   const { theme, toggleTheme } = useTheme();
 
   return (
-    <header className="h-16 sticky top-0 z-30 flex items-center justify-between px-4 sm:px-6 border-b border-slate-200 dark:border-slate-800/80 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md">
-      {/* Left: Mobile hamburger & Search bar */}
-      <div className="flex items-center gap-3 flex-1 max-w-xl">
+    <header className="h-16 sticky top-0 z-30 flex items-center justify-between px-3 sm:px-6 border-b border-slate-200 dark:border-slate-800/80 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md">
+      {/* Left: Mobile hamburger & Brand */}
+      <div className="flex items-center gap-2 sm:gap-3">
         <button
           onClick={onToggleMobileNav}
-          className="lg:hidden p-2 rounded-lg text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800"
+          className="lg:hidden p-2 rounded-xl text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 transition cursor-pointer"
           aria-label="Open Navigation Menu"
         >
           <Menu className="w-5 h-5" />
@@ -32,25 +32,37 @@ export const Topbar: React.FC<TopbarProps> = ({
         <div className="lg:hidden shrink-0">
           <AppLogo size="sm" showSubtitle={false} />
         </div>
+      </div>
 
-        {/* Global Search trigger bar (Linear style) */}
+      {/* Desktop Search trigger bar (Linear style) */}
+      <div className="hidden sm:flex flex-1 max-w-lg mx-4">
         <button
           onClick={onOpenSearch}
-          className="w-full flex items-center justify-between gap-2 px-3.5 py-2 text-xs text-slate-400 bg-slate-100 dark:bg-slate-800/80 hover:bg-slate-200/70 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-700/80 rounded-xl transition shadow-2xs text-left"
+          className="w-full flex items-center justify-between gap-2 px-3.5 py-2 text-xs text-slate-400 bg-slate-100 dark:bg-slate-800/80 hover:bg-slate-200/70 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-700/80 rounded-xl transition shadow-2xs text-left cursor-pointer"
         >
           <span className="flex items-center gap-2.5">
             <Search className="w-4 h-4 text-slate-400" />
             <span className="truncate text-slate-500 dark:text-slate-400">Search subjects, exam codes, question papers...</span>
           </span>
-          <kbd className="hidden sm:inline-flex items-center gap-0.5 px-2 py-0.5 text-[10px] font-mono text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-800 rounded border border-slate-200 dark:border-slate-700">
+          <kbd className="inline-flex items-center gap-0.5 px-2 py-0.5 text-[10px] font-mono text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-800 rounded border border-slate-200 dark:border-slate-700">
             <span>Ctrl</span><span>K</span>
           </kbd>
         </button>
       </div>
 
       {/* Right Controls */}
-      <div className="flex items-center gap-2 ml-4">
-        {/* FBi Creator Badge */}
+      <div className="flex items-center gap-1.5 sm:gap-2">
+        {/* Mobile Search Icon Button */}
+        <button
+          onClick={onOpenSearch}
+          className="sm:hidden p-2 rounded-xl text-slate-500 hover:text-slate-900 dark:hover:text-slate-100 hover:bg-slate-100 dark:hover:bg-slate-800 transition cursor-pointer"
+          aria-label="Open Search"
+          title="Search"
+        >
+          <Search className="w-5 h-5" />
+        </button>
+
+        {/* FBi Creator Badge (Desktop only) */}
         <div className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-extrabold bg-gradient-to-r from-indigo-500/10 via-purple-500/10 to-pink-500/10 text-indigo-600 dark:text-indigo-400 border border-indigo-500/20 shadow-2xs">
           <span>By FBi</span>
           <span className="text-rose-500 animate-pulse">❤️</span>

@@ -54,7 +54,7 @@ export const HomePage: React.FC = () => {
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center py-24 text-zinc-400">
+      <div className="flex items-center justify-center py-24 text-slate-400">
         <div className="w-8 h-8 border-2 border-indigo-500 border-t-transparent rounded-full animate-spin" />
       </div>
     );
@@ -72,76 +72,78 @@ export const HomePage: React.FC = () => {
       {/* =========================================================================
           HERO BANNER: Attractive, Modern Academic UI with Ambient Glow & FBi Credit
          ========================================================================= */}
-      <section className="relative overflow-hidden rounded-3xl bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 p-6 sm:p-10 lg:p-12 border border-slate-200/90 dark:border-slate-800 shadow-md">
+      <section className="relative overflow-hidden rounded-3xl bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 p-5 sm:p-8 lg:p-12 border border-slate-200/90 dark:border-slate-800 shadow-md">
         {/* Subtle Ambient Radial Backdrops */}
         <div className="absolute -top-24 -right-24 w-96 h-96 bg-gradient-to-br from-indigo-500/20 via-purple-500/20 to-pink-500/10 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute -bottom-24 -left-24 w-80 h-80 bg-gradient-to-tr from-indigo-500/15 via-transparent to-transparent rounded-full blur-2xl pointer-events-none" />
 
-        <div className="relative z-10 max-w-3xl space-y-5">
+        <div className="relative z-10 max-w-3xl space-y-4 sm:space-y-5">
           {/* FBi Platform Attribution Pill */}
-          <div className="inline-flex flex-wrap items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-bold bg-gradient-to-r from-indigo-500/10 via-purple-500/10 to-pink-500/10 text-indigo-700 dark:text-indigo-300 border border-indigo-500/30 shadow-2xs">
-            <Sparkles className="w-4 h-4 text-amber-500 shrink-0" />
-            <span>BEU Archive Platform • Engineered & Curated by FBi</span>
-            <span className="text-rose-500 animate-pulse">❤️</span>
+          <div className="inline-flex items-center gap-1.5 px-3 py-1 sm:px-3.5 sm:py-1.5 rounded-full text-[11px] sm:text-xs font-bold bg-gradient-to-r from-indigo-500/10 via-purple-500/10 to-pink-500/10 text-indigo-700 dark:text-indigo-300 border border-indigo-500/30 shadow-2xs max-w-full">
+            <Sparkles className="w-3.5 h-3.5 text-amber-500 shrink-0" />
+            <span className="truncate">BEU Archive Platform • Engineered & Curated by FBi</span>
+            <span className="text-rose-500 shrink-0 animate-pulse">❤️</span>
           </div>
 
           {/* Hero Headline with Modern Gradient Accent */}
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight text-slate-900 dark:text-white leading-[1.15]">
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight text-slate-900 dark:text-white leading-[1.18]">
             Bihar Engineering University <br className="hidden sm:inline" />
             <span className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
               Official PYQ & Practice Platform
             </span>
           </h1>
 
-          <p className="text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed max-w-2xl">
+          <p className="text-xs sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed max-w-2xl">
             Access <strong>363 verified semester examination papers</strong> across <strong>92 engineering branches</strong>. Featuring KaTeX vector math derivations, 6★ repetition frequency intelligence, interactive practice scoring, and official BEU model answer keys.
           </p>
 
           {/* Feature Micro-Badges */}
-          <div className="flex flex-wrap items-center gap-2 pt-1 text-xs font-semibold text-slate-700 dark:text-slate-300">
-            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
-              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" />
-              <span>363 Authentic Papers</span>
+          <div className="grid grid-cols-2 gap-2 sm:flex sm:flex-wrap items-center pt-1 text-xs font-semibold text-slate-700 dark:text-slate-300">
+            <span className="inline-flex items-center justify-center sm:justify-start gap-1.5 px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
+              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500 shrink-0" />
+              <span className="truncate">363 Authentic Papers</span>
             </span>
-            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
-              <Zap className="w-3.5 h-3.5 text-amber-500" />
-              <span>Randomized MCQs</span>
+            <span className="inline-flex items-center justify-center sm:justify-start gap-1.5 px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
+              <Zap className="w-3.5 h-3.5 text-amber-500 shrink-0" />
+              <span className="truncate">Randomized MCQs</span>
             </span>
-            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
-              <FileCheck className="w-3.5 h-3.5 text-indigo-500" />
-              <span>Unlockable Model Answers</span>
+            <span className="inline-flex items-center justify-center sm:justify-start gap-1.5 px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
+              <FileCheck className="w-3.5 h-3.5 text-indigo-500 shrink-0" />
+              <span className="truncate">Unlockable Answers</span>
             </span>
-            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
-              <Heart className="w-3.5 h-3.5 text-rose-500" />
-              <span>Crafted by FBi</span>
+            <span className="inline-flex items-center justify-center sm:justify-start gap-1.5 px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
+              <Heart className="w-3.5 h-3.5 text-rose-500 shrink-0" />
+              <span className="truncate">Crafted by FBi</span>
             </span>
           </div>
 
           {/* Action CTAs */}
-          <div className="flex flex-wrap items-center gap-3 pt-3">
+          <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-2.5 sm:gap-3 pt-2">
             <Link
               to="/papers"
-              className="inline-flex items-center gap-2 px-6 py-3 rounded-xl text-xs sm:text-sm font-bold bg-slate-900 text-white hover:bg-slate-800 dark:bg-indigo-600 dark:hover:bg-indigo-500 transition shadow-md shadow-indigo-500/20"
+              className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl text-xs sm:text-sm font-bold bg-slate-900 text-white hover:bg-slate-800 dark:bg-indigo-600 dark:hover:bg-indigo-500 transition shadow-md shadow-indigo-500/20"
             >
               <Compass className="w-4 h-4" />
               <span>Explore All Papers</span>
             </Link>
 
-            <Link
-              to="/subjects"
-              className="inline-flex items-center gap-2 px-5 py-3 rounded-xl text-xs sm:text-sm font-bold bg-slate-100 hover:bg-slate-200 text-slate-800 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-700 transition"
-            >
-              <Library className="w-4 h-4" />
-              <span>Browse 92 Subjects</span>
-            </Link>
+            <div className="grid grid-cols-2 gap-2 sm:flex sm:items-center sm:gap-3">
+              <Link
+                to="/subjects"
+                className="inline-flex items-center justify-center gap-1.5 px-4 py-3 rounded-xl text-xs sm:text-sm font-bold bg-slate-100 hover:bg-slate-200 text-slate-800 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-700 transition text-center"
+              >
+                <Library className="w-4 h-4 shrink-0" />
+                <span className="truncate">92 Subjects</span>
+              </Link>
 
-            <Link
-              to="/papers?sort=newest"
-              className="inline-flex items-center gap-2 px-5 py-3 rounded-xl text-xs sm:text-sm font-bold text-indigo-600 dark:text-indigo-400 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-950/50 dark:hover:bg-indigo-900/50 border border-indigo-200 dark:border-indigo-800 transition"
-            >
-              <Trophy className="w-4 h-4" />
-              <span>Practice Engine</span>
-            </Link>
+              <Link
+                to="/papers?sort=newest"
+                className="inline-flex items-center justify-center gap-1.5 px-4 py-3 rounded-xl text-xs sm:text-sm font-bold text-indigo-600 dark:text-indigo-400 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-950/50 dark:hover:bg-indigo-900/50 border border-indigo-200 dark:border-indigo-800 transition text-center"
+              >
+                <Trophy className="w-4 h-4 shrink-0" />
+                <span className="truncate">Practice Mode</span>
+              </Link>
+            </div>
           </div>
         </div>
 
@@ -152,9 +154,9 @@ export const HomePage: React.FC = () => {
       {/* =========================================================================
           DASHBOARD CREATOR SPOTLIGHT: Dedicated Credit Card for ME FBi
          ========================================================================= */}
-      <section className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-indigo-950 via-slate-900 to-slate-950 text-white p-6 sm:p-8 border border-indigo-500/30 shadow-xl">
-        <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6 relative z-10">
-          <div className="flex items-center gap-4 sm:gap-5">
+      <section className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-indigo-950 via-slate-900 to-slate-950 text-white p-5 sm:p-8 border border-indigo-500/30 shadow-xl">
+        <div className="flex flex-col md:flex-row items-center md:items-center justify-between gap-6 relative z-10">
+          <div className="flex flex-col sm:flex-row items-center sm:items-start text-center sm:text-left gap-4 sm:gap-5 w-full md:w-auto">
             {/* FBi Avatar: Seamless Circular Profile */}
             <div className="relative w-16 h-16 sm:w-20 sm:h-20 shrink-0">
               <div className="w-full h-full rounded-full overflow-hidden ring-2 ring-indigo-400/50 dark:ring-indigo-500/50 shadow-lg shadow-indigo-500/20 bg-slate-900">
@@ -170,9 +172,9 @@ export const HomePage: React.FC = () => {
               />
             </div>
 
-            <div>
-              <div className="flex items-center gap-2">
-                <span className="text-[11px] font-black uppercase tracking-widest text-indigo-400">
+            <div className="flex-1">
+              <div className="flex flex-wrap items-center justify-center sm:justify-start gap-2">
+                <span className="text-[10px] sm:text-[11px] font-black uppercase tracking-widest text-indigo-400">
                   Creator & Platform Architect
                 </span>
                 <span className="px-2 py-0.5 text-[10px] font-extrabold rounded-full bg-rose-500/20 text-rose-300 border border-rose-500/30 flex items-center gap-1">
@@ -180,23 +182,23 @@ export const HomePage: React.FC = () => {
                   <span>Lead Developer</span>
                 </span>
               </div>
-              <h3 className="text-xl sm:text-2xl font-black text-white tracking-tight mt-0.5">
+              <h3 className="text-lg sm:text-2xl font-black text-white tracking-tight mt-1">
                 Designed & Engineered with Passion by FBi
               </h3>
-              <p className="text-xs sm:text-sm text-slate-300 max-w-xl mt-1 leading-relaxed">
+              <p className="text-xs sm:text-sm text-slate-300 max-w-xl mt-1.5 leading-relaxed">
                 Dedicated to every Bihar Engineering University (BEU) student. Built with 100% authentic university exam archives, syllabus-calibrated marking schemes, KaTeX mathematical proofs, and interactive exam practice.
               </p>
             </div>
           </div>
 
-          <div className="flex flex-wrap items-center gap-3 shrink-0 w-full md:w-auto">
+          <div className="grid grid-cols-2 gap-2 sm:flex sm:items-center sm:gap-3 shrink-0 w-full md:w-auto pt-2 md:pt-0 border-t border-indigo-500/20 md:border-t-0">
             <Link
               to="/papers"
-              className="flex-1 md:flex-initial text-center px-5 py-2.5 rounded-xl text-xs font-bold bg-white text-slate-950 hover:bg-slate-100 transition shadow-sm"
+              className="text-center px-4 py-2.5 rounded-xl text-xs font-bold bg-white text-slate-950 hover:bg-slate-100 transition shadow-sm"
             >
               Start Studying
             </Link>
-            <div className="inline-flex items-center gap-1.5 px-4 py-2.5 rounded-xl text-xs font-bold bg-indigo-600/20 text-indigo-300 border border-indigo-500/40">
+            <div className="inline-flex items-center justify-center gap-1.5 px-3 py-2.5 rounded-xl text-xs font-bold bg-indigo-600/20 text-indigo-300 border border-indigo-500/40 text-center">
               <span>By Love By FBi</span>
               <span className="text-rose-400 animate-pulse">❤️</span>
             </div>
@@ -210,9 +212,9 @@ export const HomePage: React.FC = () => {
       {/* =========================================================================
           KEY STUDY ACCELERATORS: Practice Mode, High Yield Radar, Model Answers
          ========================================================================= */}
-      <section className="grid grid-cols-1 md:grid-cols-3 gap-5">
+      <section className="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-5">
         {/* Accelerator 1 */}
-        <div className="p-6 rounded-3xl bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 shadow-xs flex flex-col justify-between space-y-4 hover:border-indigo-400 dark:hover:border-indigo-600 transition group">
+        <div className="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 shadow-xs flex flex-col justify-between space-y-4 hover:border-indigo-400 dark:hover:border-indigo-600 transition group">
           <div className="space-y-3">
             <div className="w-12 h-12 rounded-2xl bg-indigo-500/10 dark:bg-indigo-400/10 text-indigo-600 dark:text-indigo-400 flex items-center justify-center font-bold">
               <Trophy className="w-6 h-6" />
@@ -234,7 +236,7 @@ export const HomePage: React.FC = () => {
         </div>
 
         {/* Accelerator 2 */}
-        <div className="p-6 rounded-3xl bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 shadow-xs flex flex-col justify-between space-y-4 hover:border-rose-400 dark:hover:border-rose-600 transition group">
+        <div className="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 shadow-xs flex flex-col justify-between space-y-4 hover:border-rose-400 dark:hover:border-rose-600 transition group">
           <div className="space-y-3">
             <div className="w-12 h-12 rounded-2xl bg-rose-500/10 dark:bg-rose-400/10 text-rose-600 dark:text-rose-400 flex items-center justify-center font-bold">
               <Flame className="w-6 h-6 fill-rose-500/20" />
@@ -256,7 +258,7 @@ export const HomePage: React.FC = () => {
         </div>
 
         {/* Accelerator 3 */}
-        <div className="p-6 rounded-3xl bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 shadow-xs flex flex-col justify-between space-y-4 hover:border-emerald-400 dark:hover:border-emerald-600 transition group">
+        <div className="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 shadow-xs flex flex-col justify-between space-y-4 hover:border-emerald-400 dark:hover:border-emerald-600 transition group">
           <div className="space-y-3">
             <div className="w-12 h-12 rounded-2xl bg-emerald-500/10 dark:bg-emerald-400/10 text-emerald-600 dark:text-emerald-400 flex items-center justify-center font-bold">
               <Printer className="w-6 h-6" />
@@ -281,65 +283,65 @@ export const HomePage: React.FC = () => {
       {/* =========================================================================
           LIVE PLATFORM STATISTICS CARDS (Polished with Accent Indicators)
          ========================================================================= */}
-      <section className="grid grid-cols-2 md:grid-cols-4 gap-4">
-        <div className="bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 rounded-2xl p-4 sm:p-5 shadow-xs relative overflow-hidden">
-          <div className="flex items-center gap-3 mb-2">
-            <div className="p-2.5 rounded-xl bg-indigo-500/10 text-indigo-600 dark:text-indigo-400">
-              <FileText className="w-5 h-5" />
+      <section className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
+        <div className="bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-3.5 sm:p-5 shadow-xs relative overflow-hidden">
+          <div className="flex items-center gap-2.5 sm:gap-3 mb-1.5 sm:mb-2">
+            <div className="p-2 sm:p-2.5 rounded-xl bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 shrink-0">
+              <FileText className="w-4 h-4 sm:w-5 sm:h-5" />
             </div>
-            <div>
-              <p className="text-[11px] font-bold uppercase tracking-wider text-slate-400">Total Papers</p>
-              <h3 className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+            <div className="min-w-0">
+              <p className="text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-400 truncate">Total Papers</p>
+              <h3 className="text-lg sm:text-2xl font-black text-slate-900 dark:text-white">
                 {stats?.totalPapers || 363}
               </h3>
             </div>
           </div>
-          <p className="text-xs text-slate-500 dark:text-slate-400 font-medium">Semesters 1 to 4 Complete</p>
+          <p className="text-[11px] sm:text-xs text-slate-500 dark:text-slate-400 font-medium truncate">Semesters 1 to 4 Complete</p>
         </div>
 
-        <div className="bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 rounded-2xl p-4 sm:p-5 shadow-xs relative overflow-hidden">
-          <div className="flex items-center gap-3 mb-2">
-            <div className="p-2.5 rounded-xl bg-purple-500/10 text-purple-600 dark:text-purple-400">
-              <Library className="w-5 h-5" />
+        <div className="bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-3.5 sm:p-5 shadow-xs relative overflow-hidden">
+          <div className="flex items-center gap-2.5 sm:gap-3 mb-1.5 sm:mb-2">
+            <div className="p-2 sm:p-2.5 rounded-xl bg-purple-500/10 text-purple-600 dark:text-purple-400 shrink-0">
+              <Library className="w-4 h-4 sm:w-5 sm:h-5" />
             </div>
-            <div>
-              <p className="text-[11px] font-bold uppercase tracking-wider text-slate-400">Total Subjects</p>
-              <h3 className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+            <div className="min-w-0">
+              <p className="text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-400 truncate">Total Subjects</p>
+              <h3 className="text-lg sm:text-2xl font-black text-slate-900 dark:text-white">
                 {stats?.totalSubjects || 92}
               </h3>
             </div>
           </div>
-          <p className="text-xs text-slate-500 dark:text-slate-400 font-medium">B.Tech Engineering Branches</p>
+          <p className="text-[11px] sm:text-xs text-slate-500 dark:text-slate-400 font-medium truncate">B.Tech Engineering Branches</p>
         </div>
 
-        <div className="bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 rounded-2xl p-4 sm:p-5 shadow-xs relative overflow-hidden">
-          <div className="flex items-center gap-3 mb-2">
-            <div className="p-2.5 rounded-xl bg-emerald-500/10 text-emerald-600 dark:text-emerald-400">
-              <BookOpen className="w-5 h-5" />
+        <div className="bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-3.5 sm:p-5 shadow-xs relative overflow-hidden">
+          <div className="flex items-center gap-2.5 sm:gap-3 mb-1.5 sm:mb-2">
+            <div className="p-2 sm:p-2.5 rounded-xl bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 shrink-0">
+              <BookOpen className="w-4 h-4 sm:w-5 sm:h-5" />
             </div>
-            <div>
-              <p className="text-[11px] font-bold uppercase tracking-wider text-slate-400">Questions Indexed</p>
-              <h3 className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+            <div className="min-w-0">
+              <p className="text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-400 truncate">Questions</p>
+              <h3 className="text-lg sm:text-2xl font-black text-slate-900 dark:text-white">
                 {stats?.totalSubQuestions.toLocaleString() || '8,828'}
               </h3>
             </div>
           </div>
-          <p className="text-xs text-slate-500 dark:text-slate-400 font-medium">Formulas, MCQs & Options</p>
+          <p className="text-[11px] sm:text-xs text-slate-500 dark:text-slate-400 font-medium truncate">Formulas & MCQs</p>
         </div>
 
-        <div className="bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 rounded-2xl p-4 sm:p-5 shadow-xs relative overflow-hidden">
-          <div className="flex items-center gap-3 mb-2">
-            <div className="p-2.5 rounded-xl bg-amber-500/10 text-amber-600 dark:text-amber-400">
-              <Clock className="w-5 h-5" />
+        <div className="bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-3.5 sm:p-5 shadow-xs relative overflow-hidden">
+          <div className="flex items-center gap-2.5 sm:gap-3 mb-1.5 sm:mb-2">
+            <div className="p-2 sm:p-2.5 rounded-xl bg-amber-500/10 text-amber-600 dark:text-amber-400 shrink-0">
+              <Clock className="w-4 h-4 sm:w-5 sm:h-5" />
             </div>
-            <div>
-              <p className="text-[11px] font-bold uppercase tracking-wider text-slate-400">Archive Span</p>
-              <h3 className="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">
+            <div className="min-w-0">
+              <p className="text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-400 truncate">Archive Span</p>
+              <h3 className="text-lg sm:text-2xl font-black text-slate-900 dark:text-white">
                 2012–2025
               </h3>
             </div>
           </div>
-          <p className="text-xs text-slate-500 dark:text-slate-400 font-medium">14 Continuous Exam Years</p>
+          <p className="text-[11px] sm:text-xs text-slate-500 dark:text-slate-400 font-medium truncate">14 Continuous Exam Years</p>
         </div>
       </section>
 
@@ -366,14 +368,14 @@ export const HomePage: React.FC = () => {
             <Link
               key={s.sem}
               to={`/papers?semester=${s.sem}`}
-              className="group p-5 rounded-2xl bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 hover:border-indigo-400 dark:hover:border-indigo-500 transition shadow-xs flex flex-col justify-between"
+              className="group p-5 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 hover:border-indigo-400 dark:hover:border-indigo-500 transition shadow-xs flex flex-col justify-between"
             >
               <div>
                 <div className="flex items-center justify-between mb-2">
                   <span className="text-xs font-bold uppercase tracking-wider text-indigo-600 dark:text-indigo-400">
                     Semester {s.sem}
                   </span>
-                  <span className="px-2 py-0.5 text-[11px] font-semibold rounded-full bg-slate-100 dark:bg-slate-700/70 text-slate-700 dark:text-slate-300">
+                  <span className="px-2 py-0.5 text-[11px] font-semibold rounded-full bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200/60 dark:border-slate-700">
                     {s.papers} Papers
                   </span>
                 </div>
@@ -385,7 +387,7 @@ export const HomePage: React.FC = () => {
                 </p>
               </div>
 
-              <div className="mt-4 pt-3 border-t border-slate-100 dark:border-slate-700/60 flex items-center justify-between text-xs font-semibold text-slate-700 dark:text-slate-300">
+              <div className="mt-4 pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-xs font-semibold text-slate-700 dark:text-slate-300">
                 <span>Browse Papers</span>
                 <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition text-indigo-500" />
               </div>
@@ -417,7 +419,7 @@ export const HomePage: React.FC = () => {
             <Link
               key={subj.code}
               to={`/papers?subject=${subj.code}`}
-              className="p-4 rounded-2xl bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 hover:border-indigo-400 dark:hover:border-indigo-500 transition flex items-center justify-between gap-3 shadow-xs"
+              className="p-4 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 hover:border-indigo-400 dark:hover:border-indigo-500 transition flex items-center justify-between gap-3 shadow-xs"
             >
               <div className="min-w-0">
                 <h4 className="font-semibold text-sm text-slate-900 dark:text-slate-100 truncate">
@@ -489,7 +491,7 @@ export const HomePage: React.FC = () => {
               <Link
                 key={item.paperId}
                 to={`/paper/${item.paperId}`}
-                className="p-3.5 rounded-xl bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 hover:border-indigo-400 dark:hover:border-indigo-500 transition block shadow-xs"
+                className="p-3.5 rounded-xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 hover:border-indigo-400 dark:hover:border-indigo-500 transition block shadow-xs"
               >
                 <div className="text-[10px] text-slate-400 font-mono">
                   Sem {item.semester} · {item.year}

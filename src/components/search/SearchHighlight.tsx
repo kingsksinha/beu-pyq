@@ -20,7 +20,7 @@ export const SearchHighlight: React.FC<SearchHighlightProps> = ({ text, query, c
     <span className={className}>
       {parts.map((part, i) =>
         regex.test(part) ? (
-          <mark key={i} className="bg-zinc-200 dark:bg-zinc-700 text-zinc-950 dark:text-zinc-50 rounded px-1 font-semibold">
+          <mark key={i} className="bg-amber-100 dark:bg-amber-950/80 text-amber-900 dark:text-amber-200 rounded px-1 font-semibold">
             {part}
           </mark>
         ) : (

@@ -47,14 +47,14 @@ export const MobileNav: React.FC<MobileNavProps> = ({
         >
           {/* Drawer Content */}
           <div
-            className="w-72 max-w-[85vw] h-full bg-white dark:bg-zinc-900 border-r border-zinc-200 dark:border-zinc-800 flex flex-col p-4 shadow-2xl animate-in slide-in-from-left duration-200"
+            className="w-72 max-w-[85vw] h-full bg-white dark:bg-slate-900 border-r border-slate-200 dark:border-slate-800 flex flex-col p-4 shadow-2xl animate-in slide-in-from-left duration-200"
             onClick={e => e.stopPropagation()}
           >
-            <div className="flex items-center justify-between pb-4 mb-2 border-b border-zinc-200 dark:border-zinc-800">
+            <div className="flex items-center justify-between pb-4 mb-2 border-b border-slate-200 dark:border-slate-800">
               <AppLogo size="sm" />
               <button
                 onClick={onClose}
-                className="p-1.5 rounded-lg text-zinc-400 hover:bg-zinc-100 dark:hover:bg-zinc-800 cursor-pointer"
+                className="p-1.5 rounded-lg text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 cursor-pointer"
               >
                 <X className="w-5 h-5" />
               </button>
@@ -72,8 +72,8 @@ export const MobileNav: React.FC<MobileNavProps> = ({
                     className={({ isActive }) =>
                       `flex items-center gap-3 px-3 py-2.5 rounded-xl text-xs font-semibold transition ${
                         isActive
-                          ? 'bg-zinc-100 dark:bg-zinc-800 text-zinc-900 dark:text-white border border-zinc-200 dark:border-zinc-700'
-                          : 'text-zinc-600 dark:text-zinc-400 hover:bg-zinc-100 dark:hover:bg-zinc-800'
+                          ? 'bg-indigo-50/80 dark:bg-slate-800 text-indigo-600 dark:text-indigo-400 font-bold border border-indigo-200/50 dark:border-slate-700'
+                          : 'text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'
                       }`
                     }
                   >
@@ -97,22 +97,22 @@ export const MobileNav: React.FC<MobileNavProps> = ({
               </div>
             </div>
 
-            <div className="pt-4 border-t border-zinc-200 dark:border-zinc-800 text-[11px] text-zinc-400 text-center space-y-0.5">
-              <div>Bihar Engineering University PYQs</div>
-              <div className="text-[10px] font-semibold text-slate-500 dark:text-slate-400">By Love By FBi ❤️</div>
+            <div className="pt-4 border-t border-slate-200 dark:border-slate-800 text-[11px] text-slate-400 text-center space-y-0.5">
+              <div className="font-semibold text-slate-700 dark:text-slate-300">Bihar Engineering University</div>
+              <div className="text-[10px] font-bold text-indigo-600 dark:text-indigo-400">By Love By FBi ❤️</div>
             </div>
           </div>
         </div>
       )}
 
       {/* Bottom Sticky Tab Bar (Mobile only) */}
-      <nav className="lg:hidden fixed bottom-0 left-0 right-0 z-40 h-16 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border-t border-zinc-200 dark:border-zinc-800 flex items-center justify-around px-2">
+      <nav className="lg:hidden fixed bottom-0 left-0 right-0 z-40 h-16 bg-white/95 dark:bg-slate-900/95 backdrop-blur-lg border-t border-slate-200/80 dark:border-slate-800/80 flex items-center justify-around px-2 shadow-lg">
         <NavLink
           to="/"
           end
           className={({ isActive }) =>
-            `flex flex-col items-center gap-1 py-1 px-3 text-[10px] font-medium transition ${
-              isActive ? 'text-zinc-900 dark:text-zinc-100 font-bold' : 'text-zinc-400 dark:text-zinc-500'
+            `flex flex-col items-center justify-center gap-1 py-1 px-3 text-[10px] font-medium transition ${
+              isActive ? 'text-indigo-600 dark:text-indigo-400 font-bold' : 'text-slate-400 dark:text-slate-500 hover:text-slate-700 dark:hover:text-slate-300'
             }`
           }
         >
@@ -123,8 +123,8 @@ export const MobileNav: React.FC<MobileNavProps> = ({
         <NavLink
           to="/papers"
           className={({ isActive }) =>
-            `flex flex-col items-center gap-1 py-1 px-3 text-[10px] font-medium transition ${
-              isActive ? 'text-zinc-900 dark:text-zinc-100 font-bold' : 'text-zinc-400 dark:text-zinc-500'
+            `flex flex-col items-center justify-center gap-1 py-1 px-3 text-[10px] font-medium transition ${
+              isActive ? 'text-indigo-600 dark:text-indigo-400 font-bold' : 'text-slate-400 dark:text-slate-500 hover:text-slate-700 dark:hover:text-slate-300'
             }`
           }
         >
@@ -132,20 +132,23 @@ export const MobileNav: React.FC<MobileNavProps> = ({
           <span>Papers</span>
         </NavLink>
 
-        {/* Center Search Button (Monochrome Vercel style) */}
+        {/* Center Search Tab */}
         <button
           onClick={onOpenSearch}
-          className="flex flex-col items-center justify-center w-11 h-11 -mt-4 rounded-full bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900 shadow-md transition hover:scale-105 active:scale-95"
-          aria-label="Search"
+          className="flex flex-col items-center justify-center gap-1 py-1 px-3 text-[10px] font-semibold text-slate-500 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition cursor-pointer"
+          aria-label="Search Archive"
         >
-          <Search className="w-5 h-5" />
+          <div className="w-8 h-8 rounded-full bg-indigo-50 dark:bg-indigo-950/60 border border-indigo-200 dark:border-indigo-800 flex items-center justify-center text-indigo-600 dark:text-indigo-400 shadow-2xs">
+            <Search className="w-4 h-4" />
+          </div>
+          <span>Search</span>
         </button>
 
         <NavLink
           to="/semesters"
           className={({ isActive }) =>
-            `flex flex-col items-center gap-1 py-1 px-3 text-[10px] font-medium transition ${
-              isActive ? 'text-zinc-900 dark:text-zinc-100 font-bold' : 'text-zinc-400 dark:text-zinc-500'
+            `flex flex-col items-center justify-center gap-1 py-1 px-3 text-[10px] font-medium transition ${
+              isActive ? 'text-indigo-600 dark:text-indigo-400 font-bold' : 'text-slate-400 dark:text-slate-500 hover:text-slate-700 dark:hover:text-slate-300'
             }`
           }
         >
@@ -156,8 +159,8 @@ export const MobileNav: React.FC<MobileNavProps> = ({
         <NavLink
           to="/bookmarks"
           className={({ isActive }) =>
-            `flex flex-col items-center gap-1 py-1 px-3 text-[10px] font-medium transition ${
-              isActive ? 'text-zinc-900 dark:text-zinc-100 font-bold' : 'text-zinc-400 dark:text-zinc-500'
+            `flex flex-col items-center justify-center gap-1 py-1 px-3 text-[10px] font-medium transition ${
+              isActive ? 'text-indigo-600 dark:text-indigo-400 font-bold' : 'text-slate-400 dark:text-slate-500 hover:text-slate-700 dark:hover:text-slate-300'
             }`
           }
         >

@@ -26,8 +26,8 @@ export const SemesterDirectoryPage: React.FC = () => {
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center py-24 text-zinc-400">
-        <div className="w-8 h-8 border-2 border-zinc-400 border-t-transparent rounded-full animate-spin" />
+      <div className="flex items-center justify-center py-24 text-slate-400">
+        <div className="w-8 h-8 border-2 border-indigo-500 border-t-transparent rounded-full animate-spin" />
       </div>
     );
   }
@@ -43,30 +43,30 @@ export const SemesterDirectoryPage: React.FC = () => {
     <div className="space-y-6">
       {/* Header */}
       <div>
-        <div className="flex items-center gap-2 text-zinc-500 dark:text-zinc-400 text-xs font-semibold uppercase tracking-wider">
-          <Layers className="w-4 h-4 text-zinc-700 dark:text-zinc-300" />
+        <div className="flex items-center gap-2 text-indigo-600 dark:text-indigo-400 text-xs font-bold uppercase tracking-wider">
+          <Layers className="w-4 h-4" />
           <span>Curriculum Organization</span>
         </div>
-        <h1 className="text-2xl sm:text-3xl font-extrabold text-zinc-900 dark:text-white mt-1">
+        <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white mt-1">
           Semester-wise Question Papers
         </h1>
-        <p className="text-xs sm:text-sm text-zinc-500 dark:text-zinc-400 mt-1">
+        <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
           Select your engineering semester to explore subject catalogs and past examination papers.
         </p>
       </div>
 
       {/* Semester Tab Switcher */}
-      <div className="flex items-center gap-2 overflow-x-auto pb-2 border-b border-zinc-200 dark:border-zinc-800">
+      <div className="flex items-center gap-2 overflow-x-auto pb-2 border-b border-slate-200 dark:border-slate-800 no-scrollbar">
         {[1, 2, 3, 4].map(sem => {
           const isSelected = sem === selectedSem;
           return (
             <button
               key={sem}
               onClick={() => handleSemChange(sem)}
-              className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-semibold transition shrink-0 ${
+              className={`px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold transition shrink-0 ${
                 isSelected
-                  ? 'bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900 shadow-xs'
-                  : 'bg-white dark:bg-zinc-900 text-zinc-600 dark:text-zinc-300 border border-zinc-200 dark:border-zinc-800 hover:border-zinc-400'
+                  ? 'bg-indigo-600 text-white shadow-md shadow-indigo-500/20'
+                  : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700'
               }`}
             >
               Semester {sem}
@@ -76,22 +76,22 @@ export const SemesterDirectoryPage: React.FC = () => {
       </div>
 
       {/* Selected Semester Banner */}
-      <div className="p-6 rounded-2xl bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 shadow-xs">
+      <div className="p-5 sm:p-6 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 shadow-xs">
         <div className="flex flex-wrap items-center justify-between gap-3 mb-2">
-          <h2 className="text-lg font-bold text-zinc-900 dark:text-white">
+          <h2 className="text-lg font-bold text-slate-900 dark:text-white">
             Semester {selectedSem} Engineering Subjects
           </h2>
-          <span className="px-3 py-1 text-xs font-semibold rounded-full bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 border border-zinc-200 dark:border-zinc-700">
+          <span className="px-3 py-1 text-xs font-bold rounded-full bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/80 font-mono">
             {semSubjects.length} Subjects Available
           </span>
         </div>
-        <p className="text-xs sm:text-sm text-zinc-500 dark:text-zinc-400 leading-relaxed">
+        <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 leading-relaxed">
           {semesterDescriptions[selectedSem]}
         </p>
         <div className="mt-4">
           <Link
             to={`/papers?semester=${selectedSem}`}
-            className="inline-flex items-center gap-2 text-xs font-semibold text-zinc-900 dark:text-zinc-100 hover:underline"
+            className="inline-flex items-center gap-2 text-xs font-bold text-indigo-600 dark:text-indigo-400 hover:underline"
           >
             <span>View all question papers for Semester {selectedSem}</span>
             <ArrowRight className="w-3.5 h-3.5" />
@@ -100,35 +100,35 @@ export const SemesterDirectoryPage: React.FC = () => {
       </div>
 
       {/* Subjects Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 sm:gap-4">
         {semSubjects.map(subj => (
           <Link
             key={subj.code}
             to={`/papers?semester=${selectedSem}&subject=${subj.code}`}
-            className="group p-5 rounded-2xl bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 hover:border-zinc-700 transition flex flex-col justify-between shadow-xs"
+            className="group p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 hover:border-indigo-400 dark:hover:border-indigo-500 transition flex flex-col justify-between shadow-xs hover:shadow-md"
           >
             <div>
               <div className="flex items-center justify-between gap-2 mb-2">
-                <span className="px-2 py-0.5 text-[11px] font-mono text-zinc-500 dark:text-zinc-400 bg-zinc-100 dark:bg-zinc-800 rounded">
+                <span className="px-2 py-0.5 text-[11px] font-mono text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-slate-800 rounded">
                   Code: {subj.code}
                 </span>
-                <span className="px-2 py-0.5 text-[11px] font-semibold rounded-full bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-300">
+                <span className="px-2 py-0.5 text-[11px] font-bold rounded-full bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/80">
                   {subj.paperCount} Papers
                 </span>
               </div>
 
-              <h3 className="font-bold text-sm sm:text-base text-zinc-900 dark:text-white group-hover:text-zinc-600 dark:group-hover:text-zinc-300 transition line-clamp-2">
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition line-clamp-2">
                 {subj.name}
               </h3>
 
-              <p className="text-xs text-zinc-500 dark:text-zinc-400 mt-2">
+              <p className="text-xs text-slate-500 dark:text-slate-400 mt-2">
                 {subj.totalSubquestions} extracted questions · Years: {subj.years.slice(0, 4).join(', ')}{subj.years.length > 4 ? '...' : ''}
               </p>
             </div>
 
-            <div className="mt-4 pt-3 border-t border-zinc-100 dark:border-zinc-800/80 flex items-center justify-between text-xs font-semibold text-zinc-900 dark:text-zinc-100">
+            <div className="mt-4 pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-xs font-semibold text-slate-900 dark:text-slate-100 group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
               <span>View {subj.paperCount} Papers</span>
-              <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition" />
+              <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition text-indigo-500" />
             </div>
           </Link>
         ))}

@@ -100,8 +100,8 @@ export const PaperDetailPage: React.FC = () => {
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center py-24 text-zinc-400">
-        <div className="w-8 h-8 border-2 border-zinc-400 border-t-transparent rounded-full animate-spin" />
+      <div className="flex items-center justify-center py-24 text-slate-400">
+        <div className="w-8 h-8 border-2 border-indigo-500 border-t-transparent rounded-full animate-spin" />
       </div>
     );
   }
@@ -109,12 +109,12 @@ export const PaperDetailPage: React.FC = () => {
   if (!paper) {
     return (
       <div className="py-20 text-center space-y-4">
-        <FileText className="w-12 h-12 mx-auto text-zinc-400" />
-        <h2 className="text-xl font-bold text-zinc-900 dark:text-white">Question Paper Not Found</h2>
-        <p className="text-sm text-zinc-500">The requested paper ID does not exist in the archive.</p>
+        <FileText className="w-12 h-12 mx-auto text-slate-400" />
+        <h2 className="text-xl font-bold text-slate-900 dark:text-white">Question Paper Not Found</h2>
+        <p className="text-sm text-slate-500">The requested paper ID does not exist in the archive.</p>
         <button
           onClick={() => navigate('/papers')}
-          className="px-4 py-2 rounded-xl bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900 text-xs font-semibold"
+          className="px-4 py-2 rounded-xl bg-indigo-600 text-white hover:bg-indigo-500 text-xs font-bold transition shadow-md shadow-indigo-500/20"
         >
           Back to All Papers
         </button>
