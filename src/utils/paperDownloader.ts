@@ -1,5 +1,73 @@
+import katex from 'katex';
 import type { PaperDetail } from '../types/paper';
 import { formatBTechYear } from './formatters';
+
+/**
+ * Normalizes and converts raw math text containing LaTeX math delimiters
+ * (\( ... \), $ ... $, \[ ... \], $$ ... $$) into pre-rendered KaTeX HTML.
+ */
+function renderMathHtml(text: string): string {
+  if (!text) return '';
+
+  // Normalize any double-escaped math delimiters from JSON strings
+  const normalized = text.replace(/\\\\([()[\]])/g, '\\$1');
+
+  // Regex to detect math delimiters:
+  // Block math: \[ ... \] or $$ ... $$
+  // Inline math: \( ... \) or $ ... $
+  const mathRegex = /(\\\[[\s\S]*?\\\]|\$\$[\s\S]*?\$\$|\\\([\s\S]*?\\\)|\$[^\$\n]+?\$)/g;
+
+  const parts = normalized.split(mathRegex);
+
+  return parts
+    .map(part => {
+      if (!part) return '';
+
+      // Block math: \[ ... \]
+      if (part.startsWith('\\[') && part.endsWith('\\]')) {
+        const math = part.slice(2, -2).trim();
+        try {
+          return `<div class="math-block">${katex.renderToString(math, { displayMode: true, throwOnError: false })}</div>`;
+        } catch {
+          return `<div class="math-block"><code>${escapeHtml(part)}</code></div>`;
+        }
+      }
+
+      // Block math: $$ ... $$
+      if (part.startsWith('$$') && part.endsWith('$$') && part.length > 3) {
+        const math = part.slice(2, -2).trim();
+        try {
+          return `<div class="math-block">${katex.renderToString(math, { displayMode: true, throwOnError: false })}</div>`;
+        } catch {
+          return `<div class="math-block"><code>${escapeHtml(part)}</code></div>`;
+        }
+      }
+
+      // Inline math: \( ... \)
+      if (part.startsWith('\\(') && part.endsWith('\\)')) {
+        const math = part.slice(2, -2).trim();
+        try {
+          return katex.renderToString(math, { displayMode: false, throwOnError: false });
+        } catch {
+          return `<code>${escapeHtml(part)}</code>`;
+        }
+      }
+
+      // Inline math: $ ... $
+      if (part.startsWith('$') && part.endsWith('$') && part.length > 2 && !part.slice(1, -1).includes('$')) {
+        const math = part.slice(1, -1).trim();
+        try {
+          return katex.renderToString(math, { displayMode: false, throwOnError: false });
+        } catch {
+          return `<code>${escapeHtml(part)}</code>`;
+        }
+      }
+
+      // Plain text: escape HTML entities
+      return escapeHtml(part);
+    })
+    .join('');
+}
 
 /**
  * Generates and triggers download of a self-contained, offline-ready,
@@ -12,14 +80,21 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
   const questionsHtml = paper.questions
     .map(q => {
       const subQuestionsHtml = (q.subQuestions || [])
-        .map(sub => {
+        .map((sub, i) => {
+          const subLabel = (sub.subNumber || String.fromCharCode(97 + i)).trim();
+          const escapedLabel = subLabel.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
+          const cleanSubText = (sub.text || '').replace(
+            new RegExp(`^(?:\\(\\s*${escapedLabel}\\s*\\)|${escapedLabel}\\)|${escapedLabel}\\.)\\s+`, 'i'),
+            ''
+          ).trim();
+
           const optionsHtml =
             sub.options && sub.options.length > 0
               ? `<div class="mcq-grid">
                   ${sub.options
-                    .map((opt, i) => {
-                      const letter = String.fromCharCode(97 + i);
-                      return `<div class="mcq-option"><span class="opt-key">(${letter})</span> <span class="opt-text">${escapeHtml(opt)}</span></div>`;
+                    .map((opt, optIndex) => {
+                      const letter = String.fromCharCode(97 + optIndex);
+                      return `<div class="mcq-option"><span class="opt-key">(${letter})</span> <span class="opt-text">${renderMathHtml(opt)}</span></div>`;
                     })
                     .join('')}
                 </div>`
@@ -38,10 +113,10 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
           return `
             <div class="sub-question">
               <div class="sub-header">
-                <span class="sub-label">(${sub.subNumber})</span>
+                <span class="sub-label">(${subLabel})</span>
                 ${freqBadge}
               </div>
-              <div class="sub-text">${escapeHtml(sub.text)}</div>
+              <div class="sub-text">${renderMathHtml(cleanSubText || sub.text)}</div>
               ${diagramNote}
               ${optionsHtml}
             </div>
@@ -49,11 +124,13 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
         })
         .join('');
 
+      const cleanTitle = (q.title || '').replace(/^(?:Q|Question)\.?\s*\d+[\s.:-]*/i, '').trim();
+
       return `
         <div class="question-card">
           <div class="question-header">
             <div class="q-title">
-              <strong>Q.${q.number}</strong> ${escapeHtml(q.title || '')}
+              <strong>Q.${q.number}</strong> ${cleanTitle ? renderMathHtml(cleanTitle) : renderMathHtml(q.title || '')}
             </div>
             ${q.marks ? `<div class="q-marks">${escapeHtml(q.marks)}</div>` : ''}
           </div>
@@ -75,6 +152,10 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${escapeHtml(paper.subject_name)} (${paper.year}) - BEU PYQ Vault</title>
+  
+  <!-- KaTeX CSS for High-Resolution Math Equations & Formulas -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+
   <style>
     :root {
       --primary: #4f46e5;
@@ -114,6 +195,29 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
       padding-bottom: 12px;
       border-bottom: 1px solid var(--border);
     }
+    .toolbar-brand {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .vault-logo {
+      font-size: 13px;
+      font-weight: 800;
+      color: var(--text-muted);
+      letter-spacing: 0.02em;
+    }
+    .fbi-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: rgba(244, 63, 94, 0.1);
+      color: #e11d48;
+      border: 1px solid rgba(244, 63, 94, 0.25);
+      padding: 2px 9px;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 700;
+    }
     .print-btn {
       background: var(--primary);
       color: #ffffff;
@@ -123,6 +227,7 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
       font-size: 13px;
       font-weight: 600;
       cursor: pointer;
+      transition: opacity 0.15s ease;
     }
     .print-btn:hover { opacity: 0.9; }
     .paper-banner {
@@ -132,6 +237,19 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
       padding: 24px;
       text-align: center;
       margin-bottom: 24px;
+    }
+    .fbi-header-credit {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(79, 70, 229, 0.08);
+      color: var(--primary);
+      border: 1px solid rgba(79, 70, 229, 0.2);
+      padding: 4px 14px;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 700;
+      margin-bottom: 12px;
     }
     .univ-name {
       font-size: 13px;
@@ -277,6 +395,34 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
       padding-top: 16px;
       border-top: 1px solid var(--border);
     }
+    
+    /* KaTeX Offline Fallback & Typography */
+    .katex {
+      font-size: 1.08em;
+      font-weight: normal;
+      text-rendering: auto;
+      direction: ltr;
+      white-space: nowrap;
+      text-indent: 0;
+      line-height: 1.2;
+      display: inline-block;
+    }
+    .katex-display {
+      display: block;
+      margin: 0.8em 0;
+      text-align: center;
+      overflow-x: auto;
+      overflow-y: hidden;
+    }
+    .math-block {
+      margin: 10px 0;
+      padding: 8px;
+      overflow-x: auto;
+      text-align: center;
+      background: var(--bg);
+      border-radius: 8px;
+    }
+
     @media print {
       body { background: #ffffff !important; color: #000000 !important; padding: 0 !important; }
       .toolbar { display: none !important; }
@@ -288,6 +434,11 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
         page-break-inside: avoid;
         margin-bottom: 12px !important;
       }
+      .fbi-header-credit {
+        border: 1px solid #4f46e5 !important;
+        color: #4f46e5 !important;
+        background: transparent !important;
+      }
       .mcq-option { background: transparent !important; border: 1px solid #e4e4e7 !important; }
     }
   </style>
@@ -295,11 +446,17 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
 <body>
   <div class="container">
     <div class="toolbar">
-      <div style="font-size: 12px; font-weight: 700; color: var(--text-muted);">BEU PYQ Vault - Offline Examination Sheet</div>
+      <div class="toolbar-brand">
+        <span class="vault-logo">BEU PYQ Vault - Offline Paper</span>
+        <span class="fbi-pill">By Love By FBi ❤️</span>
+      </div>
       <button class="print-btn" onclick="window.print()">Print / Save as PDF</button>
     </div>
 
     <div class="paper-banner">
+      <div class="fbi-header-credit">
+        <span>Curated & Engineered with ❤️ by <strong>FBi</strong> • Official Student Archive</span>
+      </div>
       <div class="univ-name">Bihar Engineering University, Patna</div>
       <h1 class="subject-title">${escapeHtml(paper.subject_name)}</h1>
       <div class="course-title">B.Tech ${formatBTechYear(paper.semester)} Examination, ${paper.year}</div>
@@ -324,7 +481,7 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
     </div>
 
     <div class="footer">
-      Generated by BEU PYQ Vault &bull; Curated by FBi &bull; For Academic Use Only
+      Bihar Engineering University Examination Archive &bull; Handcrafted with ❤️ by <strong>FBi</strong> &bull; For Academic Use Only
     </div>
   </div>
 </body>

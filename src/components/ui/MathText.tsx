@@ -11,12 +11,15 @@ export const MathText: React.FC<MathTextProps> = ({ text, className = '', inline
   const renderedContent = useMemo(() => {
     if (!text) return '';
 
+    // Normalize any double-escaped math delimiters
+    const normalized = text.replace(/\\\\([()[\]])/g, '\\$1');
+
     // Regex to detect math delimiters:
     // Block: \[ ... \] or $$ ... $$
     // Inline: \( ... \) or $ ... $
     const mathRegex = /(\\\[[\s\S]*?\\\]|\$\$[\s\S]*?\$\$|\\\([\s\S]*?\\\)|\$[^\$\n]+?\$)/g;
 
-    const parts = text.split(mathRegex);
+    const parts = normalized.split(mathRegex);
 
     return parts.map((part, index) => {
       if (!part) return null;

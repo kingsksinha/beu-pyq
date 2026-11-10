@@ -1,5 +1,5 @@
 import React from 'react';
-import { Clock, FileText, Hash, Info } from 'lucide-react';
+import { Clock, FileText, Hash, Info, Sparkles } from 'lucide-react';
 import type { PaperDetail } from '../../types/paper';
 import { curriculumService } from '../../services/curriculumService';
 import { formatBTechYear } from '../../utils/formatters';
@@ -15,6 +15,12 @@ export const PaperHeader: React.FC<PaperHeaderProps> = ({ paper }) => {
 
   return (
     <div className="paper-header-card bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 sm:p-8 text-center shadow-xs">
+      {/* Top FBi Platform Credit */}
+      <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-bold bg-gradient-to-r from-indigo-500/10 via-purple-500/10 to-pink-500/10 text-indigo-700 dark:text-indigo-300 border border-indigo-500/30 shadow-2xs mb-3">
+        <Sparkles className="w-3.5 h-3.5 text-amber-500 shrink-0" />
+        <span>Curated & Engineered with ❤️ by <strong>FBi</strong></span>
+      </div>
+
       <div className="flex flex-wrap items-center justify-center gap-2">
         <span className="text-xs uppercase tracking-widest font-bold text-indigo-600 dark:text-indigo-400">
           Bihar Engineering University, Patna
