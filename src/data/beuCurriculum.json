@@ -1,0 +1,1362 @@
+{
+  "university": "Bihar Engineering University (BEU), Patna",
+  "last_verified": "2026-11",
+  "branch_code_prefixes": {
+    "100": "Common / General Engineering & Open Electives",
+    "101": "Civil Engineering (CE)",
+    "102": "Mechanical Engineering (ME)",
+    "103": "Electrical Engineering (EE)",
+    "104": "Electronics & Communication Engineering (ECE)",
+    "105": "Computer Science & Engineering (CSE)",
+    "106": "Information Technology (IT)",
+    "107": "Chemical Technology (Leather Technology)",
+    "110": "Electrical & Electronics Engineering (EEE)",
+    "111": "Electronics & Instrumentation Engineering",
+    "112": "Fire Technology & Safety",
+    "113": "Mining Engineering",
+    "114": "Chemical Engineering",
+    "115": "Food Processing & Preservation",
+    "116": "Aeronautical Engineering",
+    "117": "Biomedical & Robotic Engineering",
+    "118": "3D Animation & Graphics",
+    "119": "Civil Engineering with Computer Application",
+    "151": "CSE (Artificial Intelligence)",
+    "152": "CSE (Cyber Security)",
+    "153": "CSE (Data Science)",
+    "154": "CSE (IoT & Cyber Security including Blockchain)",
+    "155": "CSE (Internet of Things - IoT)",
+    "156": "CSE (Networks)",
+    "157": "CSE (Artificial Intelligence & Machine Learning)",
+    "159": "Electronics Engineering (VLSI Design & Technology)",
+    "160": "Mechanical & Smart Manufacturing",
+    "161": "Mechatronics Engineering",
+    "162": "Robotics & Automation",
+    "163": "ECE (Advance Communication Technology)"
+  },
+  "years": {
+    "year_1": {
+      "description": "Common 1st & 2nd Semester (Group A & Group B swap between Sem 1 and Sem 2)",
+      "group_a_branches": [
+        "CE",
+        "ME",
+        "Mining",
+        "Aeronautical",
+        "Chemical",
+        "Fire Tech",
+        "Biomedical & Robotics",
+        "3D Animation"
+      ],
+      "group_b_branches": [
+        "CSE",
+        "CSE (All Specializations)",
+        "IT",
+        "ECE",
+        "EE",
+        "EEE",
+        "VLSI",
+        "ACT"
+      ],
+      "physics_cycle_subjects": [
+        {
+          "code_sem1": "100101",
+          "code_sem2": "100201",
+          "name": "Basic Electrical Engineering"
+        },
+        {
+          "code_sem1": "100102",
+          "code_sem2": "100202",
+          "name": "Engineering Graphics & Design"
+        },
+        {
+          "code_sem1": "101101",
+          "code_sem2": "101201",
+          "name": "Physics (Mechanics & Mechanics of Solids)",
+          "branch": "CE"
+        },
+        {
+          "code_sem1": "102101",
+          "code_sem2": "102201",
+          "name": "Physics (Electromagnetism)",
+          "branch": "ME"
+        },
+        {
+          "code_sem1": "103101",
+          "code_sem2": "103201",
+          "name": "Physics (Waves and Optics & Intro to Quantum Mechanics)",
+          "branch": "EE/EEE"
+        },
+        {
+          "code_sem1": "104101",
+          "code_sem2": "104201",
+          "name": "Physics (Semiconductor Physics & Waves)",
+          "branch": "ECE"
+        },
+        {
+          "code_sem1": "105101",
+          "code_sem2": "105201",
+          "name": "Physics (Semiconductor Physics)",
+          "branch": "CSE/IT"
+        }
+      ],
+      "chemistry_cycle_subjects": [
+        {
+          "code_sem1": "100103",
+          "code_sem2": "100203",
+          "name": "Engineering Chemistry"
+        },
+        {
+          "code_sem1": "100104",
+          "code_sem2": "100204",
+          "name": "Programming for Problem Solving (C)"
+        },
+        {
+          "code_sem1": "100105",
+          "code_sem2": "100205",
+          "name": "Workshop Manufacturing Practices"
+        },
+        {
+          "code_sem1": "100106",
+          "code_sem2": "100206",
+          "name": "English (Communication)"
+        }
+      ],
+      "mathematics_year_1": [
+        {
+          "code": "101102",
+          "sem": 1,
+          "name": "Mathematics-I (Calculus, Multivariable Calculus & Linear Algebra)",
+          "branch": "CE"
+        },
+        {
+          "code": "102102",
+          "sem": 1,
+          "name": "Mathematics-I (Calculus & Linear Algebra)",
+          "branch": "ME"
+        },
+        {
+          "code": "103102",
+          "sem": 1,
+          "name": "Mathematics-I (Calculus & Differential Equations)",
+          "branch": "EE/ECE"
+        },
+        {
+          "code": "105102",
+          "sem": 1,
+          "name": "Mathematics-I (Calculus & Linear Algebra)",
+          "branch": "CSE/IT"
+        },
+        {
+          "code": "101202",
+          "sem": 2,
+          "name": "Mathematics-II (Differential Equations)",
+          "branch": "CE"
+        },
+        {
+          "code": "102202",
+          "sem": 2,
+          "name": "Mathematics-II (ODE & Complex Variables)",
+          "branch": "ME"
+        },
+        {
+          "code": "103202",
+          "sem": 2,
+          "name": "Mathematics-II (Linear Algebra, Transform Calculus & Numerical Methods)",
+          "branch": "EE/ECE"
+        },
+        {
+          "code": "105202",
+          "sem": 2,
+          "name": "Mathematics-II (Probability and Statistics)",
+          "branch": "CSE/IT"
+        }
+      ],
+      "revised_2025_2026_additions": [
+        {
+          "code": "100107",
+          "name": "Universal Human Values / Essence of Indian Constitution"
+        },
+        {
+          "code": "100207",
+          "name": "Introduction to Web Design / Indian Knowledge System (Branch Specific)"
+        }
+      ]
+    },
+    "branches": {
+      "CSE": {
+        "year_2": {
+          "semester_3_legacy_pyq": [
+            {
+              "code": "100302",
+              "name": "Analog Electronic Circuits"
+            },
+            {
+              "code": "100304",
+              "name": "Data Structure & Algorithms"
+            },
+            {
+              "code": "100313",
+              "name": "Object Oriented Programming using C++"
+            },
+            {
+              "code": "100311",
+              "name": "Mathematics-III (Differential Calculus)"
+            },
+            {
+              "code": "100314",
+              "name": "Technical Writing"
+            }
+          ],
+          "semester_3_revised_2024_2026": [
+            {
+              "code": "105301",
+              "name": "Digital Electronics",
+              "pyq_alias": "100403"
+            },
+            {
+              "code": "105302",
+              "name": "Data Structure and Algorithms",
+              "pyq_alias": "100304"
+            },
+            {
+              "code": "105303",
+              "name": "Object Oriented Programming using JAVA",
+              "pyq_alias": "105606"
+            },
+            {
+              "code": "105304",
+              "name": "Discrete Mathematics and Graph Theory",
+              "pyq_alias": "100404"
+            },
+            {
+              "code": "105305",
+              "name": "Operating Systems",
+              "pyq_alias": "105403"
+            },
+            {
+              "code": "105306",
+              "name": "Universal Human Values"
+            }
+          ],
+          "semester_4": [
+            {
+              "code": "100404",
+              "name": "Discrete Mathematics"
+            },
+            {
+              "code": "105401",
+              "name": "Computer Organization & Architecture"
+            },
+            {
+              "code": "105402",
+              "name": "Design & Analysis of Algorithms"
+            },
+            {
+              "code": "105403",
+              "name": "Operating Systems"
+            },
+            {
+              "code": "100403",
+              "name": "Digital Electronics"
+            },
+            {
+              "code": "100407",
+              "name": "Human Resource Development and Organizational Behavior"
+            }
+          ]
+        },
+        "year_3": {
+          "semester_5": [
+            {
+              "code": "105501",
+              "name": "Artificial Intelligence"
+            },
+            {
+              "code": "105502",
+              "name": "Database Management Systems"
+            },
+            {
+              "code": "105503",
+              "name": "Formal Language & Automata Theory"
+            },
+            {
+              "code": "105504",
+              "name": "Software Engineering"
+            },
+            {
+              "code": "100508",
+              "name": "Professional Skill Development"
+            },
+            {
+              "code": "100512",
+              "name": "Design Thinking (Elective)"
+            }
+          ],
+          "semester_6": [
+            {
+              "code": "105601",
+              "name": "Compiler Design"
+            },
+            {
+              "code": "100602",
+              "name": "Computer Networks"
+            },
+            {
+              "code": "105602",
+              "name": "Machine Learning"
+            },
+            {
+              "code": "100601",
+              "name": "Biology for Engineers"
+            },
+            {
+              "code": "105604",
+              "name": "Graph Theory (Elective)"
+            },
+            {
+              "code": "105606",
+              "name": "Introduction to Java Programming Language (Elective)"
+            },
+            {
+              "code": "105610",
+              "name": "Soft Computing (Elective)"
+            },
+            {
+              "code": "105611",
+              "name": "Distributed Database (Elective)"
+            },
+            {
+              "code": "105612",
+              "name": "Advanced Data Structures and Algorithms (Elective)"
+            },
+            {
+              "code": "105613",
+              "name": "Advance Java Programming Language (Elective)"
+            },
+            {
+              "code": "105614",
+              "name": "Web and Internet Technology (Elective)"
+            },
+            {
+              "code": "105615",
+              "name": "Multimedia Technology and its Applications (Elective)"
+            },
+            {
+              "code": "105616",
+              "name": "Cryptography and Network Security (Elective)"
+            },
+            {
+              "code": "105617",
+              "name": "Mobile and Wireless Computing (Elective)"
+            },
+            {
+              "code": "100610",
+              "name": "Computer Graphics (Elective)"
+            }
+          ]
+        },
+        "year_4": {
+          "semester_7": [
+            {
+              "code": "105701",
+              "name": "Data Science"
+            },
+            {
+              "code": "105705",
+              "name": "Internet of Things (Elective)"
+            },
+            {
+              "code": "105707",
+              "name": "E-Commerce and ERP (Elective)"
+            },
+            {
+              "code": "105710",
+              "name": "History of Science and Technology in India (Open Elective)"
+            },
+            {
+              "code": "105713",
+              "name": "Cyber Security (Elective)"
+            },
+            {
+              "code": "105714",
+              "name": "Virtual Reality (Elective)"
+            },
+            {
+              "code": "105718",
+              "name": "Human Computer Interaction (Elective)"
+            },
+            {
+              "code": "100708",
+              "name": "Biology for Engineers"
+            },
+            {
+              "code": "100713",
+              "name": "Soft Skills and Interpersonal Communication"
+            },
+            {
+              "code": "100714",
+              "name": "Human Resource Development and Organizational Behavior"
+            },
+            {
+              "code": "100715",
+              "name": "Cyber Law and Ethics"
+            }
+          ],
+          "semester_8": [
+            {
+              "code": "105801",
+              "name": "Data Mining"
+            },
+            {
+              "code": "105804",
+              "name": "Genetic Algorithm"
+            },
+            {
+              "code": "105811",
+              "name": "Real Time Systems"
+            },
+            {
+              "code": "105812",
+              "name": "Block Chain"
+            },
+            {
+              "code": "105813",
+              "name": "Optimization Techniques"
+            },
+            {
+              "code": "105816",
+              "name": "Embedded Systems"
+            },
+            {
+              "code": "105818",
+              "name": "High Performance Computing"
+            },
+            {
+              "code": "105819",
+              "name": "Ad-hoc and Sensor Networks"
+            },
+            {
+              "code": "100813",
+              "name": "Big Data Analytics"
+            },
+            {
+              "code": "100814",
+              "name": "Internet of Things"
+            },
+            {
+              "code": "100815",
+              "name": "Digital Image Processing"
+            },
+            {
+              "code": "100816",
+              "name": "Bitcoin and Crypto Currencies"
+            },
+            {
+              "code": "100817",
+              "name": "Cloud Computing"
+            }
+          ]
+        }
+      },
+      "CE": {
+        "year_2": {
+          "semester_3_legacy_pyq": [
+            {
+              "code": "100301",
+              "name": "Biology for Engineers"
+            },
+            {
+              "code": "100312",
+              "name": "Mathematics-III (PDE, Probability and Statistics)"
+            },
+            {
+              "code": "101302",
+              "name": "Basic Electronics"
+            },
+            {
+              "code": "101303",
+              "name": "Computer Aided Civil Engineering Drawing"
+            },
+            {
+              "code": "101304",
+              "name": "Engineering Mechanics"
+            },
+            {
+              "code": "101305",
+              "name": "Humanities-I (Effective Technical Communication)"
+            },
+            {
+              "code": "101306",
+              "name": "Introduction to Civil Engineering"
+            },
+            {
+              "code": "101308",
+              "name": "Surveying & Geomatics"
+            }
+          ],
+          "semester_3_revised_2024_2026": [
+            {
+              "code": "101301",
+              "name": "Solid Mechanics",
+              "pyq_alias": "101405"
+            },
+            {
+              "code": "101302",
+              "name": "Engineering Mathematics-III (PDE, Prob/Stat)",
+              "pyq_alias": "100312"
+            },
+            {
+              "code": "101303",
+              "name": "Universal Human Values"
+            },
+            {
+              "code": "101304",
+              "name": "Surveying and Geomatics",
+              "pyq_alias": "101308"
+            },
+            {
+              "code": "101305",
+              "name": "Fluid Mechanics",
+              "pyq_alias": "101404"
+            },
+            {
+              "code": "101306",
+              "name": "Materials, Testing & Evaluation",
+              "pyq_alias": "101406"
+            }
+          ],
+          "semester_4": [
+            {
+              "code": "101401",
+              "name": "Civil Engineering - Societal & Global Impact"
+            },
+            {
+              "code": "101402",
+              "name": "Disaster Preparedness & Planning"
+            },
+            {
+              "code": "101403",
+              "name": "Engineering Geology"
+            },
+            {
+              "code": "101404",
+              "name": "Introduction to Fluid Mechanics"
+            },
+            {
+              "code": "101405",
+              "name": "Introduction to Solid Mechanics"
+            },
+            {
+              "code": "101406",
+              "name": "Materials, Testing & Evaluation"
+            },
+            {
+              "code": "101407",
+              "name": "Mechanical Engineering"
+            },
+            {
+              "code": "101408",
+              "name": "Structural Analysis"
+            }
+          ]
+        },
+        "year_3": {
+          "semester_5": [
+            {
+              "code": "101501",
+              "name": "Analysis and Design of Concrete Structure"
+            },
+            {
+              "code": "101502",
+              "name": "Environmental Engineering-I"
+            },
+            {
+              "code": "101503",
+              "name": "Geotechnical Engineering-I"
+            },
+            {
+              "code": "101504",
+              "name": "Hydraulic Engineering"
+            },
+            {
+              "code": "101505",
+              "name": "Hydrology & Water Resources Engineering"
+            },
+            {
+              "code": "101506",
+              "name": "Mechanics of Materials"
+            },
+            {
+              "code": "101507",
+              "name": "Transportation Engineering"
+            }
+          ],
+          "semester_6": [
+            {
+              "code": "101602",
+              "name": "Construction Engineering & Management"
+            },
+            {
+              "code": "101603",
+              "name": "Design of Steel Structure"
+            },
+            {
+              "code": "101604",
+              "name": "Engineering Economics, Estimation & Costing"
+            },
+            {
+              "code": "101605",
+              "name": "Environmental Engineering-II"
+            },
+            {
+              "code": "101606",
+              "name": "Geotechnical Engineering-II"
+            },
+            {
+              "code": "101607",
+              "name": "Energy Science & Engineering (Elective)"
+            },
+            {
+              "code": "101608",
+              "name": "Highway Construction and Management (Elective)"
+            },
+            {
+              "code": "101609",
+              "name": "Construction Productivity (Elective)"
+            },
+            {
+              "code": "101612",
+              "name": "Design of Hydraulic Structures / Irrigation Engineering (Elective)"
+            },
+            {
+              "code": "101613",
+              "name": "Water Quality Engineering (Elective)"
+            },
+            {
+              "code": "101617",
+              "name": "Concrete Materials (Elective)"
+            },
+            {
+              "code": "101619",
+              "name": "Soil Mechanics-I (Elective)"
+            },
+            {
+              "code": "101622",
+              "name": "Repairs & Rehabilitation of Structures (Elective)"
+            },
+            {
+              "code": "101623",
+              "name": "Airport Planning and Design (Elective)"
+            }
+          ]
+        },
+        "year_4": {
+          "semester_7": [
+            {
+              "code": "101701",
+              "name": "Professional Practice, Law & Ethics"
+            },
+            {
+              "code": "101703",
+              "name": "Pavement Design"
+            },
+            {
+              "code": "101704",
+              "name": "Building Construction Practice"
+            },
+            {
+              "code": "101710",
+              "name": "Concrete Technology"
+            },
+            {
+              "code": "101712",
+              "name": "Soil Mechanics-II"
+            },
+            {
+              "code": "101713",
+              "name": "Environmental Impact Assessment and Life Cycle Analyses"
+            },
+            {
+              "code": "101715",
+              "name": "Groundwater"
+            },
+            {
+              "code": "101720",
+              "name": "Public Transportation Systems"
+            },
+            {
+              "code": "101721",
+              "name": "Traffic Engineering and Management"
+            },
+            {
+              "code": "101722",
+              "name": "Foundation Engineering"
+            },
+            {
+              "code": "101731",
+              "name": "Environmental Laws and Policy"
+            },
+            {
+              "code": "101732",
+              "name": "Construction Project Planning & Systems"
+            },
+            {
+              "code": "101733",
+              "name": "Rock Mechanics"
+            }
+          ],
+          "semester_8": [
+            {
+              "code": "101802",
+              "name": "Geometric Design of Highways"
+            },
+            {
+              "code": "101803",
+              "name": "Contracts Management"
+            },
+            {
+              "code": "101805",
+              "name": "River Engineering"
+            },
+            {
+              "code": "101808",
+              "name": "Prestressed Concrete"
+            },
+            {
+              "code": "101813",
+              "name": "Pavement Materials"
+            },
+            {
+              "code": "101814",
+              "name": "Construction Cost Analysis"
+            },
+            {
+              "code": "101818",
+              "name": "Railway Engineering"
+            },
+            {
+              "code": "101825",
+              "name": "Rural Water Supply and Onsite Sanitation Systems"
+            },
+            {
+              "code": "101827",
+              "name": "Construction Engineering Materials"
+            },
+            {
+              "code": "101828",
+              "name": "Solid and Hazardous Waste Management"
+            },
+            {
+              "code": "101838",
+              "name": "Economic Policies in India"
+            }
+          ]
+        }
+      },
+      "ME": {
+        "year_2": {
+          "semester_3_legacy_pyq": [
+            {
+              "code": "100301",
+              "name": "Biology for Engineers"
+            },
+            {
+              "code": "100303",
+              "name": "Basic Electronics Engineering"
+            },
+            {
+              "code": "100309",
+              "name": "Engineering Mechanics"
+            },
+            {
+              "code": "100312",
+              "name": "Mathematics-III (PDE, Probability and Statistics)"
+            },
+            {
+              "code": "102304",
+              "name": "Thermodynamics"
+            }
+          ],
+          "semester_3_revised_2024_2026": [
+            {
+              "code": "102301",
+              "name": "Engineering Mechanics",
+              "pyq_alias": "100309"
+            },
+            {
+              "code": "102302",
+              "name": "Material Science and Engineering",
+              "pyq_alias": "102402"
+            },
+            {
+              "code": "102303",
+              "name": "Engineering Mathematics-III (PDE, Prob/Stat)",
+              "pyq_alias": "100312"
+            },
+            {
+              "code": "102304",
+              "name": "Thermodynamics"
+            },
+            {
+              "code": "102305",
+              "name": "Basic Electronics Engineering",
+              "pyq_alias": "100303"
+            },
+            {
+              "code": "102306",
+              "name": "Universal Human Values"
+            }
+          ],
+          "semester_4": [
+            {
+              "code": "102401",
+              "name": "Applied Thermodynamics"
+            },
+            {
+              "code": "102402",
+              "name": "Engineering Materials"
+            },
+            {
+              "code": "102403",
+              "name": "Fluid Mechanics"
+            },
+            {
+              "code": "102404",
+              "name": "Instrumentation & Control"
+            },
+            {
+              "code": "102405",
+              "name": "Strength of Materials"
+            }
+          ]
+        },
+        "year_3": {
+          "semester_5": [
+            {
+              "code": "102501",
+              "name": "Fluid Machinery"
+            },
+            {
+              "code": "102502",
+              "name": "Heat Transfer"
+            },
+            {
+              "code": "102503",
+              "name": "Kinematics of Machine"
+            },
+            {
+              "code": "102504",
+              "name": "Manufacturing Processes"
+            },
+            {
+              "code": "100508",
+              "name": "Professional Skill Development"
+            }
+          ],
+          "semester_6": [
+            {
+              "code": "102601",
+              "name": "Design of Machine Elements"
+            },
+            {
+              "code": "102602",
+              "name": "Dynamics of Machinery"
+            },
+            {
+              "code": "102603",
+              "name": "Manufacturing Technology"
+            },
+            {
+              "code": "102605",
+              "name": "Automation in Manufacturing (Elective)"
+            },
+            {
+              "code": "102606",
+              "name": "Process Planning and Cost Estimation (Elective)"
+            },
+            {
+              "code": "102607",
+              "name": "Mechatronic Systems (Elective)"
+            },
+            {
+              "code": "102609",
+              "name": "Composite Materials (Elective)"
+            },
+            {
+              "code": "102610",
+              "name": "Power Plant Engineering (Elective)"
+            },
+            {
+              "code": "102611",
+              "name": "Renewable Energy Systems (Elective)"
+            },
+            {
+              "code": "100608",
+              "name": "Professional Skill Development"
+            }
+          ]
+        },
+        "year_4": {
+          "semester_7": [
+            {
+              "code": "102701",
+              "name": "Internal Combustion Engines"
+            },
+            {
+              "code": "102702",
+              "name": "Refrigeration and Air Conditioning"
+            },
+            {
+              "code": "102703",
+              "name": "Computer Aided Design"
+            },
+            {
+              "code": "102705",
+              "name": "Automobile Engineering"
+            },
+            {
+              "code": "102706",
+              "name": "Operations Research"
+            }
+          ],
+          "semester_8": [
+            {
+              "code": "102801",
+              "name": "Principles of Management"
+            },
+            {
+              "code": "102802",
+              "name": "Design of Transmission Systems"
+            },
+            {
+              "code": "102804",
+              "name": "Energy Conservation and Management"
+            },
+            {
+              "code": "102805",
+              "name": "Gas Dynamics and Jet Propulsion"
+            },
+            {
+              "code": "102807",
+              "name": "Safety Management"
+            },
+            {
+              "code": "102808",
+              "name": "Non-Conventional Manufacturing"
+            },
+            {
+              "code": "100808",
+              "name": "Total Quality Management"
+            }
+          ]
+        }
+      },
+      "EE": {
+        "year_2": {
+          "semester_3_legacy_pyq": [
+            {
+              "code": "100302",
+              "name": "Analog Electronic Circuits"
+            },
+            {
+              "code": "100306",
+              "name": "Electrical Circuit Analysis"
+            },
+            {
+              "code": "100307",
+              "name": "Electrical Machines-I"
+            },
+            {
+              "code": "100308",
+              "name": "Electromagnetic Fields"
+            },
+            {
+              "code": "100310",
+              "name": "Engineering Mechanics"
+            }
+          ],
+          "semester_3_revised_2024_2026": [
+            {
+              "code": "103301",
+              "name": "Electrical Circuit Analysis",
+              "pyq_alias": "100306"
+            },
+            {
+              "code": "103302",
+              "name": "Analog Electronics",
+              "pyq_alias": "100302"
+            },
+            {
+              "code": "103303",
+              "name": "Electrical Machine-I",
+              "pyq_alias": "100307"
+            },
+            {
+              "code": "103304",
+              "name": "Engineering Mathematics-III (PDE, Prob/Stat)",
+              "pyq_alias": "103403"
+            },
+            {
+              "code": "103305",
+              "name": "Engineering Mechanics",
+              "pyq_alias": "100310"
+            },
+            {
+              "code": "103306",
+              "name": "Universal Human Values"
+            }
+          ],
+          "semester_4": [
+            {
+              "code": "100403",
+              "name": "Digital Electronics"
+            },
+            {
+              "code": "103401",
+              "name": "Electrical and Electronics Measurement"
+            },
+            {
+              "code": "103402",
+              "name": "Electrical Machines-II"
+            },
+            {
+              "code": "103403",
+              "name": "Mathematics-III (Probability and Statistics)"
+            },
+            {
+              "code": "103404",
+              "name": "Signals and Systems"
+            },
+            {
+              "code": "100401",
+              "name": "Biology for Engineers"
+            }
+          ]
+        },
+        "year_3": {
+          "semester_5": [
+            {
+              "code": "100502",
+              "name": "Control Systems"
+            },
+            {
+              "code": "100504",
+              "name": "Microprocessors"
+            },
+            {
+              "code": "100506",
+              "name": "Power Electronics"
+            },
+            {
+              "code": "100507",
+              "name": "Power Systems-I (Apparatus and Modelling)"
+            },
+            {
+              "code": "100508",
+              "name": "Professional Skill Development"
+            },
+            {
+              "code": "103502",
+              "name": "Wind and Solar Energy Systems (Elective)"
+            },
+            {
+              "code": "103503",
+              "name": "Electrical Machine Design (Elective)"
+            }
+          ],
+          "semester_6": [
+            {
+              "code": "103601",
+              "name": "Power Systems-II (Operation and Control)"
+            },
+            {
+              "code": "103605",
+              "name": "High Voltage Engineering"
+            },
+            {
+              "code": "103606",
+              "name": "Industrial Electrical Systems"
+            },
+            {
+              "code": "100611",
+              "name": "Computer Architecture"
+            },
+            {
+              "code": "100612",
+              "name": "Digital Control Systems"
+            },
+            {
+              "code": "100613",
+              "name": "Electrical Drives"
+            }
+          ]
+        },
+        "year_4": {
+          "semester_7": [
+            {
+              "code": "103701",
+              "name": "Power System Protection"
+            },
+            {
+              "code": "103703",
+              "name": "Digital Signal Processing"
+            },
+            {
+              "code": "103708",
+              "name": "Electronic Devices"
+            },
+            {
+              "code": "103712",
+              "name": "Power Plant Engineering"
+            },
+            {
+              "code": "103715",
+              "name": "Electrical Materials"
+            }
+          ],
+          "semester_8": [
+            {
+              "code": "103801",
+              "name": "Electrical and Hybrid Vehicles"
+            },
+            {
+              "code": "103804",
+              "name": "Computer Networks"
+            },
+            {
+              "code": "103807",
+              "name": "Strength of Materials"
+            },
+            {
+              "code": "100802",
+              "name": "Control Systems Design"
+            },
+            {
+              "code": "100803",
+              "name": "HVDC Transmission Systems"
+            },
+            {
+              "code": "100804",
+              "name": "Power Quality and FACTS"
+            }
+          ]
+        }
+      },
+      "ECE": {
+        "year_2": {
+          "semester_3_legacy_pyq": [
+            {
+              "code": "104301",
+              "name": "Basic Electronics"
+            },
+            {
+              "code": "104302",
+              "name": "Electrical & Electronic Material"
+            },
+            {
+              "code": "104303",
+              "name": "Mathematics-III"
+            },
+            {
+              "code": "104304",
+              "name": "Network Theory"
+            },
+            {
+              "code": "104305",
+              "name": "Signals and Systems"
+            }
+          ],
+          "semester_3_revised_2024_2026": [
+            {
+              "code": "104301",
+              "name": "Electronic Devices and Circuit Theory"
+            },
+            {
+              "code": "104302",
+              "name": "Object Oriented Programming"
+            },
+            {
+              "code": "104303",
+              "name": "Network Theory"
+            },
+            {
+              "code": "104304",
+              "name": "Signal & System",
+              "pyq_alias": "104305"
+            },
+            {
+              "code": "104305",
+              "name": "Engineering Mathematics-III (PDE, Prob/Stat)",
+              "pyq_alias": "104303"
+            },
+            {
+              "code": "104306",
+              "name": "Universal Human Values"
+            }
+          ],
+          "semester_4": [
+            {
+              "code": "104401",
+              "name": "Analog Circuits"
+            },
+            {
+              "code": "104402",
+              "name": "Analog Communication"
+            },
+            {
+              "code": "104403",
+              "name": "Digital Circuits"
+            },
+            {
+              "code": "104404",
+              "name": "Electromagnetic Theory"
+            },
+            {
+              "code": "104405",
+              "name": "Semiconductor Physics and Devices"
+            }
+          ]
+        },
+        "year_3": {
+          "semester_5": [
+            {
+              "code": "104501",
+              "name": "Computer Networks and Security"
+            },
+            {
+              "code": "104502",
+              "name": "Digital Signal Processing"
+            },
+            {
+              "code": "104503",
+              "name": "Linear Control Systems"
+            },
+            {
+              "code": "104504",
+              "name": "Linear Integrated Circuits and Applications"
+            },
+            {
+              "code": "104505",
+              "name": "Microprocessors and Microcontrollers"
+            },
+            {
+              "code": "104506",
+              "name": "Probability Theory and Stochastic Processes"
+            }
+          ],
+          "semester_6": [
+            {
+              "code": "104601",
+              "name": "Computer Organization and Architecture"
+            },
+            {
+              "code": "104602",
+              "name": "Digital Communication"
+            },
+            {
+              "code": "104604",
+              "name": "Electronics Instruments and Measurement"
+            },
+            {
+              "code": "104606",
+              "name": "Digital CMOS VLSI Design"
+            },
+            {
+              "code": "100601",
+              "name": "Biology for Engineers"
+            },
+            {
+              "code": "100607",
+              "name": "Introduction to VLSI Design"
+            },
+            {
+              "code": "100608",
+              "name": "Professional Skill Development"
+            },
+            {
+              "code": "100614",
+              "name": "Digital Image & Video Processing"
+            }
+          ]
+        },
+        "year_4": {
+          "semester_7": [
+            {
+              "code": "104701",
+              "name": "Business Analytics"
+            },
+            {
+              "code": "104702",
+              "name": "Cost Management of Engineering Projects"
+            },
+            {
+              "code": "104703",
+              "name": "Wireless Communication"
+            },
+            {
+              "code": "104705",
+              "name": "Optical Fiber Communications"
+            },
+            {
+              "code": "104709",
+              "name": "Digital System Design"
+            },
+            {
+              "code": "104710",
+              "name": "VLSI Technology"
+            },
+            {
+              "code": "104711",
+              "name": "Information and Coding Theory"
+            },
+            {
+              "code": "100704",
+              "name": "Electromagnetic Waves"
+            },
+            {
+              "code": "100710",
+              "name": "Antennas and Wave Propagation"
+            }
+          ],
+          "semester_8": [
+            {
+              "code": "104804",
+              "name": "Wireless Sensor and Networks"
+            },
+            {
+              "code": "104806",
+              "name": "Analog CMOS VLSI Design"
+            },
+            {
+              "code": "104808",
+              "name": "Machine Learning"
+            },
+            {
+              "code": "104809",
+              "name": "Introduction to MEMS"
+            },
+            {
+              "code": "104810",
+              "name": "Power Electronics"
+            },
+            {
+              "code": "104812",
+              "name": "Transducers and Sensors"
+            },
+            {
+              "code": "100811",
+              "name": "Introduction to Communication Systems"
+            },
+            {
+              "code": "100818",
+              "name": "BioMedical Instrumentation"
+            },
+            {
+              "code": "100819",
+              "name": "Satellite Communication"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -48,6 +48,7 @@ export interface PaperCatalogItem {
   max_freq: number;
   has_mcq: boolean;
   title: string;
+  branch?: string;
 }
 
 export interface SubjectItem {
@@ -58,6 +59,7 @@ export interface SubjectItem {
   paperCount: number;
   totalSubquestions: number;
   maxFreq: number;
+  branch?: string;
 }
 
 export interface PlatformStats {
@@ -86,6 +88,7 @@ export type SortMode =
 export interface FilterState {
   semester: string; // 'ALL' or '1', '2', '3', '4'
   subject: string;  // 'ALL' or subject_code
+  branch?: string;   // 'ALL' or 'COMMON' | 'CSE' | 'CE' | 'ME' | 'EE' | 'ECE' | 'IT' | 'EEE'
   year: string;     // 'ALL' or year e.g. '2024'
   examCode: string; // keyword match on exam code
   query: string;    // text search query

@@ -25,6 +25,23 @@ export const ActiveFilterChips: React.FC<ActiveFilterChipsProps> = ({
     });
   }
 
+  if (filters.branch && filters.branch !== 'ALL') {
+    const branchMeta: Record<string, string> = {
+      COMMON: '1st Year Common',
+      CSE: 'CSE',
+      CE: 'Civil (CE)',
+      ME: 'Mechanical (ME)',
+      EE: 'Electrical (EE)',
+      ECE: 'ECE',
+      IT: 'IT',
+      EEE: 'EEE'
+    };
+    chips.push({
+      label: `Branch: ${branchMeta[filters.branch] || filters.branch}`,
+      onRemove: () => onRemoveFilter({ branch: 'ALL' })
+    });
+  }
+
   if (filters.subject !== 'ALL') {
     const subj = subjects.find(s => s.code === filters.subject);
     chips.push({

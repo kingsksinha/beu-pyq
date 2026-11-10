@@ -1,6 +1,7 @@
 import React from 'react';
-import { Clock, FileText, Hash } from 'lucide-react';
+import { Clock, FileText, Hash, Info } from 'lucide-react';
 import type { PaperDetail } from '../../types/paper';
+import { curriculumService } from '../../services/curriculumService';
 import { formatBTechYear } from '../../utils/formatters';
 
 interface PaperHeaderProps {
@@ -8,10 +9,21 @@ interface PaperHeaderProps {
 }
 
 export const PaperHeader: React.FC<PaperHeaderProps> = ({ paper }) => {
+  const branchKey = curriculumService.detectBranch(paper.exam_code, paper.subject_code);
+  const branchMeta = curriculumService.getMajorBranchMeta(branchKey);
+  const revisedInfo = curriculumService.getRevisedSyllabusInfo(paper.exam_code);
+
   return (
     <div className="paper-header-card bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 sm:p-8 text-center shadow-xs">
-      <div className="text-xs uppercase tracking-widest font-bold text-indigo-600 dark:text-indigo-400">
-        Bihar Engineering University, Patna
+      <div className="flex flex-wrap items-center justify-center gap-2">
+        <span className="text-xs uppercase tracking-widest font-bold text-indigo-600 dark:text-indigo-400">
+          Bihar Engineering University, Patna
+        </span>
+        <span
+          className={`px-2 py-0.5 text-[10px] font-bold rounded-md border ${branchMeta.badgeBg} ${branchMeta.badgeText} ${branchMeta.badgeBorder}`}
+        >
+          {branchMeta.shortName}
+        </span>
       </div>
 
       <h1 className="text-xl sm:text-2xl md:text-3xl font-extrabold text-slate-900 dark:text-white mt-2">
@@ -21,6 +33,17 @@ export const PaperHeader: React.FC<PaperHeaderProps> = ({ paper }) => {
       <p className="text-sm font-semibold text-slate-500 dark:text-slate-400 mt-1">
         B.Tech {formatBTechYear(paper.semester)} Examination, {paper.year}
       </p>
+
+      {/* Revised Syllabus Notice */}
+      {revisedInfo && (
+        <div className="mt-4 max-w-xl mx-auto p-2.5 rounded-xl bg-emerald-500/10 border border-emerald-500/20 text-xs text-emerald-800 dark:text-emerald-300 flex items-center justify-center gap-2 text-left sm:text-center">
+          <Info className="w-4 h-4 text-emerald-500 shrink-0" />
+          <span>
+            <strong className="font-bold">BEU 2024–2026 Revised Syllabus:</strong> This paper corresponds to Revised Course Code{' '}
+            <strong className="font-mono underline">{revisedInfo.revisedCode}</strong> ({revisedInfo.name}).
+          </span>
+        </div>
+      )}
 
       {/* Meta Specs Bar */}
       <div className="mt-6 pt-4 border-t border-slate-100 dark:border-slate-800/80 flex flex-wrap items-center justify-center gap-4 sm:gap-8 text-xs font-semibold text-slate-600 dark:text-slate-300">

@@ -1,6 +1,7 @@
 import React, { useMemo } from 'react';
 import { Filter, RotateCcw, Sparkles } from 'lucide-react';
 import type { FilterState, SortMode, SubjectItem } from '../../types/paper';
+import { curriculumService, MAJOR_BRANCHES } from '../../services/curriculumService';
 import { ActiveFilterChips } from './ActiveFilterChips';
 import { SortDropdown } from './SortDropdown';
 
@@ -14,11 +15,6 @@ interface FilterBarProps {
   onResetFilters: () => void;
 }
 
-const formatYearLabel = (val: string) => {
-  const map: Record<string, string> = { '1': '1st Year', '2': '2nd Year', '3': '3rd Year', '4': '4th Year' };
-  return map[val] || `Year ${val}`;
-};
-
 export const FilterBar: React.FC<FilterBarProps> = ({
   filters,
   subjects,
@@ -28,14 +24,18 @@ export const FilterBar: React.FC<FilterBarProps> = ({
   onFilterChange,
   onResetFilters
 }) => {
-  // Only show subjects belonging to the currently selected semester
+  // Filter subjects by selected year AND branch
   const availableSubjects = useMemo(() => {
-    if (filters.semester === 'ALL') {
-      return subjects;
+    let list = subjects;
+    if (filters.semester !== 'ALL') {
+      const semNum = parseInt(filters.semester, 10);
+      list = list.filter(s => s.semesters.includes(semNum));
     }
-    const semNum = parseInt(filters.semester, 10);
-    return subjects.filter(s => s.semesters.includes(semNum));
-  }, [subjects, filters.semester]);
+    if (filters.branch && filters.branch !== 'ALL') {
+      list = list.filter(s => (s.branch || curriculumService.detectBranch(undefined, s.code)) === filters.branch);
+    }
+    return list;
+  }, [subjects, filters.semester, filters.branch]);
 
   const handleSemesterChange = (newSem: string) => {
     const changes: Partial<FilterState> = { semester: newSem };
@@ -51,6 +51,19 @@ export const FilterBar: React.FC<FilterBarProps> = ({
       }
     }
 
+    onFilterChange(changes);
+  };
+
+  const handleBranchChange = (newBranch: string) => {
+    const changes: Partial<FilterState> = { branch: newBranch };
+    if (newBranch !== 'ALL' && filters.subject !== 'ALL') {
+      const isSubjValid = subjects.some(
+        s => s.code === filters.subject && (s.branch || curriculumService.detectBranch(undefined, s.code)) === newBranch
+      );
+      if (!isSubjValid) {
+        changes.subject = 'ALL';
+      }
+    }
     onFilterChange(changes);
   };
 
@@ -83,7 +96,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
       </div>
 
       {/* Select Controls Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2.5 sm:gap-3">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-2.5 sm:gap-3">
         {/* Academic Year Filter (1st to 4th Year) */}
         <div>
           <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
@@ -102,7 +115,26 @@ export const FilterBar: React.FC<FilterBarProps> = ({
           </select>
         </div>
 
-        {/* Subject Filter - Dynamically filtered to only show subjects of the selected year */}
+        {/* Engineering Branch Filter */}
+        <div>
+          <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
+            Branch / Dept
+          </label>
+          <select
+            value={filters.branch || 'ALL'}
+            onChange={e => handleBranchChange(e.target.value)}
+            className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 cursor-pointer"
+          >
+            <option value="ALL">All Branches</option>
+            {MAJOR_BRANCHES.map(b => (
+              <option key={b.key} value={b.key}>
+                {b.label}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        {/* Subject Filter - Dynamically filtered to only show subjects of the selected year and branch */}
         <div>
           <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 mb-1">
             Subject ({availableSubjects.length})
@@ -113,9 +145,9 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 truncate cursor-pointer"
           >
             <option value="ALL">
-              {filters.semester === 'ALL'
+              {filters.semester === 'ALL' && (!filters.branch || filters.branch === 'ALL')
                 ? `All Subjects (${subjects.length})`
-                : `All ${formatYearLabel(filters.semester)} Subjects (${availableSubjects.length})`}
+                : `All Filtered (${availableSubjects.length})`}
             </option>
             {availableSubjects.map(s => (
               <option key={s.code} value={s.code}>
@@ -153,7 +185,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             type="text"
             value={filters.examCode}
             onChange={e => onFilterChange({ examCode: e.target.value })}
-            placeholder="E.g. 100201 or ESC..."
+            placeholder="E.g. 100201 or 105301..."
             className="w-full text-xs font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500"
           />
         </div>

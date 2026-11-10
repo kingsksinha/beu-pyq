@@ -17,6 +17,7 @@ export const PapersExplorerPage: React.FC = () => {
     return {
       semester: searchParams.get('semester') || 'ALL',
       subject: searchParams.get('subject') || 'ALL',
+      branch: searchParams.get('branch') || 'ALL',
       year: searchParams.get('year') || 'ALL',
       examCode: searchParams.get('code') || '',
       query: searchParams.get('q') || '',
@@ -52,6 +53,7 @@ export const PapersExplorerPage: React.FC = () => {
 
     const params = new URLSearchParams();
     if (updated.semester !== 'ALL') params.set('semester', updated.semester);
+    if (updated.branch && updated.branch !== 'ALL') params.set('branch', updated.branch);
     if (updated.subject !== 'ALL') params.set('subject', updated.subject);
     if (updated.year !== 'ALL') params.set('year', updated.year);
     if (updated.examCode) params.set('code', updated.examCode);

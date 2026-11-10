@@ -9,6 +9,7 @@ import {
   PlayCircle 
 } from 'lucide-react';
 import { storageService } from '../../services/storageService';
+import { curriculumService } from '../../services/curriculumService';
 import type { PaperCatalogItem } from '../../types/paper';
 import { StarFrequency } from '../ui/StarFrequency';
 import { formatBTechYear } from '../../utils/formatters';
@@ -20,6 +21,10 @@ interface PaperCardProps {
 
 export const PaperCard: React.FC<PaperCardProps> = ({ paper, onBookmarkChange }) => {
   const [isBookmarked, setIsBookmarked] = useState(() => storageService.isPaperBookmarked(paper.id));
+
+  const branchKey = paper.branch || curriculumService.detectBranch(paper.exam_code, paper.subject_code);
+  const branchMeta = curriculumService.getMajorBranchMeta(branchKey);
+  const revisedInfo = curriculumService.getRevisedSyllabusInfo(paper.exam_code);
 
   const recordHistory = () => {
     storageService.addHistory({
@@ -57,12 +62,22 @@ export const PaperCard: React.FC<PaperCardProps> = ({ paper, onBookmarkChange })
             <span className="px-2 py-0.5 text-[11px] font-semibold rounded-md bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/80">
               {formatBTechYear(paper.semester)}
             </span>
+            <span
+              className={`px-2 py-0.5 text-[10px] font-bold rounded-md border ${branchMeta.badgeBg} ${branchMeta.badgeText} ${branchMeta.badgeBorder}`}
+            >
+              {branchMeta.shortName}
+            </span>
             <span className="px-2 py-0.5 text-[11px] font-mono font-medium rounded-md bg-slate-50 dark:bg-slate-800/60 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700/80">
               {paper.year}
             </span>
             <span className="px-2 py-0.5 text-[11px] font-mono text-slate-500 dark:text-slate-400 bg-slate-50 dark:bg-slate-800/40 rounded border border-slate-200 dark:border-slate-800">
               Code: {paper.exam_code}
             </span>
+            {revisedInfo && (
+              <span className="px-1.5 py-0.5 text-[9px] font-bold font-mono rounded bg-emerald-50 dark:bg-emerald-950 text-emerald-700 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800" title={`For 2024-2026 students, revised course code is ${revisedInfo.revisedCode}`}>
+                Rev. {revisedInfo.revisedCode}
+              </span>
+            )}
           </div>
 
           <button

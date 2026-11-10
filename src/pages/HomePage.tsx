@@ -19,6 +19,8 @@ import {
 import { PaperCard } from '../components/paper/PaperCard';
 import { dataService } from '../services/dataService';
 import { storageService } from '../services/storageService';
+import { formatBTechYear } from '../utils/formatters';
+import { MAJOR_BRANCHES } from '../services/curriculumService';
 import type { HistoryItem, PaperCatalogItem, PlatformStats } from '../types/paper';
 
 export const HomePage: React.FC = () => {
@@ -60,11 +62,11 @@ export const HomePage: React.FC = () => {
     );
   }
 
-  const semesterCards = [
-    { sem: 1, name: '1st Semester', desc: 'Engineering Physics, Basic Electrical, Maths-1, English', papers: stats?.semesterDistribution['1'] || 93 },
-    { sem: 2, name: '2nd Semester', desc: 'Engineering Chemistry, PPS, Maths-2, Workshop', papers: stats?.semesterDistribution['2'] || 92 },
-    { sem: 3, name: '3rd Semester', desc: 'DSA, Digital Electronics, Analog Circuits, Maths-3', papers: stats?.semesterDistribution['3'] || 89 },
-    { sem: 4, name: '4th Semester', desc: 'DAA, OS, DBMS, Discrete Mathematics, Networks', papers: stats?.semesterDistribution['4'] || 89 },
+  const yearCards = [
+    { yearNum: 1, name: '1st Year Foundation', desc: 'Group A & B Cycles: Physics, Chemistry, Maths-1 & 2, BEE, Workshop, English', papers: stats?.semesterDistribution['1'] || 93 },
+    { yearNum: 2, name: '2nd Year Core', desc: 'Department Core: DSA, Digital Electronics, Solid Mechanics, Thermodynamics, Maths-3', papers: stats?.semesterDistribution['2'] || 92 },
+    { yearNum: 3, name: '3rd Year Advanced', desc: 'Advanced Branch Modules: OS, DBMS, Steel Structures, Fluid Machinery, Power Systems', papers: stats?.semesterDistribution['3'] || 89 },
+    { yearNum: 4, name: '4th Year Final Year', desc: 'Specialized Electives: Machine Learning, Cloud Computing, Transportation, Projects', papers: stats?.semesterDistribution['4'] || 89 },
   ];
 
   return (
@@ -346,34 +348,34 @@ export const HomePage: React.FC = () => {
       </section>
 
       {/* =========================================================================
-          SEMESTER LAUNCHPADS
+          B.TECH YEAR CATALOGS
          ========================================================================= */}
       <section className="space-y-4">
         <div className="flex items-center justify-between">
           <div>
-            <h2 className="text-lg font-bold text-slate-900 dark:text-slate-100">Semester Launchpads</h2>
-            <p className="text-xs text-slate-500 dark:text-slate-400">Instant jump to your current semester syllabus</p>
+            <h2 className="text-lg font-bold text-slate-900 dark:text-slate-100">B.Tech Year Catalogs</h2>
+            <p className="text-xs text-slate-500 dark:text-slate-400">Instant jump to your engineering year curriculum & past question papers</p>
           </div>
           <Link
             to="/semesters"
             className="text-xs font-semibold text-indigo-600 dark:text-indigo-400 hover:underline flex items-center gap-1"
           >
-            <span>View All Semesters</span>
+            <span>View All B.Tech Years</span>
             <ArrowRight className="w-3.5 h-3.5" />
           </Link>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {semesterCards.map(s => (
+          {yearCards.map(s => (
             <Link
-              key={s.sem}
-              to={`/papers?semester=${s.sem}`}
+              key={s.yearNum}
+              to={`/semesters?sem=${s.yearNum}`}
               className="group p-5 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 hover:border-indigo-400 dark:hover:border-indigo-500 transition shadow-xs flex flex-col justify-between"
             >
               <div>
                 <div className="flex items-center justify-between mb-2">
                   <span className="text-xs font-bold uppercase tracking-wider text-indigo-600 dark:text-indigo-400">
-                    Semester {s.sem}
+                    {formatBTechYear(s.yearNum)}
                   </span>
                   <span className="px-2 py-0.5 text-[11px] font-semibold rounded-full bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200/60 dark:border-slate-700">
                     {s.papers} Papers
@@ -388,8 +390,57 @@ export const HomePage: React.FC = () => {
               </div>
 
               <div className="mt-4 pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-xs font-semibold text-slate-700 dark:text-slate-300">
-                <span>Browse Papers</span>
+                <span>Explore {formatBTechYear(s.yearNum)}</span>
                 <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition text-indigo-500" />
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* =========================================================================
+          OFFICIAL BEU ENGINEERING DEPARTMENTS & BRANCHES
+         ========================================================================= */}
+      <section className="space-y-4">
+        <div className="flex items-center justify-between">
+          <div>
+            <h2 className="text-lg font-bold text-slate-900 dark:text-slate-100">Engineering Departments & Branches</h2>
+            <p className="text-xs text-slate-500 dark:text-slate-400">Official Bihar Engineering University department catalogs and branch archives</p>
+          </div>
+          <Link
+            to="/papers"
+            className="text-xs font-semibold text-indigo-600 dark:text-indigo-400 hover:underline flex items-center gap-1"
+          >
+            <span>Browse All Branches</span>
+            <ArrowRight className="w-3.5 h-3.5" />
+          </Link>
+        </div>
+
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4">
+          {MAJOR_BRANCHES.map(b => (
+            <Link
+              key={b.key}
+              to={`/papers?branch=${b.key}`}
+              className="group p-4 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 hover:border-indigo-400 dark:hover:border-indigo-500 transition shadow-xs flex flex-col justify-between"
+            >
+              <div>
+                <div className="flex items-center justify-between mb-2">
+                  <span className={`px-2 py-0.5 text-[10px] font-bold rounded-md border ${b.badgeBg} ${b.badgeText} ${b.badgeBorder}`}>
+                    Prefix {b.prefix}
+                  </span>
+                  <span className="text-[11px] font-mono text-slate-400">BEU</span>
+                </div>
+                <h3 className="font-bold text-xs sm:text-sm text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition line-clamp-1">
+                  {b.shortName}
+                </h3>
+                <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5 truncate">
+                  {b.label}
+                </p>
+              </div>
+
+              <div className="mt-3 pt-2 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-[11px] font-semibold text-indigo-600 dark:text-indigo-400">
+                <span>View Papers</span>
+                <ArrowRight className="w-3 h-3 group-hover:translate-x-1 transition" />
               </div>
             </Link>
           ))}

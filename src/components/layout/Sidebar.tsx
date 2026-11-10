@@ -97,7 +97,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ onOpenLegend }) => {
 
         <div className="p-2.5 rounded-xl bg-gradient-to-br from-indigo-500/10 via-purple-500/5 to-pink-500/10 border border-indigo-500/20 text-center space-y-1">
           <div className="text-[10px] font-mono uppercase tracking-wider text-slate-400">
-            363 Papers · Sem 1–4 · 2012–25
+            363 Papers · 1st–4th Year · 2012–25
           </div>
           <div className="flex items-center justify-center gap-1.5 text-xs font-bold text-slate-800 dark:text-slate-200">
             <span>Crafted with</span>

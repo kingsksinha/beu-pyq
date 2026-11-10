@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, Flame, Library, Search } from 'lucide-react';
 import { dataService } from '../services/dataService';
+import { curriculumService, MAJOR_BRANCHES, type MajorBranchKey } from '../services/curriculumService';
 import type { SubjectItem } from '../types/paper';
 import { formatBTechYear } from '../utils/formatters';
 
@@ -9,6 +10,7 @@ export const SubjectDirectoryPage: React.FC = () => {
   const [subjects, setSubjects] = useState<SubjectItem[]>([]);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedSemester, setSelectedSemester] = useState('ALL');
+  const [selectedBranch, setSelectedBranch] = useState<MajorBranchKey>('ALL');
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -23,9 +25,11 @@ export const SubjectDirectoryPage: React.FC = () => {
       const q = searchQuery.trim().toLowerCase();
       const matchesSearch = !q || s.name.toLowerCase().includes(q) || s.code.toLowerCase().includes(q);
       const matchesSem = selectedSemester === 'ALL' || s.semesters.includes(parseInt(selectedSemester, 10));
-      return matchesSearch && matchesSem;
+      const branchKey = s.branch || curriculumService.detectBranch(undefined, s.code);
+      const matchesBranch = selectedBranch === 'ALL' || branchKey === selectedBranch;
+      return matchesSearch && matchesSem && matchesBranch;
     });
-  }, [subjects, searchQuery, selectedSemester]);
+  }, [subjects, searchQuery, selectedSemester, selectedBranch]);
 
   if (loading) {
     return (
@@ -47,12 +51,12 @@ export const SubjectDirectoryPage: React.FC = () => {
           All 92 Engineering Subjects
         </h1>
         <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
-          Browse complete course catalogs across all branches of Bihar Engineering University.
+          Browse complete course catalogs across all engineering branches of Bihar Engineering University.
         </p>
       </div>
 
       {/* Filter and Search Bar */}
-      <div className="flex flex-col sm:flex-row items-center gap-3 bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 shadow-xs">
+      <div className="flex flex-col md:flex-row items-center gap-3 bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 shadow-xs">
         <div className="relative flex-1 w-full">
           <Search className="w-4 h-4 absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400" />
           <input
@@ -64,17 +68,34 @@ export const SubjectDirectoryPage: React.FC = () => {
           />
         </div>
 
-        <select
-          value={selectedSemester}
-          onChange={e => setSelectedSemester(e.target.value)}
-          className="w-full sm:w-48 text-xs sm:text-sm font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500"
-        >
-          <option value="ALL">All B.Tech Years</option>
-          <option value="1">1st Year</option>
-          <option value="2">2nd Year</option>
-          <option value="3">3rd Year</option>
-          <option value="4">4th Year</option>
-        </select>
+        <div className="flex flex-col sm:flex-row items-center gap-2.5 w-full md:w-auto">
+          {/* Year Filter */}
+          <select
+            value={selectedSemester}
+            onChange={e => setSelectedSemester(e.target.value)}
+            className="w-full sm:w-40 text-xs sm:text-sm font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 cursor-pointer"
+          >
+            <option value="ALL">All B.Tech Years</option>
+            <option value="1">1st Year</option>
+            <option value="2">2nd Year</option>
+            <option value="3">3rd Year</option>
+            <option value="4">4th Year</option>
+          </select>
+
+          {/* Branch Filter */}
+          <select
+            value={selectedBranch}
+            onChange={e => setSelectedBranch(e.target.value as MajorBranchKey)}
+            className="w-full sm:w-48 text-xs sm:text-sm font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500 cursor-pointer"
+          >
+            <option value="ALL">All Branches</option>
+            {MAJOR_BRANCHES.map(b => (
+              <option key={b.key} value={b.key}>
+                {b.label}
+              </option>
+            ))}
+          </select>
+        </div>
       </div>
 
       {/* Matching Count */}
@@ -84,32 +105,40 @@ export const SubjectDirectoryPage: React.FC = () => {
 
       {/* Subjects Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 sm:gap-4">
-        {filteredSubjects.map(subj => (
-          <Link
-            key={subj.code}
-            to={`/papers?subject=${subj.code}`}
-            className="group p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 hover:border-indigo-400 dark:hover:border-indigo-500 transition flex flex-col justify-between shadow-xs hover:shadow-md"
-          >
-            <div>
-              <div className="flex items-center justify-between gap-2 mb-2">
-                <div className="flex flex-wrap items-center gap-1.5">
-                  <span className="px-2 py-0.5 text-[11px] font-mono font-bold rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-700">
-                    {subj.code}
-                  </span>
-                  {subj.semesters.map(sem => (
-                    <span
-                      key={sem}
-                      className="px-1.5 py-0.5 text-[10px] font-bold rounded bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/80"
-                    >
-                      {formatBTechYear(sem)}
-                    </span>
-                  ))}
-                </div>
+        {filteredSubjects.map(subj => {
+          const branchKey = subj.branch || curriculumService.detectBranch(undefined, subj.code);
+          const branchMeta = curriculumService.getMajorBranchMeta(branchKey);
 
-                <span className="px-2 py-0.5 text-[11px] font-bold rounded-full bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200/60 dark:border-slate-700">
-                  {subj.paperCount} Papers
-                </span>
-              </div>
+          return (
+            <Link
+              key={subj.code}
+              to={`/papers?subject=${subj.code}`}
+              className="group p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 hover:border-indigo-400 dark:hover:border-indigo-500 transition flex flex-col justify-between shadow-xs hover:shadow-md"
+            >
+              <div>
+                <div className="flex items-center justify-between gap-2 mb-2">
+                  <div className="flex flex-wrap items-center gap-1.5">
+                    <span className="px-2 py-0.5 text-[11px] font-mono font-bold rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-700">
+                      {subj.code}
+                    </span>
+                    <span
+                      className={`px-2 py-0.5 text-[10px] font-bold rounded-md border ${branchMeta.badgeBg} ${branchMeta.badgeText} ${branchMeta.badgeBorder}`}
+                    >
+                      {branchMeta.shortName}
+                    </span>
+                    {subj.semesters.map(sem => (
+                      <span
+                        key={sem}
+                        className="px-2 py-0.5 text-[10px] font-bold rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400"
+                      >
+                        {formatBTechYear(sem)}
+                      </span>
+                    ))}
+                  </div>
+                  <span className="px-2 py-0.5 text-[11px] font-bold rounded-full bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/80 font-mono">
+                    {subj.paperCount} Papers
+                  </span>
+                </div>
 
               <h3 className="font-bold text-sm sm:text-base text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition line-clamp-2">
                 {subj.name}
@@ -131,7 +160,8 @@ export const SubjectDirectoryPage: React.FC = () => {
               <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition text-indigo-500" />
             </div>
           </Link>
-        ))}
+        );
+      })}
       </div>
     </div>
   );

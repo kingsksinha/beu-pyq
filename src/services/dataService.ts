@@ -1,4 +1,5 @@
 import type { FilterState, PaperCatalogItem, PaperDetail, PlatformStats, SubjectItem } from '../types/paper';
+import { curriculumService } from './curriculumService';
 
 let catalogCache: PaperCatalogItem[] | null = null;
 let subjectsCache: SubjectItem[] | null = null;
@@ -14,6 +15,9 @@ export const dataService = {
       const res = await fetch(`${BASE_URL}/data/papers_catalog.json`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data: PaperCatalogItem[] = await res.json();
+      data.forEach(item => {
+        item.branch = curriculumService.detectBranch(item.exam_code, item.subject_code);
+      });
       catalogCache = data;
       return data;
     } catch (err) {
@@ -28,6 +32,9 @@ export const dataService = {
       const res = await fetch(`${BASE_URL}/data/subjects.json`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data: SubjectItem[] = await res.json();
+      data.forEach(item => {
+        item.branch = curriculumService.detectBranch(undefined, item.code);
+      });
       subjectsCache = data;
       return data;
     } catch (err) {
@@ -71,6 +78,13 @@ export const dataService = {
       // Semester filter
       if (filters.semester !== 'ALL' && p.semester.toString() !== filters.semester) {
         return false;
+      }
+      // Branch filter
+      if (filters.branch && filters.branch !== 'ALL') {
+        const itemBranch = p.branch || curriculumService.detectBranch(p.exam_code, p.subject_code);
+        if (itemBranch !== filters.branch) {
+          return false;
+        }
       }
       // Subject filter
       if (filters.subject !== 'ALL' && p.subject_code !== filters.subject) {
