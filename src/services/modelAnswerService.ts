@@ -1,4 +1,4 @@
-import { SAWTOOTH_WAVEFORM_SVG } from '../components/ui/QuestionDiagram';
+import { BRIDGE_CIRCUIT_SVG, SAWTOOTH_WAVEFORM_SVG } from '../components/ui/QuestionDiagram';
 
 export interface ModelAnswer {
   questionSummary: string;
@@ -78,6 +78,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
     questionSummary: 'Equivalent Resistance between Terminals A and B (Bridge Network)',
     source: 'BEU Basic Electrical Engineering Examination Key (2022 Q.2b)',
     marksDistribution: '2 Marks (Circuit Schematic & Identification) + 3 Marks (Bridge Balance / Star-Delta Reduction) + 2 Marks (Final Equivalent Resistance)',
+    schematicSvg: BRIDGE_CIRCUIT_SVG,
     points: [
       {
         heading: '1. Standard BEU Examination Circuit Representation',
@@ -602,21 +603,20 @@ export const modelAnswerService = {
       return CURATED_MODEL_ANSWERS.soldering_filler;
     }
 
-    // BEE 2022 Specific Problems (Strict, Accurate Question Verification)
-    // 1. Sawtooth AC Waveform V_rms (Q.3a)
+    // BEE 2022 Specific Problems (Strict 1:1 Question Verification)
+    // 1. Sawtooth AC Waveform V_rms (2022 Q.3a)
     if (
-      (text.includes('waveform') || text.includes('given waveform')) &&
-      (text.includes('r.m.s') || text.includes('rms') || text.includes('v_rms') || text.includes('v_{\\text{rms}}'))
+      text.includes('22bee3a') ||
+      (text.includes('explain the r.m.s') && text.includes('given waveform in the figure'))
     ) {
       return CURATED_MODEL_ANSWERS.rms_waveform_calculation;
     }
 
-    // 2. Resistor Bridge Network between Terminals A and B (Q.2b)
+    // 2. Resistor Bridge Network between Terminals A and B (2022 Q.2b)
     if (
-      (text.includes('resistance between a and b') || text.includes('resistance between a & b') || (text.includes('resistance between') && text.includes('bridge'))) &&
-      !text.includes('waveform') &&
-      !text.includes('r.m.s') &&
-      !text.includes('rms')
+      text.includes('22bee2b') ||
+      (text.includes('calculate the resistance between a and b') && text.includes('figure given below')) ||
+      (text.includes('resistance between a and b') && text.includes('bridge') && (text.includes('2 ohm') || text.includes('4 ohm')))
     ) {
       return CURATED_MODEL_ANSWERS.bridge_resistance_ab;
     }

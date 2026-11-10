@@ -137,18 +137,14 @@ export const QuestionDiagram: React.FC<QuestionDiagramProps> = ({ images, questi
 
   const textLower = questionText.toLowerCase();
 
-  // Strict 1:1 image and question targeting
+  // Strict 1:1 image and question targeting (never match generic text or other years)
   const isBridgeCircuit =
     images.some(img => img.includes('22bee2b')) ||
-    ((textLower.includes('resistance between a and b') || textLower.includes('resistance between a & b')) &&
-      !textLower.includes('waveform') &&
-      !textLower.includes('r.m.s') &&
-      !textLower.includes('rms'));
+    (textLower.includes('calculate the resistance between a and b') && textLower.includes('figure given below'));
 
   const isSawtoothWaveform =
     images.some(img => img.includes('22bee3a')) ||
-    ((textLower.includes('waveform') || textLower.includes('given waveform')) &&
-      (textLower.includes('r.m.s') || textLower.includes('rms') || textLower.includes('v_rms') || textLower.includes('v_{\\text{rms}}')));
+    (textLower.includes('explain the r.m.s. value') && textLower.includes('given waveform in the figure'));
 
   if (isBridgeCircuit) {
     return (
