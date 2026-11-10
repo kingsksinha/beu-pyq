@@ -159,17 +159,17 @@ export const HomePage: React.FC = () => {
       <section className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-indigo-950 via-slate-900 to-slate-950 text-white p-5 sm:p-8 border border-indigo-500/30 shadow-xl">
         <div className="flex flex-col md:flex-row items-center md:items-center justify-between gap-6 relative z-10">
           <div className="flex flex-col sm:flex-row items-center sm:items-start text-center sm:text-left gap-4 sm:gap-5 w-full md:w-auto">
-            {/* FBi Avatar: Seamless Circular Profile */}
-            <div className="relative w-16 h-16 sm:w-20 sm:h-20 shrink-0">
-              <div className="w-full h-full rounded-full overflow-hidden ring-2 ring-indigo-400/50 dark:ring-indigo-500/50 shadow-lg shadow-indigo-500/20 bg-slate-900">
+            {/* FBi Avatar: Large & Prominent Circular Profile */}
+            <div className="relative w-24 h-24 sm:w-28 sm:h-28 md:w-32 md:h-32 shrink-0">
+              <div className="w-full h-full rounded-full overflow-hidden ring-4 ring-indigo-400/50 dark:ring-indigo-500/50 shadow-xl shadow-indigo-500/30 bg-slate-900">
                 <img
                   src="/fbi_avatar.jpg"
                   alt="FBi - Creator & Platform Architect"
-                  className="w-full h-full object-cover scale-112 hover:scale-120 transition duration-300"
+                  className="w-full h-full object-cover scale-110 hover:scale-115 transition duration-300"
                 />
               </div>
               <div
-                className="absolute bottom-0.5 right-0.5 w-4 h-4 rounded-full bg-emerald-500 border-2 border-slate-950 shadow-xs"
+                className="absolute bottom-1 right-1 w-5 h-5 rounded-full bg-emerald-500 border-2 border-slate-950 shadow-sm"
                 title="Active Platform Lead"
               />
             </div>
@@ -184,11 +184,11 @@ export const HomePage: React.FC = () => {
                   <span>Lead Developer</span>
                 </span>
               </div>
-              <h3 className="text-lg sm:text-2xl font-black text-white tracking-tight mt-1">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-white tracking-tight mt-1.5">
                 Designed & Engineered with Passion by FBi
               </h3>
-              <p className="text-xs sm:text-sm text-slate-300 max-w-xl mt-1.5 leading-relaxed">
-                Dedicated to every Bihar Engineering University (BEU) student. Built with 100% authentic university exam archives, syllabus-calibrated marking schemes, KaTeX mathematical proofs, and interactive exam practice.
+              <p className="text-sm sm:text-base text-slate-300 mt-2 font-medium leading-relaxed">
+                Was getting bored, and this is the result of boredom.
               </p>
             </div>
           </div>
