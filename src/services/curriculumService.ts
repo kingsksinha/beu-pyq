@@ -165,7 +165,7 @@ const SUBJECT_TO_BRANCH_MAP: Record<string, MajorBranchKey> = {
   eme: 'ME',
 
   // Electrical
-  bee: 'EE',
+  bee: 'COMMON',
   power1: 'EE',
   power2: 'EE',
   pe: 'EE',
@@ -306,17 +306,38 @@ export const curriculumService = {
     if (examCode) {
       const code = examCode.trim().toUpperCase();
 
-      // Check standard 3-digit prefixes
-      if (code.startsWith('105') || code.startsWith('051')) return 'CSE';
+      // Specific branch abbreviations in code (e.g. PCC-CE-206, ME-201, EC-102, PCC-IT-302)
+      if (code.includes('-CE-') || code.startsWith('CE-')) return 'CE';
+      if (code.includes('-ME-') || code.startsWith('ME-')) return 'ME';
+      if (code.includes('-IT-') || code.startsWith('IT-')) return 'IT';
+      if (code.includes('-EEE-')) return 'EEE';
+      if (code.includes('-EE-') || code.startsWith('EE-')) return 'EE';
+      if (code.includes('-EC-') || code.startsWith('EC-')) return 'ECE';
+      if (code.includes('-CS-') || code.startsWith('CS-')) return 'CSE';
+
+      // Standard 3-digit prefixes
+      if (code.startsWith('105') || code.startsWith('051') || code.startsWith('151') || code.startsWith('152') || code.startsWith('153') || code.startsWith('157')) return 'CSE';
       if (code.startsWith('101') || code.startsWith('011')) return 'CE';
       if (code.startsWith('102') || code.startsWith('021')) return 'ME';
       if (code.startsWith('103') || code.startsWith('031')) return 'EE';
       if (code.startsWith('104')) return 'ECE';
       if (code.startsWith('106')) return 'IT';
       if (code.startsWith('110')) return 'EEE';
-      if (code.startsWith('151') || code.startsWith('152') || code.startsWith('153') || code.startsWith('157')) return 'CSE';
-      if (code.startsWith('100') || code.startsWith('211') || code.startsWith('ESC') || code.startsWith('BSC')) {
-        // Look up by subject code if available
+
+      // 100 prefix: In 1st year (code 1001xx or 1002xx), it is Common Foundation
+      if (code.startsWith('100')) {
+        const semDigit = code.length >= 4 ? code[3] : '';
+        if (semDigit === '1' || semDigit === '2') {
+          return 'COMMON';
+        }
+        // If higher semester (sem 3, 4, etc.), map by subject
+        if (subjectCode && SUBJECT_TO_BRANCH_MAP[subjectCode.toLowerCase()]) {
+          return SUBJECT_TO_BRANCH_MAP[subjectCode.toLowerCase()];
+        }
+        return 'COMMON';
+      }
+
+      if (code.startsWith('211') || code.startsWith('ESC') || code.startsWith('BSC')) {
         if (subjectCode && SUBJECT_TO_BRANCH_MAP[subjectCode.toLowerCase()]) {
           return SUBJECT_TO_BRANCH_MAP[subjectCode.toLowerCase()];
         }
