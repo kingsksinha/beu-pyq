@@ -11,6 +11,8 @@
 
 export type AnswerConfidence = 'VERIFIED' | 'REVIEWED' | 'GENERATED';
 
+import { modelAnswerService } from './modelAnswerService';
+
 export interface AnswerKey {
   questionId: string;
   correctOptionIndex: number; // 0-based index matching options array
@@ -100,35 +102,88 @@ const AUTHORITATIVE_ANSWER_KEYS: Record<string, Omit<AnswerKey, 'questionId'>> =
 export const answerKeyService = {
   /**
    * Resolves an answer key for a question.
-   * Prioritizes stable questionId lookup.
-   * Validates option index bounds.
-   * Returns null if no verified or reviewed key is registered.
+   * 1. Prioritizes authoritative BEU question ID lookup (confidence: 'VERIFIED').
+   * 2. If not found in authoritative dictionary, checks curated model answers and academic solvers
+   *    (confidence: 'REVIEWED' or 'GENERATED').
+   * 3. Validates option index bounds.
+   * 4. Returns null only if no answer can be determined.
    */
   resolveAnswerKey(
     questionId: string,
-    options?: string[]
+    options?: string[],
+    questionText?: string,
+    subNumber?: string
   ): AnswerKey | null {
     if (!questionId) return null;
 
+    // 1. Authoritative Question ID lookup
     const entry = AUTHORITATIVE_ANSWER_KEYS[questionId];
-    if (!entry) return null;
-
-    // Validate index exists within options
-    if (options && options.length > 0) {
-      if (entry.correctOptionIndex < 0 || entry.correctOptionIndex >= options.length) {
-        console.warn(`[answerKeyService] Answer index ${entry.correctOptionIndex} out of bounds for ${questionId} (options count: ${options.length})`);
-        return null;
+    if (entry) {
+      if (options && options.length > 0) {
+        if (entry.correctOptionIndex >= 0 && entry.correctOptionIndex < options.length) {
+          return {
+            questionId,
+            correctOptionIndex: entry.correctOptionIndex,
+            confidence: entry.confidence,
+            source: entry.source,
+            verified: entry.verified,
+            explanation: entry.explanation
+          };
+        }
+      } else {
+        return {
+          questionId,
+          correctOptionIndex: entry.correctOptionIndex,
+          confidence: entry.confidence,
+          source: entry.source,
+          verified: entry.verified,
+          explanation: entry.explanation
+        };
       }
     }
 
-    return {
-      questionId,
-      correctOptionIndex: entry.correctOptionIndex,
-      confidence: entry.confidence,
-      source: entry.source,
-      verified: entry.verified,
-      explanation: entry.explanation
-    };
+    // 2. Curated model answers & academic solver lookup
+    if (questionText && options && options.length > 0) {
+      const model = modelAnswerService.findModelAnswer(questionText, undefined, options, subNumber);
+      if (model) {
+        // Match by correctOptionLetter (e.g. 'a', 'b', 'c', 'd')
+        if (model.correctOptionLetter) {
+          const letter = model.correctOptionLetter.trim().toLowerCase();
+          const optIdx = letter.charCodeAt(0) - 97;
+          if (optIdx >= 0 && optIdx < options.length) {
+            return {
+              questionId,
+              correctOptionIndex: optIdx,
+              confidence: model.confidence || 'REVIEWED',
+              source: model.source,
+              verified: model.confidence === 'VERIFIED',
+              explanation: model.points?.[0]?.body
+            };
+          }
+        }
+
+        // Match by correctOptionText
+        if (model.correctOptionText) {
+          const cleanTarget = model.correctOptionText.replace(/^\([a-z]\)\s*/i, '').toLowerCase().trim();
+          const matchedIdx = options.findIndex(opt => {
+            const cleanOpt = opt.replace(/^\([a-z]\)\s*/i, '').toLowerCase().trim();
+            return cleanOpt === cleanTarget || (cleanTarget.length > 3 && cleanOpt.includes(cleanTarget));
+          });
+          if (matchedIdx >= 0 && matchedIdx < options.length) {
+            return {
+              questionId,
+              correctOptionIndex: matchedIdx,
+              confidence: model.confidence || 'REVIEWED',
+              source: model.source,
+              verified: model.confidence === 'VERIFIED',
+              explanation: model.points?.[0]?.body
+            };
+          }
+        }
+      }
+    }
+
+    return null;
   },
 
   /**

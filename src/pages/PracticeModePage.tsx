@@ -173,9 +173,8 @@ export const PracticeModePage: React.FC = () => {
   // --- Score Calculation ---
   const scoreStats = useMemo(() => {
     let mcqTotal = 0;
-    let verifiedMcqAttempted = 0;
-    let verifiedMcqCorrect = 0;
-    let unverifiedMcqAttempted = 0;
+    let mcqAttempted = 0;
+    let mcqCorrect = 0;
     let descTotal = 0;
     let descSolved = 0;
     let totalMarksEarned = 0;
@@ -197,16 +196,14 @@ export const PracticeModePage: React.FC = () => {
       if (isMcq) {
         mcqTotal++;
         const chosen = userAnswers[item.id];
-        const key = answerKeyService.resolveAnswerKey(item.id, item.sub.options);
+        const key = answerKeyService.resolveAnswerKey(item.id, item.sub.options, item.sub.text, item.sub.subNumber);
         if (chosen !== undefined) {
+          mcqAttempted++;
           if (key !== null) {
-            verifiedMcqAttempted++;
             if (chosen === key.correctOptionIndex) {
-              verifiedMcqCorrect++;
+              mcqCorrect++;
               totalMarksEarned += questionMarks;
             }
-          } else {
-            unverifiedMcqAttempted++;
           }
         }
       } else {
@@ -223,8 +220,8 @@ export const PracticeModePage: React.FC = () => {
     const attemptedDescCount = Object.keys(descriptiveSolved).filter(id => descriptiveSolved[id] && activeIds.has(id)).length;
     const totalAttempted = attemptedMcqCount + attemptedDescCount;
 
-    const accuracy = verifiedMcqAttempted > 0
-      ? Math.round((verifiedMcqCorrect / verifiedMcqAttempted) * 100)
+    const accuracy = mcqAttempted > 0
+      ? Math.round((mcqCorrect / mcqAttempted) * 100)
       : null;
 
     const percentage = totalPossibleMarks > 0
@@ -235,9 +232,8 @@ export const PracticeModePage: React.FC = () => {
       totalItems: activeItems.length,
       totalAttempted,
       mcqTotal,
-      verifiedMcqAttempted,
-      verifiedMcqCorrect,
-      unverifiedMcqAttempted,
+      mcqAttempted,
+      mcqCorrect,
       descTotal,
       descSolved,
       totalMarksEarned,
@@ -440,22 +436,27 @@ export const PracticeModePage: React.FC = () => {
 
         {/* MCQ Option Choices with Answer Feedback */}
         {isMcq && currentItem.sub.options && (() => {
-          const verifiedKey = answerKeyService.resolveAnswerKey(currentItem.id, currentItem.sub.options);
+          const key = answerKeyService.resolveAnswerKey(
+            currentItem.id,
+            currentItem.sub.options,
+            currentItem.sub.text,
+            currentItem.sub.subNumber
+          );
           const hasAnswered = selectedOption !== undefined;
-          const isCorrect = verifiedKey !== null && selectedOption === verifiedKey.correctOptionIndex;
+          const isCorrect = key !== null && selectedOption === key.correctOptionIndex;
 
           return (
             <div className="space-y-3 pt-2">
               <div className="flex items-center justify-between text-xs font-bold text-slate-400 uppercase tracking-wider">
                 <span>Select Your Option:</span>
                 {hasAnswered && (
-                  verifiedKey !== null ? (
+                  key !== null ? (
                     <span className={isCorrect ? 'text-emerald-500 font-bold' : 'text-rose-500 font-bold'}>
-                      {isCorrect ? '✓ Correct Option (+2 Marks)' : '✗ Incorrect Option'}
+                      {isCorrect ? '✓ Correct Option (+2 Marks)' : `✗ Incorrect Option · Correct: (${String.fromCharCode(97 + key.correctOptionIndex)})`}
                     </span>
                   ) : (
                     <span className="text-amber-500 font-medium normal-case">
-                      Answer recorded • Official key under academic review
+                      Answer recorded • Key under academic review
                     </span>
                   )
                 )}
@@ -465,18 +466,18 @@ export const PracticeModePage: React.FC = () => {
                 {currentItem.sub.options.map((opt, optIdx) => {
                   const letter = String.fromCharCode(97 + optIdx);
                   const isSelected = selectedOption === optIdx;
-                  const isOptionKey = verifiedKey !== null && optIdx === verifiedKey.correctOptionIndex;
+                  const isOptionKey = key !== null && optIdx === key.correctOptionIndex;
 
                   let optionStyle = 'bg-slate-50 dark:bg-slate-800/50 border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-indigo-400 dark:hover:border-indigo-600';
 
                   if (hasAnswered) {
-                    if (verifiedKey !== null) {
+                    if (key !== null) {
                       if (isSelected && isOptionKey) {
                         optionStyle = 'bg-emerald-500/10 border-emerald-500 text-emerald-700 dark:text-emerald-300 font-semibold ring-1 ring-emerald-500';
                       } else if (isSelected && !isOptionKey) {
                         optionStyle = 'bg-rose-500/10 border-rose-500 text-rose-700 dark:text-rose-300 font-semibold ring-1 ring-rose-500';
                       } else if (!isSelected && isOptionKey) {
-                        optionStyle = 'bg-emerald-500/5 border-emerald-500/40 text-emerald-600 dark:text-emerald-400 font-medium';
+                        optionStyle = 'bg-emerald-500/10 border-emerald-500/60 text-emerald-600 dark:text-emerald-400 font-semibold ring-1 ring-emerald-500/40';
                       }
                     } else {
                       if (isSelected) {
@@ -487,7 +488,7 @@ export const PracticeModePage: React.FC = () => {
 
                   const badgeLabel = (() => {
                     if (!hasAnswered) return letter;
-                    if (verifiedKey !== null) {
+                    if (key !== null) {
                       if (isOptionKey) return '✓';
                       if (isSelected && !isOptionKey) return '✗';
                     }
@@ -502,9 +503,9 @@ export const PracticeModePage: React.FC = () => {
                       className={`w-full text-left flex items-start gap-3 p-3.5 rounded-xl border text-sm transition ${optionStyle}`}
                     >
                       <span className={`w-6 h-6 rounded-lg flex items-center justify-center font-mono text-xs font-semibold shrink-0 ${
-                        hasAnswered && verifiedKey !== null && isOptionKey
+                        hasAnswered && key !== null && isOptionKey
                           ? 'bg-emerald-500 text-white'
-                          : hasAnswered && verifiedKey !== null && isSelected && !isOptionKey
+                          : hasAnswered && key !== null && isSelected && !isOptionKey
                           ? 'bg-rose-500 text-white'
                           : isSelected
                           ? 'bg-indigo-600 text-white'
@@ -518,7 +519,7 @@ export const PracticeModePage: React.FC = () => {
                 })}
               </div>
 
-              {hasAnswered && verifiedKey === null && (
+              {hasAnswered && key === null && (
                 <div className="p-3 rounded-xl bg-amber-500/10 border border-amber-500/20 text-xs text-amber-600 dark:text-amber-400">
                   Note: Official answer key for this question is currently under academic review. Your response is recorded without penalization.
                 </div>
@@ -642,7 +643,7 @@ export const PracticeModePage: React.FC = () => {
             if (isCurrent) {
               btnStyle = 'bg-indigo-600 text-white ring-2 ring-indigo-400';
             } else if (itemIsMcq && chosen !== undefined) {
-              const verifiedKey = answerKeyService.resolveAnswerKey(item.id, item.sub.options);
+              const verifiedKey = answerKeyService.resolveAnswerKey(item.id, item.sub.options, item.sub.text, item.sub.subNumber);
               if (verifiedKey !== null) {
                 const isCorr = chosen === verifiedKey.correctOptionIndex;
                 btnStyle = isCorr 
@@ -720,9 +721,9 @@ export const PracticeModePage: React.FC = () => {
                 </div>
 
                 <div className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/40 border border-slate-200 dark:border-slate-800">
-                  <p className="text-[11px] font-bold text-slate-400 uppercase">Verified Correct MCQs</p>
+                  <p className="text-[11px] font-bold text-slate-400 uppercase">Correct MCQs</p>
                   <p className="text-lg font-bold text-emerald-500 font-mono mt-0.5">
-                    {scoreStats.verifiedMcqCorrect} / {scoreStats.verifiedMcqAttempted}
+                    {scoreStats.mcqCorrect} / {scoreStats.mcqAttempted}
                   </p>
                 </div>
 
@@ -743,7 +744,7 @@ export const PracticeModePage: React.FC = () => {
                   {activeItems.map((item, idx) => {
                     const itemIsMcq = item.sub.options && item.sub.options.length > 0;
                     const chosen = userAnswers[item.id];
-                    const verifiedKey = itemIsMcq ? answerKeyService.resolveAnswerKey(item.id, item.sub.options) : null;
+                    const key = itemIsMcq ? answerKeyService.resolveAnswerKey(item.id, item.sub.options, item.sub.text, item.sub.subNumber) : null;
                     const isDesc = descriptiveSolved[item.id];
 
                     return (
@@ -762,8 +763,8 @@ export const PracticeModePage: React.FC = () => {
                         <span className="shrink-0 flex items-center gap-1 font-mono font-semibold">
                           {itemIsMcq ? (
                             chosen !== undefined ? (
-                              verifiedKey !== null ? (
-                                chosen === verifiedKey.correctOptionIndex ? (
+                              key !== null ? (
+                                chosen === key.correctOptionIndex ? (
                                   <span className="text-emerald-500 flex items-center gap-1">
                                     <CheckCircle2 className="w-3.5 h-3.5" /> Correct
                                   </span>
@@ -774,7 +775,7 @@ export const PracticeModePage: React.FC = () => {
                                 )
                               ) : (
                                 <span className="text-amber-500 flex items-center gap-1">
-                                  Under Review
+                                  Recorded
                                 </span>
                               )
                             ) : (
@@ -798,8 +799,7 @@ export const PracticeModePage: React.FC = () => {
             {/* Modal Actions Footer */}
             <div className="px-6 py-4 bg-slate-50 dark:bg-slate-950/80 border-t border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-3">
               <div className="flex items-center gap-1.5 text-[11px] font-semibold text-slate-500">
-                <span>BEU Practice Engine • By Love By FBi</span>
-                <span className="text-rose-500">❤️</span>
+                <span>BEU Academic Practice Session</span>
               </div>
 
               <div className="flex items-center gap-2">
