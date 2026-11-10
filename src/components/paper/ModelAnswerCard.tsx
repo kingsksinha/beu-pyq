@@ -95,7 +95,7 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
                   ? 'Official MCQ Answer Key & Analysis (2 Marks)'
                   : parsedMarksNum <= 3
                   ? `Model Solution & Scheme (${parsedMarksNum} Marks)`
-                  : 'Official Model Answer & Marking Scheme (7 Marks)'}
+                  : `Official Model Answer & Marking Scheme (${parsedMarksNum} Marks)`}
               </span>
               {unlocked ? (
                 <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 shrink-0">

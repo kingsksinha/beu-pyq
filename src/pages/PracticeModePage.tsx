@@ -21,6 +21,7 @@ import { ModelAnswerCard } from '../components/paper/ModelAnswerCard';
 import { dataService } from '../services/dataService';
 import { storageService } from '../services/storageService';
 import type { PaperDetail, SubQuestion } from '../types/paper';
+import { resolveSubQuestionMarks, resolveSubQuestionMarksNum } from '../utils/formatters';
 
 interface FlatPracticeItem {
   id: string;
@@ -28,6 +29,8 @@ interface FlatPracticeItem {
   questionTitle: string;
   marks?: string;
   sub: SubQuestion;
+  subIndex: number;
+  totalSubQuestions: number;
 }
 
 // Built-in verified answer database for standard BEU question patterns
@@ -109,13 +112,16 @@ export const PracticeModePage: React.FC = () => {
     if (!paper) return [];
     const flat: FlatPracticeItem[] = [];
     paper.questions.forEach(q => {
-      q.subQuestions.forEach(sub => {
+      const totalSubs = q.subQuestions.length;
+      q.subQuestions.forEach((sub, subIdx) => {
         flat.push({
           id: sub.id,
           questionNumber: q.number,
           questionTitle: q.title,
           marks: q.marks,
-          sub
+          sub,
+          subIndex: subIdx,
+          totalSubQuestions: totalSubs
         });
       });
     });
@@ -205,8 +211,16 @@ export const PracticeModePage: React.FC = () => {
     let totalPossibleMarks = 0;
 
     activeItems.forEach(item => {
-      const isMcq = item.sub.options && item.sub.options.length > 0;
-      const questionMarks = isMcq ? 2 : 7; // standard mark allocation
+      const isMcq = !!(item.sub.options && item.sub.options.length > 0);
+      const questionMarks = resolveSubQuestionMarksNum(
+        item.questionNumber,
+        item.subIndex,
+        item.totalSubQuestions,
+        item.sub.marks,
+        item.marks,
+        isMcq,
+        item.questionTitle
+      );
       totalPossibleMarks += questionMarks;
 
       if (isMcq) {
@@ -496,27 +510,45 @@ export const PracticeModePage: React.FC = () => {
         )}
 
         {/* Descriptive Question Solved Toggle */}
-        {!isMcq && (
-          <div className="pt-2">
-            <button
-              onClick={handleToggleDescriptive}
-              className={`inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-semibold border transition ${
-                isSolved
-                  ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-600 dark:text-emerald-400'
-                  : 'bg-slate-50 dark:bg-slate-800/50 border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-slate-400'
-              }`}
-            >
-              {isSolved ? <CheckCircle2 className="w-4 h-4 text-emerald-500" /> : <Circle className="w-4 h-4 text-slate-400" />}
-              <span>{isSolved ? 'Marked as Solved (+7 Marks)' : 'Mark as Solved / Practiced'}</span>
-            </button>
-          </div>
-        )}
+        {!isMcq && (() => {
+          const itemMarks = resolveSubQuestionMarksNum(
+            currentItem.questionNumber,
+            currentItem.subIndex,
+            currentItem.totalSubQuestions,
+            currentItem.sub.marks,
+            currentItem.marks,
+            false,
+            currentItem.questionTitle
+          );
+          return (
+            <div className="pt-2">
+              <button
+                onClick={handleToggleDescriptive}
+                className={`inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-semibold border transition ${
+                  isSolved
+                    ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-600 dark:text-emerald-400'
+                    : 'bg-slate-50 dark:bg-slate-800/50 border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-slate-400'
+                }`}
+              >
+                {isSolved ? <CheckCircle2 className="w-4 h-4 text-emerald-500" /> : <Circle className="w-4 h-4 text-slate-400" />}
+                <span>{isSolved ? `Marked as Solved (+${itemMarks} Marks)` : `Mark as Solved (+${itemMarks} Marks)`}</span>
+              </button>
+            </div>
+          );
+        })()}
 
         {/* Official Model Answer & Marking Scheme */}
         <div className="pt-4 mt-2 border-t border-slate-100 dark:border-slate-800/80 w-full min-w-0">
           {(() => {
-            const isQ1 = currentItem.questionNumber === 1 || !!(currentItem.marks && /2\s*x|\[2|\b14\b/i.test(currentItem.marks));
-            const resolvedMarks = isQ1 ? '2 Marks' : (currentItem.marks || (currentItem.sub.options?.length ? '2 Marks' : '7 Marks'));
+            const resolvedMarks = resolveSubQuestionMarks(
+              currentItem.questionNumber,
+              currentItem.subIndex,
+              currentItem.totalSubQuestions,
+              currentItem.sub.marks,
+              currentItem.marks,
+              isMcq,
+              currentItem.questionTitle
+            );
             return (
               <ModelAnswerCard
                 questionText={currentItem.sub.text}

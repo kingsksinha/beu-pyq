@@ -6,6 +6,7 @@ import { MathText } from '../ui/MathText';
 import { QuestionDiagram } from '../ui/QuestionDiagram';
 import { StarFrequency } from '../ui/StarFrequency';
 import { ModelAnswerCard } from './ModelAnswerCard';
+import { resolveSubQuestionMarks } from '../../utils/formatters';
 
 interface QuestionItemProps {
   question: Question;
@@ -59,7 +60,9 @@ export const QuestionItem: React.FC<QuestionItemProps> = ({
             key={sub.id || idx}
             sub={sub}
             subIndex={idx}
+            totalSubQuestions={question.subQuestions.length}
             questionNumber={question.number}
+            questionTitle={question.title}
             questionMarks={question.marks}
             paperId={paperId}
             paperInfo={paperInfo}
@@ -74,7 +77,9 @@ export const QuestionItem: React.FC<QuestionItemProps> = ({
 interface SubQuestionRowProps {
   sub: SubQuestion;
   subIndex: number;
+  totalSubQuestions: number;
   questionNumber: number;
+  questionTitle?: string;
   questionMarks?: string;
   paperId: string;
   paperInfo: {
@@ -90,7 +95,9 @@ interface SubQuestionRowProps {
 const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
   sub,
   subIndex,
+  totalSubQuestions,
   questionNumber,
+  questionTitle,
   questionMarks,
   paperId,
   paperInfo,
@@ -113,18 +120,15 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
   const hasOptions = !!(sub.options && sub.options.length > 0);
   const isAttempted = hasOptions ? selectedOption !== null : isDescriptiveAttempted;
 
-  // Resolve accurate marks:
-  // 1. Explicit sub.marks
-  // 2. If sub has options, it's an MCQ (2 Marks in BEU)
-  // 3. Question 1 in BEU is ALWAYS compulsory 2-mark questions / MCQs
-  // 4. If parent question marks mentions 2x, [2, or 14
-  // 5. Otherwise default to 7 Marks
-  const isQuestionOne = questionNumber === 1;
-  const isParentTwoMarks = !!(questionMarks && /(?:2\s*x|\[2|\b14\b)/i.test(questionMarks));
-  const resolvedMarks = sub.marks || (
-    hasOptions || isQuestionOne || isParentTwoMarks
-      ? '2 Marks'
-      : '7 Marks'
+  // Resolve accurate marks using unified BEU examination convention
+  const resolvedMarks = resolveSubQuestionMarks(
+    questionNumber,
+    subIndex,
+    totalSubQuestions,
+    sub.marks,
+    questionMarks,
+    hasOptions,
+    questionTitle
   );
 
   const handleBookmarkToggle = () => {

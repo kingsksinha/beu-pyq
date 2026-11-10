@@ -1523,6 +1523,134 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
     ],
     keyFormula: '^{13}\\text{C}: I = 1/2 \\implies \\text{NMR Active} \\quad | \\quad ^{12}\\text{C}: I = 0 \\implies \\text{NMR Inactive}',
     examTip: 'Condition for NMR activity: Nuclear spin I ≠ 0 (odd mass or odd atomic number).'
+  },
+
+  transformer_250kva_turns_ratio: {
+    questionSummary: '250 kVA Transformer Primary Voltage & Full Load Currents',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.6b)',
+    marksDistribution: '7 Marks (2M Primary Voltage + 3M Secondary Current + 2M Primary Current)',
+    points: [
+      {
+        heading: '1. Identification of Given Parameters & Governing Formulae',
+        body: '**Given Data:**\n• Apparent Power Rating: $S = 250\\text{ kVA} = 250 \\times 10^3\\text{ VA}$\n• Supply Frequency: $f = 50\\text{ Hz}$\n• Turns Ratio: $K = \\frac{N_2}{N_1} = 0.1$\n• Secondary No-load Voltage: $V_2 = E_2 = 240\\text{ V}$\n\n**Governing Equations:**\n1. Transformation Ratio: $\\frac{V_2}{V_1} = \\frac{N_2}{N_1} = K \\implies V_1 = \\frac{V_2}{K}$\n2. Apparent Power: $S = V_1 I_1 = V_2 I_2$'
+      },
+      {
+        heading: '2. Calculation of (i) Primary Voltage (V₁)',
+        body: 'Using the secondary-to-primary voltage relation:\n$$V_1 = \\frac{V_2}{K} = \\frac{240\\text{ V}}{0.1} = 2400\\text{ V}$$\n\n$$\\mathbf{V_1 = 2400\\text{ V} = 2.4\\text{ kV}}$$'
+      },
+      {
+        heading: '3. Calculation of (ii) Full Load Secondary & Primary Currents',
+        body: '• **Full Load Secondary Current ($I_2$):**\n$$I_2 = \\frac{S}{V_2} = \\frac{250 \\times 10^3\\text{ VA}}{240\\text{ V}} = \\frac{250000}{240} \\approx 1041.67\\text{ A}$$\n\n• **Full Load Primary Current ($I_1$):**\n$$I_1 = \\frac{S}{V_1} = \\frac{250 \\times 10^3\\text{ VA}}{2400\\text{ V}} = \\frac{250000}{2400} \\approx 104.17\\text{ A}$$\n\n*(Verification using turns ratio: $I_1 = K \\times I_2 = 0.1 \\times 1041.67\\text{ A} = 104.17\\text{ A}$, matches identically.)*'
+      }
+    ],
+    keyFormula: 'K = \\frac{N_2}{N_1} = \\frac{V_2}{V_1} = \\frac{I_1}{I_2} = 0.1, \\quad S = V_1 I_1 = V_2 I_2 = 250\\text{ kVA}',
+    examTip: 'State the given values clearly with units. Box the three answers: V₁ = 2400 V, I₂ = 1041.67 A, and I₁ = 104.17 A.'
+  },
+
+  transformer_emf_equation: {
+    questionSummary: 'EMF Equation and Transformation Ratio of Single-Phase Transformer',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.6a)',
+    marksDistribution: '7 Marks (4M EMF Equation Derivation + 3M Transformation Ratio)',
+    points: [
+      {
+        heading: '1. Derivation of EMF Equation of a Transformer',
+        body: 'Let:\n• $N_1, N_2$ = Number of primary and secondary turns\n• $\\Phi_m$ = Maximum core magnetic flux in Webers ($Wb$)\n• $f$ = AC supply frequency in Hertz ($Hz$)\n\nThe alternating sinusoidal magnetic flux is:\n$$\\Phi = \\Phi_m \\sin(\\omega t) = \\Phi_m \\sin(2\\pi f t)$$\n\nAccording to Faraday\'s Law of Electromagnetic Induction, the instantaneous induced EMF in a coil of $N$ turns is:\n$$e = -N \\frac{d\\Phi}{dt} = -N \\frac{d}{dt}[\\Phi_m \\sin(2\\pi f t)] = -N \\cdot 2\\pi f \\Phi_m \\cos(2\\pi f t)$$\n$$e = 2\\pi f N \\Phi_m \\sin\\left(2\\pi f t - \\frac{\\pi}{2}\\right)$$\n\nThe peak value of induced EMF is $E_m = 2\\pi f N \\Phi_m$.\nSince the wave is sinusoidal, the RMS value is:\n$$E_{\\text{rms}} = \\frac{E_m}{\\sqrt{2}} = \\frac{2\\pi}{\\sqrt{2}} f \\Phi_m N = \\sqrt{2}\\pi f \\Phi_m N \\approx 4.44 f \\Phi_m N$$\n\nTherefore:\n• Primary RMS EMF: $E_1 = 4.44 f \\Phi_m N_1$\n• Secondary RMS EMF: $E_2 = 4.44 f \\Phi_m N_2$'
+      },
+      {
+        heading: '2. Voltage and Current Ratio of Ideal Transformer',
+        body: 'Dividing secondary induced EMF by primary induced EMF:\n$$\\frac{E_2}{E_1} = \\frac{4.44 f \\Phi_m N_2}{4.44 f \\Phi_m N_1} = \\frac{N_2}{N_1}$$\n\nFor an ideal transformer, winding resistance and leakage flux are zero, so $V_1 = E_1$ and $V_2 = E_2$:\n$$\\frac{V_2}{V_1} = \\frac{E_2}{E_1} = \\frac{N_2}{N_1} = K \\quad (\\text{Transformation Ratio})$$\n\nSince an ideal transformer has $100\\%$ efficiency (input VA = output VA):\n$$V_1 I_1 = V_2 I_2 \\implies \\frac{I_1}{I_2} = \\frac{V_2}{V_1} = \\frac{N_2}{N_1} = K$$\nThus, the current ratio is inversely proportional to the turns ratio: $\\frac{I_2}{I_1} = \\frac{1}{K}$.'
+      }
+    ],
+    keyFormula: 'E = 4.44 f \\Phi_m N, \\quad \\frac{V_2}{V_1} = \\frac{N_2}{N_1} = \\frac{I_1}{I_2} = K',
+    examTip: 'Draw the sinusoidal flux waveform and state the form factor ($K_f = 1.11$) if deriving via average EMF ($E_{\\text{avg}} = 4 f \\Phi_m N$).'
+  },
+
+  bee_max_power_transfer_derivation: {
+    questionSummary: 'Maximum Power Transfer Theorem Statement & Derivation',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.2b)',
+    marksDistribution: '7 Marks (2M Statement & Network Model + 4M Mathematical Derivation + 1M Maximum Power Value & Efficiency)',
+    points: [
+      {
+        heading: '1. Theorem Statement & Equivalent Circuit',
+        body: '**Statement**: In an active, linear, bilateral DC network, maximum power is delivered from the source to a variable load resistance $R_L$ when the load resistance is equal to the Thévenin equivalent resistance of the source network looking back from the load terminals ($R_L = R_{\\text{th}}$).\n\nFor AC circuits with complex load impedance $Z_L = R_L + jX_L$, maximum power is transferred when the load impedance is the complex conjugate of the source impedance: $Z_L = Z_{\\text{th}}^*$ ($R_L = R_{\\text{th}}$ and $X_L = -X_{\\text{th}}$).'
+      },
+      {
+        heading: '2. Mathematical Derivation of Condition RL = Rth',
+        body: 'Replace the entire network connected to $R_L$ by its Thévenin equivalent: open-circuit voltage $V_{\\text{th}}$ in series with internal resistance $R_{\\text{th}}$.\n\nThe current flowing through load $R_L$ is:\n$$I_L = \\frac{V_{\\text{th}}}{R_{\\text{th}} + R_L}$$\n\nThe power delivered to load $R_L$ is:\n$$P_L = I_L^2 R_L = \\frac{V_{\\text{th}}^2 R_L}{(R_{\\text{th}} + R_L)^2}$$\n\nTo find the value of $R_L$ for maximum power, differentiate $P_L$ with respect to $R_L$ and equate to zero ($\\frac{dP_L}{dR_L} = 0$):\n$$\\frac{dP_L}{dR_L} = V_{\\text{th}}^2 \\left[ \\frac{(R_{\\text{th}} + R_L)^2 \\cdot 1 - R_L \\cdot 2(R_{\\text{th}} + R_L)}{(R_{\\text{th}} + R_L)^4} \\right] = 0$$\n$$(R_{\\text{th}} + R_L) - 2R_L = 0 \\implies R_{\\text{th}} - R_L = 0$$\n$$\\mathbf{R_L = R_{\\text{th}}}$$\n\nSecond derivative test confirms $\\frac{d^2 P_L}{dR_L^2} < 0$, establishing that $P_L$ is an absolute maximum at $R_L = R_{\\text{th}}$.'
+      },
+      {
+        heading: '3. Expression for Maximum Power & Transfer Efficiency',
+        body: 'Substituting $R_L = R_{\\text{th}}$ into the power equation:\n$$P_{L,\\max} = \\frac{V_{\\text{th}}^2 R_{\\text{th}}}{(R_{\\text{th}} + R_{\\text{th}})^2} = \\frac{V_{\\text{th}}^2 R_{\\text{th}}}{4 R_{\\text{th}}^2} = \\mathbf{\\frac{V_{\\text{th}}^2}{4 R_{\\text{th}}}}$$\n\n**Efficiency at Maximum Power Transfer:**\n$$\\eta = \\frac{P_{\\text{out}}}{P_{\\text{in}}} \\times 100\\% = \\frac{I_L^2 R_L}{I_L^2 (R_{\\text{th}} + R_L)} \\times 100\\% = \\frac{R_{\\text{th}}}{2 R_{\\text{th}}} \\times 100\\% = \\mathbf{50\\%}$$\n*Note: Due to 50% efficiency, maximum power transfer is utilized in communication and signal processing systems rather than power generation grids.*'
+      }
+    ],
+    keyFormula: 'R_L = R_{\\text{th}}, \\quad P_{\\max} = \\frac{V_{\\text{th}}^2}{4 R_{\\text{th}}}, \\quad \\eta = 50\\%',
+    examTip: 'State the theorem clearly, apply the quotient rule of differentiation, and mention that efficiency at maximum power transfer is 50%.'
+  },
+
+  star_delta_transformation_derivation: {
+    questionSummary: 'Delta to Star Transformation Formulae Derivation',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.3a)',
+    marksDistribution: '7 Marks (2M Network Definitions + 5M Analytical Derivation)',
+    points: [
+      {
+        heading: '1. Definition of Star and Delta Networks',
+        body: '• **Delta Network (Δ)**: A three-terminal network in which three resistors ($R_{12}, R_{23}, R_{31}$) are connected in a closed mesh forming a triangle between nodes 1, 2, and 3.\n• **Star Network (Y)**: A three-terminal network in which one terminal of each of three resistors ($R_1, R_2, R_3$) is tied to a common central point (neutral node N) while the remaining three ends form terminals 1, 2, and 3.'
+      },
+      {
+        heading: '2. Equivalence Derivation between Terminals',
+        body: 'For the two networks to be equivalent, the resistance measured between any pair of terminals with the third terminal open must be identical in both configurations.\n\n1. **Resistance between terminals 1 and 2 (Terminal 3 open):**\n• In Star: $R_{12\\text{ (Y)}} = R_1 + R_2$\n• In Delta: $R_{12}$ in parallel with $(R_{23} + R_{31})$:\n$$R_1 + R_2 = \\frac{R_{12}(R_{23} + R_{31})}{R_{12} + R_{23} + R_{31}} \\quad \\text{--- (Eq. 1)}$$\n\n2. **Similarly between terminals 2 and 3 (Terminal 1 open):**\n$$R_2 + R_3 = \\frac{R_{23}(R_{31} + R_{12})}{R_{12} + R_{23} + R_{31}} \\quad \\text{--- (Eq. 2)}$$\n\n3. **Between terminals 3 and 1 (Terminal 2 open):**\n$$R_3 + R_1 = \\frac{R_{31}(R_{12} + R_{23})}{R_{12} + R_{23} + R_{31}} \\quad \\text{--- (Eq. 3)}$$'
+      },
+      {
+        heading: '3. Solving for Star Branch Resistances (R₁, R₂, R₃)',
+        body: 'Subtracting (Eq. 2) from (Eq. 1) and adding to (Eq. 3):\n$$2 R_1 = \\frac{2 R_{12} R_{31}}{R_{12} + R_{23} + R_{31}} \\implies \\mathbf{R_1 = \\frac{R_{12} R_{31}}{R_{12} + R_{23} + R_{31}}}$$\n\nBy cyclic symmetry:\n$$\\mathbf{R_2 = \\frac{R_{12} R_{23}}{R_{12} + R_{23} + R_{31}}}, \\qquad \\mathbf{R_3 = \\frac{R_{23} R_{31}}{R_{12} + R_{23} + R_{31}}}$$\n\n**Rule of Thumb:** Any star resistance equals the product of the two adjacent delta resistances divided by the sum of all three delta resistances.'
+      }
+    ],
+    keyFormula: 'R_1 = \\frac{R_{12} R_{31}}{\\sum R_\\Delta}, \\quad R_2 = \\frac{R_{12} R_{23}}{\\sum R_\\Delta}, \\quad R_3 = \\frac{R_{23} R_{31}}{\\sum R_\\Delta}',
+    examTip: 'Label terminals 1, 2, 3 clearly and use the phrase: "Resistance of star branch = (product of two adjacent delta branches) / (sum of all three delta branches)".'
+  },
+
+  three_phase_induction_motor_operation: {
+    questionSummary: 'Working Principle & Operation of Three-Phase Induction Motor',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.7b)',
+    marksDistribution: '7 Marks (3M RMF Generation + 2M Torque Production + 2M Slip & Operation)',
+    points: [
+      {
+        heading: '1. Production of Rotating Magnetic Field (RMF)',
+        body: 'When a balanced 3-phase AC supply is fed to the 3-phase stator winding (displaced by $120^\\circ$ electrical in space), alternating currents displaced by $120^\\circ$ in phase produce three pulsating magnetic fields.\n\nThe vector sum of these three fluxes results in a **rotating magnetic field** of constant magnitude:\n$$\\Phi_R = \\frac{3}{2}\\Phi_m = 1.5\\Phi_m$$\nThis field rotates synchronously in space at **synchronous speed**:\n$$N_s = \\frac{120 f}{P} \\quad (\\text{RPM})$$'
+      },
+      {
+        heading: '2. Rotor EMF Induction and Torque Development',
+        body: '• The rotating magnetic field cuts the stationary rotor conductors at relative speed $N_s$.\n• According to **Faraday\'s Law of Electromagnetic Induction**, an EMF is induced in the rotor conductors ($e = B l v_{\\text{rel}}$).\n• Since the rotor bars are short-circuited by end rings (squirrel cage) or external resistance (slip ring), heavy currents circulate in the rotor.\n• According to **Lenz\'s Law**, the direction of rotor currents opposes the cause producing it (the relative motion between rotor conductors and stator RMF).\n• Consequently, an electromagnetic torque is exerted on the rotor in the same direction as the rotating magnetic field, dragging the rotor into rotation.'
+      },
+      {
+        heading: '3. Slip and Operating Speed Characteristics',
+        body: '• The rotor accelerates towards synchronous speed $N_s$ but can **never reach $N_s$** under motoring conditions. If $N_r = N_s$, relative velocity becomes zero, no flux is cut, induced EMF and current vanish, producing zero torque, causing the rotor to slow down.\n• The difference between synchronous speed $N_s$ and rotor speed $N_r$ is called **slip speed**.\n• Fractional Slip ($s$):\n$$s = \\frac{N_s - N_r}{N_s} \\implies N_r = N_s(1 - s)$$\n• Frequency of rotor currents: $f_r = s f$. At full load, typical slip is $2\\%$ to $5\\%$.'
+      }
+    ],
+    keyFormula: 'N_s = \\frac{120f}{P}, \\quad s = \\frac{N_s - N_r}{N_s}, \\quad N_r = N_s(1 - s), \\quad f_r = s f',
+    examTip: 'Explicitly explain why the rotor cannot run at synchronous speed (relative velocity drops to zero, torque drops to zero).'
+  },
+
+  dc_generator_emf_equation: {
+    questionSummary: 'DC Generator Working Principle & EMF Equation Derivation',
+    source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.7a)',
+    marksDistribution: '7 Marks (2M Working Principle + 5M Analytical Derivation)',
+    points: [
+      {
+        heading: '1. Working Principle of DC Generator',
+        body: 'A DC generator converts mechanical energy into electrical energy based on **Faraday\'s Law of Electromagnetic Induction** (dynamically induced EMF: $e = B l v \\sin\\theta$). When armature conductors rotate in a magnetic field established by field poles, magnetic flux is cut, inducing an alternating EMF. A mechanical commutator and carbon brushes rectify this internal AC into unidirectional direct current (DC) at the output terminals.'
+      },
+      {
+        heading: '2. Derivation of Generated EMF Equation',
+        body: 'Let:\n• $P$ = Number of field poles\n• $\\Phi$ = Flux per pole in Webers ($Wb$)\n• $Z$ = Total number of armature conductors ($Z = 2 \\times \\text{number of coils} \\times \\text{turns/coil}$)\n• $N$ = Rotational speed of armature in revolutions per minute ($RPM$)\n• $A$ = Number of parallel paths in armature winding ($A = 2$ for wave winding; $A = P$ for lap winding)\n\nIn one revolution ($1$ rev):\n• Flux cut by one conductor: $d\\Phi = P \\times \\Phi$ Webers\n• Time taken for one revolution: $dt = \\frac{60}{N}$ seconds\n\nAverage EMF induced in one single conductor:\n$$e_{\\text{avg}} = \\frac{d\\Phi}{dt} = \\frac{P \\Phi}{\\frac{60}{N}} = \\frac{P \\Phi N}{60} \\text{ Volts}$$\n\nTotal number of conductors connected in series per parallel path = $\\frac{Z}{A}$.\n\nTherefore, total generated armature EMF ($E_g$):\n$$E_g = e_{\\text{avg}} \\times \\left(\\frac{Z}{A}\\right) = \\mathbf{\\frac{P \\Phi Z N}{60 A} \\text{ Volts}}$$'
+      },
+      {
+        heading: '3. Winding Dependency & Summary of Formula',
+        body: '• **For Lap Winding**: $A = P \\implies E_g = \\frac{\\Phi Z N}{60}$ (used for high current, low voltage generators).\n• **For Wave Winding**: $A = 2 \\implies E_g = \\frac{P \\Phi Z N}{120}$ (used for high voltage, low current generators).'
+      }
+    ],
+    keyFormula: 'E_g = \\frac{P \\Phi Z N}{60 A} \\text{ Volts} \\quad (A = 2 \\text{ for Wave}, \\, A = P \\text{ for Lap})',
+    examTip: 'Define all variables (P, Φ, Z, N, A) and clearly state parallel path values: A = P for lap winding, A = 2 for wave winding.'
   }
 };
 
@@ -1856,7 +1984,30 @@ export const modelAnswerService = {
     }
 
     if (text.includes('maximum power will be transferred') || text.includes('maximum power transfer')) {
+      if (!hasOptions && (parsedMarksNum > 3 || text.includes('derive') || text.includes('state and explain'))) {
+        return CURATED_MODEL_ANSWERS.bee_max_power_transfer_derivation;
+      }
       return CURATED_MODEL_ANSWERS.bee_max_power_transfer;
+    }
+
+    if (text.includes('250 kva') && text.includes('transformer')) {
+      return CURATED_MODEL_ANSWERS.transformer_250kva_turns_ratio;
+    }
+
+    if (text.includes('emf equation') && text.includes('transformer')) {
+      return CURATED_MODEL_ANSWERS.transformer_emf_equation;
+    }
+
+    if ((text.includes('delta network') || text.includes('star network')) && (text.includes('derive') || text.includes('equivalent star') || text.includes('formulae'))) {
+      return CURATED_MODEL_ANSWERS.star_delta_transformation_derivation;
+    }
+
+    if (text.includes('induction motor') && (text.includes('working principle') || text.includes('operation of three phase') || text.includes('three phase induction motor'))) {
+      return CURATED_MODEL_ANSWERS.three_phase_induction_motor_operation;
+    }
+
+    if (text.includes('dc generator') && (text.includes('emf') || text.includes('working principle'))) {
+      return CURATED_MODEL_ANSWERS.dc_generator_emf_equation;
     }
 
     if (text.includes('maximum efficiency in a transformer') || text.includes('maximum efficiency in transformer')) {
@@ -2079,10 +2230,16 @@ export const modelAnswerService = {
       mathMethod = 'energy balance relations (\\Delta Q = \\Delta U + \\Delta W), T-s or P-v state diagrams, and thermal efficiency derivations';
     }
 
+    const marksBreakdown = parsedMarksNum === 14
+      ? '4 Marks (Theoretical Formulation) + 6 Marks (Detailed Derivation / Working Steps) + 4 Marks (Schematic Diagram & Applications)'
+      : parsedMarksNum <= 5
+      ? `${Math.max(1, Math.floor(parsedMarksNum / 2))} Marks (Principles & Concepts) + ${Math.ceil(parsedMarksNum / 2)} Marks (Formula & Derivation)`
+      : `${Math.round(parsedMarksNum * 0.3)} Marks (Fundamental Principles) + ${Math.round(parsedMarksNum * 0.4)} Marks (Technical Working & Formulation) + ${parsedMarksNum - Math.round(parsedMarksNum * 0.3) - Math.round(parsedMarksNum * 0.4)} Marks (Engineering Applications)`;
+
     return {
       questionSummary: cleanTopic.length > 70 ? cleanTopic.slice(0, 67) + '...' : cleanTopic,
-      source: 'BEU Academic Standard Marking Solution Framework',
-      marksDistribution: '2 Marks (Fundamental Principles) + 3 Marks (Technical Working & Formulation) + 2 Marks (Engineering Applications)',
+      source: `BEU Academic Standard Marking Solution Framework (${parsedMarksNum} Marks)`,
+      marksDistribution: marksBreakdown,
       points: [
         {
           heading: `1. Foundational Principles & Academic Scope of ${cleanTopic.slice(0, 40)}`,
