@@ -188,7 +188,11 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
             {/* Official Model Answer & Marking Scheme */}
             <div className="print:hidden pt-1">
               <ModelAnswerCard
-                questionText={sub.text}
+                questionText={cleanSubText || sub.text}
+                marks={sub.marks || (hasOptions ? '2 Marks' : '7 Marks')}
+                options={sub.options}
+                subNumber={sub.subNumber}
+                selectedOptionIndex={selectedOption}
                 isAttempted={isAttempted}
                 onReveal={() => setIsDescriptiveAttempted(true)}
               />

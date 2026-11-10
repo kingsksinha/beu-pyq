@@ -516,7 +516,10 @@ export const PracticeModePage: React.FC = () => {
         <div className="pt-4 mt-2 border-t border-slate-100 dark:border-slate-800/80">
           <ModelAnswerCard
             questionText={currentItem.sub.text}
-            marks={currentItem.marks}
+            marks={currentItem.marks || (currentItem.sub.options?.length ? '2 Marks' : '7 Marks')}
+            options={currentItem.sub.options}
+            subNumber={currentItem.sub.subNumber}
+            selectedOptionIndex={userAnswers[currentItem.id] !== undefined ? userAnswers[currentItem.id] : null}
             isAttempted={isSolved}
           />
         </div>

@@ -4,8 +4,10 @@ export interface SubQuestion {
   text: string;
   freq: number;
   stars?: string;
+  marks?: string;
   options?: string[]; // MCQs choices
   images?: string[];
+  schematicSvg?: string;
 }
 
 export interface Question {

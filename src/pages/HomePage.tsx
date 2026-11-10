@@ -269,7 +269,7 @@ export const HomePage: React.FC = () => {
               Official A4 Print & PDF
             </h3>
             <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
-              High-resolution print stylesheet formatted for A4 examination printouts. Includes clean university headers and official "By Love By FBi ❤️" stamp.
+              High-resolution print stylesheet formatted for A4 examination printouts with clean university headers.
             </p>
           </div>
           <Link
