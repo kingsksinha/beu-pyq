@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { ArrowRight, Calendar, Clock, FileText } from 'lucide-react';
 import { dataService } from '../services/dataService';
 import type { PaperCatalogItem } from '../types/paper';
+import { formatBTechYear } from '../utils/formatters';
 
 interface YearSummary {
   year: string;
@@ -59,10 +60,10 @@ export const YearArchivePage: React.FC = () => {
           <span>Historical Archive</span>
         </div>
         <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white mt-1">
-          Year-wise Question Paper Archive
+          Examination Session Archive
         </h1>
         <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
-          Browse examination sessions spanning 14 academic years from 2012 to 2025.
+          Browse question papers across 14 historical examination sessions from 2012 to 2025.
         </p>
       </div>
 
@@ -91,7 +92,7 @@ export const YearArchivePage: React.FC = () => {
                 </div>
                 <div className="flex items-center gap-2">
                   <Clock className="w-3.5 h-3.5 text-slate-400 shrink-0" />
-                  <span>Semesters: {y.semesters.map(s => `Sem ${s}`).join(', ')}</span>
+                  <span>B.Tech Years: {y.semesters.map(s => formatBTechYear(s)).join(', ')}</span>
                 </div>
               </div>
             </div>

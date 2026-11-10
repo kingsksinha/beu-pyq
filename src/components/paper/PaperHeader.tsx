@@ -1,6 +1,7 @@
 import React from 'react';
 import { Clock, FileText, Hash } from 'lucide-react';
 import type { PaperDetail } from '../../types/paper';
+import { formatBTechYear } from '../../utils/formatters';
 
 interface PaperHeaderProps {
   paper: PaperDetail;
@@ -18,7 +19,7 @@ export const PaperHeader: React.FC<PaperHeaderProps> = ({ paper }) => {
       </h1>
 
       <p className="text-sm font-semibold text-slate-500 dark:text-slate-400 mt-1">
-        B.Tech {paper.semester === 1 ? '1st' : paper.semester === 2 ? '2nd' : paper.semester === 3 ? '3rd' : `${paper.semester}th`} Semester Examination, {paper.year}
+        B.Tech {formatBTechYear(paper.semester)} Examination, {paper.year}
       </p>
 
       {/* Meta Specs Bar */}

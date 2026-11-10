@@ -16,6 +16,7 @@ import { QuestionItem } from '../components/paper/QuestionItem';
 import { dataService } from '../services/dataService';
 import { storageService } from '../services/storageService';
 import { downloadPaperOfflineHtml } from '../utils/paperDownloader';
+import { formatBTechYear } from '../utils/formatters';
 import type { PaperCatalogItem, PaperDetail } from '../types/paper';
 
 export const PaperDetailPage: React.FC = () => {
@@ -273,7 +274,7 @@ export const PaperDetailPage: React.FC = () => {
                 className="p-4 rounded-xl bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 hover:border-slate-600 transition block shadow-xs"
               >
                 <div className="flex items-center justify-between text-[10px] text-slate-400 font-mono mb-1">
-                  <span>Sem {rel.semester}</span>
+                  <span>{formatBTechYear(rel.semester)}</span>
                   <span>{rel.year}</span>
                 </div>
                 <h4 className="font-semibold text-xs text-slate-900 dark:text-white truncate">

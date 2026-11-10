@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { ArrowRight, Flame, Library, Search } from 'lucide-react';
 import { dataService } from '../services/dataService';
 import type { SubjectItem } from '../types/paper';
+import { formatBTechYear } from '../utils/formatters';
 
 export const SubjectDirectoryPage: React.FC = () => {
   const [subjects, setSubjects] = useState<SubjectItem[]>([]);
@@ -68,11 +69,11 @@ export const SubjectDirectoryPage: React.FC = () => {
           onChange={e => setSelectedSemester(e.target.value)}
           className="w-full sm:w-48 text-xs sm:text-sm font-medium bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 rounded-xl px-3 py-2 text-slate-800 dark:text-slate-200 focus:outline-none focus:border-indigo-500"
         >
-          <option value="ALL">All Semesters</option>
-          <option value="1">Semester 1</option>
-          <option value="2">Semester 2</option>
-          <option value="3">Semester 3</option>
-          <option value="4">Semester 4</option>
+          <option value="ALL">All B.Tech Years</option>
+          <option value="1">1st Year</option>
+          <option value="2">2nd Year</option>
+          <option value="3">3rd Year</option>
+          <option value="4">4th Year</option>
         </select>
       </div>
 
@@ -100,7 +101,7 @@ export const SubjectDirectoryPage: React.FC = () => {
                       key={sem}
                       className="px-1.5 py-0.5 text-[10px] font-bold rounded bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/80"
                     >
-                      Sem {sem}
+                      {formatBTechYear(sem)}
                     </span>
                   ))}
                 </div>

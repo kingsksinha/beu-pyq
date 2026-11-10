@@ -119,7 +119,7 @@ export const PapersExplorerPage: React.FC = () => {
           All Question Papers
         </h1>
         <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
-          Filter and sort across all 363 semester exam papers from Bihar Engineering University
+          Filter and sort across all 363 B.Tech examination papers from Bihar Engineering University
         </p>
       </div>
 

@@ -1,4 +1,5 @@
 import type { PaperCatalogItem, SubjectItem } from '../types/paper';
+import { formatBTechYear } from '../utils/formatters';
 
 export interface SearchResultItem {
   id: string;
@@ -32,7 +33,7 @@ export const searchService = {
           id: `subj_${subj.code}`,
           type: 'subject',
           title: subj.name,
-          subtitle: `Subject Code: ${subj.code} · ${subj.paperCount} Papers · Semesters: ${subj.semesters.join(', ')}`,
+          subtitle: `Subject Code: ${subj.code} · ${subj.paperCount} Papers · Years: ${subj.semesters.map(s => formatBTechYear(s)).join(', ')}`,
           badge: `${subj.paperCount} Papers`,
           url: `/papers?subject=${subj.code}`,
           meta: {
@@ -51,15 +52,15 @@ export const searchService = {
       const matchSubject = p.subject_name.toLowerCase().includes(q);
       const matchCode = p.exam_code.toLowerCase().includes(q);
       const matchYear = p.year.includes(q);
-      const matchSem = `semester ${p.semester}`.includes(q) || `sem ${p.semester}`.includes(q);
+      const matchBTechYear = formatBTechYear(p.semester).toLowerCase().includes(q) || `year ${p.semester}`.includes(q) || `sem ${p.semester}`.includes(q);
 
-      if (matchTitle || matchSubject || matchCode || matchYear || matchSem) {
+      if (matchTitle || matchSubject || matchCode || matchYear || matchBTechYear) {
         results.push({
           id: p.id,
           type: 'paper',
           title: `${p.subject_name} (${p.year})`,
-          subtitle: `Sem ${p.semester} · Code: ${p.exam_code} · ${p.duration} · ${p.full_marks} Marks · ${p.question_count} Questions`,
-          badge: `Sem ${p.semester} · ${p.year}`,
+          subtitle: `${formatBTechYear(p.semester)} · Code: ${p.exam_code} · ${p.duration} · ${p.full_marks} Marks · ${p.question_count} Questions`,
+          badge: `${formatBTechYear(p.semester)} · ${p.year}`,
           url: `/paper/${p.id}`,
           meta: {
             semester: p.semester,

@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { Bookmark, ExternalLink, HelpCircle, Trash2 } from 'lucide-react';
 import { MathText } from '../components/ui/MathText';
 import { storageService } from '../services/storageService';
+import { formatBTechYear } from '../utils/formatters';
 import type { BookmarkItem } from '../types/paper';
 
 export const BookmarksPage: React.FC = () => {
@@ -94,7 +95,7 @@ export const BookmarksPage: React.FC = () => {
                   <div>
                     <div className="flex items-center justify-between text-xs text-slate-400 font-mono mb-2">
                       <span className="px-2 py-0.5 rounded-md bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 font-bold border border-indigo-200 dark:border-indigo-800/80">
-                        Sem {b.semester} · {b.year}
+                        {formatBTechYear(b.semester)} · {b.year}
                       </span>
                       <span>Code: {b.exam_code}</span>
                     </div>
@@ -157,7 +158,7 @@ export const BookmarksPage: React.FC = () => {
                   <div className="space-y-1.5 flex-1 min-w-0">
                     <div className="flex items-center gap-2">
                       <span className="px-2 py-0.5 text-[11px] font-bold rounded bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/80 font-mono">
-                        {b.subject_name} · Sem {b.semester} ({b.year})
+                        {b.subject_name} · {formatBTechYear(b.semester)} ({b.year})
                       </span>
                       {b.questionNumber && (
                         <span className="text-xs font-bold text-slate-500 font-mono">

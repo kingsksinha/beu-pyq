@@ -32,7 +32,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({
     { label: 'All Question Papers', icon: Compass, to: '/papers' },
     { label: 'B.Tech Years', icon: Layers, to: '/semesters' },
     { label: 'Subject-wise', icon: Library, to: '/subjects' },
-    { label: 'Year Archive', icon: Calendar, to: '/years' },
+    { label: 'Exam Sessions', icon: Calendar, to: '/years' },
     { label: 'Bookmarks', icon: Bookmark, to: '/bookmarks' },
     { label: 'Recently Viewed', icon: Clock, to: '/history' },
   ];

@@ -20,8 +20,8 @@ export const SortDropdown: React.FC<SortDropdownProps> = ({ currentSort, onSortC
         <option value="oldest">Oldest Exam Year (2012 → 2025)</option>
         <option value="subject-az">Subject Name (A → Z)</option>
         <option value="subject-za">Subject Name (Z → A)</option>
-        <option value="semester-asc">Semester (1 → 4)</option>
-        <option value="semester-desc">Semester (4 → 1)</option>
+        <option value="semester-asc">B.Tech Year (1st → 4th)</option>
+        <option value="semester-desc">B.Tech Year (4th → 1st)</option>
         <option value="questions-desc">Most Questions / Items</option>
         <option value="questions-asc">Least Questions / Items</option>
       </select>

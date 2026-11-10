@@ -11,6 +11,7 @@ import {
 import { storageService } from '../../services/storageService';
 import type { PaperCatalogItem } from '../../types/paper';
 import { StarFrequency } from '../ui/StarFrequency';
+import { formatBTechYear } from '../../utils/formatters';
 
 interface PaperCardProps {
   paper: PaperCatalogItem;
@@ -53,8 +54,8 @@ export const PaperCard: React.FC<PaperCardProps> = ({ paper, onBookmarkChange })
         {/* Top Badges */}
         <div className="flex items-center justify-between gap-2 mb-3">
           <div className="flex flex-wrap items-center gap-1.5">
-            <span className="px-2 py-0.5 text-[11px] font-semibold rounded-md bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-200 border border-slate-200 dark:border-slate-700">
-              Semester {paper.semester}
+            <span className="px-2 py-0.5 text-[11px] font-semibold rounded-md bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/80">
+              {formatBTechYear(paper.semester)}
             </span>
             <span className="px-2 py-0.5 text-[11px] font-mono font-medium rounded-md bg-slate-50 dark:bg-slate-800/60 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700/80">
               {paper.year}

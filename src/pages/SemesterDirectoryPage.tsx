@@ -40,10 +40,10 @@ export const SemesterDirectoryPage: React.FC = () => {
   };
 
   const yearDescriptions: Record<number, string> = {
-    1: '1st Year foundation engineering curriculum (Semesters 1 & 2): Engineering Physics, Chemistry, Mathematics-1 & 2, Basic Electrical, English, and Workshop Practices.',
-    2: '2nd Year core foundational curriculum (Semesters 3 & 4): Data Structures, Discrete Mathematics, Digital Electronics, Analog Circuits, and Mechanics of Materials.',
-    3: '3rd Year advanced branch engineering curriculum (Semesters 5 & 6): Operating Systems, Database Management (DBMS), Design of Steel Structures, Theory of Computation, and Computer Networks.',
-    4: '4th Year final year curriculum (Semesters 7 & 8): Machine Learning, Cloud Computing, Transportation Engineering, Disaster Management, and Specialized Electives.'
+    1: '1st Year foundation engineering curriculum: Engineering Physics, Chemistry, Mathematics-1 & 2, Basic Electrical, English, and Workshop Practices.',
+    2: '2nd Year core foundational curriculum: Data Structures, Discrete Mathematics, Digital Electronics, Analog Circuits, and Mechanics of Materials.',
+    3: '3rd Year advanced branch engineering curriculum: Operating Systems, Database Management (DBMS), Design of Steel Structures, Theory of Computation, and Computer Networks.',
+    4: '4th Year final year curriculum: Machine Learning, Cloud Computing, Transportation Engineering, Disaster Management, and Specialized Electives.'
   };
 
   return (

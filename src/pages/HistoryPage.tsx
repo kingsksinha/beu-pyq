@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Clock, ExternalLink, RotateCcw, Trash2, Trophy } from 'lucide-react';
 import { storageService } from '../services/storageService';
+import { formatBTechYear } from '../utils/formatters';
 import type { HistoryItem } from '../types/paper';
 import type { PracticeScoreRecord } from '../services/storageService';
 
@@ -124,7 +125,7 @@ export const HistoryPage: React.FC = () => {
                   <div className="min-w-0">
                     <div className="flex items-center gap-2 text-xs text-slate-400 font-mono mb-1">
                       <span className="px-2 py-0.5 rounded-md bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 font-bold border border-indigo-200 dark:border-indigo-800/80">
-                        Sem {item.semester} · {item.year}
+                        {formatBTechYear(item.semester)} · {item.year}
                       </span>
                       <span>Code: {item.exam_code}</span>
                       <span>·</span>
@@ -190,7 +191,7 @@ export const HistoryPage: React.FC = () => {
                   <div className="min-w-0 space-y-1">
                     <div className="flex items-center gap-2 text-xs text-slate-400 font-mono">
                       <span className="px-2 py-0.5 rounded-md bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 font-bold border border-indigo-200 dark:border-indigo-800/80">
-                        Sem {sc.semester} · {sc.year}
+                        {formatBTechYear(sc.semester)} · {sc.year}
                       </span>
                       <span>·</span>
                       <span>{formatTime(sc.timestamp)}</span>

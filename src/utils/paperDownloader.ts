@@ -1,4 +1,5 @@
 import type { PaperDetail } from '../types/paper';
+import { formatBTechYear } from './formatters';
 
 /**
  * Generates and triggers download of a self-contained, offline-ready,
@@ -301,7 +302,7 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
     <div class="paper-banner">
       <div class="univ-name">Bihar Engineering University, Patna</div>
       <h1 class="subject-title">${escapeHtml(paper.subject_name)}</h1>
-      <div class="course-title">B.Tech ${paper.semester}${getOrdinal(paper.semester)} Semester Examination, ${paper.year}</div>
+      <div class="course-title">B.Tech ${formatBTechYear(paper.semester)} Examination, ${paper.year}</div>
       <div class="meta-row">
         <span>⏱️ Time: ${escapeHtml(paper.duration || '03 Hours')}</span>
         <span>🏷️ Exam Code: ${escapeHtml(paper.exam_code || 'N/A')}</span>
@@ -348,10 +349,4 @@ function escapeHtml(text: string): string {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#039;');
-}
-
-function getOrdinal(n: number): string {
-  const s = ['th', 'st', 'nd', 'rd'];
-  const v = n % 100;
-  return s[(v - 20) % 10] || s[v] || s[0];
 }
