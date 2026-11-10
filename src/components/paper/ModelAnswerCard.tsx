@@ -238,6 +238,16 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
             </div>
           )}
 
+          {/* Descriptive Answer Key Notice */}
+          {!isMcq && (
+            <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700/60 flex items-start sm:items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
+              <span className="w-1.5 h-1.5 rounded-full bg-indigo-500 shrink-0 mt-1 sm:mt-0" />
+              <p>
+                <span className="font-medium text-slate-700 dark:text-slate-300">Note:</span> I'm currently working on adding detailed answer keys for descriptive questions; they will be displayed soon.
+              </p>
+            </div>
+          )}
+
           {/* Marks Distribution Banner (for non-MCQ or when specifically detailed) */}
           {!isMcq && modelAnswer.marksDistribution && (
             <div className="p-3 sm:p-3.5 rounded-xl bg-white dark:bg-slate-900 border border-indigo-100 dark:border-slate-800 text-xs text-indigo-900 dark:text-indigo-200 space-y-1">

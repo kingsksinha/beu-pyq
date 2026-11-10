@@ -248,6 +248,16 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
         </div>
       )}
 
+      {/* Descriptive notice in paper view */}
+      {!hasOptions && (
+        <div className="print:hidden pt-2 pl-0 sm:pl-6">
+          <p className="text-xs text-slate-500 dark:text-slate-400 italic flex items-center gap-1.5">
+            <span className="w-1.5 h-1.5 rounded-full bg-indigo-500 shrink-0" />
+            <span>I'm currently working on adding detailed answer keys for descriptive questions; they will be displayed soon.</span>
+          </p>
+        </div>
+      )}
+
       {/* FULL-WIDTH Official Model Answer & Marking Scheme */}
       <div className="print:hidden pt-2 pl-0 sm:pl-6 w-full min-w-0">
         <ModelAnswerCard

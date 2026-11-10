@@ -528,7 +528,7 @@ export const PracticeModePage: React.FC = () => {
           );
         })()}
 
-        {/* Descriptive Question Solved Toggle */}
+        {/* Descriptive Question Solved Toggle & Working Notice */}
         {!isMcq && (() => {
           const itemMarks = resolveSubQuestionMarksNum(
             currentItem.questionNumber,
@@ -540,7 +540,11 @@ export const PracticeModePage: React.FC = () => {
             currentItem.questionTitle
           );
           return (
-            <div className="pt-2">
+            <div className="pt-2 space-y-2.5">
+              <p className="text-xs text-slate-500 dark:text-slate-400 italic flex items-center gap-1.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-indigo-500 shrink-0" />
+                <span>I'm currently working on adding detailed answer keys for descriptive questions; they will be displayed soon.</span>
+              </p>
               <button
                 onClick={handleToggleDescriptive}
                 className={`inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-semibold border transition ${
