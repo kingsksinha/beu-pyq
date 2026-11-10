@@ -1291,6 +1291,238 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
     ],
     keyFormula: '\\text{Context Switch Overhead: Process } \\gg \\text{ Thread}',
     examTip: 'Construct a 4-column comparison table: Parameter, Process, Thread, Example.'
+  },
+
+  // =========================================================================
+  // 5. ENGINEERING CHEMISTRY (High Frequency Verified Solutions 2020-2024)
+  // =========================================================================
+
+  group15_hydrides_bond_angle: {
+    questionSummary: 'Largest Bond Angle in Group 15 Hydrides (NH3, PH3, AsH3, SbH3)',
+    source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1d & 2021 Q.1d)',
+    marksDistribution: '1 Mark (Identifying NH3) + 1 Mark (Electronegativity / bp-bp Repulsion Reason)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Identification of Largest Bond Angle',
+        body: '**NH₃ possesses the largest bond angle** among the given hydrides.\n\n• **Experimental Bond Angles**:\n  - $\\text{NH}_3 \\approx 107.8^\\circ$\n  - $\\text{PH}_3 \\approx 93.6^\\circ$\n  - $\\text{AsH}_3 \\approx 91.8^\\circ$\n  - $\\text{SbH}_3 \\approx 91.3^\\circ$'
+      },
+      {
+        heading: '2. Scientific Reason (VSEPR & Electronegativity)',
+        body: '1. **Highest Electronegativity & Small Size**: Nitrogen has the highest electronegativity and smallest atomic size among Group 15 elements. As a result, the $\\text{N—H}$ bond pair electrons are pulled very close to the nitrogen nucleus, creating strong bond pair–bond pair (bp–bp) electrostatic repulsion that forces the bonds apart ($107.8^\\circ$, close to tetrahedral $109.5^\\circ$).\n2. **Drago\'s Rule**: Down the group ($\\text{P} \\to \\text{As} \\to \\text{Sb}$), central atom size increases and electronegativity drops drastically. Bond pairs are located far from the nucleus with minimal bp–bp repulsion, leaving the bond angle dominated by unhybridized pure $p$-orbitals close to $90^\\circ$.'
+      }
+    ],
+    keyFormula: '\\text{Bond Angle Order: } \\text{NH}_3 (107.8^\\circ) > \\text{PH}_3 (93.6^\\circ) > \\text{AsH}_3 (91.8^\\circ) > \\text{SbH}_3 (91.3^\\circ)',
+    examTip: 'To secure full 2 marks: State NH3 directly, then mention highest electronegativity of N and strong bp-bp repulsion.'
+  },
+
+  de_broglie_principle: {
+    questionSummary: "de Broglie's Principle of Dual Nature of Matter",
+    source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1a & 2021 Q.1a)',
+    marksDistribution: '1 Mark (Principle Statement) + 1 Mark (de Broglie Wavelength Formula)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Statement of the Principle',
+        body: '**de Broglie\'s Principle**: Every moving material particle (matter) exhibits dual nature, behaving both as a particle and as a wave. The wavelength ($\\lambda$) associated with any moving particle of mass $m$ and velocity $v$ is inversely proportional to its linear momentum ($p$).'
+      },
+      {
+        heading: '2. Mathematical Formulation',
+        body: '$$\\lambda = \\frac{h}{p} = \\frac{h}{mv}$$\n\nWhere:\n• $\\lambda$ = de Broglie wavelength\n• $h$ = Planck\'s constant ($6.626 \\times 10^{-34} \\text{ J}\\cdot\\text{s}$)\n• $p = mv$ = linear momentum of the particle'
+      }
+    ],
+    keyFormula: '\\lambda = \\frac{h}{mv} = \\frac{h}{\\sqrt{2mE_k}}',
+    examTip: 'Always write the equation λ = h / mv and define each variable to secure full 2 marks.'
+  },
+
+  orbital_definition: {
+    questionSummary: 'Definition of an Atomic Orbital',
+    source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1b & 2021 Q.1b)',
+    marksDistribution: '1 Mark (3D Region of Maximum Probability) + 1 Mark (Wavefunction |ψ|² Relation)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Academic Definition',
+        body: 'An **atomic orbital** is defined as a three-dimensional region in space around the nucleus of an atom where the probability of finding an electron is maximum (typically greater than $90\\%-95\\%$).'
+      },
+      {
+        heading: '2. Quantum Mechanical Characterization',
+        body: 'It represents the spatial mathematical solution ($\\psi$) to Schrödinger\'s wave equation. The square of the wave function ($|\\psi|^2$) represents the electron probability density. Unlike fixed planar Bohr orbits, orbitals are 3D probability clouds (e.g., $s$ is spherical, $p$ is dumbbell-shaped, $d$ is double dumbbell).'
+      }
+    ],
+    keyFormula: 'P = \\int |\\psi|^2 \\, dV \\ge 0.90 \\quad (\\text{Orbital Boundary Surface})',
+    examTip: 'Differentiate orbital (3D probability space) from Bohr orbit (fixed 2D circular path).'
+  },
+
+  covalent_bond_strength_order: {
+    questionSummary: 'Increasing Order of Strength: C—F, C—Cl, C—Br, C—I',
+    source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1c)',
+    marksDistribution: '1 Mark (Correct Increasing Order) + 1 Mark (Bond Length / Atomic Radius Reason)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Increasing Order of Bond Strength',
+        body: '**Increasing Order of Strength**:\n$$\\text{C—I} < \\text{C—Br} < \\text{C—Cl} < \\text{C—F}$$\n\n• **C—F** is the strongest covalent bond (highest bond dissociation energy $\\approx 485\\text{ kJ/mol}$).\n• **C—I** is the weakest bond (lowest bond dissociation energy $\\approx 213\\text{ kJ/mol}$).'
+      },
+      {
+        heading: '2. Scientific Reason',
+        body: 'Bond strength is inversely proportional to bond length. Down the halogen group ($\\text{F} \\to \\text{Cl} \\to \\text{Br} \\to \\text{I}$), atomic radius increases ($r_{\\text{F}} < r_{\\text{Cl}} < r_{\\text{Br}} < r_{\\text{I}}$). The overlap between carbon\'s $2p$ orbital and the larger, more diffuse $p$-orbitals ($3p, 4p, 5p$) becomes increasingly ineffective, lengthening the bond and dramatically weakening the bond dissociation energy.'
+      }
+    ],
+    keyFormula: '\\text{Bond Strength} \\propto \\frac{1}{\\text{Bond Length}} \\propto \\text{Orbital Overlap Efficiency}',
+    examTip: 'Remember: Smaller halogen = shorter bond length = stronger covalent bond.'
+  },
+
+  cr2_cr3_stability: {
+    questionSummary: 'Aqueous Stability of Cr²⁺ vs Cr³⁺',
+    source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1e & 2021 Q.1e)',
+    marksDistribution: '1 Mark (Identifying Cr³⁺) + 1 Mark (t₂g³ Half-Filled Crystal Field Explanation)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Identification of More Stable Ion',
+        body: '**Cr³⁺ is much more stable than Cr²⁺ in aqueous solution.**'
+      },
+      {
+        heading: '2. Crystal Field Theory Explanation',
+        body: 'In aqueous medium, $\\text{H}_2\\text{O}$ acts as a ligand forming octahedral hexaaqua complexes ($[\\text{Cr}(\\text{H}_2\\text{O})_6]^{n+}$). Under octahedral crystal field splitting ($\\Delta_o$):\n• **Cr³⁺ ($3d^3$)**: Electronic configuration is $t_{2g}^3 e_g^0$. The lower energy $t_{2g}$ subshell is exactly **half-filled**, conferring extra thermodynamic stability and high Crystal Field Stabilization Energy ($\\text{CFSE} = -1.2\\,\\Delta_o$).\n• **Cr²⁺ ($3d^4$)**: Electronic configuration is $t_{2g}^3 e_g^1$. The electron in the higher-energy $e_g$ orbital is readily lost (readily oxidized to $\\text{Cr}^{3+}$ with $E^\\circ_{\\text{Cr}^{3+}/\\text{Cr}^{2+}} = -0.41\\text{ V}$), acting as a powerful reducing agent.'
+      }
+    ],
+    keyFormula: '\\text{Cr}^{3+} (d^3) = t_{2g}^3 e_g^0 \\quad (\\text{Half-filled, highly stable } t_{2g} \\text{ set})',
+    examTip: 'Cite the half-filled t2g³ configuration and high CFSE to get full credit.'
+  },
+
+  cu_cu2_colour: {
+    questionSummary: 'Colour of Cu⁺ (Colourless) vs Cu²⁺ (Coloured)',
+    source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1f & 2021 Q.1f & 2020 Q.1b)',
+    marksDistribution: '1 Mark (Cu⁺ d¹⁰ configuration, no d-d transition) + 1 Mark (Cu²⁺ d⁹ configuration, d-d transition)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Why Cu⁺ is Colourless',
+        body: '$\\text{Cu}^+$ has electronic configuration $[\\text{Ar}]\\,3d^{10}$. Since all the $3d$ orbitals are completely filled (no unpaired electrons), **no $d-d$ electronic transition** is possible when visible light strikes the ion. Hence, $\\text{Cu}^+$ ions do not absorb visible light and appear colourless.'
+      },
+      {
+        heading: '2. Why Cu²⁺ is Coloured (Blue)',
+        body: '$\\text{Cu}^{2+}$ has configuration $[\\text{Ar}]\\,3d^9$ (one unpaired electron). In aqueous solution ($[\\text{Cu}(\\text{H}_2\\text{O})_6]^{2+}$), the crystal field splits the $d$-orbitals into $t_{2g}$ and $e_g$. An electron absorbs light in the red-orange region of the visible spectrum to transition from $t_{2g}$ to $e_g$ ($d-d$ transition), and transmits the complementary blue colour.'
+      }
+    ],
+    keyFormula: '\\text{Cu}^+: 3d^{10} (\\text{no } d-d \\text{ transition}) \\iff \\text{Cu}^{2+}: 3d^9 (d-d \\text{ transition allowed, blue})',
+    examTip: 'Condition for colour in transition metal complexes: Partially filled d-orbitals (3d¹ to 3d⁹) allowing d-d transition.'
+  },
+
+  selection_rule: {
+    questionSummary: 'Definition and Types of Spectroscopic Selection Rules',
+    source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1g & 2021 Q.1g)',
+    marksDistribution: '1 Mark (Definition of Transition Constraints) + 1 Mark (Laporte & Spin Selection Rules)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Definition of Selection Rule',
+        body: 'A **selection rule** is a quantum mechanical statement or constraint that specifies which electronic, vibrational, or rotational spectroscopic transitions between quantum states are **allowed** (high probability) and which are **forbidden** (zero or negligible probability), derived from transition dipole moment integrals.'
+      },
+      {
+        heading: '2. Core Electronic Selection Rules',
+        body: '1. **Laporte (Orbital) Rule**: In centrosymmetric molecules, transitions between states of the same parity are forbidden ($g \\to g$ and $u \\to u$ are forbidden, $g \\to u$ allowed). Hence: $\\Delta l = \\pm 1$ ($s \\to p$, $p \\to d$ allowed; $d \\to d$ Laporte-forbidden).\n2. **Spin Selection Rule**: Electronic transitions are allowed only if the total electron spin remains unchanged: $\\Delta S = 0$ (singlet $\\to$ singlet allowed; singlet $\\to$ triplet spin-forbidden).'
+      }
+    ],
+    keyFormula: '\\Delta l = \\pm 1 \\quad (\\text{Laporte Rule}), \\qquad \\Delta S = 0 \\quad (\\text{Spin Selection Rule})',
+    examTip: 'Mention both Δl = ±1 (Laporte) and ΔS = 0 (Spin rule) for complete marks.'
+  },
+
+  vacuum_expansion_work: {
+    questionSummary: 'Work Done During Expansion of Gas Against Vacuum',
+    source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1h & 2021 Q.1h)',
+    marksDistribution: '1 Mark (Work Done = 0) + 1 Mark (P_ext = 0 Free Expansion Formula)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Value of Work Done',
+        body: '**The work done on (or by) the gas is ZERO ($W = 0$).**'
+      },
+      {
+        heading: '2. Thermodynamic Justification',
+        body: 'In thermodynamics, pressure-volume work is given by:\n$$W = -\\int P_{\\text{ext}} \\, dV$$\n\nDuring expansion into vacuum (free expansion), there is no opposing external pressure ($P_{\\text{ext}} = 0$). Since no external resistive force opposes the volume expansion of the gas boundaries, no mechanical work is performed:\n$$W = - (0) \\times \\Delta V = 0$$'
+      }
+    ],
+    keyFormula: 'W = - P_{\\text{ext}} \\Delta V = 0 \\quad (\\text{since } P_{\\text{ext}} = 0)',
+    examTip: 'Expansion against vacuum is free expansion; P_ext = 0 immediately implies W = 0.'
+  },
+
+  reaction_equilibrium_condition: {
+    questionSummary: 'Thermodynamic & Kinetic Conditions for Chemical Equilibrium',
+    source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1i & 2021 Q.1i & 2020 Q.1e)',
+    marksDistribution: '1 Mark (ΔG = 0 Condition) + 1 Mark (Forward Rate = Reverse Rate / Q = K)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Thermodynamic Condition',
+        body: 'At constant temperature and pressure, the condition for a chemical reaction to be at equilibrium is that the change in Gibbs free energy is zero:\n$$\\Delta G = 0$$\n\nEquivalently, the reaction quotient equals the equilibrium constant: $Q = K_{\\text{eq}}$.'
+      },
+      {
+        heading: '2. Kinetic & Macroscopic Condition',
+        body: 'The rate of the forward reaction equals the rate of the reverse reaction ($r_{\\text{forward}} = r_{\\text{reverse}}$). As a result, the macroscopic concentrations of all reactants and products remain constant over time (dynamic equilibrium).'
+      }
+    ],
+    keyFormula: '\\Delta G = 0 \\iff \\Delta G^\\circ = -RT \\ln K_{\\text{eq}} \\quad (Q = K)',
+    examTip: 'State both ΔG = 0 (thermodynamic) and Rate(forward) = Rate(reverse) (kinetic).'
+  },
+
+  co2_boiler_feed_water: {
+    questionSummary: 'Avoidance of CO₂ in Boiler Feed Water',
+    source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1j & 2021 Q.1j)',
+    marksDistribution: '1 Mark (Formation of Carbonic Acid H₂CO₃) + 1 Mark (Boiler Tube Corrosion & Pitting)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Formation of Corrosive Carbonic Acid',
+        body: 'Dissolved carbon dioxide ($\\text{CO}_2$) reacts with water to form weak carbonic acid:\n$$\\text{CO}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{H}_2\\text{CO}_3 \\rightleftharpoons \\text{H}^+ + \\text{HCO}_3^-$$\n\nThis acid releases $\\text{H}^+$ ions, lowering the pH of the boiler feed water and making it acidic.'
+      },
+      {
+        heading: '2. Severe Boiler Corrosion & Pitting',
+        body: 'The acidic water attacks boiler metal walls and steam/condensate return pipes:\n$$\\text{Fe} + 2\\text{H}^+ \\to \\text{Fe}^{2+} + \\text{H}_2 \\uparrow$$\n\nIn the presence of dissolved oxygen, it accelerates localized pitting corrosion and weakens boiler tubes, leading to potential boiler tube rupture and premature failure.'
+      }
+    ],
+    keyFormula: '\\text{CO}_2 + \\text{H}_2\\text{O} \\to \\text{H}_2\\text{CO}_3 \\xrightarrow{\\text{Fe metal}} \\text{Pitting Corrosion & Rust}',
+    examTip: 'State the chemical equation CO2 + H2O -> H2CO3 and explain acid pitting corrosion.'
+  },
+
+  bf3_clf3_shapes: {
+    questionSummary: 'Molecular Geometry of BF₃ and ClF₃ (VSEPR Theory)',
+    source: 'BEU Engineering Chemistry Examination Solution (2021 Q.1c)',
+    marksDistribution: '1 Mark (BF₃ Trigonal Planar) + 1 Mark (ClF₃ T-shaped with 2 Lone Pairs)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Shape of BF₃ Molecule',
+        body: '**Trigonal Planar**: Boron has 3 valence electrons and forms 3 bond pairs with fluorine atoms ($sp^2$ hybridisation, 0 lone pairs). To minimize electron repulsion, the bond pairs arrange in a flat triangle with $120^\\circ$ bond angles.'
+      },
+      {
+        heading: '2. Shape of ClF₃ Molecule',
+        body: '**T-shaped**: Chlorine has 7 valence electrons, forming 3 bond pairs and retaining 2 lone pairs ($sp^3d$ hybridisation, steric number = 5). According to VSEPR theory, the 2 lone pairs occupy equatorial positions of the trigonal bipyramid to minimize lone pair–lone pair ($90^\\circ$) repulsions, leaving the molecular geometry as slightly bent **T-shaped** (bond angle $\\approx 87.5^\\circ$).'
+      }
+    ],
+    keyFormula: '\\text{BF}_3: sp^2 \\text{ (Trigonal Planar)} \\quad | \\quad \\text{ClF}_3: sp^3d \\text{ (T-shaped with 2 equatorial lone pairs)}',
+    examTip: 'Always mention hybridization: BF3 is sp² (trigonal planar), ClF3 is sp³d (T-shaped).'
+  },
+
+  c13_c12_nmr_active: {
+    questionSummary: 'NMR Activity of ¹³C vs ¹²C (Nuclear Spin I)',
+    source: 'BEU Engineering Chemistry Examination Solution (2020 Q.1d)',
+    marksDistribution: '1 Mark (¹³C Odd Mass, I = 1/2, Non-zero spin) + 1 Mark (¹²C Even-Even, I = 0, NMR Inactive)',
+    isMcq: false,
+    points: [
+      {
+        heading: '1. Nuclear Spin of ¹³C (NMR Active)',
+        body: '$^{13}\\text{C}$ has an **odd mass number** (6 protons + 7 neutrons = 13). Nuclei with odd mass numbers possess a non-zero nuclear spin quantum number ($I = 1/2$). Because it has a spinning nuclear charge, it creates a magnetic dipole moment ($\\mu \\ne 0$) and can absorb radiofrequency energy in an external magnetic field, making it **NMR active**.'
+      },
+      {
+        heading: '2. Nuclear Spin of ¹²C (NMR Inactive)',
+        body: '$^{12}\\text{C}$ has an **even mass number and even atomic number** (6 protons + 6 neutrons = 12). In even-even nuclei, all nucleon spins pair up with antiparallel orientations, yielding a net zero nuclear spin ($I = 0$) and zero magnetic moment ($\\mu = 0$). It cannot interact with an external magnetic field, making it **NMR inactive**.'
+      }
+    ],
+    keyFormula: '^{13}\\text{C}: I = 1/2 \\implies \\text{NMR Active} \\quad | \\quad ^{12}\\text{C}: I = 0 \\implies \\text{NMR Inactive}',
+    examTip: 'Condition for NMR activity: Nuclear spin I ≠ 0 (odd mass or odd atomic number).'
   }
 };
 
@@ -1714,7 +1946,63 @@ export const modelAnswerService = {
     }
 
     // =========================================================================
-    // 5. IF QUESTION IS AN MCQ (options provided) BUT NOT IN CURATED LIST:
+    // 5. Check Curated Chemistry Solutions (2020-2024 BEU Examinations)
+    // =========================================================================
+
+    if ((text.includes('nh_3') || text.includes('nh3')) && (text.includes('ph_3') || text.includes('ph3')) && text.includes('bond angle')) {
+      return CURATED_MODEL_ANSWERS.group15_hydrides_bond_angle;
+    }
+
+    if (text.includes('de broglie') || text.includes('de-broglie')) {
+      return CURATED_MODEL_ANSWERS.de_broglie_principle;
+    }
+
+    if ((text.includes('what is an orbital') || text.includes('what is orbital') || text.includes('define orbital')) && !text.includes('molecular orbital theory')) {
+      return CURATED_MODEL_ANSWERS.orbital_definition;
+    }
+
+    if ((text.includes('c—f') || text.includes('c-f')) && (text.includes('c—i') || text.includes('c-i')) && text.includes('strength')) {
+      return CURATED_MODEL_ANSWERS.covalent_bond_strength_order;
+    }
+
+    if ((text.includes('cr^{2+}') || text.includes('cr2+') || text.includes('cr 2+')) && (text.includes('cr^{3+}') || text.includes('cr3+') || text.includes('cr 3+')) && text.includes('stable')) {
+      return CURATED_MODEL_ANSWERS.cr2_cr3_stability;
+    }
+
+    if ((text.includes('cu^+') || text.includes('cu+') || text.includes('cu 1+')) && (text.includes('cu^{2+}') || text.includes('cu2+') || text.includes('cu 2+')) && text.includes('colour')) {
+      return CURATED_MODEL_ANSWERS.cu_cu2_colour;
+    }
+
+    if (text.includes('transition metal ions like') && text.includes('colourless')) {
+      return CURATED_MODEL_ANSWERS.cu_cu2_colour;
+    }
+
+    if (text.includes('selection rule') || text.includes('selection rules')) {
+      return CURATED_MODEL_ANSWERS.selection_rule;
+    }
+
+    if (text.includes('expands against vacuum') || (text.includes('vacuum') && text.includes('work done'))) {
+      return CURATED_MODEL_ANSWERS.vacuum_expansion_work;
+    }
+
+    if ((text.includes('reaction') || text.includes('chemical')) && text.includes('equilibrium') && (text.includes('condition') || text.includes('delta g = 0') || text.includes('direction'))) {
+      return CURATED_MODEL_ANSWERS.reaction_equilibrium_condition;
+    }
+
+    if (text.includes('boiler feed water') && (text.includes('co_2') || text.includes('co2'))) {
+      return CURATED_MODEL_ANSWERS.co2_boiler_feed_water;
+    }
+
+    if ((text.includes('bf_3') || text.includes('bf3')) && (text.includes('clf_3') || text.includes('clf3')) && text.includes('shape')) {
+      return CURATED_MODEL_ANSWERS.bf3_clf3_shapes;
+    }
+
+    if ((text.includes('13c') || text.includes('^{13}c')) && (text.includes('12c') || text.includes('^{12}c')) && text.includes('nmr')) {
+      return CURATED_MODEL_ANSWERS.c13_c12_nmr_active;
+    }
+
+    // =========================================================================
+    // 6. IF QUESTION IS AN MCQ (options provided) BUT NOT IN CURATED LIST:
     // =========================================================================
     if (hasOptions && options && options.length > 0) {
       return resolveHeuristicMcq(rawText, options);
@@ -1724,24 +2012,50 @@ export const modelAnswerService = {
     const cleanTopic = rawText.length > 5 ? rawText.replace(/^[a-z0-9\(\)\.\s]+/i, '').trim() : 'Engineering Examination Problem';
 
     // =========================================================================
-    // 6. IF QUESTION IS A SHORT 2-3 MARK DESCRIPTIVE QUESTION (NO OPTIONS):
+    // 7. IF QUESTION IS A SHORT 2-3 MARK DESCRIPTIVE QUESTION (NO OPTIONS):
     // =========================================================================
     if (parsedMarksNum <= 3) {
+      let subjectHeading1 = '1. Exact Scientific Definition & Concept';
+      let subjectBody1 = `**${cleanTopic}**: Standard fundamental principle in the AICTE / BEU curriculum. To obtain full credit, state the core definition directly in 1-2 concise, scientifically precise sentences.`;
+      let subjectHeading2 = '2. Key Formula, Criterion or Governing Condition';
+      let subjectBody2 = 'Write down the governing mathematical formula, boundary condition, or standard laboratory unit that directly characterizes the concept.';
+      let tip = 'For 2-mark short questions: write a 1-sentence definition and the exact formula/equation with standard units. Do not write lengthy paragraphs.';
+
+      if (text.includes('entropy') || text.includes('carnot') || text.includes('heat') || text.includes('enthalpy') || text.includes('joule')) {
+        subjectHeading1 = '1. Thermodynamic Concept & Definition';
+        subjectBody1 = `**${cleanTopic}**: Defined under the laws of classical thermodynamics. State whether it is a state or path function, and define the energy/entropy transfer across system boundaries.`;
+        subjectHeading2 = '2. Governing Thermodynamic Equation & Units';
+        subjectBody2 = 'Provide the exact differential relation ($dQ = dU + dW$ or $dS \\ge dQ/T$) and specify standard SI units (J or J/K).';
+        tip = 'State whether the quantity is a state function or path function, along with its standard SI unit.';
+      } else if (text.includes('stress') || text.includes('strain') || text.includes('modulus') || text.includes('elastic') || text.includes('shear')) {
+        subjectHeading1 = '1. Mechanical Property & Physical Meaning';
+        subjectBody1 = `**${cleanTopic}**: Defined as the internal resisting force per unit area or normalized deformation in structural mechanics governed by Hooke\'s law.`;
+        subjectHeading2 = '2. Constitutive Equation & Standard Units';
+        subjectBody2 = 'Formula: $\\sigma = E \\epsilon$ or $\\tau = G \\gamma$. State units in $\\text{N/m}^2$ (Pascals) or dimensionlessness.';
+        tip = 'Always write the constitutive stress-strain equation and state SI units (Pa or N/m²).';
+      } else if (text.includes('current') || text.includes('flux') || text.includes('transformer') || text.includes('motor') || text.includes('power factor')) {
+        subjectHeading1 = '1. Electrical Principle & Operating Criterion';
+        subjectBody1 = `**${cleanTopic}**: Characterized by electromagnetic and circuit theory principles (Faraday\'s law, Ampere\'s law, or AC phasor relations).`;
+        subjectHeading2 = '2. Governing Formula & Standard Unit';
+        subjectBody2 = 'Formula: State the core mathematical equation (e.g., $e = -N \\frac{d\\Phi}{dt}$, $P = VI \\cos\\phi$) and relevant unit (V, A, W, or Wb).';
+        tip = 'Include the primary governing equation and phasor / schematic reference.';
+      } else if (text.includes('pointer') || text.includes('stack') || text.includes('queue') || text.includes('tree') || text.includes('complexity') || text.includes('recursion')) {
+        subjectHeading1 = '1. Data Structure Invariant / Algorithmic Property';
+        subjectBody1 = `**${cleanTopic}**: In computer science and data structures, define the primary storage invariant (e.g., LIFO, FIFO, contiguous addressing) and memory layout.`;
+        subjectHeading2 = '2. Time Complexity & Operation';
+        subjectBody2 = 'State the asymptotic time complexity ($O(1)$, $O(n)$, or $O(\\log n)$) for standard operations (push, pop, access, or traversal).';
+        tip = 'State the storage invariant (LIFO/FIFO) and give the Big-O time complexity.';
+      }
+
       return {
         questionSummary: cleanTopic.length > 70 ? cleanTopic.slice(0, 67) + '...' : cleanTopic,
         source: 'BEU Academic Standard Short Answer Scheme (2 Marks)',
-        marksDistribution: '1 Mark (Direct Academic Definition) + 1 Mark (Key Formula / Principle / Example)',
+        marksDistribution: '1 Mark (Direct Academic Definition) + 1 Mark (Key Formula / Condition / Principle)',
         points: [
-          {
-            heading: '1. Academic Definition & Core Concept',
-            body: `**${cleanTopic}**: Formally defined in the BEU syllabus as a core engineering concept governed by standardized scientific laws. State the standard definition directly in two complete, technically precise sentences.`
-          },
-          {
-            heading: '2. Governing Formula, Condition or Application',
-            body: 'State the core governing mathematical relation, boundary condition, or standard laboratory/industrial example with appropriate standard SI units to secure the second evaluation mark.'
-          }
+          { heading: subjectHeading1, body: subjectBody1 },
+          { heading: subjectHeading2, body: subjectBody2 }
         ],
-        examTip: 'For 2-mark short questions, write a direct 2-line definition followed by the core equation or condition. Avoid writing long essay paragraphs.'
+        examTip: tip
       };
     }
 

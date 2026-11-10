@@ -66,9 +66,9 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
       {/* Header / Toggle Button */}
       <button
         onClick={handleToggle}
-        className="w-full px-4 sm:px-5 py-3 flex items-center justify-between text-left hover:bg-black/5 dark:hover:bg-white/5 transition select-none cursor-pointer"
+        className="w-full px-3 sm:px-5 py-2.5 sm:py-3 flex items-center justify-between gap-2 sm:gap-3 text-left hover:bg-black/5 dark:hover:bg-white/5 transition select-none cursor-pointer"
       >
-        <div className="flex items-center gap-2.5">
+        <div className="flex items-center gap-2 sm:gap-2.5 min-w-0 flex-1">
           <div className={`p-1.5 rounded-lg shrink-0 ${
             unlocked 
               ? isMcq
@@ -82,9 +82,9 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
               <Lock className="w-4 h-4" />
             )}
           </div>
-          <div>
-            <div className="flex items-center gap-2">
-              <span className={`text-xs sm:text-sm font-bold ${
+          <div className="min-w-0 flex-1">
+            <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5">
+              <span className={`text-xs sm:text-sm font-bold break-words leading-snug ${
                 unlocked 
                   ? isMcq
                     ? 'text-emerald-950 dark:text-emerald-200'
@@ -98,32 +98,32 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
                   : 'Official Model Answer & Marking Scheme (7 Marks)'}
               </span>
               {unlocked ? (
-                <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
+                <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 shrink-0">
                   <CheckCircle className="w-3 h-3" />
                   <span>Verified Key</span>
                 </span>
               ) : (
-                <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-amber-500/10 text-amber-600 dark:text-amber-400 border border-amber-500/20">
+                <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-amber-500/10 text-amber-600 dark:text-amber-400 border border-amber-500/20 shrink-0">
                   <Lock className="w-3 h-3" />
                   <span>Attempt to Unlock</span>
                 </span>
               )}
             </div>
-            <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">
+            <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5 truncate sm:whitespace-normal">
               {unlocked ? modelAnswer.source : 'Attempt this question first to reveal verified solution'}
             </p>
           </div>
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
           {unlocked ? (
-            <span className={`text-xs font-semibold hidden sm:inline ${
+            <span className={`text-xs font-semibold hidden md:inline ${
               isMcq ? 'text-emerald-600 dark:text-emerald-400' : 'text-indigo-600 dark:text-indigo-400'
             }`}>
               {isExpanded ? 'Hide Solution' : isMcq ? 'View Key & Explanation' : 'View Solution & Steps'}
             </span>
           ) : (
-            <span className="text-xs font-semibold text-amber-600 dark:text-amber-400 hidden sm:inline">
+            <span className="text-xs font-semibold text-amber-600 dark:text-amber-400 hidden md:inline">
               {isExpanded ? 'Close' : 'Unlock Solution'}
             </span>
           )}
