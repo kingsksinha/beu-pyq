@@ -29,12 +29,30 @@ export const dataService = {
   async getSubjects(): Promise<SubjectItem[]> {
     if (subjectsCache) return subjectsCache;
     try {
-      const res = await fetch(`${BASE_URL}/data/subjects.json`);
+      const [res, catalog] = await Promise.all([
+        fetch(`${BASE_URL}/data/subjects.json`),
+        this.getCatalog()
+      ]);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data: SubjectItem[] = await res.json();
-      data.forEach(item => {
-        item.branch = curriculumService.detectBranch(undefined, item.code);
+
+      const subjectBranches = new Map<string, Set<string>>();
+      catalog.forEach(p => {
+        const b = p.branch || curriculumService.detectBranch(p.exam_code, p.subject_code);
+        if (!subjectBranches.has(p.subject_code)) {
+          subjectBranches.set(p.subject_code, new Set());
+        }
+        subjectBranches.get(p.subject_code)!.add(b);
       });
+
+      data.forEach(item => {
+        const primary = curriculumService.detectBranch(undefined, item.code);
+        item.branch = primary;
+        const bSet = subjectBranches.get(item.code) || new Set();
+        bSet.add(primary);
+        item.branches = Array.from(bSet);
+      });
+
       subjectsCache = data;
       return data;
     } catch (err) {

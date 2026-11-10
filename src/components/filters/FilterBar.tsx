@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 import { Filter, RotateCcw, Sparkles } from 'lucide-react';
-import type { FilterState, SortMode, SubjectItem } from '../../types/paper';
+import type { FilterState, PaperCatalogItem, SortMode, SubjectItem } from '../../types/paper';
 import { curriculumService, MAJOR_BRANCHES } from '../../services/curriculumService';
 import { ActiveFilterChips } from './ActiveFilterChips';
 import { SortDropdown } from './SortDropdown';
@@ -8,6 +8,7 @@ import { SortDropdown } from './SortDropdown';
 interface FilterBarProps {
   filters: FilterState;
   subjects: SubjectItem[];
+  catalog: PaperCatalogItem[];
   availableYears: string[];
   totalMatches: number;
   totalPapers: number;
@@ -18,34 +19,50 @@ interface FilterBarProps {
 export const FilterBar: React.FC<FilterBarProps> = ({
   filters,
   subjects,
+  catalog,
   availableYears,
   totalMatches,
   totalPapers,
   onFilterChange,
   onResetFilters
 }) => {
-  // Filter subjects by selected year AND branch
+  // Filter subjects by selected year AND branch based on actual catalog paper availability
   const availableSubjects = useMemo(() => {
-    let list = subjects;
+    if (!catalog || catalog.length === 0) return subjects;
+
+    let pool = catalog;
     if (filters.semester !== 'ALL') {
       const semNum = parseInt(filters.semester, 10);
-      list = list.filter(s => s.semesters.includes(semNum));
+      pool = pool.filter(p => p.semester === semNum);
     }
     if (filters.branch && filters.branch !== 'ALL') {
-      list = list.filter(s => (s.branch || curriculumService.detectBranch(undefined, s.code)) === filters.branch);
+      pool = pool.filter(p => (p.branch || curriculumService.detectBranch(p.exam_code, p.subject_code)) === filters.branch);
     }
-    return list;
-  }, [subjects, filters.semester, filters.branch]);
+
+    const matchingCodes = new Set(pool.map(p => p.subject_code));
+    return subjects
+      .filter(s => matchingCodes.has(s.code))
+      .map(s => {
+        const countInPool = pool.filter(p => p.subject_code === s.code).length;
+        return {
+          ...s,
+          filteredPaperCount: countInPool
+        };
+      });
+  }, [catalog, subjects, filters.semester, filters.branch]);
 
   const handleSemesterChange = (newSem: string) => {
     const changes: Partial<FilterState> = { semester: newSem };
 
-    // If a subject was selected, verify it belongs to the newly chosen semester; otherwise reset to ALL
-    if (newSem !== 'ALL' && filters.subject !== 'ALL') {
+    // If a subject was selected, verify it belongs to the newly chosen semester and branch
+    if (newSem !== 'ALL' && filters.subject !== 'ALL' && catalog) {
+      let pool = catalog;
       const semNum = parseInt(newSem, 10);
-      const isSubjValid = subjects.some(
-        s => s.code === filters.subject && s.semesters.includes(semNum)
-      );
+      pool = pool.filter(p => p.semester === semNum);
+      if (filters.branch && filters.branch !== 'ALL') {
+        pool = pool.filter(p => (p.branch || curriculumService.detectBranch(p.exam_code, p.subject_code)) === filters.branch);
+      }
+      const isSubjValid = pool.some(p => p.subject_code === filters.subject);
       if (!isSubjValid) {
         changes.subject = 'ALL';
       }
@@ -56,10 +73,14 @@ export const FilterBar: React.FC<FilterBarProps> = ({
 
   const handleBranchChange = (newBranch: string) => {
     const changes: Partial<FilterState> = { branch: newBranch };
-    if (newBranch !== 'ALL' && filters.subject !== 'ALL') {
-      const isSubjValid = subjects.some(
-        s => s.code === filters.subject && (s.branch || curriculumService.detectBranch(undefined, s.code)) === newBranch
-      );
+    if (newBranch !== 'ALL' && filters.subject !== 'ALL' && catalog) {
+      let pool = catalog;
+      if (filters.semester !== 'ALL') {
+        const semNum = parseInt(filters.semester, 10);
+        pool = pool.filter(p => p.semester === semNum);
+      }
+      pool = pool.filter(p => (p.branch || curriculumService.detectBranch(p.exam_code, p.subject_code)) === newBranch);
+      const isSubjValid = pool.some(p => p.subject_code === filters.subject);
       if (!isSubjValid) {
         changes.subject = 'ALL';
       }
@@ -151,7 +172,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             </option>
             {availableSubjects.map(s => (
               <option key={s.code} value={s.code}>
-                {s.name} ({s.paperCount}p)
+                {s.name} ({s.filteredPaperCount ?? s.paperCount}p)
               </option>
             ))}
           </select>

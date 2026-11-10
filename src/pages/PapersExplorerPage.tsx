@@ -4,6 +4,7 @@ import { Compass, FileQuestion } from 'lucide-react';
 import { FilterBar } from '../components/filters/FilterBar';
 import { PaperCard } from '../components/paper/PaperCard';
 import { dataService } from '../services/dataService';
+import { curriculumService } from '../services/curriculumService';
 import type { FilterState, PaperCatalogItem, SortMode, SubjectItem } from '../types/paper';
 
 export const PapersExplorerPage: React.FC = () => {
@@ -42,11 +43,18 @@ export const PapersExplorerPage: React.FC = () => {
   const handleFilterChange = (newFilters: Partial<FilterState>) => {
     const updated = { ...filters, ...newFilters };
 
-    // If semester is set and subject is set, ensure subject belongs to semester; otherwise reset to ALL
-    if (updated.semester !== 'ALL' && updated.subject !== 'ALL' && subjects.length > 0) {
-      const semNum = parseInt(updated.semester, 10);
-      const isSubjInSem = subjects.some(s => s.code === updated.subject && s.semesters.includes(semNum));
-      if (!isSubjInSem) {
+    // If subject is selected, ensure subject actually has papers for the chosen semester & branch; otherwise reset to ALL
+    if (updated.subject !== 'ALL' && catalog.length > 0) {
+      let pool = catalog;
+      if (updated.semester !== 'ALL') {
+        const semNum = parseInt(updated.semester, 10);
+        pool = pool.filter(p => p.semester === semNum);
+      }
+      if (updated.branch && updated.branch !== 'ALL') {
+        pool = pool.filter(p => (p.branch || curriculumService.detectBranch(p.exam_code, p.subject_code)) === updated.branch);
+      }
+      const isSubjValid = pool.some(p => p.subject_code === updated.subject);
+      if (!isSubjValid) {
         updated.subject = 'ALL';
       }
     }
@@ -69,32 +77,42 @@ export const PapersExplorerPage: React.FC = () => {
     setSearchParams(new URLSearchParams(), { replace: true });
   };
 
-  // Keep URL parameters consistent if invalid semester/subject combination is provided
+  // Keep URL parameters consistent if invalid semester/branch/subject combination is provided
   useEffect(() => {
-    if (subjects.length > 0 && filters.semester !== 'ALL' && filters.subject !== 'ALL') {
-      const semNum = parseInt(filters.semester, 10);
-      const isSubjInSem = subjects.some(s => s.code === filters.subject && s.semesters.includes(semNum));
-      if (!isSubjInSem) {
+    if (catalog.length > 0 && filters.subject !== 'ALL') {
+      let pool = catalog;
+      if (filters.semester !== 'ALL') {
+        const semNum = parseInt(filters.semester, 10);
+        pool = pool.filter(p => p.semester === semNum);
+      }
+      if (filters.branch && filters.branch !== 'ALL') {
+        pool = pool.filter(p => (p.branch || curriculumService.detectBranch(p.exam_code, p.subject_code)) === filters.branch);
+      }
+      const isSubjValid = pool.some(p => p.subject_code === filters.subject);
+      if (!isSubjValid) {
         const nextParams = new URLSearchParams(searchParams);
         nextParams.delete('subject');
         setSearchParams(nextParams, { replace: true });
       }
     }
-  }, [subjects, filters.semester, filters.subject, searchParams, setSearchParams]);
+  }, [catalog, filters.semester, filters.branch, filters.subject, searchParams, setSearchParams]);
 
-  // Compute available examination years from catalog matching active semester & subject
+  // Compute available examination years from catalog matching active semester, branch & subject
   const availableYears = useMemo(() => {
     let pool = catalog;
     if (filters.semester !== 'ALL') {
       const semNum = parseInt(filters.semester, 10);
       pool = pool.filter(p => p.semester === semNum);
     }
+    if (filters.branch && filters.branch !== 'ALL') {
+      pool = pool.filter(p => (p.branch || curriculumService.detectBranch(p.exam_code, p.subject_code)) === filters.branch);
+    }
     if (filters.subject !== 'ALL') {
       pool = pool.filter(p => p.subject_code === filters.subject);
     }
     const yearsSet = new Set(pool.map(p => p.year));
     return Array.from(yearsSet).sort((a, b) => parseInt(b, 10) - parseInt(a, 10));
-  }, [catalog, filters.semester, filters.subject]);
+  }, [catalog, filters.semester, filters.branch, filters.subject]);
 
   // Apply filtering and sorting to underlying dataset
   const filteredPapers = useMemo(() => {
@@ -129,6 +147,7 @@ export const PapersExplorerPage: React.FC = () => {
       <FilterBar
         filters={filters}
         subjects={subjects}
+        catalog={catalog}
         availableYears={availableYears}
         totalMatches={filteredPapers.length}
         totalPapers={catalog.length}

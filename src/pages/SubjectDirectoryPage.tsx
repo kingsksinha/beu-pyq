@@ -26,7 +26,9 @@ export const SubjectDirectoryPage: React.FC = () => {
       const matchesSearch = !q || s.name.toLowerCase().includes(q) || s.code.toLowerCase().includes(q);
       const matchesSem = selectedSemester === 'ALL' || s.semesters.includes(parseInt(selectedSemester, 10));
       const branchKey = s.branch || curriculumService.detectBranch(undefined, s.code);
-      const matchesBranch = selectedBranch === 'ALL' || branchKey === selectedBranch;
+      const matchesBranch =
+        selectedBranch === 'ALL' ||
+        (s.branches ? s.branches.includes(selectedBranch) : branchKey === selectedBranch);
       return matchesSearch && matchesSem && matchesBranch;
     });
   }, [subjects, searchQuery, selectedSemester, selectedBranch]);

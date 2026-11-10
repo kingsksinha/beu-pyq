@@ -60,6 +60,8 @@ export interface SubjectItem {
   totalSubquestions: number;
   maxFreq: number;
   branch?: string;
+  branches?: string[];
+  filteredPaperCount?: number;
 }
 
 export interface PlatformStats {

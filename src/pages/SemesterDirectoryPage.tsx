@@ -71,7 +71,7 @@ export const SemesterDirectoryPage: React.FC = () => {
   const displaySubjects = semSubjects.filter(s => {
     if (selectedBranch === 'ALL') return true;
     const branch = s.branch || curriculumService.detectBranch(undefined, s.code);
-    return branch === selectedBranch;
+    return s.branches ? s.branches.includes(selectedBranch) : branch === selectedBranch;
   });
 
   const year1Data = curriculumService.getYear1Curriculum();
@@ -258,9 +258,10 @@ export const SemesterDirectoryPage: React.FC = () => {
               </button>
               {MAJOR_BRANCHES.filter(b => b.key !== 'COMMON').map(b => {
                 const isSelected = selectedBranch === b.key;
-                const branchCount = semSubjects.filter(
-                  s => (s.branch || curriculumService.detectBranch(undefined, s.code)) === b.key
-                ).length;
+                const branchCount = semSubjects.filter(s => {
+                  const branch = s.branch || curriculumService.detectBranch(undefined, s.code);
+                  return s.branches ? s.branches.includes(b.key) : branch === b.key;
+                }).length;
                 return (
                   <button
                     key={b.key}
