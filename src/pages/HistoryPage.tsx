@@ -204,7 +204,7 @@ export const HistoryPage: React.FC = () => {
                     <div className="flex items-center gap-3 text-xs text-slate-500 dark:text-slate-400 font-medium pt-0.5">
                       <span>{sc.attemptedCount} of {sc.totalItems} attempted</span>
                       <span>·</span>
-                      <span>Accuracy: <strong>{sc.accuracy}%</strong></span>
+                      <span>Accuracy: <strong>{sc.accuracy !== null && sc.accuracy !== undefined ? `${sc.accuracy}%` : 'N/A'}</strong></span>
                     </div>
                   </div>
 

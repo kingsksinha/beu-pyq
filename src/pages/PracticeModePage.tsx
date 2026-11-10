@@ -18,6 +18,7 @@ import { MathText } from '../components/ui/MathText';
 import { QuestionDiagram } from '../components/ui/QuestionDiagram';
 import { StarFrequency } from '../components/ui/StarFrequency';
 import { ModelAnswerCard } from '../components/paper/ModelAnswerCard';
+import { answerKeyService } from '../services/answerKeyService';
 import { dataService } from '../services/dataService';
 import { storageService } from '../services/storageService';
 import type { PaperDetail, SubQuestion } from '../types/paper';
@@ -33,43 +34,8 @@ interface FlatPracticeItem {
   totalSubQuestions: number;
 }
 
-// Built-in verified answer database for standard BEU question patterns
-const VERIFIED_ANSWERS: Record<string, number> = {
-  'compton shift': 2,
-  'wave function': 3,
-  'critical angle': 2,
-  'diamagnetic': 0,
-  'schrödinger': 1,
-  'maxwell': 1,
-  'sampling theorem': 0,
-  'aliasing': 0,
-};
-
-function hashQuestionText(text: string, id: string, subNumber: string): number {
-  let h = 0x811c9dc5 ^ ((subNumber.charCodeAt(0) || 65) * 0x9e3779b9);
-  const str = text + '::' + id + '::' + subNumber + '::beu_random_salt_v5';
-  for (let i = 0; i < str.length; i++) {
-    h ^= str.charCodeAt(i);
-    h = Math.imul(h, 0x01000193);
-    h = (h << 5) | (h >>> 27);
-  }
-  h ^= h >>> 16;
-  h = Math.imul(h, 0x85ebca6b);
-  h ^= h >>> 13;
-  h = Math.imul(h, 0xc2b2ae35);
-  h ^= h >>> 16;
-  return h >>> 0;
-}
-
-function resolveCorrectOption(item: FlatPracticeItem): number {
-  const text = item.sub.text.toLowerCase();
-  for (const [key, ans] of Object.entries(VERIFIED_ANSWERS)) {
-    if (text.includes(key)) return ans;
-  }
-  const optCount = item.sub.options?.length || 4;
-  const hash = hashQuestionText(item.sub.text, item.id, item.sub.subNumber || 'a');
-  return hash % optCount;
-}
+// Official answer keys are strictly resolved via answerKeyService using stable question IDs.
+// No pseudo-random hashing or unverified guessing is permitted.
 
 export const PracticeModePage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -80,6 +46,7 @@ export const PracticeModePage: React.FC = () => {
   const [userAnswers, setUserAnswers] = useState<Record<string, number>>({});
   const [descriptiveSolved, setDescriptiveSolved] = useState<Record<string, boolean>>({});
   const [revisionList, setRevisionList] = useState<string[]>([]);
+  const [bookmarkedIds, setBookmarkedIds] = useState<Set<string>>(() => new Set(storageService.getQuestionBookmarks().map(b => b.questionId).filter((bid): bid is string => Boolean(bid))));
   const [showScoreModal, setShowScoreModal] = useState(false);
   const [loading, setLoading] = useState(true);
 
@@ -103,6 +70,7 @@ export const PracticeModePage: React.FC = () => {
         exam_code: data.exam_code
       });
       setRevisionList(storageService.getRevisionList());
+      setBookmarkedIds(new Set(storageService.getQuestionBookmarks().map(b => b.questionId).filter((bid): bid is string => Boolean(bid))));
       setLoading(false);
     });
   }, [id]);
@@ -199,12 +167,15 @@ export const PracticeModePage: React.FC = () => {
       questionNumber: currentItem.questionNumber,
       questionText: currentItem.sub.text
     });
+    setBookmarkedIds(new Set(storageService.getQuestionBookmarks().map(b => b.questionId).filter((bid): bid is string => Boolean(bid))));
   };
 
   // --- Score Calculation ---
   const scoreStats = useMemo(() => {
     let mcqTotal = 0;
-    let mcqCorrect = 0;
+    let verifiedMcqAttempted = 0;
+    let verifiedMcqCorrect = 0;
+    let unverifiedMcqAttempted = 0;
     let descTotal = 0;
     let descSolved = 0;
     let totalMarksEarned = 0;
@@ -226,11 +197,16 @@ export const PracticeModePage: React.FC = () => {
       if (isMcq) {
         mcqTotal++;
         const chosen = userAnswers[item.id];
-        const correct = resolveCorrectOption(item);
+        const key = answerKeyService.resolveAnswerKey(item.id, item.sub.options);
         if (chosen !== undefined) {
-          if (chosen === correct) {
-            mcqCorrect++;
-            totalMarksEarned += questionMarks;
+          if (key !== null) {
+            verifiedMcqAttempted++;
+            if (chosen === key.correctOptionIndex) {
+              verifiedMcqCorrect++;
+              totalMarksEarned += questionMarks;
+            }
+          } else {
+            unverifiedMcqAttempted++;
           }
         }
       } else {
@@ -242,15 +218,26 @@ export const PracticeModePage: React.FC = () => {
       }
     });
 
-    const totalAttempted = Object.keys(userAnswers).length + Object.keys(descriptiveSolved).filter(k => descriptiveSolved[k]).length;
-    const accuracy = mcqTotal > 0 ? Math.round((mcqCorrect / (Object.keys(userAnswers).length || 1)) * 100) : 100;
-    const percentage = totalPossibleMarks > 0 ? Math.round((totalMarksEarned / totalPossibleMarks) * 100) : 0;
+    const activeIds = new Set(activeItems.map(i => i.id));
+    const attemptedMcqCount = Object.keys(userAnswers).filter(id => activeIds.has(id)).length;
+    const attemptedDescCount = Object.keys(descriptiveSolved).filter(id => descriptiveSolved[id] && activeIds.has(id)).length;
+    const totalAttempted = attemptedMcqCount + attemptedDescCount;
+
+    const accuracy = verifiedMcqAttempted > 0
+      ? Math.round((verifiedMcqCorrect / verifiedMcqAttempted) * 100)
+      : null;
+
+    const percentage = totalPossibleMarks > 0
+      ? Math.round((totalMarksEarned / totalPossibleMarks) * 100)
+      : 0;
 
     return {
       totalItems: activeItems.length,
       totalAttempted,
       mcqTotal,
-      mcqCorrect,
+      verifiedMcqAttempted,
+      verifiedMcqCorrect,
+      unverifiedMcqAttempted,
       descTotal,
       descSolved,
       totalMarksEarned,
@@ -317,10 +304,9 @@ export const PracticeModePage: React.FC = () => {
   }
 
   const isRevisionMarked = revisionList.includes(currentItem.id);
-  const isBookmarked = storageService.isQuestionBookmarked(currentItem.id);
+  const isBookmarked = bookmarkedIds.has(currentItem.id);
   const isMcq = !!(currentItem.sub.options && currentItem.sub.options.length > 0);
   const selectedOption = userAnswers[currentItem.id];
-  const correctOption = resolveCorrectOption(currentItem);
   const isSolved = isMcq ? selectedOption !== undefined : !!descriptiveSolved[currentItem.id];
   const progressPercent = Math.round(((safeIndex + 1) / activeItems.length) * 100);
 
@@ -453,61 +439,93 @@ export const PracticeModePage: React.FC = () => {
         <QuestionDiagram images={currentItem.sub.images} questionText={currentItem.sub.text} />
 
         {/* MCQ Option Choices with Answer Feedback */}
-        {isMcq && currentItem.sub.options && (
-          <div className="space-y-3 pt-2">
-            <div className="flex items-center justify-between text-xs font-bold text-slate-400 uppercase tracking-wider">
-              <span>Select Your Option:</span>
-              {selectedOption !== undefined && (
-                <span className={selectedOption === correctOption ? 'text-emerald-500 font-bold' : 'text-rose-500 font-bold'}>
-                  {selectedOption === correctOption ? '✓ Correct Option (+2 Marks)' : '✗ Incorrect Option'}
-                </span>
+        {isMcq && currentItem.sub.options && (() => {
+          const verifiedKey = answerKeyService.resolveAnswerKey(currentItem.id, currentItem.sub.options);
+          const hasAnswered = selectedOption !== undefined;
+          const isCorrect = verifiedKey !== null && selectedOption === verifiedKey.correctOptionIndex;
+
+          return (
+            <div className="space-y-3 pt-2">
+              <div className="flex items-center justify-between text-xs font-bold text-slate-400 uppercase tracking-wider">
+                <span>Select Your Option:</span>
+                {hasAnswered && (
+                  verifiedKey !== null ? (
+                    <span className={isCorrect ? 'text-emerald-500 font-bold' : 'text-rose-500 font-bold'}>
+                      {isCorrect ? '✓ Correct Option (+2 Marks)' : '✗ Incorrect Option'}
+                    </span>
+                  ) : (
+                    <span className="text-amber-500 font-medium normal-case">
+                      Answer recorded • Official key under academic review
+                    </span>
+                  )
+                )}
+              </div>
+
+              <div className="space-y-2">
+                {currentItem.sub.options.map((opt, optIdx) => {
+                  const letter = String.fromCharCode(97 + optIdx);
+                  const isSelected = selectedOption === optIdx;
+                  const isOptionKey = verifiedKey !== null && optIdx === verifiedKey.correctOptionIndex;
+
+                  let optionStyle = 'bg-slate-50 dark:bg-slate-800/50 border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-indigo-400 dark:hover:border-indigo-600';
+
+                  if (hasAnswered) {
+                    if (verifiedKey !== null) {
+                      if (isSelected && isOptionKey) {
+                        optionStyle = 'bg-emerald-500/10 border-emerald-500 text-emerald-700 dark:text-emerald-300 font-semibold ring-1 ring-emerald-500';
+                      } else if (isSelected && !isOptionKey) {
+                        optionStyle = 'bg-rose-500/10 border-rose-500 text-rose-700 dark:text-rose-300 font-semibold ring-1 ring-rose-500';
+                      } else if (!isSelected && isOptionKey) {
+                        optionStyle = 'bg-emerald-500/5 border-emerald-500/40 text-emerald-600 dark:text-emerald-400 font-medium';
+                      }
+                    } else {
+                      if (isSelected) {
+                        optionStyle = 'bg-indigo-500/10 border-indigo-500 text-indigo-700 dark:text-indigo-300 font-semibold ring-1 ring-indigo-500';
+                      }
+                    }
+                  }
+
+                  const badgeLabel = (() => {
+                    if (!hasAnswered) return letter;
+                    if (verifiedKey !== null) {
+                      if (isOptionKey) return '✓';
+                      if (isSelected && !isOptionKey) return '✗';
+                    }
+                    return letter;
+                  })();
+
+                  return (
+                    <button
+                      key={optIdx}
+                      type="button"
+                      onClick={() => handleOptionSelect(optIdx)}
+                      className={`w-full text-left flex items-start gap-3 p-3.5 rounded-xl border text-sm transition ${optionStyle}`}
+                    >
+                      <span className={`w-6 h-6 rounded-lg flex items-center justify-center font-mono text-xs font-semibold shrink-0 ${
+                        hasAnswered && verifiedKey !== null && isOptionKey
+                          ? 'bg-emerald-500 text-white'
+                          : hasAnswered && verifiedKey !== null && isSelected && !isOptionKey
+                          ? 'bg-rose-500 text-white'
+                          : isSelected
+                          ? 'bg-indigo-600 text-white'
+                          : 'bg-slate-200 dark:bg-slate-700 text-slate-600 dark:text-slate-300'
+                      }`}>
+                        {badgeLabel}
+                      </span>
+                      <MathText text={opt} inline className="flex-1 mt-0.5" />
+                    </button>
+                  );
+                })}
+              </div>
+
+              {hasAnswered && verifiedKey === null && (
+                <div className="p-3 rounded-xl bg-amber-500/10 border border-amber-500/20 text-xs text-amber-600 dark:text-amber-400">
+                  Note: Official answer key for this question is currently under academic review. Your response is recorded without penalization.
+                </div>
               )}
             </div>
-
-            <div className="space-y-2">
-              {currentItem.sub.options.map((opt, optIdx) => {
-                const letter = String.fromCharCode(97 + optIdx);
-                const isSelected = selectedOption === optIdx;
-                const isCorrect = optIdx === correctOption;
-                const hasAnswered = selectedOption !== undefined;
-
-                let optionStyle = 'bg-slate-50 dark:bg-slate-800/50 border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-indigo-400 dark:hover:border-indigo-600';
-
-                if (hasAnswered) {
-                  if (isSelected && isCorrect) {
-                    optionStyle = 'bg-emerald-500/10 border-emerald-500 text-emerald-700 dark:text-emerald-300 font-semibold ring-1 ring-emerald-500';
-                  } else if (isSelected && !isCorrect) {
-                    optionStyle = 'bg-rose-500/10 border-rose-500 text-rose-700 dark:text-rose-300 font-semibold ring-1 ring-rose-500';
-                  } else if (!isSelected && isCorrect) {
-                    optionStyle = 'bg-emerald-500/5 border-emerald-500/40 text-emerald-600 dark:text-emerald-400 font-medium';
-                  }
-                }
-
-                return (
-                  <button
-                    key={optIdx}
-                    type="button"
-                    onClick={() => handleOptionSelect(optIdx)}
-                    className={`w-full text-left flex items-start gap-3 p-3.5 rounded-xl border text-sm transition ${optionStyle}`}
-                  >
-                    <span className={`w-6 h-6 rounded-lg flex items-center justify-center font-mono text-xs font-semibold shrink-0 ${
-                      hasAnswered && isCorrect
-                        ? 'bg-emerald-500 text-white'
-                        : hasAnswered && isSelected && !isCorrect
-                        ? 'bg-rose-500 text-white'
-                        : isSelected
-                        ? 'bg-indigo-600 text-white'
-                        : 'bg-slate-200 dark:bg-slate-700 text-slate-600 dark:text-slate-300'
-                    }`}>
-                      {hasAnswered && isCorrect ? '✓' : hasAnswered && isSelected && !isCorrect ? '✗' : letter}
-                    </span>
-                    <MathText text={opt} inline className="flex-1 mt-0.5" />
-                  </button>
-                );
-              })}
-            </div>
-          </div>
-        )}
+          );
+        })()}
 
         {/* Descriptive Question Solved Toggle */}
         {!isMcq && (() => {
@@ -624,10 +642,15 @@ export const PracticeModePage: React.FC = () => {
             if (isCurrent) {
               btnStyle = 'bg-indigo-600 text-white ring-2 ring-indigo-400';
             } else if (itemIsMcq && chosen !== undefined) {
-              const isCorr = chosen === resolveCorrectOption(item);
-              btnStyle = isCorr 
-                ? 'bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30'
-                : 'bg-rose-500/20 text-rose-600 dark:text-rose-400 border border-rose-500/30';
+              const verifiedKey = answerKeyService.resolveAnswerKey(item.id, item.sub.options);
+              if (verifiedKey !== null) {
+                const isCorr = chosen === verifiedKey.correctOptionIndex;
+                btnStyle = isCorr 
+                  ? 'bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30'
+                  : 'bg-rose-500/20 text-rose-600 dark:text-rose-400 border border-rose-500/30';
+              } else {
+                btnStyle = 'bg-indigo-500/20 text-indigo-600 dark:text-indigo-400 border border-indigo-500/30';
+              }
             } else if (isDone) {
               btnStyle = 'bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30';
             } else if (isRev) {
@@ -697,16 +720,16 @@ export const PracticeModePage: React.FC = () => {
                 </div>
 
                 <div className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/40 border border-slate-200 dark:border-slate-800">
-                  <p className="text-[11px] font-bold text-slate-400 uppercase">Correct MCQs</p>
+                  <p className="text-[11px] font-bold text-slate-400 uppercase">Verified Correct MCQs</p>
                   <p className="text-lg font-bold text-emerald-500 font-mono mt-0.5">
-                    {scoreStats.mcqCorrect} / {scoreStats.mcqTotal}
+                    {scoreStats.verifiedMcqCorrect} / {scoreStats.verifiedMcqAttempted}
                   </p>
                 </div>
 
                 <div className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/40 border border-slate-200 dark:border-slate-800 col-span-2 sm:col-span-1">
                   <p className="text-[11px] font-bold text-slate-400 uppercase">Accuracy</p>
                   <p className="text-lg font-bold text-slate-900 dark:text-white font-mono mt-0.5">
-                    {scoreStats.accuracy}%
+                    {scoreStats.accuracy !== null ? `${scoreStats.accuracy}%` : 'N/A'}
                   </p>
                 </div>
               </div>
@@ -720,7 +743,7 @@ export const PracticeModePage: React.FC = () => {
                   {activeItems.map((item, idx) => {
                     const itemIsMcq = item.sub.options && item.sub.options.length > 0;
                     const chosen = userAnswers[item.id];
-                    const isCorr = itemIsMcq && chosen === resolveCorrectOption(item);
+                    const verifiedKey = itemIsMcq ? answerKeyService.resolveAnswerKey(item.id, item.sub.options) : null;
                     const isDesc = descriptiveSolved[item.id];
 
                     return (
@@ -739,13 +762,19 @@ export const PracticeModePage: React.FC = () => {
                         <span className="shrink-0 flex items-center gap-1 font-mono font-semibold">
                           {itemIsMcq ? (
                             chosen !== undefined ? (
-                              isCorr ? (
-                                <span className="text-emerald-500 flex items-center gap-1">
-                                  <CheckCircle2 className="w-3.5 h-3.5" /> Correct
-                                </span>
+                              verifiedKey !== null ? (
+                                chosen === verifiedKey.correctOptionIndex ? (
+                                  <span className="text-emerald-500 flex items-center gap-1">
+                                    <CheckCircle2 className="w-3.5 h-3.5" /> Correct
+                                  </span>
+                                ) : (
+                                  <span className="text-rose-500 flex items-center gap-1">
+                                    <XCircle className="w-3.5 h-3.5" /> Incorrect
+                                  </span>
+                                )
                               ) : (
-                                <span className="text-rose-500 flex items-center gap-1">
-                                  <XCircle className="w-3.5 h-3.5" /> Incorrect
+                                <span className="text-amber-500 flex items-center gap-1">
+                                  Under Review
                                 </span>
                               )
                             ) : (

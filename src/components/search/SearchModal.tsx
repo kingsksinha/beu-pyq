@@ -166,7 +166,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose }) => 
               ) : (
                 <div className="py-8 text-center text-slate-400">
                   <Sparkles className="w-8 h-8 mx-auto mb-2 opacity-50 text-indigo-500" />
-                  <p className="text-sm font-bold text-slate-700 dark:text-slate-300">Type anything to search 363 BEU question papers</p>
+                  <p className="text-sm font-bold text-slate-700 dark:text-slate-300">Type anything to search authentic BEU question papers</p>
                   <p className="text-xs text-slate-400 mt-1">E.g. "Physics", "100201", "Mathematics", "2024", "DSA"</p>
                 </div>
               )}

@@ -35,8 +35,12 @@ export const HomePage: React.FC = () => {
       dataService.getCatalog()
     ]).then(([statsData, catalog]) => {
       setStats(statsData);
-      const latest = catalog
-        .filter(p => p.year === '2025' || p.year === '2024')
+      const latest = [...catalog]
+        .sort((a, b) => {
+          const yearDiff = (parseInt(b.year, 10) || 0) - (parseInt(a.year, 10) || 0);
+          if (yearDiff !== 0) return yearDiff;
+          return (b.semester || 0) - (a.semester || 0);
+        })
         .slice(0, 6);
       setRecentUploads(latest);
       setHistory(storageService.getHistory().slice(0, 4));
@@ -103,11 +107,11 @@ export const HomePage: React.FC = () => {
           <div className="grid grid-cols-2 gap-2 sm:flex sm:flex-wrap items-center pt-1 text-xs font-semibold text-slate-700 dark:text-slate-300">
             <span className="inline-flex items-center justify-center sm:justify-start gap-1.5 px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
               <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500 shrink-0" />
-              <span className="truncate">363 Authentic Papers</span>
+              <span className="truncate">{stats ? `${stats.totalPapers} Authentic Papers` : 'Authentic Papers'}</span>
             </span>
             <span className="inline-flex items-center justify-center sm:justify-start gap-1.5 px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
               <Zap className="w-3.5 h-3.5 text-amber-500 shrink-0" />
-              <span className="truncate">Randomized MCQs</span>
+              <span className="truncate">Interactive Practice</span>
             </span>
             <span className="inline-flex items-center justify-center sm:justify-start gap-1.5 px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
               <FileCheck className="w-3.5 h-3.5 text-indigo-500 shrink-0" />
@@ -225,7 +229,7 @@ export const HomePage: React.FC = () => {
               Interactive Practice Mode
             </h3>
             <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
-              Test your recall on authentic questions. Randomized MCQ choices, real-time score calculation, and answer keys that unlock automatically upon attempting.
+              Test your recall on authentic questions. Interactive MCQ evaluation, real-time score calculation, and verified answer keys that unlock upon attempting.
             </p>
           </div>
           <Link
@@ -251,7 +255,7 @@ export const HomePage: React.FC = () => {
             </p>
           </div>
           <Link
-            to="/papers?highYield=true"
+            to="/papers?high_yield=true"
             className="inline-flex items-center gap-1.5 text-xs font-bold text-rose-600 dark:text-rose-400 group-hover:underline"
           >
             <span>Filter High-Yield (≥3★)</span>

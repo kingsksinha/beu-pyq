@@ -20,6 +20,10 @@ export const storageService = {
     }
   },
 
+  getQuestionBookmarks(): BookmarkItem[] {
+    return this.getBookmarks().filter(b => b.type === 'question');
+  },
+
   isPaperBookmarked(paperId: string): boolean {
     const list = this.getBookmarks();
     return list.some(b => b.paperId === paperId && b.type === 'paper');
@@ -202,7 +206,7 @@ export interface PracticeScoreRecord {
   marksEarned: number;
   possibleMarks: number;
   percentage: number;
-  accuracy: number;
+  accuracy: number | null;
   attemptedCount: number;
   totalItems: number;
   timestamp: number;

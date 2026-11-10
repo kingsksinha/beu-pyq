@@ -102,18 +102,19 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
 
           const freqBadge =
             sub.freq > 1
-              ? `<span class="freq-badge">★ ${sub.stars || 'Repeated'} (${sub.freq}x)</span>`
+              ? `<span class="freq-badge">★ ${escapeHtml(sub.stars || 'Repeated')} (${sub.freq}x)</span>`
               : '';
 
+          const validImages = (sub.images || []).filter(img => typeof img === 'string' && /^img\/[a-zA-Z0-9_/.-]+$/i.test(img));
           const diagramNote =
-            sub.images && sub.images.length > 0
-              ? `<div class="diagram-notice">📐 <strong>Diagram Referenced:</strong> Refer to official examination figure [${sub.images.join(', ')}]</div>`
+            validImages.length > 0
+              ? `<div class="diagram-notice">📐 <strong>Diagram Referenced:</strong> Refer to official examination figure [${validImages.map(img => escapeHtml(img)).join(', ')}]</div>`
               : '';
 
           return `
             <div class="sub-question">
               <div class="sub-header">
-                <span class="sub-label">(${subLabel})</span>
+                <span class="sub-label">(${escapeHtml(subLabel)})</span>
                 ${freqBadge}
               </div>
               <div class="sub-text">${renderMathHtml(cleanSubText || sub.text)}</div>
@@ -151,7 +152,7 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${escapeHtml(paper.subject_name)} (${paper.year}) - BEU PYQ Vault</title>
+  <title>${escapeHtml(paper.subject_name)} (${escapeHtml(paper.year)}) - BEU PYQ Vault</title>
   
   <!-- KaTeX CSS for High-Resolution Math Equations & Formulas -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
@@ -459,7 +460,7 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
       </div>
       <div class="univ-name">Bihar Engineering University, Patna</div>
       <h1 class="subject-title">${escapeHtml(paper.subject_name)}</h1>
-      <div class="course-title">B.Tech ${formatBTechYear(paper.semester)} Examination, ${paper.year}</div>
+      <div class="course-title">B.Tech ${escapeHtml(formatBTechYear(paper.semester))} Examination, ${escapeHtml(paper.year)}</div>
       <div class="meta-row">
         <span>⏱️ Time: ${escapeHtml(paper.duration || '03 Hours')}</span>
         <span>🏷️ Exam Code: ${escapeHtml(paper.exam_code || 'N/A')}</span>
@@ -498,7 +499,7 @@ export const downloadPaperOfflineHtml = (paper: PaperDetail) => {
   URL.revokeObjectURL(url);
 };
 
-function escapeHtml(text: string): string {
+export function escapeHtml(text: string): string {
   if (!text) return '';
   return text
     .replace(/&/g, '&amp;')

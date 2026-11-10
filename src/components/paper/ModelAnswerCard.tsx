@@ -55,27 +55,65 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
     if (onReveal) onReveal();
   };
 
+  const confidence = modelAnswer.confidence || 'GENERATED';
+
+  const cardBorder = !unlocked
+    ? 'border-slate-200 dark:border-slate-800 bg-slate-50/70 dark:bg-slate-900/50'
+    : confidence === 'VERIFIED'
+    ? isMcq
+      ? 'border-emerald-200 dark:border-emerald-900/60 bg-emerald-50/30 dark:bg-slate-800/80'
+      : 'border-indigo-200 dark:border-indigo-900/60 bg-indigo-50/40 dark:bg-slate-800/80'
+    : confidence === 'REVIEWED'
+    ? 'border-sky-200 dark:border-sky-900/60 bg-sky-50/30 dark:bg-slate-800/80'
+    : 'border-amber-200/80 dark:border-amber-900/40 bg-amber-50/20 dark:bg-slate-800/60';
+
+  const iconBg = !unlocked
+    ? 'bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-300'
+    : confidence === 'VERIFIED'
+    ? isMcq ? 'bg-emerald-600 text-white' : 'bg-indigo-600 text-white'
+    : confidence === 'REVIEWED'
+    ? 'bg-sky-600 text-white'
+    : 'bg-amber-600 text-white';
+
+  const headerTitle = !unlocked
+    ? (isMcq ? 'Objective Answer Key' : `Model Solution & Scheme (${parsedMarksNum} Marks)`)
+    : confidence === 'VERIFIED'
+    ? (isMcq ? 'Official MCQ Answer Key & Analysis (2 Marks)' : `Official Model Answer & Marking Scheme (${parsedMarksNum} Marks)`)
+    : confidence === 'REVIEWED'
+    ? (isMcq ? 'Faculty Reviewed MCQ Solution (2 Marks)' : `Faculty Reviewed Solution & Steps (${parsedMarksNum} Marks)`)
+    : (isMcq ? 'Suggested Option Analysis — Unverified (2 Marks)' : `Suggested Solution Outline — Unverified (${parsedMarksNum} Marks)`);
+
+  const confidenceBadge = !unlocked ? (
+    <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-amber-500/10 text-amber-600 dark:text-amber-400 border border-amber-500/20 shrink-0">
+      <Lock className="w-3 h-3" />
+      <span>Attempt to Unlock</span>
+    </span>
+  ) : confidence === 'VERIFIED' ? (
+    <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 shrink-0">
+      <CheckCircle className="w-3 h-3" />
+      <span>Official Key</span>
+    </span>
+  ) : confidence === 'REVIEWED' ? (
+    <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-sky-500/10 text-sky-600 dark:text-sky-400 border border-sky-500/20 shrink-0">
+      <CheckCircle className="w-3 h-3" />
+      <span>Faculty Reviewed</span>
+    </span>
+  ) : (
+    <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-amber-500/10 text-amber-700 dark:text-amber-400 border border-amber-500/20 shrink-0">
+      <Lightbulb className="w-3 h-3" />
+      <span>Suggested (Unverified)</span>
+    </span>
+  );
+
   return (
-    <div className={`mt-3 rounded-2xl border transition overflow-hidden shadow-2xs ${
-      unlocked
-        ? isMcq
-          ? 'border-emerald-200 dark:border-emerald-900/60 bg-emerald-50/30 dark:bg-slate-800/80'
-          : 'border-indigo-200 dark:border-indigo-900/60 bg-indigo-50/40 dark:bg-slate-800/80'
-        : 'border-slate-200 dark:border-slate-800 bg-slate-50/70 dark:bg-slate-900/50'
-    }`}>
+    <div className={`mt-3 rounded-2xl border transition overflow-hidden shadow-2xs ${cardBorder}`}>
       {/* Header / Toggle Button */}
       <button
         onClick={handleToggle}
         className="w-full px-3 sm:px-5 py-2.5 sm:py-3 flex items-center justify-between gap-2 sm:gap-3 text-left hover:bg-black/5 dark:hover:bg-white/5 transition select-none cursor-pointer"
       >
         <div className="flex items-center gap-2 sm:gap-2.5 min-w-0 flex-1">
-          <div className={`p-1.5 rounded-lg shrink-0 ${
-            unlocked 
-              ? isMcq
-                ? 'bg-emerald-600 text-white'
-                : 'bg-indigo-600 text-white' 
-              : 'bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-300'
-          }`}>
+          <div className={`p-1.5 rounded-lg shrink-0 ${iconBg}`}>
             {unlocked ? (
               isMcq ? <CheckCircle2 className="w-4 h-4" /> : <FileCheck2 className="w-4 h-4" />
             ) : (
@@ -86,31 +124,19 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
             <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5">
               <span className={`text-xs sm:text-sm font-bold break-words leading-snug ${
                 unlocked 
-                  ? isMcq
-                    ? 'text-emerald-950 dark:text-emerald-200'
-                    : 'text-indigo-950 dark:text-indigo-200' 
+                  ? confidence === 'VERIFIED'
+                    ? isMcq ? 'text-emerald-950 dark:text-emerald-200' : 'text-indigo-950 dark:text-indigo-200'
+                    : confidence === 'REVIEWED'
+                    ? 'text-sky-950 dark:text-sky-200'
+                    : 'text-amber-950 dark:text-amber-200'
                   : 'text-slate-700 dark:text-slate-300'
               }`}>
-                {isMcq
-                  ? 'Official MCQ Answer Key & Analysis (2 Marks)'
-                  : parsedMarksNum <= 3
-                  ? `Model Solution & Scheme (${parsedMarksNum} Marks)`
-                  : `Official Model Answer & Marking Scheme (${parsedMarksNum} Marks)`}
+                {headerTitle}
               </span>
-              {unlocked ? (
-                <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 shrink-0">
-                  <CheckCircle className="w-3 h-3" />
-                  <span>Verified Key</span>
-                </span>
-              ) : (
-                <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-amber-500/10 text-amber-600 dark:text-amber-400 border border-amber-500/20 shrink-0">
-                  <Lock className="w-3 h-3" />
-                  <span>Attempt to Unlock</span>
-                </span>
-              )}
+              {confidenceBadge}
             </div>
             <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5 truncate sm:whitespace-normal">
-              {unlocked ? modelAnswer.source : 'Attempt this question first to reveal verified solution'}
+              {unlocked ? modelAnswer.source : 'Attempt this question first to reveal solution'}
             </p>
           </div>
         </div>
@@ -118,7 +144,11 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
         <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
           {unlocked ? (
             <span className={`text-xs font-semibold hidden md:inline ${
-              isMcq ? 'text-emerald-600 dark:text-emerald-400' : 'text-indigo-600 dark:text-indigo-400'
+              confidence === 'VERIFIED'
+                ? isMcq ? 'text-emerald-600 dark:text-emerald-400' : 'text-indigo-600 dark:text-indigo-400'
+                : confidence === 'REVIEWED'
+                ? 'text-sky-600 dark:text-sky-400'
+                : 'text-amber-600 dark:text-amber-400'
             }`}>
               {isExpanded ? 'Hide Solution' : isMcq ? 'View Key & Explanation' : 'View Solution & Steps'}
             </span>

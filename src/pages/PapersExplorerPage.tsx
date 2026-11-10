@@ -24,7 +24,7 @@ export const PapersExplorerPage: React.FC = () => {
       query: searchParams.get('q') || '',
       sort: (searchParams.get('sort') as SortMode) || 'newest',
       hasMcqOnly: searchParams.get('mcq') === 'true',
-      highFreqOnly: searchParams.get('high_yield') === 'true'
+      highFreqOnly: searchParams.get('high_yield') === 'true' || searchParams.get('highYield') === 'true'
     };
   }, [searchParams]);
 

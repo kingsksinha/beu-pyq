@@ -1,8 +1,10 @@
 import { BRIDGE_CIRCUIT_SVG, SAWTOOTH_WAVEFORM_SVG } from '../components/ui/QuestionDiagram';
+import type { AnswerConfidence } from './answerKeyService';
 
 export interface ModelAnswer {
   questionSummary: string;
-  source: string; // e.g., 'BEU Evaluation Scheme / AICTE Model Curriculum'
+  source: string;
+  confidence?: AnswerConfidence;
   marksDistribution?: string;
   isMcq?: boolean;
   correctOptionLetter?: string; // 'a' | 'b' | 'c' | 'd'
@@ -25,6 +27,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   game_playing_heuristic: {
     questionSummary: 'Search Approach for Game Playing Problems',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1d & 2022 Q.1c)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Full credit for selecting Option b)',
     isMcq: true,
     correctOptionLetter: 'b',
@@ -46,6 +49,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   ai_definition: {
     questionSummary: 'Definition & Core Nature of Artificial Intelligence',
     source: 'BEU Artificial Intelligence Examination Solution (2022 Q.1b)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Full credit for selecting Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -66,6 +70,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   face_recognition_approach: {
     questionSummary: 'Face Recognition System Architecture & AI Classification',
     source: 'BEU Artificial Intelligence Examination Solution (2022 Q.1d)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option b)',
     isMcq: true,
     correctOptionLetter: 'b',
@@ -82,6 +87,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   ai_programming_language: {
     questionSummary: 'Common Programming Languages in Artificial Intelligence',
     source: 'BEU Artificial Intelligence Examination Solution (2022 Q.1e)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option d)',
     isMcq: true,
     correctOptionLetter: 'd',
@@ -98,6 +104,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   propositional_logic_limitations: {
     questionSummary: 'Expressive Limitations of Propositional Logic',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1e & 2022 Q.1f)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -114,6 +121,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   inference_algorithm_completeness: {
     questionSummary: 'Completeness Criterion of Logical Inference Algorithms',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1g & 2022 Q.1g)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Entailed sentence derivation)',
     isMcq: true,
     correctOptionText: 'it can derive any sentence that is an entailed sentence',
@@ -130,6 +138,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   blind_search_uninformed: {
     questionSummary: 'Uninformed / Blind Search Classification',
     source: 'BEU Artificial Intelligence Examination Solution (2022 Q.1h)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option a)',
     isMcq: true,
     correctOptionLetter: 'a',
@@ -146,6 +155,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   game_utility_polynomial: {
     questionSummary: 'Utility / Evaluation Function Formulation in Game Search',
     source: 'BEU Artificial Intelligence Examination Solution (2022 Q.1i)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option d)',
     isMcq: true,
     correctOptionLetter: 'd',
@@ -163,6 +173,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   semantic_network_graph: {
     questionSummary: 'Graph Structure of Semantic Networks',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1j & 2022 Q.1j)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option b)',
     isMcq: true,
     correctOptionLetter: 'b',
@@ -179,6 +190,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   decision_support_systems: {
     questionSummary: 'Function of Decision Support Systems (DSS)',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1c)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -195,6 +207,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   word_sense_disambiguation: {
     questionSummary: 'Word Sense Disambiguation (WSD) in NLP',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1b)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -211,6 +224,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   pos_tagging: {
     questionSummary: 'Parts of Speech (POS) Tagging in NLP',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option d)',
     isMcq: true,
     correctOptionLetter: 'd',
@@ -227,6 +241,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   lisp_car_cdr: {
     questionSummary: 'LISP List Processing Primitives: CAR vs CDR',
     source: 'BEU Artificial Intelligence Examination Solution (2022 Q.1a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option d)',
     isMcq: true,
     correctOptionLetter: 'd',
@@ -243,6 +258,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   expert_system_components: {
     questionSummary: 'Main Architectural Components of Expert Systems',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1i)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -259,6 +275,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   knowledge_based_agent: {
     questionSummary: 'Operation of Knowledge-Based Agents',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1f)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option a)',
     isMcq: true,
     correctOptionLetter: 'a',
@@ -275,6 +292,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   turing_test: {
     questionSummary: 'Turing Test: Operational Setup and Passing Criterion',
     source: 'BEU Artificial Intelligence Examination Solution (2019 Q.1a & 2020 Q.1b)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Imitation Game Setup) + 1 Mark (Operational Pass Criterion)',
     points: [
       {
@@ -292,6 +310,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   search_strategy_criteria: {
     questionSummary: 'Four Evaluation Criteria for AI Search Strategies',
     source: 'BEU Artificial Intelligence Examination Solution (2019 Q.1b)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Completeness & Optimality) + 1 Mark (Time & Space Complexity)',
     points: [
       {
@@ -309,6 +328,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   memory_bounded_search: {
     questionSummary: 'Two Types of Memory-Bounded Heuristic Search Algorithms',
     source: 'BEU Artificial Intelligence Examination Solution (2019 Q.1c)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Simplified Memory Bounded A*) + 1 Mark (Recursive Best-First Search)',
     points: [
       {
@@ -327,6 +347,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   satisfiability_sentence: {
     questionSummary: 'Satisfiability of a Sentence in Propositional Logic',
     source: 'BEU Artificial Intelligence Examination Solution (2019 Q.1d)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Definition: True in at least one model) + 1 Mark (Validity vs Contradiction)',
     points: [
       {
@@ -344,6 +365,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   skolem_constant: {
     questionSummary: 'Skolemization and Skolem Constant in First-Order Logic',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1g)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Definition & Quantifier Elimination) + 1 Mark (Concrete Example)',
     points: [
       {
@@ -361,6 +383,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   mycin_expert_system: {
     questionSummary: 'MYCIN Medical Expert System Architecture',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1d)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Clinical Domain & Diagnostic Task) + 1 Mark (Backward Chaining & Certainty Factors)',
     points: [
       {
@@ -378,6 +401,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   horizon_effect: {
     questionSummary: 'Horizon Effect in Adversarial Game Search Trees',
     source: 'BEU Artificial Intelligence Examination Solution (2020 Q.1i)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Phenomenon Definition) + 1 Mark (Mitigation Technique)',
     points: [
       {
@@ -395,6 +419,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   belief_network_bayesian: {
     questionSummary: 'Bayesian Belief Network (BBN): Directed Acyclic Graph & CPTs',
     source: 'BEU Artificial Intelligence Examination Solution (2019 Q.1i)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (DAG Topology & Nodes) + 1 Mark (CPT Factorization)',
     points: [
       {
@@ -413,6 +438,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   ao_star_algorithm: {
     questionSummary: 'AO* Heuristic Search for AND-OR Graph Problem Decomposition',
     source: 'BEU Artificial Intelligence Examination Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (AND-OR Graph Structure) + 3 Marks (Cost Update Mechanism) + 2 Marks (Admissibility & Partial Trees)',
     points: [
       {
@@ -439,6 +465,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   stack_underflow: {
     questionSummary: 'Stack Underflow Condition & Detection',
     source: 'BEU Data Structures Examination Solution (2022 Q.1a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option a)',
     isMcq: true,
     correctOptionLetter: 'a',
@@ -455,6 +482,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   insertion_sort_partially_sorted: {
     questionSummary: 'Optimal Sorting Algorithm for Partially Sorted Data',
     source: 'BEU Data Structures Examination Solution (2022 Q.1d)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option b)',
     isMcq: true,
     correctOptionLetter: 'b',
@@ -472,6 +500,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   merge_sort_complexity: {
     questionSummary: 'Time Complexity of Merge Sort',
     source: 'BEU Data Structures Examination Solution (2022 Q.1e)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -493,6 +522,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   multiprogramming_definition: {
     questionSummary: 'Multiprogramming: Core Principle and Objective',
     source: 'BEU Operating Systems Examination Solution (2022 Q.1b)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Multiple Jobs in Memory) + 1 Mark (CPU Utilization Maximization)',
     points: [
       {
@@ -510,6 +540,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   multiprocessor_vs_multicore: {
     questionSummary: 'Multiprocessor vs Multi-Core Systems',
     source: 'BEU Operating Systems Examination Solution (2022 Q.1a)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Hardware Integration) + 1 Mark (Communication & Bus)',
     points: [
       {
@@ -523,6 +554,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   semaphore_operations: {
     questionSummary: 'Atomic Semaphore Operations: wait() and signal()',
     source: 'BEU Operating Systems Examination Solution (2022 Q.1d)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Atomic wait/P definition) + 1 Mark (Atomic signal/V definition)',
     points: [
       {
@@ -540,6 +572,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   page_vs_frame: {
     questionSummary: 'Page vs Frame in Virtual Memory Management',
     source: 'BEU Operating Systems Examination Solution (2022 Q.1e)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Logical Page vs Physical Frame) + 1 Mark (Memory Mapping Relation)',
     points: [
       {
@@ -558,6 +591,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   jacketing_threads: {
     questionSummary: 'Jacketing Mechanism in User-Level Threads',
     source: 'BEU Operating Systems Examination Solution (2022 Q.1c)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Wrapper Mechanism) + 1 Mark (Prevention of Process Blocking)',
     points: [
       {
@@ -575,6 +609,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   dbms_view: {
     questionSummary: 'View in Database Management Systems',
     source: 'BEU DBMS Examination Solution (2022 Q.1b)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option b)',
     isMcq: true,
     correctOptionLetter: 'b',
@@ -591,6 +626,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   dbms_abstraction_levels: {
     questionSummary: 'Three Levels of Data Abstraction (ANSI/SPARC)',
     source: 'BEU DBMS Examination Solution (2022 Q.1c)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option d)',
     isMcq: true,
     correctOptionLetter: 'd',
@@ -607,6 +643,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   dbms_project_operation: {
     questionSummary: 'Relational Algebra: Projection Operator (π)',
     source: 'BEU DBMS Examination Solution (2022 Q.1e)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option a)',
     isMcq: true,
     correctOptionLetter: 'a',
@@ -623,6 +660,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   dbms_dml_commands: {
     questionSummary: 'Four Standard DML SQL Commands',
     source: 'BEU DBMS Examination Solution (2022 Q.1a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option a)',
     isMcq: true,
     correctOptionLetter: 'a',
@@ -639,6 +677,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   cn_flow_control: {
     questionSummary: 'Flow Control Responsibility in Network Architecture',
     source: 'BEU Computer Networks Examination Solution (2023 Q.1a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -655,6 +694,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   cn_ipv4_bits: {
     questionSummary: 'IPv4 Address Representation Size',
     source: 'BEU Computer Networks Examination Solution (2023 Q.1c)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option b)',
     isMcq: true,
     correctOptionLetter: 'b',
@@ -671,6 +711,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   cn_tcp_udp_common: {
     questionSummary: 'Common Features between TCP and UDP Protocols',
     source: 'BEU Computer Networks Examination Solution (2023 Q.1d)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -687,6 +728,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   cn_udp_application: {
     questionSummary: 'Applications Suited for UDP Transport Protocol',
     source: 'BEU Computer Networks Examination Solution (2023 Q.1e)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Objective Evaluation: Option a)',
     isMcq: true,
     correctOptionLetter: 'a',
@@ -703,6 +745,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   pps_pointer_array: {
     questionSummary: 'C Pointer Declaration: int *ptr[5]',
     source: 'BEU Programming for Problem Solving Key (2022 Q.1a)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Array of 5 Pointers to Integer) + 1 Mark (Contrast with Pointer to Array)',
     points: [
       {
@@ -720,6 +763,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   pps_malloc_header: {
     questionSummary: 'Header File for malloc() Dynamic Memory Allocation',
     source: 'BEU Programming for Problem Solving Key (2022 Q.1b)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (stdlib.h) + 1 Mark (Function Prototype)',
     points: [
       {
@@ -737,6 +781,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   pps_fopen_return: {
     questionSummary: 'Return Type of fopen() File Handling Function',
     source: 'BEU Programming for Problem Solving Key (2022 Q.1e)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (FILE* Pointer) + 1 Mark (NULL Return on Error)',
     points: [
       {
@@ -758,6 +803,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bee_salient_alternator: {
     questionSummary: 'Salient-Pole Alternators in Generating Stations',
     source: 'BEU Basic Electrical Engineering Examination Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -774,6 +820,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bee_max_power_transfer: {
     questionSummary: 'Maximum Power Transfer Theorem Condition',
     source: 'BEU Basic Electrical Engineering Examination Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Objective Evaluation: Option b)',
     isMcq: true,
     correctOptionLetter: 'b',
@@ -791,6 +838,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bee_max_efficiency_transformer: {
     questionSummary: 'Condition for Maximum Efficiency in Transformers',
     source: 'BEU Basic Electrical Engineering Examination Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -808,6 +856,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bee_flux_density_unit: {
     questionSummary: 'SI Unit of Magnetic Flux Density (B)',
     source: 'BEU Basic Electrical Engineering Examination Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Objective Evaluation: Option b)',
     isMcq: true,
     correctOptionLetter: 'b',
@@ -825,6 +874,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bee_ac_rlc_voltage: {
     questionSummary: 'Series R-L-C Component Voltages Calculation',
     source: 'BEU Basic Electrical Engineering Examination Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Objective Evaluation: Option d)',
     isMcq: true,
     correctOptionLetter: 'd',
@@ -842,6 +892,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bee_reactive_power_var: {
     questionSummary: 'AC Circuit Power Triangle: Active, Reactive & Apparent Power',
     source: 'BEU Basic Electrical Engineering Examination Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Objective Evaluation: Option d)',
     isMcq: true,
     correctOptionLetter: 'd',
@@ -859,6 +910,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bee_induction_air_gap: {
     questionSummary: 'Effect of Air-Gap Length on Induction Motor Power Factor',
     source: 'BEU Basic Electrical Engineering Examination Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -875,6 +927,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bee_dc_laminated_pole: {
     questionSummary: 'Lamination of Field Poles in DC Machines',
     source: 'BEU Basic Electrical Engineering Examination Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Objective Evaluation: Option a)',
     isMcq: true,
     correctOptionLetter: 'a',
@@ -891,6 +944,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bee_transformer_freq_rating: {
     questionSummary: 'Effect of Supply Frequency on Transformer Power Rating',
     source: 'BEU Basic Electrical Engineering Examination Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Objective Evaluation: Option c)',
     isMcq: true,
     correctOptionLetter: 'c',
@@ -912,6 +966,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   sheet_metal_gauge: {
     questionSummary: 'Sheet Metal Gauge Measurement & Working Principle',
     source: 'BEU Workshop Practices Examination Key (2025)',
+    confidence: 'REVIEWED',
     marksDistribution: '1 Mark (Direct Answer: Sheet Thickness) + 1 Mark (SWG Standard Specification)',
     isMcq: true,
     correctOptionLetter: 'b',
@@ -933,6 +988,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   sheet_metal_material: {
     questionSummary: 'Common Metals in Sheet Metal Fabrication',
     source: 'BEU Workshop Technology Model Solution',
+    confidence: 'REVIEWED',
     marksDistribution: '1 Mark (Primary Material) + 1 Mark (Formability Properties)',
     isMcq: true,
     correctOptionLetter: 'b',
@@ -953,6 +1009,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   soldering_filler: {
     questionSummary: 'Soldering Filler Metal Melting Point & Process Distinction',
     source: 'BEU Manufacturing Processes Evaluation Scheme',
+    confidence: 'REVIEWED',
     marksDistribution: '1 Mark (Temperature Threshold) + 1 Mark (Alloy Composition)',
     points: [
       {
@@ -971,6 +1028,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bridge_resistance_ab: {
     questionSummary: 'Equivalent Resistance between Terminals A and B (Bridge Network)',
     source: 'BEU Basic Electrical Engineering Examination Key (2022 Q.2b)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Circuit Schematic & Identification) + 3 Marks (Bridge Balance / Star-Delta Reduction) + 2 Marks (Final Equivalent Resistance)',
     schematicSvg: BRIDGE_CIRCUIT_SVG,
     points: [
@@ -994,6 +1052,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   ac_sinusoidal_current: {
     questionSummary: 'Sinusoidal AC Waveform: Instantaneous Value and Equation',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.2a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Peak Value) + 2 Marks (Angular Frequency & Equation) + 3 Marks (Value Calculation)',
     points: [
       {
@@ -1012,6 +1071,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   rms_waveform_calculation: {
     questionSummary: 'RMS Value: Definition & Mathematical Derivation for Sawtooth Waveform',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.3a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (RMS Physical Definition) + 4 Marks (Analytical Calculus Integration) + 1 Mark (Comparison & Units)',
     schematicSvg: SAWTOOTH_WAVEFORM_SVG,
     points: [
@@ -1031,6 +1091,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   series_coils_inductance: {
     questionSummary: 'Coupled Coils in Series-Adding & Series-Opposing: L1, L2, M and k',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.3b)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Mutual Inductance M) + 3 Marks (Self-Inductances L1, L2) + 2 Marks (Coupling Coefficient k)',
     points: [
       {
@@ -1049,6 +1110,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   transformer_principle: {
     questionSummary: 'Principle of Transformer Action & Working Operation',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.4a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Mutual Induction Principle) + 3 Marks (EMF Equation) + 2 Marks (Transformation Ratio)',
     points: [
       {
@@ -1067,6 +1129,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   series_resonance_rlc: {
     questionSummary: 'Series RLC Resonance: Capacitance, Current & Element Voltages',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.4b)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Resonant Condition & C) + 2 Marks (Current I0) + 3 Marks (Voltages VL & VC)',
     points: [
       {
@@ -1085,6 +1148,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   parallel_resonance: {
     questionSummary: 'Parallel Resonance (Tank Circuit): Resonant Frequency and Dynamic Impedance',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.5a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Definition) + 3 Marks (Dynamic Impedance Zd) + 2 Marks (Quality Factor)',
     points: [
       {
@@ -1103,6 +1167,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   rotating_field_alternator: {
     questionSummary: 'Advantages of Rotating Field (Stationary Armature) Alternators',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.5b)',
+    confidence: 'VERIFIED',
     marksDistribution: '7 Marks (1 Mark each for key engineering advantages)',
     points: [
       {
@@ -1124,6 +1189,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   alternator_generated_voltage: {
     questionSummary: 'Generated Line and Phase Voltage of 3-Phase Alternator',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.6a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Frequency & Turns) + 3 Marks (Phase EMF) + 2 Marks (Line EMF)',
     points: [
       {
@@ -1142,6 +1208,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   dc_motor_operation: {
     questionSummary: 'Working Principle of DC Motor & Back EMF Significance',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.7a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Lorentz Force) + 3 Marks (Back EMF Governing Role) + 2 Marks (Torque Equation)',
     points: [
       {
@@ -1160,6 +1227,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   three_phase_star_load: {
     questionSummary: 'Balanced Star-Connected 3-Phase Load: Line Current, pf & Power',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.7b)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Impedance & pf) + 2 Marks (Current) + 3 Marks (Active & Apparent Power)',
     points: [
       {
@@ -1178,6 +1246,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   induction_motor_slip_speed: {
     questionSummary: 'Induction Motor Fed from Alternator: Slip & Actual Rotor Speed',
     source: 'BEU Basic Electrical Engineering Examination Solution (2022 Q.8a)',
+    confidence: 'VERIFIED',
     marksDistribution: '2 Marks (Supply Frequency) + 3 Marks (Synchronous Speed) + 2 Marks (Slip & Rotor Speed)',
     points: [
       {
@@ -1200,6 +1269,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   thevenin_theorem: {
     questionSummary: 'Thévenin\'s Theorem: Statement, Equivalent Circuit & Analytical Steps',
     source: 'BEU Basic Electrical Engineering Evaluation Scheme',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Theorem Statement) + 3 Marks (Vth & Rth Determination) + 2 Marks (Load Current Formula)',
     points: [
       {
@@ -1218,6 +1288,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   lorentz: {
     questionSummary: 'Lorentz Force Law on Charged Particle in Combined Fields',
     source: 'BEU Engineering Physics Evaluation Scheme',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Equation) + 3 Marks (Physical Interpretation) + 2 Marks (Velocity Selector)',
     points: [
       {
@@ -1232,6 +1303,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   schrodinger: {
     questionSummary: 'Time-Independent Schrödinger Wave Equation',
     source: 'BEU Engineering Physics Evaluation Scheme',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Physical Concept) + 3 Marks (Derivation) + 2 Marks (Wavefunction Interpretation)',
     points: [
       {
@@ -1246,6 +1318,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   laser: {
     questionSummary: 'Working Principle of Helium-Neon (He-Ne) Gas Laser',
     source: 'BEU Engineering Physics Model Answer',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (Construction) + 3 Marks (Energy-Level Diagram & Pumping) + 2 Marks (Continuous Emission)',
     points: [
       {
@@ -1260,6 +1333,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   dsa_stack: {
     questionSummary: 'Applications and Operations of Stack Data Structure',
     source: 'BEU Data Structures & Algorithms Examination Key',
+    confidence: 'REVIEWED',
     marksDistribution: '2 Marks (LIFO concept) + 3 Marks (Core Operations) + 2 Marks (Real-world applications)',
     points: [
       {
@@ -1278,6 +1352,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   operating_system_process_thread: {
     questionSummary: 'Differences between Process and Thread in Operating Systems',
     source: 'BEU Operating Systems Model Answer',
+    confidence: 'REVIEWED',
     marksDistribution: '1 Mark (Definitions) + 4 Marks (Comparison Table) + 2 Marks (Context switching)',
     points: [
       {
@@ -1300,6 +1375,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   group15_hydrides_bond_angle: {
     questionSummary: 'Largest Bond Angle in Group 15 Hydrides (NH3, PH3, AsH3, SbH3)',
     source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1d & 2021 Q.1d)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Identifying NH3) + 1 Mark (Electronegativity / bp-bp Repulsion Reason)',
     isMcq: false,
     points: [
@@ -1319,6 +1395,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   de_broglie_principle: {
     questionSummary: "de Broglie's Principle of Dual Nature of Matter",
     source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1a & 2021 Q.1a)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Principle Statement) + 1 Mark (de Broglie Wavelength Formula)',
     isMcq: false,
     points: [
@@ -1338,6 +1415,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   orbital_definition: {
     questionSummary: 'Definition of an Atomic Orbital',
     source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1b & 2021 Q.1b)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (3D Region of Maximum Probability) + 1 Mark (Wavefunction |ψ|² Relation)',
     isMcq: false,
     points: [
@@ -1357,6 +1435,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   covalent_bond_strength_order: {
     questionSummary: 'Increasing Order of Strength: C—F, C—Cl, C—Br, C—I',
     source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1c)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Correct Increasing Order) + 1 Mark (Bond Length / Atomic Radius Reason)',
     isMcq: false,
     points: [
@@ -1376,6 +1455,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   cr2_cr3_stability: {
     questionSummary: 'Aqueous Stability of Cr²⁺ vs Cr³⁺',
     source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1e & 2021 Q.1e)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Identifying Cr³⁺) + 1 Mark (t₂g³ Half-Filled Crystal Field Explanation)',
     isMcq: false,
     points: [
@@ -1395,6 +1475,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   cu_cu2_colour: {
     questionSummary: 'Colour of Cu⁺ (Colourless) vs Cu²⁺ (Coloured)',
     source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1f & 2021 Q.1f & 2020 Q.1b)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Cu⁺ d¹⁰ configuration, no d-d transition) + 1 Mark (Cu²⁺ d⁹ configuration, d-d transition)',
     isMcq: false,
     points: [
@@ -1414,6 +1495,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   selection_rule: {
     questionSummary: 'Definition and Types of Spectroscopic Selection Rules',
     source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1g & 2021 Q.1g)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Definition of Transition Constraints) + 1 Mark (Laporte & Spin Selection Rules)',
     isMcq: false,
     points: [
@@ -1433,6 +1515,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   vacuum_expansion_work: {
     questionSummary: 'Work Done During Expansion of Gas Against Vacuum',
     source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1h & 2021 Q.1h)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Work Done = 0) + 1 Mark (P_ext = 0 Free Expansion Formula)',
     isMcq: false,
     points: [
@@ -1452,6 +1535,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   reaction_equilibrium_condition: {
     questionSummary: 'Thermodynamic & Kinetic Conditions for Chemical Equilibrium',
     source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1i & 2021 Q.1i & 2020 Q.1e)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (ΔG = 0 Condition) + 1 Mark (Forward Rate = Reverse Rate / Q = K)',
     isMcq: false,
     points: [
@@ -1471,6 +1555,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   co2_boiler_feed_water: {
     questionSummary: 'Avoidance of CO₂ in Boiler Feed Water',
     source: 'BEU Engineering Chemistry Examination Solution (2022 Q.1j & 2021 Q.1j)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (Formation of Carbonic Acid H₂CO₃) + 1 Mark (Boiler Tube Corrosion & Pitting)',
     isMcq: false,
     points: [
@@ -1490,6 +1575,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bf3_clf3_shapes: {
     questionSummary: 'Molecular Geometry of BF₃ and ClF₃ (VSEPR Theory)',
     source: 'BEU Engineering Chemistry Examination Solution (2021 Q.1c)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (BF₃ Trigonal Planar) + 1 Mark (ClF₃ T-shaped with 2 Lone Pairs)',
     isMcq: false,
     points: [
@@ -1509,6 +1595,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   c13_c12_nmr_active: {
     questionSummary: 'NMR Activity of ¹³C vs ¹²C (Nuclear Spin I)',
     source: 'BEU Engineering Chemistry Examination Solution (2020 Q.1d)',
+    confidence: 'VERIFIED',
     marksDistribution: '1 Mark (¹³C Odd Mass, I = 1/2, Non-zero spin) + 1 Mark (¹²C Even-Even, I = 0, NMR Inactive)',
     isMcq: false,
     points: [
@@ -1528,6 +1615,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   transformer_250kva_turns_ratio: {
     questionSummary: '250 kVA Transformer Primary Voltage & Full Load Currents',
     source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.6b)',
+    confidence: 'VERIFIED',
     marksDistribution: '7 Marks (2M Primary Voltage + 3M Secondary Current + 2M Primary Current)',
     points: [
       {
@@ -1550,6 +1638,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   transformer_emf_equation: {
     questionSummary: 'EMF Equation and Transformation Ratio of Single-Phase Transformer',
     source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.6a)',
+    confidence: 'VERIFIED',
     marksDistribution: '7 Marks (4M EMF Equation Derivation + 3M Transformation Ratio)',
     points: [
       {
@@ -1568,6 +1657,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   bee_max_power_transfer_derivation: {
     questionSummary: 'Maximum Power Transfer Theorem Statement & Derivation',
     source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.2b)',
+    confidence: 'VERIFIED',
     marksDistribution: '7 Marks (2M Statement & Network Model + 4M Mathematical Derivation + 1M Maximum Power Value & Efficiency)',
     points: [
       {
@@ -1590,6 +1680,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   star_delta_transformation_derivation: {
     questionSummary: 'Delta to Star Transformation Formulae Derivation',
     source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.3a)',
+    confidence: 'VERIFIED',
     marksDistribution: '7 Marks (2M Network Definitions + 5M Analytical Derivation)',
     points: [
       {
@@ -1612,6 +1703,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   three_phase_induction_motor_operation: {
     questionSummary: 'Working Principle & Operation of Three-Phase Induction Motor',
     source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.7b)',
+    confidence: 'VERIFIED',
     marksDistribution: '7 Marks (3M RMF Generation + 2M Torque Production + 2M Slip & Operation)',
     points: [
       {
@@ -1634,6 +1726,7 @@ const CURATED_MODEL_ANSWERS: Record<string, ModelAnswer> = {
   dc_generator_emf_equation: {
     questionSummary: 'DC Generator Working Principle & EMF Equation Derivation',
     source: 'BEU Basic Electrical Engineering Examination Solution (2025 Q.7a)',
+    confidence: 'VERIFIED',
     marksDistribution: '7 Marks (2M Working Principle + 5M Analytical Derivation)',
     points: [
       {
@@ -1738,22 +1831,23 @@ function resolveHeuristicMcq(
 
   return {
     questionSummary: rawText.length > 60 ? rawText.slice(0, 57) + '...' : rawText,
-    source: 'BEU Objective Examination Evaluation Key (2 Marks)',
-    marksDistribution: '2 Marks (Objective Evaluation: Full credit for correct option selection)',
+    source: 'Algorithmic Option Analysis (Unverified Suggestion)',
+    confidence: 'GENERATED',
+    marksDistribution: '2 Marks (Suggested Evaluation)',
     isMcq: true,
     correctOptionLetter: letter,
     correctOptionText: `(${letter}) ${chosenText}`,
     points: [
       {
-        heading: '1. Verified Objective Choice',
-        body: `**Correct Option: (${letter}) ${chosenText}**\n\n${rationale}`
+        heading: '1. Suggested Option Analysis (Unverified)',
+        body: `**Suggested Option: (${letter}) ${chosenText}**\n\n${rationale}\n\n*Note: This option has been algorithmically analyzed based on syllabus keywords and has not been verified against an official university evaluation key.*`
       },
       {
-        heading: '2. Conceptual Foundation',
-        body: 'In BEU examinations, 2-mark multiple-choice questions evaluate precise recall of standardized definitions, units, algorithmic bounds, and system classifications. Ensure units and operating assumptions match standard AICTE curriculum specifications.'
+        heading: '2. Academic Guidance & Cross-Check',
+        body: 'Always verify with your prescribed textbook or lecture notes before examination preparation.'
       }
     ],
-    examTip: 'For 2-mark MCQs, identify the primary governing standard or formula first before verifying option choices.'
+    examTip: 'For multiple choice questions without a published answer key, check the core standard definition in your textbook.'
   };
 }
 
@@ -2167,32 +2261,32 @@ export const modelAnswerService = {
     // =========================================================================
     if (parsedMarksNum <= 3) {
       let subjectHeading1 = '1. Exact Scientific Definition & Concept';
-      let subjectBody1 = `**${cleanTopic}**: Standard fundamental principle in the AICTE / BEU curriculum. To obtain full credit, state the core definition directly in 1-2 concise, scientifically precise sentences.`;
+      let subjectBody1 = `**${cleanTopic}**: Core conceptual definition. In university examinations, state the fundamental academic definition in 1-2 concise, scientifically precise sentences with governing variables.`;
       let subjectHeading2 = '2. Key Formula, Criterion or Governing Condition';
       let subjectBody2 = 'Write down the governing mathematical formula, boundary condition, or standard laboratory unit that directly characterizes the concept.';
-      let tip = 'For 2-mark short questions: write a 1-sentence definition and the exact formula/equation with standard units. Do not write lengthy paragraphs.';
+      let tip = 'For short 2-3 mark questions: write a 1-sentence definition and the exact formula/equation with standard units.';
 
       if (text.includes('entropy') || text.includes('carnot') || text.includes('heat') || text.includes('enthalpy') || text.includes('joule')) {
         subjectHeading1 = '1. Thermodynamic Concept & Definition';
-        subjectBody1 = `**${cleanTopic}**: Defined under the laws of classical thermodynamics. State whether it is a state or path function, and define the energy/entropy transfer across system boundaries.`;
+        subjectBody1 = `**${cleanTopic}**: Classical thermodynamic principle. State whether it is a state or path function, and define the energy/entropy transfer across system boundaries.`;
         subjectHeading2 = '2. Governing Thermodynamic Equation & Units';
         subjectBody2 = 'Provide the exact differential relation ($dQ = dU + dW$ or $dS \\ge dQ/T$) and specify standard SI units (J or J/K).';
         tip = 'State whether the quantity is a state function or path function, along with its standard SI unit.';
       } else if (text.includes('stress') || text.includes('strain') || text.includes('modulus') || text.includes('elastic') || text.includes('shear')) {
         subjectHeading1 = '1. Mechanical Property & Physical Meaning';
-        subjectBody1 = `**${cleanTopic}**: Defined as the internal resisting force per unit area or normalized deformation in structural mechanics governed by Hooke\'s law.`;
+        subjectBody1 = `**${cleanTopic}**: Internal resisting force per unit area or normalized deformation in structural mechanics governed by Hooke\'s law.`;
         subjectHeading2 = '2. Constitutive Equation & Standard Units';
         subjectBody2 = 'Formula: $\\sigma = E \\epsilon$ or $\\tau = G \\gamma$. State units in $\\text{N/m}^2$ (Pascals) or dimensionlessness.';
         tip = 'Always write the constitutive stress-strain equation and state SI units (Pa or N/m²).';
       } else if (text.includes('current') || text.includes('flux') || text.includes('transformer') || text.includes('motor') || text.includes('power factor')) {
         subjectHeading1 = '1. Electrical Principle & Operating Criterion';
-        subjectBody1 = `**${cleanTopic}**: Characterized by electromagnetic and circuit theory principles (Faraday\'s law, Ampere\'s law, or AC phasor relations).`;
+        subjectBody1 = `**${cleanTopic}**: Electromagnetic or circuit theory principle (Faraday\'s law, Ampere\'s law, or AC phasor relations).`;
         subjectHeading2 = '2. Governing Formula & Standard Unit';
         subjectBody2 = 'Formula: State the core mathematical equation (e.g., $e = -N \\frac{d\\Phi}{dt}$, $P = VI \\cos\\phi$) and relevant unit (V, A, W, or Wb).';
         tip = 'Include the primary governing equation and phasor / schematic reference.';
       } else if (text.includes('pointer') || text.includes('stack') || text.includes('queue') || text.includes('tree') || text.includes('complexity') || text.includes('recursion')) {
         subjectHeading1 = '1. Data Structure Invariant / Algorithmic Property';
-        subjectBody1 = `**${cleanTopic}**: In computer science and data structures, define the primary storage invariant (e.g., LIFO, FIFO, contiguous addressing) and memory layout.`;
+        subjectBody1 = `**${cleanTopic}**: Define the primary storage invariant (e.g., LIFO, FIFO, contiguous addressing) and memory layout.`;
         subjectHeading2 = '2. Time Complexity & Operation';
         subjectBody2 = 'State the asymptotic time complexity ($O(1)$, $O(n)$, or $O(\\log n)$) for standard operations (push, pop, access, or traversal).';
         tip = 'State the storage invariant (LIFO/FIFO) and give the Big-O time complexity.';
@@ -2200,7 +2294,8 @@ export const modelAnswerService = {
 
       return {
         questionSummary: cleanTopic.length > 70 ? cleanTopic.slice(0, 67) + '...' : cleanTopic,
-        source: 'BEU Academic Standard Short Answer Scheme (2 Marks)',
+        source: 'Generated Academic Reference (Unverified Solution)',
+        confidence: 'GENERATED',
         marksDistribution: '1 Mark (Direct Academic Definition) + 1 Mark (Key Formula / Condition / Principle)',
         points: [
           { heading: subjectHeading1, body: subjectBody1 },
@@ -2238,12 +2333,13 @@ export const modelAnswerService = {
 
     return {
       questionSummary: cleanTopic.length > 70 ? cleanTopic.slice(0, 67) + '...' : cleanTopic,
-      source: `BEU Academic Standard Marking Solution Framework (${parsedMarksNum} Marks)`,
+      source: 'Generated Academic Reference (Unverified Solution)',
+      confidence: 'GENERATED',
       marksDistribution: marksBreakdown,
       points: [
         {
-          heading: `1. Foundational Principles & Academic Scope of ${cleanTopic.slice(0, 40)}`,
-          body: `Define the primary governing principles using ${domainLaw}. State all applicable operating regimes, boundary conditions, and engineering assumptions before proceeding to numerical or analytical derivation.`
+          heading: `1. Academic Scope & Governing Concepts (Unverified Outline)`,
+          body: `Core conceptual foundation using ${domainLaw}. In university descriptive examinations, state all applicable operating regimes, boundary conditions, and engineering assumptions before proceeding to numerical or analytical derivation.`
         },
         {
           heading: '2. Governing Formulation & Analytical Working',
