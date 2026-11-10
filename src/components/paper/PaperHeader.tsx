@@ -14,7 +14,7 @@ export const PaperHeader: React.FC<PaperHeaderProps> = ({ paper }) => {
   const revisedInfo = curriculumService.getRevisedSyllabusInfo(paper.exam_code);
 
   return (
-    <div className="paper-header-card bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 sm:p-8 text-center shadow-xs">
+    <div className="paper-header-card bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 sm:p-8 text-center shadow-xs max-w-full overflow-hidden">
       {/* Top FBi Platform Credit */}
       <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-bold bg-gradient-to-r from-indigo-500/10 via-purple-500/10 to-pink-500/10 text-indigo-700 dark:text-indigo-300 border border-indigo-500/30 shadow-2xs mb-3">
         <Sparkles className="w-3.5 h-3.5 text-amber-500 shrink-0" />

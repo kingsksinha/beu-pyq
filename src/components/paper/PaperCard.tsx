@@ -54,11 +54,11 @@ export const PaperCard: React.FC<PaperCardProps> = ({ paper, onBookmarkChange })
   };
 
   return (
-    <div className="group relative bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800/90 hover:border-slate-400 dark:hover:border-slate-600 rounded-2xl p-5 shadow-xs hover:shadow-sm transition-all flex flex-col justify-between">
+    <div className="group relative bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800/90 hover:border-slate-400 dark:hover:border-slate-600 rounded-2xl p-4 sm:p-5 shadow-xs hover:shadow-sm transition-all flex flex-col justify-between max-w-full overflow-hidden">
       <div>
         {/* Top Badges */}
-        <div className="flex items-center justify-between gap-2 mb-3">
-          <div className="flex flex-wrap items-center gap-1.5">
+        <div className="flex items-start justify-between gap-2 mb-2.5 sm:mb-3">
+          <div className="flex flex-wrap items-center gap-1.5 min-w-0 flex-1">
             <span className="px-2 py-0.5 text-[11px] font-semibold rounded-md bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/80">
               {formatBTechYear(paper.semester)}
             </span>
@@ -82,7 +82,7 @@ export const PaperCard: React.FC<PaperCardProps> = ({ paper, onBookmarkChange })
 
           <button
             onClick={handleBookmarkToggle}
-            className={`p-1.5 rounded-lg border transition ${
+            className={`p-1.5 rounded-lg border transition shrink-0 cursor-pointer ${
               isBookmarked
                 ? 'bg-amber-500/10 border-amber-500/30 text-amber-500'
                 : 'text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 border-transparent hover:bg-slate-100 dark:hover:bg-slate-800'
@@ -95,27 +95,27 @@ export const PaperCard: React.FC<PaperCardProps> = ({ paper, onBookmarkChange })
 
         {/* Paper Title */}
         <Link to={`/paper/${paper.id}`} onClick={recordHistory} className="block">
-          <h3 className="font-semibold text-sm sm:text-base text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition line-clamp-2">
+          <h3 className="font-semibold text-sm sm:text-base text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition line-clamp-2 break-words">
             {paper.subject_name}
           </h3>
         </Link>
 
         {/* Meta details */}
-        <div className="mt-3 grid grid-cols-2 gap-2 text-xs text-slate-500 dark:text-slate-400">
-          <div className="flex items-center gap-1.5">
+        <div className="mt-3 grid grid-cols-1 sm:grid-cols-2 gap-1.5 sm:gap-2 text-xs text-slate-500 dark:text-slate-400">
+          <div className="flex items-center gap-1.5 min-w-0">
             <Clock className="w-3.5 h-3.5 text-slate-400 shrink-0" />
-            <span>{paper.duration}</span>
+            <span className="truncate">{paper.duration}</span>
           </div>
-          <div className="flex items-center gap-1.5">
+          <div className="flex items-center gap-1.5 min-w-0">
             <FileText className="w-3.5 h-3.5 text-slate-400 shrink-0" />
-            <span>Full Marks: {paper.full_marks}</span>
+            <span className="truncate">Full Marks: {paper.full_marks}</span>
           </div>
-          <div className="flex items-center gap-1.5">
+          <div className="flex items-center gap-1.5 min-w-0 sm:col-span-2">
             <HelpCircle className="w-3.5 h-3.5 text-slate-400 shrink-0" />
-            <span>{paper.question_count} Questions ({paper.total_subquestions} items)</span>
+            <span className="truncate">{paper.question_count} Questions ({paper.total_subquestions} items)</span>
           </div>
           {paper.max_freq > 1 && (
-            <div>
+            <div className="sm:col-span-2">
               <StarFrequency freq={paper.max_freq} size="sm" />
             </div>
           )}
@@ -123,7 +123,7 @@ export const PaperCard: React.FC<PaperCardProps> = ({ paper, onBookmarkChange })
       </div>
 
       {/* Action Footer */}
-      <div className="mt-5 pt-3 border-t border-slate-100 dark:border-slate-800/80 flex items-center justify-between gap-2">
+      <div className="mt-4 sm:mt-5 pt-3 border-t border-slate-100 dark:border-slate-800/80 flex items-center justify-between gap-2">
         <Link
           to={`/paper/${paper.id}`}
           onClick={recordHistory}

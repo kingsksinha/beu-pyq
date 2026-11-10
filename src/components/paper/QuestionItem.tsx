@@ -32,19 +32,21 @@ export const QuestionItem: React.FC<QuestionItemProps> = ({
   return (
     <div className="question-block bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 sm:p-7 shadow-xs space-y-4 max-w-full overflow-hidden">
       {/* Question Title & Marks */}
-      <div className="flex items-start justify-between gap-4 pb-3 border-b border-slate-100 dark:border-slate-800/80">
-        <div className="flex-1">
-          <h3 className="font-bold text-sm sm:text-base text-slate-900 dark:text-white flex items-start gap-2">
+      <div className="flex items-start justify-between gap-2.5 sm:gap-4 pb-3 border-b border-slate-100 dark:border-slate-800/80">
+        <div className="flex-1 min-w-0">
+          <h3 className="font-bold text-sm sm:text-base text-slate-900 dark:text-white flex items-start gap-2 break-words">
             <span className="text-indigo-600 dark:text-indigo-400 font-bold font-mono shrink-0">Q.{question.number}.</span>
-            {cleanTitle ? (
-              <MathText text={cleanTitle} inline />
-            ) : (
-              <MathText text={question.title} inline />
-            )}
+            <div className="flex-1 min-w-0 break-words">
+              {cleanTitle ? (
+                <MathText text={cleanTitle} inline className="break-words" />
+              ) : (
+                <MathText text={question.title} inline className="break-words" />
+              )}
+            </div>
           </h3>
         </div>
         {question.marks && (
-          <span className="px-2.5 py-1 text-xs font-bold rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-200 border border-slate-200 dark:border-slate-700 shrink-0 font-mono">
+          <span className="px-2 sm:px-2.5 py-1 text-xs font-bold rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-200 border border-slate-200 dark:border-slate-700 shrink-0 font-mono">
             {question.marks}
           </span>
         )}

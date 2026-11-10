@@ -44,14 +44,14 @@ export const FrequencyLegendModal: React.FC<FrequencyLegendModalProps> = ({ isOp
 
           <div className="space-y-2">
             {rules.map((r, i) => (
-              <div key={i} className="flex items-center justify-between p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-950/40">
+              <div key={i} className="flex flex-col sm:flex-row sm:items-center justify-between gap-1.5 sm:gap-3 p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-950/40">
                 <div className="flex items-center gap-2.5">
                   <span className={`px-2 py-0.5 rounded-full text-xs font-semibold border font-mono ${r.color}`}>
                     {r.stars}
                   </span>
                   <span className="text-xs font-semibold text-slate-800 dark:text-slate-200">{r.label}</span>
                 </div>
-                <p className="text-[11px] text-slate-500 dark:text-slate-400 max-w-[220px] text-right">
+                <p className="text-[11px] text-slate-500 dark:text-slate-400 sm:max-w-[220px] text-left sm:text-right">
                   {r.desc}
                 </p>
               </div>

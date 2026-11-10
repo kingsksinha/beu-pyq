@@ -346,27 +346,27 @@ export const PracticeModePage: React.FC = () => {
           {/* Submit Practice & View Score Button */}
           <button
             onClick={handleSubmitAndShowScore}
-            className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-500 text-white shadow-md shadow-indigo-500/20 transition cursor-pointer"
+            className="inline-flex items-center gap-1.5 px-3 sm:px-4 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-500 text-white shadow-md shadow-indigo-500/20 transition cursor-pointer shrink-0"
           >
             <Trophy className="w-3.5 h-3.5" />
-            <span>Submit & View Score</span>
+            <span><span className="hidden sm:inline">Submit & </span>View Score</span>
           </button>
         </div>
       </div>
 
       {/* Progress & Live Score Indicator Bar */}
-      <div className="flex items-center justify-between text-xs font-semibold text-slate-500 dark:text-slate-400">
-        <div className="flex items-center gap-3">
-          <span>Question {safeIndex + 1} of {activeItems.length}</span>
+      <div className="flex flex-wrap items-center justify-between gap-y-1 gap-x-2 text-xs font-semibold text-slate-500 dark:text-slate-400">
+        <div className="flex items-center gap-2 sm:gap-3">
+          <span>Q.{safeIndex + 1} of {activeItems.length}</span>
           <span className="text-slate-300 dark:text-slate-700">·</span>
           <span className="text-slate-800 dark:text-slate-200 font-mono font-bold">
-            Score: {scoreStats.totalMarksEarned} / {scoreStats.totalPossibleMarks} Marks
+            Score: {scoreStats.totalMarksEarned}/{scoreStats.totalPossibleMarks}M
           </span>
         </div>
         <div className="flex items-center gap-2">
-          <span>{scoreStats.totalAttempted} Attempted</span>
+          <span>{scoreStats.totalAttempted} Done</span>
           <span className="text-slate-300 dark:text-slate-700">·</span>
-          <span className="font-mono">{progressPercent}% Done</span>
+          <span className="font-mono">{progressPercent}%</span>
         </div>
       </div>
 
@@ -378,7 +378,7 @@ export const PracticeModePage: React.FC = () => {
       </div>
 
       {/* Main Question Card (Clean Slate Midnight Theme) */}
-      <div className="bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 sm:p-8 shadow-xs space-y-6">
+      <div className="bg-white dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 sm:p-8 shadow-xs space-y-5 sm:space-y-6 max-w-full overflow-hidden">
         {/* Question Header & Star Frequency */}
         <div className="flex items-start justify-between gap-4 pb-4 border-b border-slate-100 dark:border-slate-800/80">
           <div>
@@ -513,15 +513,21 @@ export const PracticeModePage: React.FC = () => {
         )}
 
         {/* Official Model Answer & Marking Scheme */}
-        <div className="pt-4 mt-2 border-t border-slate-100 dark:border-slate-800/80">
-          <ModelAnswerCard
-            questionText={currentItem.sub.text}
-            marks={currentItem.marks || (currentItem.sub.options?.length ? '2 Marks' : '7 Marks')}
-            options={currentItem.sub.options}
-            subNumber={currentItem.sub.subNumber}
-            selectedOptionIndex={userAnswers[currentItem.id] !== undefined ? userAnswers[currentItem.id] : null}
-            isAttempted={isSolved}
-          />
+        <div className="pt-4 mt-2 border-t border-slate-100 dark:border-slate-800/80 w-full min-w-0">
+          {(() => {
+            const isQ1 = currentItem.questionNumber === 1 || !!(currentItem.marks && /2\s*x|\[2|\b14\b/i.test(currentItem.marks));
+            const resolvedMarks = isQ1 ? '2 Marks' : (currentItem.marks || (currentItem.sub.options?.length ? '2 Marks' : '7 Marks'));
+            return (
+              <ModelAnswerCard
+                questionText={currentItem.sub.text}
+                marks={resolvedMarks}
+                options={currentItem.sub.options}
+                subNumber={currentItem.sub.subNumber}
+                selectedOptionIndex={userAnswers[currentItem.id] !== undefined ? userAnswers[currentItem.id] : null}
+                isAttempted={isSolved}
+              />
+            );
+          })()}
         </div>
       </div>
 

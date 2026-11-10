@@ -139,40 +139,41 @@ export const PaperDetailPage: React.FC = () => {
             <span>Back</span>
           </button>
 
-          <div className="flex flex-wrap items-center gap-2">
+          <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
             {/* Practice Mode Button */}
             <Link
               to={`/practice/${paper.id}`}
-              className="inline-flex items-center gap-1.5 px-3 sm:px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-indigo-600 hover:bg-indigo-500 text-white shadow-xs transition"
+              className="inline-flex items-center gap-1.5 px-2.5 sm:px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-indigo-600 hover:bg-indigo-500 text-white shadow-xs transition"
             >
-              <PlayCircle className="w-4 h-4" />
+              <PlayCircle className="w-4 h-4 shrink-0" />
               <span>Practice Mode</span>
             </Link>
 
             {/* Download Offline Paper Button */}
             <button
               onClick={() => downloadPaperOfflineHtml(paper)}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-indigo-50 dark:bg-indigo-950/60 hover:bg-indigo-100 dark:hover:bg-indigo-900/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800 transition cursor-pointer"
+              className="inline-flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl text-xs font-semibold bg-indigo-50 dark:bg-indigo-950/60 hover:bg-indigo-100 dark:hover:bg-indigo-900/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800 transition cursor-pointer"
               title="Download Complete Paper (Offline HTML & Printable)"
             >
-              <Download className="w-3.5 h-3.5" />
+              <Download className="w-3.5 h-3.5 shrink-0" />
               <span>Download</span>
             </button>
 
             {/* Print / Download PDF */}
             <button
               onClick={handlePrint}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 border border-slate-200 dark:border-slate-700 transition cursor-pointer"
+              className="inline-flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 border border-slate-200 dark:border-slate-700 transition cursor-pointer"
               title="Print or Save as A4 PDF"
             >
-              <Printer className="w-3.5 h-3.5" />
-              <span>Print / A4 PDF</span>
+              <Printer className="w-3.5 h-3.5 shrink-0" />
+              <span className="hidden sm:inline">Print / A4 PDF</span>
+              <span className="sm:hidden">Print</span>
             </button>
 
             {/* Bookmark button */}
             <button
               onClick={handleBookmarkToggle}
-              className={`p-2 rounded-xl border transition ${
+              className={`p-1.5 sm:p-2 rounded-xl border transition cursor-pointer ${
                 isBookmarked
                   ? 'bg-amber-500/10 border-amber-500/30 text-amber-500'
                   : 'bg-white dark:bg-slate-800 border-slate-200 dark:border-slate-700 text-slate-500 hover:text-slate-800 dark:hover:text-slate-200'
@@ -185,7 +186,7 @@ export const PaperDetailPage: React.FC = () => {
             {/* Copy shareable link */}
             <button
               onClick={handleCopyLink}
-              className="p-2 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 transition"
+              className="p-1.5 sm:p-2 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 transition cursor-pointer"
               title="Copy shareable link"
             >
               {copied ? <Check className="w-4 h-4 text-emerald-500" /> : <Copy className="w-4 h-4" />}

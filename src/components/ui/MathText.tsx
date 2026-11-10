@@ -74,7 +74,7 @@ export const MathText: React.FC<MathTextProps> = ({ text, className = '', inline
   const Tag = inline ? 'span' : 'div';
 
   return (
-    <Tag className={`leading-relaxed text-slate-800 dark:text-slate-200 ${className}`}>
+    <Tag className={`leading-relaxed text-slate-800 dark:text-slate-200 break-words ${className}`}>
       {renderedContent}
     </Tag>
   );
