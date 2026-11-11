@@ -175,10 +175,17 @@ const SubQuestionRow: React.FC<SubQuestionRowProps> = ({
               className="text-sm sm:text-[15px] text-slate-800 dark:text-slate-100 leading-relaxed print:text-black break-words"
             />
           </div>
+          <span className="hidden print:inline-block font-mono text-xs font-bold text-black shrink-0">
+            [{resolvedMarks}]
+          </span>
         </div>
 
         {/* Right / Top Badges & Actions */}
         <div className="flex items-center justify-end sm:justify-start gap-1.5 shrink-0 self-end sm:self-start pl-6 sm:pl-0 print:hidden">
+          <span className="px-1.5 py-0.5 text-[11px] font-mono font-medium rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700">
+            [{resolvedMarks}]
+          </span>
+
           {sub.freq > 1 && (
             <StarFrequency freq={sub.freq} stars={sub.stars} size="sm" />
           )}

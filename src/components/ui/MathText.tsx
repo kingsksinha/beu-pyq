@@ -29,18 +29,25 @@ const renderKatexSafe = (math: string, displayMode: boolean): string => {
   } catch {
     // If strict fails, normalize common quirks:
     let fixed = math;
-    // Fix unescaped isolated & outside matrix/cases/array environments
+    // 1. Escape unescaped % (in LaTeX, % comments out the rest of the line/macro, e.g. \text{wt%})
+    fixed = fixed.replace(/(?<!\\)%/g, '\\%');
+    // 2. Fix unescaped isolated & outside matrix/cases/array environments
     if (!fixed.includes('\\begin{')) {
       fixed = fixed.replace(/(?<!\\)&/g, '\\&');
     }
-    // Fix double-escaped or missing braces in superscripts like ^\circ -> ^{\circ}
+    // 3. Fix double-escaped or missing braces in superscripts like ^\circ -> ^{\circ}
     fixed = fixed.replace(/\^\\([a-zA-Z]+)/g, '^{\\$1}');
+    // 4. Strip nested delimiters if accidentally included inside math mode
+    if (fixed.includes('\\(') || fixed.includes('\\)')) {
+      fixed = fixed.replace(/\\\(|\\\)/g, '');
+    }
 
     try {
       return katex.renderToString(fixed, { displayMode, throwOnError: true });
     } catch {
-      // Fallback with throwOnError: false
-      return katex.renderToString(fixed, { displayMode, throwOnError: false });
+      // Fallback with throwOnError: false, neutralizing any harsh red error styling
+      const res = katex.renderToString(fixed, { displayMode, throwOnError: false });
+      return res.replace(/style="color:#cc0000"/g, 'class="font-mono text-xs opacity-90"');
     }
   }
 };

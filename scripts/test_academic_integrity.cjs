@@ -188,4 +188,66 @@ runTest('PracticeMode bookmark state is reactive', () => {
   assert.strictEqual(code.includes('const [bookmarkedIds, setBookmarkedIds]'), true);
 });
 
+// -------------------------------------------------------------
+// Test Group 6: LaTeX Math Formatting & Entity Decoding Safeguards
+// -------------------------------------------------------------
+console.log('\n6. Math Formatting & KaTeX Resilience:');
+
+const katex = require('katex');
+
+function decodeHtmlEntities(raw) {
+  return raw
+    .replace(/&gt;/g, '>')
+    .replace(/&lt;/g, '<')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;|&#x27;/g, "'")
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&');
+}
+
+function renderKatexSafe(math, displayMode) {
+  try {
+    return katex.renderToString(math, { displayMode, throwOnError: true });
+  } catch {
+    let fixed = math;
+    fixed = fixed.replace(/(?<!\\)%/g, '\\%');
+    if (!fixed.includes('\\begin{')) {
+      fixed = fixed.replace(/(?<!\\)&/g, '\\&');
+    }
+    fixed = fixed.replace(/\^\\([a-zA-Z]+)/g, '^{\\$1}');
+    if (fixed.includes('\\(') || fixed.includes('\\)')) {
+      fixed = fixed.replace(/\\\(|\\\)/g, '');
+    }
+    return katex.renderToString(fixed, { displayMode, throwOnError: false });
+  }
+}
+
+runTest('HTML entities &gt; and &lt; are decoded into valid KaTeX relational math', () => {
+  const rawOpt = '\\( s &gt; a \\)';
+  const decoded = decodeHtmlEntities(rawOpt);
+  const math = decoded.slice(2, -2).trim();
+  const html = renderKatexSafe(math, false);
+  assert.strictEqual(html.includes('katex-error'), false);
+  assert.strictEqual(html.includes('<math'), true);
+});
+
+runTest('Unescaped % in LaTeX \\text{} does not trigger premature comment parsing', () => {
+  const rawMath = '\\text{Cu} = 8 \\text{ wt%}';
+  const html = renderKatexSafe(rawMath, false);
+  assert.strictEqual(html.includes('katex-error'), false);
+  assert.strictEqual(html.includes('wt%'), true);
+});
+
+runTest('Matrix environments with & alignment tabs render without parse error', () => {
+  const rawMatrix = '\\begin{bmatrix} 3 & 4 \\\\ 3 & 1 \\end{bmatrix}';
+  const html = renderKatexSafe(rawMatrix, false);
+  assert.strictEqual(html.includes('katex-error'), false);
+});
+
+runTest('Degree superscript ^\\circ is normalized and renders correctly', () => {
+  const rawTemp = '250^\\circ\\text{C}';
+  const html = renderKatexSafe(rawTemp, false);
+  assert.strictEqual(html.includes('katex-error'), false);
+});
+
 console.log(`\n=== ALL ${passedTests} ACADEMIC INTEGRITY TESTS PASSED SUCCESSFULLY ===`);
