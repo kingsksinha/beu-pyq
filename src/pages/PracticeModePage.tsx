@@ -382,11 +382,22 @@ export const PracticeModePage: React.FC = () => {
               <span className="px-2.5 py-0.5 text-xs font-bold rounded-md bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 font-mono border border-indigo-200 dark:border-indigo-800/80">
                 Q.{currentItem.questionNumber} ({currentItem.sub.subNumber})
               </span>
-              {currentItem.marks && (
-                <span className="px-2 py-0.5 text-xs font-mono font-medium rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700">
-                  {currentItem.marks}
-                </span>
-              )}
+              {(() => {
+                const accurateMarks = resolveSubQuestionMarks(
+                  currentItem.questionNumber,
+                  currentItem.subIndex,
+                  currentItem.totalSubQuestions,
+                  currentItem.sub.marks,
+                  currentItem.marks,
+                  isMcq,
+                  currentItem.questionTitle
+                );
+                return (
+                  <span className="px-2 py-0.5 text-xs font-mono font-medium rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700">
+                    [{accurateMarks}]
+                  </span>
+                );
+              })()}
               {currentItem.sub.freq > 1 && (
                 <StarFrequency freq={currentItem.sub.freq} stars={currentItem.sub.stars} showLabel size="sm" />
               )}

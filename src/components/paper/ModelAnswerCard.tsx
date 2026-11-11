@@ -223,13 +223,13 @@ export const ModelAnswerCard: React.FC<ModelAnswerCardProps> = ({
                       ? userLetter === correctLetter
                       : (modelAnswer.correctOptionText || '').toLowerCase().includes(options[selectedOptionIndex].toLowerCase().slice(0, 15));
                     return isUserCorrect ? (
-                      <span className="text-emerald-700 dark:text-emerald-300 flex items-center gap-1.5">
-                        <CheckCircle className="w-3.5 h-3.5 text-emerald-500" />
-                        <span>Your selection: <strong>({userLetter}) {options[selectedOptionIndex]}</strong> is correct! (+2 Marks)</span>
+                      <span className="text-emerald-700 dark:text-emerald-300 flex items-center gap-1.5 flex-wrap">
+                        <CheckCircle className="w-3.5 h-3.5 text-emerald-500 shrink-0" />
+                        <span>Your selection: <strong>({userLetter})</strong> <MathText text={options[selectedOptionIndex]} inline /> is correct! (+2 Marks)</span>
                       </span>
                     ) : (
-                      <span className="text-amber-700 dark:text-amber-300 flex items-center gap-1.5">
-                        <span>Your selection was <strong>({userLetter})</strong>. Verified answer is <strong>{correctLetter ? `(${correctLetter})` : modelAnswer.correctOptionText}</strong>.</span>
+                      <span className="text-amber-700 dark:text-amber-300 flex items-center gap-1.5 flex-wrap">
+                        <span>Your selection was <strong>({userLetter})</strong>. Verified answer is <strong>{correctLetter ? `(${correctLetter})` : ''}</strong> {modelAnswer.correctOptionText && !correctLetter && <MathText text={modelAnswer.correctOptionText} inline />}.</span>
                       </span>
                     );
                   })()}
