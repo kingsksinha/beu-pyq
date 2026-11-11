@@ -214,4 +214,3 @@ vercel --prod
 - **Architect & Lead Developer**: **FBi**
 - **Repository**: [https://github.com/kingsksinha/beu-pyq](https://github.com/kingsksinha/beu-pyq)
 - Dedicated with ❤️ to the engineering students of **Bihar Engineering University (BEU)** across all 92 branches and affiliated engineering colleges.
-- Inspired by the original repository [`mrityunjaykr191-cell/beu_pyqs`](https://github.com/mrityunjaykr191-cell/beu_pyqs).
