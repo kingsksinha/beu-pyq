@@ -13,6 +13,7 @@
     "test": "node scripts/test_academic_integrity.cjs"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "clsx": "^2.1.1",
     "katex": "^0.19.1",
     "lucide-react": "^1.70.0",
